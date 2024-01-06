@@ -1,23 +1,49 @@
-import logo from './logo.svg';
-import './App.css';
+import logo from "./logo.svg";
+import "./App.css";
+import { useTranslation } from "react-i18next";
+import { useEffect } from "react";
+import Hero from "./sections/Hero";
+import ReactFullpage from "@fullpage/react-fullpage";
+import Intro from "./sections/Intro";
+import Gallery from "./sections/Gallery";
+import React, { useContext } from "react";
+import { AppContext, AppContextProvider } from "./context/AppContext";
+import Closing from "./sections/Closing";
 
 function App() {
+  const { t, i18n, ready } = useTranslation();
+
+  useEffect(() => {
+    i18n.changeLanguage("en");
+  }, []);
+
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+      <AppContextProvider>
+        <ReactFullpage
+          scrollingSpeed={1000} /* Options here */
+          anchors={["home", "intro", "gallery"]}
+          render={({ state, fullpageApi }) => {
+            return (
+              <ReactFullpage.Wrapper>
+                <Hero />
+                <Intro />
+                <Gallery />
+                <Closing />
+                <div className="section">
+                  <p>Section 1 (welcome to fullpage.js)</p>
+                  <button onClick={() => fullpageApi.moveSectionDown()}>
+                    Click me to move down
+                  </button>
+                </div>
+                <div className="section">
+                  <p>Section 2</p>
+                </div>
+              </ReactFullpage.Wrapper>
+            );
+          }}
+        />
+      </AppContextProvider>
     </div>
   );
 }
