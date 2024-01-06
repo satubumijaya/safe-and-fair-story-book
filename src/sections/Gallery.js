@@ -8,7 +8,6 @@ export default function Gallery() {
     return (
       <div className="relative grid w-full grid-cols-5 gap-1 p-1">
         {[...Array(20)].map((x, i) => {
-          const randstr = Math.random().toString(36).substring(2, 7);
           if (i + 1 === 18) {
             return (
               <div
@@ -46,7 +45,7 @@ export default function Gallery() {
               <div
                 className="bg bg-neutral-200 pt-[66%]"
                 style={{
-                  backgroundImage: `url(https://i.pravatar.cc/300?u=${randstr})`,
+                  backgroundImage: `url(https://i.pravatar.cc/300?u=${i})`,
                 }}
               ></div>
             </div>
