@@ -8,6 +8,7 @@ import logoUnEu from "../images/logos/un-eu.png";
 import logoUn from "../images/logos/un.png";
 import logoEu from "../images/logos/eu.png";
 import ScrollArrow from "../components/ScrollArrow";
+import { Fade, Slide } from "react-awesome-reveal";
 
 export default function Hero() {
   const { t, i18n, ready } = useTranslation();
@@ -136,16 +137,24 @@ export default function Hero() {
         <div className="flex items-stretch overflow-hidden bg-main text-white">
           <div className="flex items-center">
             <div className="max-w-xl py-14 pl-16 text-left">
-              <div className="max-w-xl pr-10">
-                <h1 className="mb-2">{t("hero.heading")}</h1>
-                <p className="text-xl font-medium">{t("hero.subheading")}</p>
-              </div>
-              <div className="mt-8 flex items-center gap-3">
-                <div className="text-xl uppercase italic tracking-widest">
-                  {t("hero.subheading-2")}
+              <Fade cascade direction="up" damping={0.3}>
+                <div className="max-w-xl pr-10">
+                  <h1 className="mb-2">{t("hero.heading")}</h1>
                 </div>
-                <div className=" border-top-white flex-grow border-t"></div>
-              </div>
+                <div className="max-w-xl pr-10">
+                  <p className="text-xl font-medium">{t("hero.subheading")}</p>
+                </div>
+                <div className="mt-8 flex items-center gap-3">
+                  <div className="text-xl uppercase italic tracking-widest">
+                    {t("hero.subheading-2")}
+                  </div>
+                  <div className="flex-grow">
+                    <Fade direction="right" delay={1200}>
+                      <div className=" border-top-white flex-grow border-t"></div>
+                    </Fade>
+                  </div>
+                </div>
+              </Fade>
             </div>
           </div>
           <div className="relative flex-grow">

@@ -2,55 +2,58 @@ import React from "react";
 import concave from "../images/concave.png";
 import convex from "../images/convex.png";
 import ScrollArrow from "../components/ScrollArrow";
+import { Fade, Slide } from "react-awesome-reveal";
 
 export default function Gallery() {
   const renderGalleryImages = () => {
     return (
       <div className="relative grid w-full grid-cols-5 gap-1 p-1">
-        {[...Array(20)].map((x, i) => {
-          if (i + 1 === 18) {
-            return (
-              <div
-                className="group relative w-full cursor-pointer bg-neutral-500 transition-colors duration-500 hover:bg-main-dark"
-                onClick={() => window.fullpage_api.moveTo("home")}
-              >
-                <div className="flex h-full flex-col">
-                  <div className="m-auto">
-                    <div className="font-semibold tracking-widest text-white">
-                      HOME
-                    </div>
-                    <div className="flex flex-col">
-                      <div className="mx-auto h-0 w-0 border-8 border-solid border-transparent border-b-white"></div>
-                      <div className=" h-[1px] w-full bg-white"></div>
+        <Fade cascade damping="0.2" duration={600}>
+          {[...Array(20)].map((x, i) => {
+            if (i + 1 === 18) {
+              return (
+                <div
+                  className="group relative h-full w-full cursor-pointer bg-neutral-500 transition-colors duration-500 hover:bg-main-dark"
+                  onClick={() => window.fullpage_api.moveTo("home")}
+                >
+                  <div className="flex h-full flex-col">
+                    <div className="m-auto">
+                      <div className="font-semibold tracking-widest text-white">
+                        HOME
+                      </div>
+                      <div className="flex flex-col">
+                        <div className="mx-auto h-0 w-0 border-8 border-solid border-transparent border-b-white"></div>
+                        <div className=" h-[1px] w-full bg-white"></div>
+                      </div>
                     </div>
                   </div>
                 </div>
+              );
+            }
+            return (
+              <div className="group relative w-full cursor-pointer">
+                <div className="absolute inset-0 bg-main-dark bg-opacity-70 text-white opacity-0 transition-all duration-500 group-hover:opacity-100">
+                  <div className="flex h-full flex-col">
+                    <div className="m-auto translate-y-2 text-xs font-semibold">
+                      <div className="px-1">VIEW</div>
+                      <div className="mt-[2px] h-[1px] w-full bg-white"></div>
+                      <div className="mx-auto h-0 w-0 border-4 border-solid border-transparent border-t-white"></div>
+                    </div>
+                    <div className="bg-black bg-opacity-50 px-2 py-2 text-xs">
+                      Lorem ipsum
+                    </div>
+                  </div>
+                </div>
+                <div
+                  className="bg bg-neutral-200 pt-[66%]"
+                  style={{
+                    backgroundImage: `url(https://i.pravatar.cc/300?u=${i})`,
+                  }}
+                ></div>
               </div>
             );
-          }
-          return (
-            <div className="group relative w-full cursor-pointer">
-              <div className="absolute inset-0 bg-main-dark bg-opacity-70 text-white opacity-0 transition-all duration-500 group-hover:opacity-100">
-                <div className="flex h-full flex-col">
-                  <div className="m-auto translate-y-2 text-xs font-semibold">
-                    <div className="px-1">VIEW</div>
-                    <div className="mt-[2px] h-[1px] w-full bg-white"></div>
-                    <div className="mx-auto h-0 w-0 border-4 border-solid border-transparent border-t-white"></div>
-                  </div>
-                  <div className="bg-black bg-opacity-50 px-2 py-2 text-xs">
-                    Lorem ipsum
-                  </div>
-                </div>
-              </div>
-              <div
-                className="bg bg-neutral-200 pt-[66%]"
-                style={{
-                  backgroundImage: `url(https://i.pravatar.cc/300?u=${i})`,
-                }}
-              ></div>
-            </div>
-          );
-        })}
+          })}
+        </Fade>
       </div>
     );
   };

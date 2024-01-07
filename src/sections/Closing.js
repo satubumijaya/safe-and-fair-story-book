@@ -18,7 +18,7 @@ export default function Closing() {
         </div>
 
         <div className="relative flex items-center gap-32">
-          <div className="flex-1 py-16 pl-16 text-left">
+          <div className="flex-1 py-16 pl-16 pt-24 text-left">
             <div className="mb-10 font-bold">
               <h3>Aliquam Nunc</h3>
             </div>
