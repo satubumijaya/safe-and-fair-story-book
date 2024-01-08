@@ -9,6 +9,7 @@ import Gallery from "./sections/Gallery";
 import React, { useContext } from "react";
 import { AppContext, AppContextProvider } from "./context/AppContext";
 import Closing from "./sections/Closing";
+import GalleryModal from "components/GalleryModal";
 
 function App() {
   const { t, i18n, ready } = useTranslation();
@@ -23,6 +24,7 @@ function App() {
         <ReactFullpage
           scrollingSpeed={1000} /* Options here */
           anchors={["home", "intro", "gallery"]}
+          normalScrollElements=".modal"
           render={({ state, fullpageApi }) => {
             return (
               <ReactFullpage.Wrapper>
@@ -34,6 +36,7 @@ function App() {
             );
           }}
         />
+        <GalleryModal />
       </AppContextProvider>
     </div>
   );

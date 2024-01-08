@@ -1,10 +1,13 @@
-import React from "react";
+import React, { useContext } from "react";
 import concave from "../images/concave.png";
 import convex from "../images/convex.png";
 import ScrollArrow from "../components/ScrollArrow";
 import { Fade, Slide } from "react-awesome-reveal";
+import { AppContext } from "context/AppContext";
 
 export default function Gallery() {
+  const { setGalleryModalIsOpen } = useContext(AppContext);
+
   const renderGalleryImages = () => {
     return (
       <div className="relative grid w-full grid-cols-5 gap-1 p-1">
@@ -31,7 +34,10 @@ export default function Gallery() {
               );
             }
             return (
-              <div className="group relative w-full cursor-pointer">
+              <div
+                className="group relative w-full cursor-pointer"
+                onClick={() => setGalleryModalIsOpen(true)}
+              >
                 <div className="absolute inset-0 bg-main-dark bg-opacity-70 text-white opacity-0 transition-all duration-500 group-hover:opacity-100">
                   <div className="flex h-full flex-col">
                     <div className="m-auto translate-y-2 text-xs font-semibold">
@@ -61,7 +67,7 @@ export default function Gallery() {
   return (
     <div className="section">
       <div className="relative z-0 overflow-hidden bg-main">
-        <div className=" relative z-10 mx-auto h-full min-h-screen w-full max-w-screen-lg bg-white py-16">
+        <div className=" relative z-10 mx-auto h-full min-h-screen w-full max-w-[920px] bg-white py-16">
           <div className="flex  w-full content-between items-end pb-16">
             <div className="px-10 text-left">
               <h2 className="h1 whitespace-nowrap">Safe and Fair</h2>

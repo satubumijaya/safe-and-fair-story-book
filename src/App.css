@@ -1,3 +1,6 @@
+body {
+  @apply text-neutral-700;
+}
 .App {
   text-align: center;
 }
@@ -28,15 +31,10 @@
   color: #61dafb;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
-}
-
 .fp-watermark {
   display: none;
+}
+
+blockquote {
+  @apply my-6 ml-6 border-l border-neutral-700 pl-6 text-xl italic text-main-dark;
 }

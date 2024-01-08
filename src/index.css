@@ -2,9 +2,12 @@
 @tailwind components;
 @tailwind utilities;
 
+@import "css/slick.css";
+@import "css/slick-theme.css";
+
 body {
   margin: 0;
-  font-family: 'Work Sans', sans-serif;
+  font-family: "Work Sans", sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
@@ -29,6 +32,6 @@ p {
     @apply mb-0;
   }
   a {
-    @apply text-main hover:text-main-dark transition-colors;
+    @apply text-main transition-colors hover:text-main-dark;
   }
 }

@@ -9,7 +9,7 @@ export default function Intro() {
   const { t, i18n, ready } = useTranslation();
   return (
     <div className="section">
-      <div className="relative flex">
+      <div className="relative flex min-h-screen overflow-x-hidden">
         <div className="flex-grow pb-12">
           <div className="py-14 pl-16 text-left">
             <Fade cascade>
@@ -95,7 +95,6 @@ export default function Intro() {
               {i18n.language == "en" && (
                 <div>
                   <p>
-                    {" "}
                     Maecenas sit amet mi ut mi vestibulum finibus.Proin tempor
                     est consectetur, aliquet ipsum scelerisque, tempor quam.Nunc
                     ipsum nulla, commodo tempor laoreet ut, scelerisque eu
