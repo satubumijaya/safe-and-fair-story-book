@@ -5,13 +5,14 @@ import logoSpotlight from "../images/logos/spotlight.png";
 import logoUnEu from "../images/logos/un-eu.png";
 import logoUn from "../images/logos/un.png";
 import logoEu from "../images/logos/eu.png";
+import SafTitle from "components/SafTitle";
 
 export default function Closing() {
   const { t, i18n, ready } = useTranslation();
 
   return (
     <div className="section">
-      <div className="min-h-screen text-left ">
+      <div className="min-h-screen overflow-x-hidden text-left">
         <div className="flex h-10 bg-main">
           <div className="mx-16 h-14 flex-1 bg-main-dark"></div>
           <div className="flex-1"></div>
@@ -55,7 +56,8 @@ export default function Closing() {
           </div>
 
           <div className="flex-1 py-16">
-            <div className="max-w-lg pr-10">
+            <SafTitle className="w-full" color="dark" maxWidth={340} />
+            {/* <div className="max-w-lg pr-10">
               <h2 className="mb-2">{t("intro.heading")}</h2>
               <p className="text-lg font-medium">{t("intro.subheading")}</p>
             </div>
@@ -64,7 +66,7 @@ export default function Closing() {
                 {t("intro.subheading-2")}
               </div>
               <div className=" flex-grow border-t border-neutral-500"></div>
-            </div>
+            </div> */}
 
             <div className="mx-auto mb-12 mt-20 pr-16">
               <div className="flex items-end justify-center">
@@ -84,7 +86,7 @@ export default function Closing() {
           </div>
         </div>
 
-        <div className="mx-auto mb-16 flex max-w-screen-md items-end gap-20">
+        <div className="mx-auto mb-24 flex max-w-screen-md items-end gap-20">
           <div className="flex-1">
             <div
               className="cursor-pointer text-right font-semibold uppercase"

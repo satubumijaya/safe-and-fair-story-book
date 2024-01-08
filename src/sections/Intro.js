@@ -4,6 +4,7 @@ import concave from "../images/concave.png";
 import introImg from "../images/intro.jpg";
 import ScrollArrow from "../components/ScrollArrow";
 import { Fade } from "react-awesome-reveal";
+import SafTitle from "components/SafTitle";
 
 export default function Intro() {
   const { t, i18n, ready } = useTranslation();
@@ -11,25 +12,9 @@ export default function Intro() {
     <div className="section">
       <div className="relative flex min-h-screen overflow-x-hidden">
         <div className="flex-grow pb-12">
-          <div className="py-14 pl-16 text-left">
-            <Fade cascade damping={0.2}>
-              <div className="max-w-lg pr-10">
-                <h2 className="mb-2">{t("intro.heading")}</h2>
-              </div>
-              <div className="max-w-lg pr-10">
-                <p className="text-lg font-medium">{t("intro.subheading")}</p>
-              </div>
-              <div className="mt-8 flex items-center gap-3">
-                <div className="text-lg uppercase italic tracking-widest">
-                  {t("intro.subheading-2")}
-                </div>
-                <div className="flex-grow">
-                  <Fade direction="right" delay={900}>
-                    <div className=" flex-grow border-t border-neutral-500"></div>
-                  </Fade>
-                </div>
-              </div>
-
+          <div className="py-16 pl-16 text-left">
+            <SafTitle color="dark" maxWidth={340} />
+            <Fade cascade delay={900}>
               <div className="mr-14 mt-14 max-w-prose">
                 {i18n.language === "en" && (
                   <div>

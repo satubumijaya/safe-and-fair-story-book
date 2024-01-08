@@ -4,16 +4,23 @@ import convex from "../images/convex.png";
 import ScrollArrow from "../components/ScrollArrow";
 import { Fade, Slide } from "react-awesome-reveal";
 import { AppContext } from "context/AppContext";
+import SafTitleOnly from "components/SafTitleOnly";
 
 export default function Gallery() {
-  const { setGalleryModalIsOpen } = useContext(AppContext);
-
+  const { setGalleryModalIsOpen, stories, setCurrentStory } =
+    useContext(AppContext);
+  const homeIndex = 17;
+  const compiledStories = [
+    ...stories.slice(0, homeIndex),
+    "home",
+    ...stories.slice(homeIndex),
+  ];
   const renderGalleryImages = () => {
     return (
       <div className="relative grid w-full grid-cols-5 gap-1 p-1">
         <Fade cascade damping="0.2" duration={600}>
-          {[...Array(20)].map((x, i) => {
-            if (i + 1 === 18) {
+          {compiledStories.map((story, key) => {
+            if (key === homeIndex) {
               return (
                 <div
                   className="group relative h-full w-full cursor-pointer bg-neutral-500 transition-colors duration-500 hover:bg-main-dark"
@@ -33,10 +40,14 @@ export default function Gallery() {
                 </div>
               );
             }
+
             return (
               <div
                 className="group relative w-full cursor-pointer"
-                onClick={() => setGalleryModalIsOpen(true)}
+                onClick={() => {
+                  setCurrentStory(story);
+                  setGalleryModalIsOpen(true);
+                }}
               >
                 <div className="absolute inset-0 bg-main-dark bg-opacity-70 text-white opacity-0 transition-all duration-500 group-hover:opacity-100">
                   <div className="flex h-full flex-col">
@@ -46,14 +57,14 @@ export default function Gallery() {
                       <div className="mx-auto h-0 w-0 border-4 border-solid border-transparent border-t-white"></div>
                     </div>
                     <div className="bg-black bg-opacity-50 px-2 py-2 text-xs">
-                      Lorem ipsum
+                      {story.name}
                     </div>
                   </div>
                 </div>
                 <div
                   className="bg bg-neutral-200 pt-[66%]"
                   style={{
-                    backgroundImage: `url(https://i.pravatar.cc/300?u=${i})`,
+                    backgroundImage: `url(${story.thumbnail})`,
                   }}
                 ></div>
               </div>
@@ -69,8 +80,8 @@ export default function Gallery() {
       <div className="relative z-0 overflow-hidden bg-main">
         <div className=" relative z-10 mx-auto h-full min-h-screen w-full max-w-[920px] bg-white py-16">
           <div className="flex  w-full content-between items-end pb-16">
-            <div className="px-10 text-left">
-              <h2 className="h1 whitespace-nowrap">Safe and Fair</h2>
+            <div className="flex-1 px-10 text-left">
+              <SafTitleOnly maxWidth={260} />
             </div>
             <div className="ml-auto flex translate-x-20 items-center">
               <div className="mr-2 whitespace-nowrap text-right">
