@@ -14,7 +14,7 @@ export default function Intro() {
         <div className="flex-grow pb-12">
           <div className="py-16 pl-16 text-left">
             <SafTitle color="dark" maxWidth={340} />
-            <Fade cascade delay={900}>
+            <Fade cascade delay={900} triggerOnce={true}>
               <div className="mr-14 mt-14 max-w-prose">
                 {i18n.language === "en" && (
                   <div>
@@ -75,7 +75,7 @@ export default function Intro() {
             />
           </div>
           <div className="mx-16 flex gap-8 py-12 text-left">
-            <Fade cascade delay={1300} damping={0.2}>
+            <Fade cascade delay={1300} damping={0.2} triggerOnce={true}>
               <div className="h-60 border-l border-white"></div>
               {i18n.language == "en" && (
                 <div>

@@ -18,7 +18,7 @@ export default function Gallery() {
   const renderGalleryImages = () => {
     return (
       <div className="relative grid w-full grid-cols-5 gap-1 p-1">
-        <Fade cascade damping="0.2" duration={600}>
+        <Fade cascade damping="0.2" duration={600} triggerOnce={true}>
           {compiledStories.map((story, key) => {
             if (key === homeIndex) {
               return (

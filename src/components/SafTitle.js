@@ -13,7 +13,7 @@ export default function SafTitle({
   const bottomWidth = maxWidth * 0.58;
   return (
     <div className={`${color === "dark" ? "fill-neutral-700" : "fill-white"}`}>
-      <Fade cascade direction="up" damping={0.3}>
+      <Fade cascade direction="up" damping={0.3} triggerOnce={true}>
         <div
           className=""
           style={{ width: headingWidth, marginBottom: headingMarginBottom }}
@@ -139,7 +139,7 @@ export default function SafTitle({
             </svg>
           </div>
           <div className="ml-3 flex-grow">
-            <Fade direction="right" delay={1200}>
+            <Fade direction="right" delay={1200} triggerOnce={true}>
               <div
                 className={`h-[1px] flex-grow ${
                   color === "dark" ? "bg-neutral-700" : "bg-white "

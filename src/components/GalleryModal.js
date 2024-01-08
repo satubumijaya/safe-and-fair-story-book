@@ -46,7 +46,7 @@ export default function GalleryModal() {
         renderBackdrop={renderBackdrop}
         className="modal fixed inset-0 overflow-y-scroll"
       >
-        <Fade>
+        <Fade triggerOnce={true}>
           <div>
             <div
               className="absolute inset-0"
