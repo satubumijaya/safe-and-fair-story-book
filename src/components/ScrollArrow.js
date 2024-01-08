@@ -4,7 +4,7 @@ import { Fade } from "react-awesome-reveal";
 export default function ScrollArrow() {
   const { fullpageApi } = useContext(AppContext);
   return (
-    <div className="absolute bottom-3 left-1/2 z-20 -translate-x-[50%]">
+    <div className="absolute bottom-1 left-1/2 z-20 -translate-x-[50%]">
       <Fade delay={1200}>
         <div
           className="arrow-down animate-bounce cursor-pointer p-3"

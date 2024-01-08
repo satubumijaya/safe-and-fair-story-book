@@ -1,4 +1,10 @@
-import React, { useContext, useRef, useState } from "react";
+import React, {
+  useContext,
+  useEffect,
+  useLayoutEffect,
+  useRef,
+  useState,
+} from "react";
 import { useTranslation } from "react-i18next";
 import concave from "images/concave.png";
 import logoUnWomen from "images/logos/un-women.png";
@@ -11,57 +17,45 @@ import { Fade, Slide } from "react-awesome-reveal";
 import { AppContext } from "context/AppContext";
 import Slider from "react-slick";
 
+const useWindowSize = () => {
+  const [size, setSize] = useState([0, 0]);
+  useLayoutEffect(() => {
+    const updateSize = () => {
+      setSize([window.innerWidth, window.innerHeight]);
+    };
+    window.addEventListener("resize", updateSize);
+    updateSize();
+    return () => window.removeEventListener("resize", updateSize);
+  }, []);
+  return size;
+};
+
 export default function Hero() {
   const { t, i18n, ready } = useTranslation();
   const { stories } = useContext(AppContext);
-
   let sliderRef = useRef(null);
+  const [width, height] = useWindowSize();
 
   return (
     <div className="section">
-      <div className="relative pb-12 pt-8">
+      <div className="relative pb-20 pt-10">
         <div className="mx-auto mb-12">
           <div className="flex items-end justify-center">
             <div className="flex items-end gap-4 border-r pr-2 md:gap-10 md:pr-8">
               <div>
-                <img src={logoSpotlight} alt="" className="max-h-20" />
+                <img src={logoSpotlight} alt="" className="max-h-[70px]" />
               </div>
               <div>
-                <img src={logoUnEu} alt="" className="max-h-28" />
+                <img src={logoUnEu} alt="" className="max-h-[94px]" />
               </div>
             </div>
             <div className="pl-2 md:pl-8">
-              <img src={logoUnWomen} alt="" className="max-h-20" />
-            </div>
-          </div>
-        </div>
-        <div className="mx-auto hidden">
-          <div className="mb-16 flex items-end justify-center">
-            <div className="flex items-end gap-10 border-r pr-8">
-              <div>
-                <img src={logoSpotlight} alt="" className="max-h-20" />
-              </div>
-              <div>
-                <div className="mb-4 text-[9px] font-semibold italic">
-                  An initiative of the United Nations funded by European Union
-                </div>
-                <div className="flex items-end gap-10">
-                  <div>
-                    <img src={logoUn} alt="" className="max-h-20" />
-                  </div>
-                  <div>
-                    <img src={logoEu} alt="" className="max-h-20" />
-                  </div>
-                </div>
-              </div>
-            </div>
-            <div className="pl-8">
-              <img src={logoUnWomen} alt="" className="max-h-20" />
+              <img src={logoUnWomen} alt="" className="max-h-[70px]" />
             </div>
           </div>
         </div>
         <div className="flex items-stretch overflow-hidden bg-main text-white">
-          <div className="flex items-start">
+          <div className="flex items-center">
             <div className="max-w-xl py-14 pl-16 text-left">
               <Fade cascade direction="up" damping={0.3}>
                 <div className="max-w-xl pr-10">
@@ -89,20 +83,12 @@ export default function Hero() {
               style={{ backgroundImage: `url(${concave})` }}
             ></div>
             <div className="absolute inset-0 z-10 w-12 bg-main opacity-50"></div>
-            <Slider
-              ref={(slider) => {
-                sliderRef = slider;
-              }}
-              dots={true}
-              arrows={false}
-              autoplay={true}
-              adaptiveHeight={true}
-            >
+            <Slider ref={sliderRef} dots={true} arrows={false} autoplay={true}>
               {stories.map((image, key) => {
                 return (
                   <div className="">
                     <div
-                      className="bg pt-[66%]"
+                      className="bg pt-[55%]"
                       style={{
                         backgroundImage: `url(${image?.thumbnail})`,
                       }}
@@ -119,7 +105,7 @@ export default function Hero() {
             return (
               <div
                 className="relative flex-grow cursor-pointer after:absolute after:inset-0 after:bg-main after:opacity-0 after:transition-all after:duration-300 after:content-[''] hover:after:opacity-20"
-                onClick={() => sliderRef.slickGoTo(key)}
+                onClick={() => sliderRef.current.slickGoTo(key)}
               >
                 <div
                   className="bg pt-[66%]"

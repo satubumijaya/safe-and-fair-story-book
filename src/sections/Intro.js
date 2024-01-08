@@ -12,7 +12,7 @@ export default function Intro() {
       <div className="relative flex min-h-screen overflow-x-hidden">
         <div className="flex-grow pb-12">
           <div className="py-14 pl-16 text-left">
-            <Fade cascade>
+            <Fade cascade damping={0.2}>
               <div className="max-w-lg pr-10">
                 <h2 className="mb-2">{t("intro.heading")}</h2>
               </div>
@@ -24,7 +24,7 @@ export default function Intro() {
                   {t("intro.subheading-2")}
                 </div>
                 <div className="flex-grow">
-                  <Fade direction="right" delay={1200}>
+                  <Fade direction="right" delay={900}>
                     <div className=" flex-grow border-t border-neutral-500"></div>
                   </Fade>
                 </div>
@@ -90,7 +90,7 @@ export default function Intro() {
             />
           </div>
           <div className="mx-16 flex gap-8 py-12 text-left">
-            <Fade cascade delay={1300}>
+            <Fade cascade delay={1300} damping={0.2}>
               <div className="h-60 border-l border-white"></div>
               {i18n.language == "en" && (
                 <div>
