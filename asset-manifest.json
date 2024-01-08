@@ -1,9 +1,15 @@
 {
   "files": {
-    "main.css": "/saf/static/css/main.4df79d39.css",
-    "main.js": "/saf/static/js/main.3284090a.js",
+    "main.css": "/saf/static/css/main.ae787e87.css",
+    "main.js": "/saf/static/js/main.ea4127ae.js",
     "static/js/787.f5db74c1.chunk.js": "/saf/static/js/787.f5db74c1.chunk.js",
-    "static/media/hero.jpg": "/saf/static/media/hero.a7eec1d2d0a3fb9c9565.jpg",
+    "static/media/thumbnail.jpg": "/saf/static/media/thumbnail.4953f131a90f0d742ee2.jpg",
+    "static/media/intro.jpg": "/saf/static/media/intro.0ab35b9f9a235be94818.jpg",
+    "static/media/sample-hero-modal.jpg": "/saf/static/media/sample-hero-modal.2009994f917d5959ef99.jpg",
+    "static/media/img-2.jpg": "/saf/static/media/img-2.3c86f2ff41c751e30a15.jpg",
+    "static/media/img-3.jpg": "/saf/static/media/img-3.245690139672ec700fc5.jpg",
+    "static/media/img-4.jpg": "/saf/static/media/img-4.79b096d5053409615e5c.jpg",
+    "static/media/img-1.jpg": "/saf/static/media/img-1.0d9706a2367bed7c7bbe.jpg",
     "static/media/convex.png": "/saf/static/media/convex.b9370ef2735f402da7a0.png",
     "static/media/concave.png": "/saf/static/media/concave.ee605064f9a7b030e77b.png",
     "static/media/un.png": "/saf/static/media/un.f7045f7166daa9569947.png",
@@ -12,12 +18,12 @@
     "static/media/logo.svg": "/saf/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/saf/index.html",
     "static/media/getFetch.cjs": "/saf/static/media/getFetch.40f37ddea2378391108f.cjs",
-    "main.4df79d39.css.map": "/saf/static/css/main.4df79d39.css.map",
-    "main.3284090a.js.map": "/saf/static/js/main.3284090a.js.map",
+    "main.ae787e87.css.map": "/saf/static/css/main.ae787e87.css.map",
+    "main.ea4127ae.js.map": "/saf/static/js/main.ea4127ae.js.map",
     "787.f5db74c1.chunk.js.map": "/saf/static/js/787.f5db74c1.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.4df79d39.css",
-    "static/js/main.3284090a.js"
+    "static/css/main.ae787e87.css",
+    "static/js/main.ea4127ae.js"
   ]
 }
