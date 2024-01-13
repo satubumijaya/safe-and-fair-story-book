@@ -2,11 +2,6 @@ import { AppContext } from "context/AppContext";
 import React, { useContext, useEffect } from "react";
 import { Fade } from "react-awesome-reveal";
 import Modal from "react-overlays/Modal";
-import HeroModalImage from "../images/sample/sample-hero-modal.jpg";
-import Image1 from "../images/sample/img-1.jpg";
-import Image2 from "../images/sample/img-2.jpg";
-import Image3 from "../images/sample/img-3.jpg";
-import Image4 from "../images/sample/img-4.jpg";
 import SafTitleOnly from "components/SafTitleOnly";
 import { Trans, useTranslation } from "react-i18next";
 import { Transition } from "react-transition-group";
@@ -14,8 +9,13 @@ import { Transition } from "react-transition-group";
 export default function GalleryModal() {
   const { t, i18n, ready } = useTranslation();
   const lang = i18n.language;
-  const { galleryModalIsOpen, setGalleryModalIsOpen, currentStory } =
-    useContext(AppContext);
+  const {
+    galleryModalIsOpen,
+    setGalleryModalIsOpen,
+    currentStory,
+    lightbox,
+    setLightBox,
+  } = useContext(AppContext);
 
   const renderBackdrop = (props) => (
     <div className="backdrop fixed inset-0 bg-black bg-opacity-80" {...props} />
@@ -24,8 +24,6 @@ export default function GalleryModal() {
   if (!currentStory) {
     setGalleryModalIsOpen(false);
   }
-
-  const images = [Image1, Image2, Image3, Image4];
 
   const closeModal = () => {
     window.fullpage_api.setAllowScrolling(true);
@@ -46,7 +44,7 @@ export default function GalleryModal() {
         renderBackdrop={renderBackdrop}
         className="modal fixed inset-0 overflow-y-scroll"
       >
-        <Fade triggerOnce={true}>
+        <Fade triggerOnce={false}>
           <div>
             <div
               className="absolute inset-0"
@@ -144,8 +142,17 @@ export default function GalleryModal() {
                       </div>
                     </div>
                   </div>
+
                   <div className="px-10 py-16">
                     <div className="mx-auto max-w-[700px]">
+                      <div className="mb-6">
+                        <div className="inline-block rounded bg-neutral-200 px-4 py-1 text-sm">
+                          Home / Gallery /{" "}
+                          <span className="text-main-dark">
+                            Story {currentStory?.index}
+                          </span>
+                        </div>
+                      </div>
                       <h3 className="mb-10 text-4xl font-semibold">
                         {currentStory?.title[lang]}
                       </h3>
@@ -155,32 +162,45 @@ export default function GalleryModal() {
 
                   {/* bottom gallery */}
                   <div className="grid grid-cols-4 pb-28">
-                    {images.map((image) => {
-                      return (
-                        <div className="group relative flex-1 cursor-pointer">
-                          <div className="pt-[100%]">
-                            <div
-                              className="absolute inset-0 bg-neutral-100 bg-cover bg-center"
-                              style={{ backgroundImage: `url(${image})` }}
-                            ></div>
-                          </div>
-                          <div className="group:hover: absolute inset-0 bg-main bg-opacity-70 opacity-0 transition-all duration-300 group-hover:opacity-100">
-                            <div className="flex h-full w-full">
-                              <svg
-                                viewBox="0 0 45.52 45.71"
-                                xmlns="http://www.w3.org/2000/svg"
-                                className="mx-auto my-auto h-10 w-10"
-                              >
-                                <path
-                                  d="m40.76 45.71-11.34-11.34c-.65-.65-.65-1.7 0-2.35 0 0 .02-.02.03-.02l-3.82-3.82c-2.79 2.22-6.22 3.43-9.83 3.43-4.17 0-8.1-1.61-11.07-4.53-6.22-6.1-6.31-16.13-.21-22.35 2.96-3.01 6.91-4.69 11.13-4.73s8.2 1.57 11.22 4.52c3.01 2.96 4.69 6.91 4.73 11.13.03 3.75-1.23 7.32-3.6 10.18l3.8 3.8s.02-.02.02-.03c.65-.65 1.7-.65 2.35 0l11.34 11.34-4.76 4.76zm-24.96-42.38c-3.23 0-6.46 1.25-8.9 3.73-4.82 4.91-4.75 12.82.16 17.64 2.35 2.3 5.45 3.57 8.74 3.57s6.39-1.27 8.74-3.57l.12-.12s.03-.03.04-.04c2.33-2.38 3.6-5.52 3.57-8.85s-1.36-6.45-3.74-8.79c-2.42-2.38-5.58-3.57-8.74-3.57z"
-                                  fill="#fff"
-                                />
-                              </svg>
+                    {currentStory?.gallery?.map((image, key) => {
+                      if (image?.image) {
+                        return (
+                          <div
+                            className="group relative flex-1 cursor-pointer"
+                            onClick={() =>
+                              setLightBox({
+                                image: image.image,
+                                caption: image.caption,
+                                index: image.index,
+                              })
+                            }
+                          >
+                            <div className="pt-[100%]">
+                              <div
+                                className="absolute inset-0 bg-neutral-100 bg-cover bg-center"
+                                style={{
+                                  backgroundImage: `url(${image?.image})`,
+                                }}
+                              ></div>
                             </div>
-                            <div className="h-8 bg-main-dark"></div>
+                            <div className="group:hover: absolute inset-0 bg-main bg-opacity-70 opacity-0 transition-all duration-300 group-hover:opacity-100">
+                              <div className="flex h-full w-full">
+                                <svg
+                                  viewBox="0 0 45.52 45.71"
+                                  xmlns="http://www.w3.org/2000/svg"
+                                  className="mx-auto my-auto h-10 w-10"
+                                >
+                                  <path
+                                    d="m40.76 45.71-11.34-11.34c-.65-.65-.65-1.7 0-2.35 0 0 .02-.02.03-.02l-3.82-3.82c-2.79 2.22-6.22 3.43-9.83 3.43-4.17 0-8.1-1.61-11.07-4.53-6.22-6.1-6.31-16.13-.21-22.35 2.96-3.01 6.91-4.69 11.13-4.73s8.2 1.57 11.22 4.52c3.01 2.96 4.69 6.91 4.73 11.13.03 3.75-1.23 7.32-3.6 10.18l3.8 3.8s.02-.02.02-.03c.65-.65 1.7-.65 2.35 0l11.34 11.34-4.76 4.76zm-24.96-42.38c-3.23 0-6.46 1.25-8.9 3.73-4.82 4.91-4.75 12.82.16 17.64 2.35 2.3 5.45 3.57 8.74 3.57s6.39-1.27 8.74-3.57l.12-.12s.03-.03.04-.04c2.33-2.38 3.6-5.52 3.57-8.85s-1.36-6.45-3.74-8.79c-2.42-2.38-5.58-3.57-8.74-3.57z"
+                                    fill="#fff"
+                                  />
+                                </svg>
+                              </div>
+                              <div className="h-8 bg-main-dark"></div>
+                            </div>
                           </div>
-                        </div>
-                      );
+                        );
+                      }
                     })}
                   </div>
 

@@ -1,7 +1,7 @@
 import React, { useContext } from "react";
-import concave from "../images/concave.png";
-import convex from "../images/convex.png";
-import ScrollArrow from "../components/ScrollArrow";
+import concave from "images/concave.webp";
+import convex from "images/convex.webp";
+import ScrollArrow from "components/ScrollArrow";
 import { Fade, Slide } from "react-awesome-reveal";
 import { AppContext } from "context/AppContext";
 import SafTitleOnly from "components/SafTitleOnly";

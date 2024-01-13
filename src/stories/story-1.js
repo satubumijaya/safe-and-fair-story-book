@@ -1,5 +1,7 @@
+const dir = "1";
 export const story1 = {
-  thumbnail: require("images/stories/1/thumbnail.jpg"),
+  index: dir,
+  thumbnail: require(`images/stories/${dir}/main.webp`),
   name: "Ahmad Haryono",
   title: {
     en: "Membedah Budaya Bisu PMI Purna di Pekon Ambarawa",
@@ -219,8 +221,32 @@ export const story1 = {
   },
   gallery: [
     {
-      image: "",
-      caption: "",
+      image: require(`images/stories/${dir}/image-1.webp`),
+      caption: {
+        en: "Lorem ipsum english",
+        id: "Lorem ipsum bahasa indonesia",
+      },
+    },
+    {
+      image: require(`images/stories/${dir}/image-2.webp`),
+      caption: {
+        en: "Lorem ipsum english",
+        id: "Lorem ipsum bahasa indonesia",
+      },
+    },
+    {
+      image: require(`images/stories/${dir}/image-3.webp`),
+      caption: {
+        en: "Lorem ipsum english",
+        id: "Lorem ipsum bahasa indonesia",
+      },
+    },
+    {
+      image: require(`images/stories/${dir}/image-4.webp`),
+      caption: {
+        en: "Lorem ipsum english",
+        id: "Lorem ipsum bahasa indonesia",
+      },
     },
   ],
 };

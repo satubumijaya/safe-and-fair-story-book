@@ -10,6 +10,8 @@ export const AppContext = createContext({
   setCurrentStory: null,
   stories: null,
   setStories: null,
+  lightbox: null,
+  setLightBox: null,
 });
 
 export const AppContextProvider = ({ children }) => {
@@ -20,7 +22,7 @@ export const AppContextProvider = ({ children }) => {
     story2,
     story3,
     {
-      thumbnail: require("images/stories/4/thumbnail.jpg"),
+      thumbnail: require("images/stories/4/main.webp"),
       name: "Rulis Diana",
       title: "",
       content: "",
@@ -32,7 +34,7 @@ export const AppContextProvider = ({ children }) => {
       ],
     },
     {
-      thumbnail: require("images/stories/5/thumbnail.jpg"),
+      thumbnail: require("images/stories/5/main.webp"),
       name: "Sri Wahyuni",
       title: "",
       content: "",
@@ -44,7 +46,7 @@ export const AppContextProvider = ({ children }) => {
       ],
     },
     {
-      thumbnail: require("images/stories/6/thumbnail.jpg"),
+      thumbnail: require("images/stories/6/main.webp"),
       name: "Venolia Adeningrum",
       title: "",
       content: "",
@@ -56,7 +58,7 @@ export const AppContextProvider = ({ children }) => {
       ],
     },
     {
-      thumbnail: require("images/stories/7/thumbnail.jpg"),
+      thumbnail: require("images/stories/7/main.webp"),
       name: "Annisa",
       title: "",
       content: "",
@@ -68,7 +70,7 @@ export const AppContextProvider = ({ children }) => {
       ],
     },
     {
-      thumbnail: require("images/stories/8/thumbnail.jpg"),
+      thumbnail: require("images/stories/8/main.webp"),
       name: "Faoziah",
       title: "",
       content: "",
@@ -80,7 +82,7 @@ export const AppContextProvider = ({ children }) => {
       ],
     },
     {
-      thumbnail: require("images/stories/9/thumbnail.jpg"),
+      thumbnail: require("images/stories/9/main.webp"),
       name: "Rita Ramadani",
       title: "",
       content: "",
@@ -92,7 +94,7 @@ export const AppContextProvider = ({ children }) => {
       ],
     },
     {
-      thumbnail: require("images/stories/10/thumbnail.jpg"),
+      thumbnail: require("images/stories/10/main.webp"),
       name: "Sogi Alamsyah",
       title: "",
       content: "",
@@ -104,7 +106,7 @@ export const AppContextProvider = ({ children }) => {
       ],
     },
     {
-      thumbnail: require("images/stories/11/thumbnail.jpg"),
+      thumbnail: require("images/stories/11/main.webp"),
       name: "Sugih Hartini",
       title: "",
       content: "",
@@ -116,7 +118,7 @@ export const AppContextProvider = ({ children }) => {
       ],
     },
     {
-      thumbnail: require("images/stories/12/thumbnail.jpg"),
+      thumbnail: require("images/stories/12/main.webp"),
       name: "Yekti Puji Rahayu",
       title: "",
       content: "",
@@ -128,7 +130,7 @@ export const AppContextProvider = ({ children }) => {
       ],
     },
     {
-      thumbnail: require("images/stories/13/thumbnail.jpg"),
+      thumbnail: require("images/stories/13/main.webp"),
       name: "Dira Septiani",
       title: "",
       content: "",
@@ -140,7 +142,7 @@ export const AppContextProvider = ({ children }) => {
       ],
     },
     {
-      thumbnail: require("images/stories/14/thumbnail.jpg"),
+      thumbnail: require("images/stories/14/main.webp"),
       name: "Fifi Ekawati Rohmah",
       title: "",
       content: "",
@@ -152,7 +154,7 @@ export const AppContextProvider = ({ children }) => {
       ],
     },
     {
-      thumbnail: require("images/stories/15/thumbnail.jpg"),
+      thumbnail: require("images/stories/15/main.webp"),
       name: "Nunung Fitriana",
       title: "",
       content: "",
@@ -164,7 +166,7 @@ export const AppContextProvider = ({ children }) => {
       ],
     },
     {
-      thumbnail: require("images/stories/16/thumbnail.jpg"),
+      thumbnail: require("images/stories/16/main.webp"),
       name: "Dian Roudotul Jannah",
       title: "",
       content: "",
@@ -176,7 +178,7 @@ export const AppContextProvider = ({ children }) => {
       ],
     },
     {
-      thumbnail: require("images/stories/17/thumbnail.jpg"),
+      thumbnail: require("images/stories/17/main.webp"),
       name: "Sri Nursyifa",
       title: "",
       content: "",
@@ -188,7 +190,7 @@ export const AppContextProvider = ({ children }) => {
       ],
     },
     {
-      thumbnail: require("images/stories/18/thumbnail.jpg"),
+      thumbnail: require("images/stories/18/main.webp"),
       name: "Susilawati",
       title: "",
       content: "",
@@ -200,7 +202,7 @@ export const AppContextProvider = ({ children }) => {
       ],
     },
     {
-      thumbnail: require("images/stories/19/thumbnail.jpg"),
+      thumbnail: require("images/stories/19/main.webp"),
       name: "Yuliana",
       title: "",
       content: "",
@@ -213,6 +215,8 @@ export const AppContextProvider = ({ children }) => {
     },
   ]);
 
+  const [lightbox, setLightBox] = useState(null);
+
   return (
     <AppContext.Provider
       value={{
@@ -222,6 +226,8 @@ export const AppContextProvider = ({ children }) => {
         setCurrentStory,
         stories,
         setStories,
+        lightbox,
+        setLightBox,
       }}
     >
       {children}

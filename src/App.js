@@ -10,6 +10,7 @@ import React, { useContext } from "react";
 import { AppContext, AppContextProvider } from "./context/AppContext";
 import Closing from "./sections/Closing";
 import GalleryModal from "components/GalleryModal";
+import LightboxModal from "components/LightboxModal";
 
 function App() {
   const { t, i18n, ready } = useTranslation();
@@ -37,6 +38,7 @@ function App() {
           }}
         />
         <GalleryModal />
+        <LightboxModal />
       </AppContextProvider>
     </div>
   );

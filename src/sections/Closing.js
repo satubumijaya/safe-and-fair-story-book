@@ -1,10 +1,10 @@
 import React from "react";
 import { useTranslation } from "react-i18next";
-import logoUnWomen from "../images/logos/un-women.png";
-import logoSpotlight from "../images/logos/spotlight.png";
-import logoUnEu from "../images/logos/un-eu.png";
-import logoUn from "../images/logos/un.png";
-import logoEu from "../images/logos/eu.png";
+import logoUnWomen from "../images/logos/un-women.webp";
+import logoSpotlight from "../images/logos/spotlight.webp";
+import logoUnEu from "../images/logos/un-eu.webp";
+import logoUn from "../images/logos/un.webp";
+import logoEu from "../images/logos/eu.webp";
 import SafTitle from "components/SafTitle";
 
 export default function Closing() {

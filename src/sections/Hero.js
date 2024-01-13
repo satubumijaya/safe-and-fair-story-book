@@ -6,12 +6,7 @@ import React, {
   useState,
 } from "react";
 import { useTranslation } from "react-i18next";
-import concave from "images/concave.png";
-import logoUnWomen from "images/logos/un-women.png";
-import logoSpotlight from "images/logos/spotlight.png";
-import logoUnEu from "images/logos/un-eu.png";
-import logoUn from "images/logos/un.png";
-import logoEu from "images/logos/eu.png";
+import concave from "images/concave.webp";
 import ScrollArrow from "components/ScrollArrow";
 import { Fade, Slide } from "react-awesome-reveal";
 import { AppContext } from "context/AppContext";
@@ -20,6 +15,7 @@ import SafTitle from "components/SafTitle";
 
 const useWindowSize = () => {
   const [size, setSize] = useState([0, 0]);
+
   useLayoutEffect(() => {
     const updateSize = () => {
       setSize([window.innerWidth, window.innerHeight]);
@@ -35,6 +31,10 @@ export default function Hero() {
   const { t, i18n, ready } = useTranslation();
   const { stories } = useContext(AppContext);
   let sliderRef = useRef(null);
+  const logoUnEu = new URL("images/logos/un-eu.webp", import.meta.url);
+  const logoUnWomen = new URL("images/logos/un-women.webp", import.meta.url);
+  const logoSpotlight = new URL("images/logos/spotlight.webp", import.meta.url);
+
   const [width, height] = useWindowSize();
 
   return (

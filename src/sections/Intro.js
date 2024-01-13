@@ -1,8 +1,8 @@
 import React from "react";
 import { useTranslation } from "react-i18next";
-import concave from "../images/concave.png";
-import introImg from "../images/intro.jpg";
-import ScrollArrow from "../components/ScrollArrow";
+import concave from "images/concave.webp";
+import introImg from "images/intro.webp";
+import ScrollArrow from "components/ScrollArrow";
 import { Fade } from "react-awesome-reveal";
 import SafTitle from "components/SafTitle";
 
