@@ -102,7 +102,7 @@ export default function GalleryModal() {
               {/* content */}
               <div className="bg-white">
                 <div className=" relative z-10 mx-auto h-full min-h-screen w-full">
-                  <div className="flex w-full flex-1 flex-col content-between items-end py-16 md:flex-row">
+                  <div className="flex w-full flex-1 flex-col content-between items-end py-8 md:flex-row md:py-16">
                     <div className="mb-6 w-full flex-1 px-6 text-left md:mb-0 md:px-10">
                       <SafTitleOnly maxWidth={260} />
                     </div>
