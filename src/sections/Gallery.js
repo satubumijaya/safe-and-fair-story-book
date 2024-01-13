@@ -28,7 +28,7 @@ export default function Gallery() {
       ]);
     }
   };
-  console.log(compiledStories);
+
   useEffect(() => {
     updateWindowWidth();
     window.addEventListener("resize", updateWindowWidth);

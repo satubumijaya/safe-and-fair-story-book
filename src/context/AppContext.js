@@ -1,4 +1,5 @@
 import React, { createContext, useState, useContext } from "react";
+import { Hinge } from "react-awesome-reveal";
 import { story1 } from "stories/story-1";
 import { story10 } from "stories/story-10";
 import { story11 } from "stories/story-11";
@@ -30,12 +31,18 @@ export const AppContext = createContext({
   setLightBox: null,
   shareModalIsOpen: null,
   setShareModalIsOpen: null,
+  windowSize: null,
+  setWindowSize: null,
 });
 
 export const AppContextProvider = ({ children }) => {
   const [galleryModalIsOpen, setGalleryModalIsOpen] = useState(false);
   const [currentStory, setCurrentStory] = useState(null);
   const [shareModalIsOpen, setShareModalIsOpen] = useState(null);
+  const [windowSize, setWindowSize] = useState({
+    width: window.innerWidth,
+    height: window.innerHeight,
+  });
 
   const [stories, setStories] = useState([
     story1,
@@ -74,6 +81,8 @@ export const AppContextProvider = ({ children }) => {
         setLightBox,
         shareModalIsOpen,
         setShareModalIsOpen,
+        windowSize,
+        setWindowSize,
       }}
     >
       {children}

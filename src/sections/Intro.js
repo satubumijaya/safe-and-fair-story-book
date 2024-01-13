@@ -1,13 +1,15 @@
-import React from "react";
+import React, { useContext } from "react";
 import { useTranslation } from "react-i18next";
 import concave from "images/concave.webp";
 import introImg from "images/intro.webp";
 import ScrollArrow from "components/ScrollArrow";
 import { Fade } from "react-awesome-reveal";
 import SafTitle from "components/SafTitle";
+import { AppContext } from "context/AppContext";
 
 export default function Intro() {
   const { t, i18n, ready } = useTranslation();
+  const { windowSize } = useContext(AppContext);
   return (
     <div className="section">
       <div className="relative flex min-h-screen flex-col overflow-x-hidden md:flex-row">
@@ -75,7 +77,12 @@ export default function Intro() {
             />
           </div>
           <div className="mx-6 flex gap-6 py-12 text-left lg:mx-16 lg:gap-8">
-            <Fade cascade delay={1300} damping={0.2} triggerOnce={true}>
+            <Fade
+              cascade
+              delay={windowSize?.width >= 768 ? 1300 : 0}
+              damping={0.2}
+              triggerOnce={true}
+            >
               <div className="h-60 border-l border-white"></div>
               {i18n.language == "en" && (
                 <div>

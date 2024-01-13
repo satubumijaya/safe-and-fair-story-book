@@ -13,30 +13,25 @@ import { AppContext } from "context/AppContext";
 import Slider from "react-slick";
 import SafTitle from "components/SafTitle";
 
-const useWindowSize = () => {
-  const [size, setSize] = useState([0, 0]);
-
-  useLayoutEffect(() => {
-    const updateSize = () => {
-      setSize([window.innerWidth, window.innerHeight]);
-    };
-    window.addEventListener("resize", updateSize);
-    updateSize();
-    return () => window.removeEventListener("resize", updateSize);
-  }, []);
-  return size;
-};
-
 export default function Hero() {
   const { t, i18n, ready } = useTranslation();
-  const { stories } = useContext(AppContext);
+  const { stories, setWindowSize } = useContext(AppContext);
   let sliderRef = useRef(null);
 
   const logoUnEu = require("images/logos/un-eu.webp");
   const logoUnWomen = require("images/logos/un-women.webp");
   const logoSpotlight = require("images/logos/spotlight.webp");
 
-  const [width, height] = useWindowSize();
+  useEffect(() => {
+    window.addEventListener("resize", updateWindowSize);
+  }, []);
+
+  const updateWindowSize = () => {
+    setWindowSize({
+      width: window.innerWidth,
+      height: window.innerHeight,
+    });
+  };
 
   return (
     <div className="section">

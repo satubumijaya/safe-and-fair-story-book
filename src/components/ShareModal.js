@@ -8,10 +8,6 @@ export default function ShareModal() {
   const { t, i18n, ready } = useTranslation();
   const lang = i18n.language;
   const { shareModalIsOpen, setShareModalIsOpen } = useContext(AppContext);
-  const iconFacebook = require("images/facebook.svg");
-  const iconTwitter = require("images/twitter.svg");
-  const iconLinkedin = require("images/linkedin.svg");
-  const iconLink = require("images/link.svg");
 
   const renderBackdrop = (props) => (
     <div className="backdrop fixed inset-0 bg-black bg-opacity-80" {...props} />

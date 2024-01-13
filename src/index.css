@@ -3,13 +3,13 @@
 @tailwind utilities;
 
 @import "css/slick.css";
-@import "css/slick-theme.css";
 
 body {
   margin: 0;
   font-family: "Work Sans", sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  @apply text-neutral-700;
 }
 
 h1,
@@ -33,5 +33,30 @@ p {
   }
   a {
     @apply text-main transition-colors hover:text-main-dark;
+  }
+}
+
+.fp-watermark {
+  display: none;
+}
+
+blockquote {
+  @apply my-6 ml-6 border-l border-neutral-700 pl-6 text-xl italic text-main-dark;
+}
+
+.slick-dots {
+  @apply absolute bottom-4 left-1/2 z-10 !flex -translate-x-1/2 gap-1;
+  li {
+    button {
+      font-size: 0.1px !important;
+      line-height: 0.1px !important;
+      color: transparent;
+      @apply h-[3px] w-2 bg-white;
+    }
+    &.slick-active {
+      button {
+        @apply bg-main;
+      }
+    }
   }
 }
