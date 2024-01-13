@@ -11,6 +11,7 @@ import { AppContext, AppContextProvider } from "./context/AppContext";
 import Closing from "./sections/Closing";
 import GalleryModal from "components/GalleryModal";
 import LightboxModal from "components/LightboxModal";
+import ShareModal from "components/ShareModal";
 
 function App() {
   const { t, i18n, ready } = useTranslation();
@@ -39,6 +40,7 @@ function App() {
         />
         <GalleryModal />
         <LightboxModal />
+        <ShareModal />
       </AppContextProvider>
     </div>
   );

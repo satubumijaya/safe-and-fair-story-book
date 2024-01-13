@@ -31,16 +31,18 @@ export default function Hero() {
   const { t, i18n, ready } = useTranslation();
   const { stories } = useContext(AppContext);
   let sliderRef = useRef(null);
-  const logoUnEu = new URL("images/logos/un-eu.webp", import.meta.url);
-  const logoUnWomen = new URL("images/logos/un-women.webp", import.meta.url);
-  const logoSpotlight = new URL("images/logos/spotlight.webp", import.meta.url);
+
+  const logoUnEu = require("images/logos/un-eu.webp");
+  const logoUnWomen = require("images/logos/un-women.webp");
+  const logoSpotlight = require("images/logos/spotlight.webp");
 
   const [width, height] = useWindowSize();
 
   return (
     <div className="section">
       <div className="relative pb-20 pt-10">
-        <div className="mx-auto mb-12">
+        {/* logo */}
+        <div className="mx-auto mb-12 px-6">
           <div className="flex items-end justify-center">
             <div className="flex items-end gap-4 border-r pr-2 md:gap-10 md:pr-8">
               <div>
@@ -55,30 +57,10 @@ export default function Hero() {
             </div>
           </div>
         </div>
-        <div className="flex items-stretch overflow-hidden bg-main text-white">
-          <div className="flex w-full max-w-xl flex-1 items-center">
-            {/* <div className="max-w-xl py-14 pl-16 text-left">
-              <Fade cascade direction="up" damping={0.3}>
-                <div className="max-w-xl pr-10">
-                  <h1 className="mb-2">{t("hero.heading")}</h1>
-                </div>
-                <div className="max-w-xl pr-10">
-                  <p className="text-xl font-medium">{t("hero.subheading")}</p>
-                </div>
-                <div className="mt-8 flex items-center gap-3">
-                  <div className="text-xl uppercase italic tracking-widest">
-                    {t("hero.subheading-2")}
-                  </div>
-                  <div className="flex-grow">
-                    <Fade direction="right" delay={1200}>
-                      <div className=" border-top-white flex-grow border-t"></div>
-                    </Fade>
-                  </div>
-                </div>
-              </Fade>
-            </div> */}
 
-            <div className="w-full flex-1 py-14 pl-16">
+        <div className="flex flex-col items-stretch overflow-hidden bg-main text-white lg:flex-row">
+          <div className="flex w-full max-w-xl flex-1 items-center">
+            <div className="w-full flex-1 py-14 pl-6 md:pl-16">
               <SafTitle className="" color="white" maxWidth={390} />
             </div>
           </div>

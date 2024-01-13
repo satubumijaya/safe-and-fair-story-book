@@ -2,8 +2,9 @@ import React from "react";
 
 export default function SafTitleOnly({ color = "dark", maxWidth = 250 }) {
   return (
-    <div>
+    <div className="w-full">
       <div
+        className="w-full"
         style={{ maxWidth: maxWidth }}
         className={`${color === "dark" ? "fill-neutral-700" : "fill-white"}`}
       >

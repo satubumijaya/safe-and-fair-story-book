@@ -28,11 +28,15 @@ export const AppContext = createContext({
   setStories: null,
   lightbox: null,
   setLightBox: null,
+  shareModalIsOpen: null,
+  setShareModalIsOpen: null,
 });
 
 export const AppContextProvider = ({ children }) => {
   const [galleryModalIsOpen, setGalleryModalIsOpen] = useState(false);
   const [currentStory, setCurrentStory] = useState(null);
+  const [shareModalIsOpen, setShareModalIsOpen] = useState(null);
+
   const [stories, setStories] = useState([
     story1,
     story2,
@@ -68,6 +72,8 @@ export const AppContextProvider = ({ children }) => {
         setStories,
         lightbox,
         setLightBox,
+        shareModalIsOpen,
+        setShareModalIsOpen,
       }}
     >
       {children}

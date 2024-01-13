@@ -69,7 +69,7 @@ export default function GalleryModal() {
         className="modal fixed inset-0 overflow-y-scroll"
       >
         <Fade triggerOnce={false}>
-          <div>
+          <div className="px-4">
             <div
               className="absolute inset-0"
               onClick={() => {

@@ -1,4 +1,4 @@
-import React, { useContext } from "react";
+import React, { useContext, useEffect, useState } from "react";
 import concave from "images/concave.webp";
 import convex from "images/convex.webp";
 import ScrollArrow from "components/ScrollArrow";
@@ -10,21 +10,40 @@ export default function Gallery() {
   const { setGalleryModalIsOpen, stories, setCurrentStory } =
     useContext(AppContext);
   const homeIndex = 17;
-  const compiledStories = [
-    ...stories.slice(0, homeIndex),
-    "home",
-    ...stories.slice(homeIndex),
-  ];
+  // const [windowWidth, setWindowWidth] = useState(window.innerWidth);
+  const [compiledStories, setCompiledStories] = useState(stories);
+
+  const updateWindowWidth = () => {
+    if (window.innerWidth >= 1024) {
+      setCompiledStories([
+        ...stories.slice(0, homeIndex),
+        { type: "home" },
+        ...stories.slice(homeIndex),
+      ]);
+    } else {
+      setCompiledStories([
+        ...stories.slice(0, 19),
+        { type: "home" },
+        ...stories.slice(19),
+      ]);
+    }
+  };
+  console.log(compiledStories);
+  useEffect(() => {
+    updateWindowWidth();
+    window.addEventListener("resize", updateWindowWidth);
+  }, []);
+
   const renderGalleryImages = () => {
     return (
-      <div className="relative grid w-full grid-cols-5 gap-1 p-1">
+      <div className="relative grid w-full grid-cols-2 gap-1 p-1 md:grid-cols-4 lg:grid-cols-5">
         <Fade cascade damping="0.2" duration={600} triggerOnce={true}>
           {compiledStories.map((story, key) => {
-            if (key === homeIndex) {
+            if (story?.type == "home") {
               return (
                 <div
                   key={key}
-                  className="group relative h-full w-full cursor-pointer bg-neutral-500 transition-colors duration-500 hover:bg-main-dark"
+                  className="group  relative h-full w-full cursor-pointer bg-neutral-500 transition-colors duration-500 hover:bg-main-dark"
                   onClick={() => window.fullpage_api.moveTo("home")}
                 >
                   <div className="flex h-full flex-col">
@@ -81,19 +100,18 @@ export default function Gallery() {
     <div className="section">
       <div className="relative z-0 overflow-hidden bg-main">
         <div className=" relative z-10 mx-auto h-full min-h-screen w-full max-w-[920px] bg-white py-16">
-          <div className="flex  w-full content-between items-end pb-16">
-            <div className="flex-1 px-10 text-left">
+          <div className="flex w-full flex-col content-between items-end pb-16 md:flex-row">
+            <div className="mb-4 w-full flex-1 px-6 text-left md:mb-0 md:px-10">
               <SafTitleOnly maxWidth={260} />
             </div>
-            <div className="ml-auto flex translate-x-20 items-center">
+            <div className="ml-auto flex items-center pl-6 md:translate-x-20">
               <div className="mr-2 whitespace-nowrap text-right">
                 Galeri 19 Penulis Cerita Perubahan
               </div>
-              <div className="relative flex h-[1px] w-40 max-w-md bg-gray-500 after:absolute after:right-0 after:top-0 after:h-[1px] after:w-1/2 after:bg-white after:content-['']"></div>
+              <div className="relative flex h-[1px] w-40 max-w-md bg-gray-500 after:absolute after:right-0 after:top-0 after:hidden after:h-[1px] after:w-1/2 after:bg-white after:content-[''] md:after:block"></div>
             </div>
           </div>
           {/* galerry */}
-
           {renderGalleryImages()}
 
           <div

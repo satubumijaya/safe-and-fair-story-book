@@ -10,12 +10,12 @@ export default function Intro() {
   const { t, i18n, ready } = useTranslation();
   return (
     <div className="section">
-      <div className="relative flex min-h-screen overflow-x-hidden">
+      <div className="relative flex min-h-screen flex-col overflow-x-hidden md:flex-row">
         <div className="flex-grow pb-12">
-          <div className="py-16 pl-16 text-left">
+          <div className="py-16 pl-6 text-left lg:pl-16">
             <SafTitle color="dark" maxWidth={340} />
             <Fade cascade delay={900} triggerOnce={true}>
-              <div className="mr-14 mt-14 max-w-prose">
+              <div className="mr-6 mt-14 max-w-prose lg:mr-14">
                 {i18n.language === "en" && (
                   <div>
                     <p>
@@ -63,7 +63,7 @@ export default function Intro() {
             </Fade>
           </div>
         </div>
-        <div className="flex max-w-md flex-col bg-main-dark text-white">
+        <div className="flex flex-col bg-main-dark text-white md:max-w-xs lg:max-w-md">
           <div
             className="overlay relative bg-neutral-800 bg-cover bg-center px-20 py-16 text-center after:absolute after:inset-0 after:z-0 after:bg-black after:opacity-75 after:content-['']"
             style={{ backgroundImage: `url(${introImg})` }}
@@ -74,7 +74,7 @@ export default function Intro() {
               className="relative z-20 mx-auto max-w-[70%]"
             />
           </div>
-          <div className="mx-16 flex gap-8 py-12 text-left">
+          <div className="mx-6 flex gap-6 py-12 text-left lg:mx-16 lg:gap-8">
             <Fade cascade delay={1300} damping={0.2} triggerOnce={true}>
               <div className="h-60 border-l border-white"></div>
               {i18n.language == "en" && (
