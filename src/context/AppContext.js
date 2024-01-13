@@ -1,7 +1,23 @@
 import React, { createContext, useState, useContext } from "react";
 import { story1 } from "stories/story-1";
+import { story10 } from "stories/story-10";
+import { story11 } from "stories/story-11";
+import { story12 } from "stories/story-12";
+import { story13 } from "stories/story-13";
+import { story14 } from "stories/story-14";
+import { story15 } from "stories/story-15";
+import { story16 } from "stories/story-16";
+import { story17 } from "stories/story-17";
+import { story18 } from "stories/story-18";
+import { story19 } from "stories/story-19";
 import { story2 } from "stories/story-2";
 import { story3 } from "stories/story-3";
+import { story4 } from "stories/story-4";
+import { story5 } from "stories/story-5";
+import { story6 } from "stories/story-6";
+import { story7 } from "stories/story-7";
+import { story8 } from "stories/story-8";
+import { story9 } from "stories/story-9";
 
 export const AppContext = createContext({
   galleryModalIsOpen: false,
@@ -21,198 +37,22 @@ export const AppContextProvider = ({ children }) => {
     story1,
     story2,
     story3,
-    {
-      thumbnail: require("images/stories/4/main.webp"),
-      name: "Rulis Diana",
-      title: "",
-      content: "",
-      gallery: [
-        {
-          image: "",
-          caption: "",
-        },
-      ],
-    },
-    {
-      thumbnail: require("images/stories/5/main.webp"),
-      name: "Sri Wahyuni",
-      title: "",
-      content: "",
-      gallery: [
-        {
-          image: "",
-          caption: "",
-        },
-      ],
-    },
-    {
-      thumbnail: require("images/stories/6/main.webp"),
-      name: "Venolia Adeningrum",
-      title: "",
-      content: "",
-      gallery: [
-        {
-          image: "",
-          caption: "",
-        },
-      ],
-    },
-    {
-      thumbnail: require("images/stories/7/main.webp"),
-      name: "Annisa",
-      title: "",
-      content: "",
-      gallery: [
-        {
-          image: "",
-          caption: "",
-        },
-      ],
-    },
-    {
-      thumbnail: require("images/stories/8/main.webp"),
-      name: "Faoziah",
-      title: "",
-      content: "",
-      gallery: [
-        {
-          image: "",
-          caption: "",
-        },
-      ],
-    },
-    {
-      thumbnail: require("images/stories/9/main.webp"),
-      name: "Rita Ramadani",
-      title: "",
-      content: "",
-      gallery: [
-        {
-          image: "",
-          caption: "",
-        },
-      ],
-    },
-    {
-      thumbnail: require("images/stories/10/main.webp"),
-      name: "Sogi Alamsyah",
-      title: "",
-      content: "",
-      gallery: [
-        {
-          image: "",
-          caption: "",
-        },
-      ],
-    },
-    {
-      thumbnail: require("images/stories/11/main.webp"),
-      name: "Sugih Hartini",
-      title: "",
-      content: "",
-      gallery: [
-        {
-          image: "",
-          caption: "",
-        },
-      ],
-    },
-    {
-      thumbnail: require("images/stories/12/main.webp"),
-      name: "Yekti Puji Rahayu",
-      title: "",
-      content: "",
-      gallery: [
-        {
-          image: "",
-          caption: "",
-        },
-      ],
-    },
-    {
-      thumbnail: require("images/stories/13/main.webp"),
-      name: "Dira Septiani",
-      title: "",
-      content: "",
-      gallery: [
-        {
-          image: "",
-          caption: "",
-        },
-      ],
-    },
-    {
-      thumbnail: require("images/stories/14/main.webp"),
-      name: "Fifi Ekawati Rohmah",
-      title: "",
-      content: "",
-      gallery: [
-        {
-          image: "",
-          caption: "",
-        },
-      ],
-    },
-    {
-      thumbnail: require("images/stories/15/main.webp"),
-      name: "Nunung Fitriana",
-      title: "",
-      content: "",
-      gallery: [
-        {
-          image: "",
-          caption: "",
-        },
-      ],
-    },
-    {
-      thumbnail: require("images/stories/16/main.webp"),
-      name: "Dian Roudotul Jannah",
-      title: "",
-      content: "",
-      gallery: [
-        {
-          image: "",
-          caption: "",
-        },
-      ],
-    },
-    {
-      thumbnail: require("images/stories/17/main.webp"),
-      name: "Sri Nursyifa",
-      title: "",
-      content: "",
-      gallery: [
-        {
-          image: "",
-          caption: "",
-        },
-      ],
-    },
-    {
-      thumbnail: require("images/stories/18/main.webp"),
-      name: "Susilawati",
-      title: "",
-      content: "",
-      gallery: [
-        {
-          image: "",
-          caption: "",
-        },
-      ],
-    },
-    {
-      thumbnail: require("images/stories/19/main.webp"),
-      name: "Yuliana",
-      title: "",
-      content: "",
-      gallery: [
-        {
-          image: "",
-          caption: "",
-        },
-      ],
-    },
+    story4,
+    story5,
+    story6,
+    story7,
+    story8,
+    story9,
+    story10,
+    story11,
+    story12,
+    story13,
+    story14,
+    story15,
+    story16,
+    story17,
+    story18,
+    story19,
   ]);
 
   const [lightbox, setLightBox] = useState(null);

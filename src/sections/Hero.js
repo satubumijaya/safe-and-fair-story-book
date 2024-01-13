@@ -91,7 +91,7 @@ export default function Hero() {
             <Slider ref={sliderRef} dots={true} arrows={false} autoplay={true}>
               {stories.map((story, key) => {
                 return (
-                  <div className="">
+                  <div className="" key={key}>
                     <div
                       className="bg pt-[55%]"
                       style={{
@@ -109,6 +109,7 @@ export default function Hero() {
           {stories.map((story, key) => {
             return (
               <div
+                key={key}
                 className="relative flex-grow cursor-pointer after:absolute after:inset-0 after:bg-main after:opacity-0 after:transition-all after:duration-300 after:content-[''] hover:after:opacity-20"
                 onClick={() => sliderRef.current.slickGoTo(key)}
               >

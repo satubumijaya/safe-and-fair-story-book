@@ -109,7 +109,7 @@ export default function Closing() {
             >
               <div className="whitespace-nowrap px-3 tracking-widest">Home</div>
               <div className="mb-2 mt-2 flex flex-col items-center">
-                <div class="border-x-8 border-b-8 border-t-0 border-solid border-x-transparent border-b-black"></div>
+                <div className="border-x-8 border-b-8 border-t-0 border-solid border-x-transparent border-b-black"></div>
                 <div className="h-0.5 w-full flex-grow-0 bg-black"></div>
               </div>
             </div>

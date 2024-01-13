@@ -23,6 +23,7 @@ export default function Gallery() {
             if (key === homeIndex) {
               return (
                 <div
+                  key={key}
                   className="group relative h-full w-full cursor-pointer bg-neutral-500 transition-colors duration-500 hover:bg-main-dark"
                   onClick={() => window.fullpage_api.moveTo("home")}
                 >
@@ -43,6 +44,7 @@ export default function Gallery() {
 
             return (
               <div
+                key={key}
                 className="group relative w-full cursor-pointer"
                 onClick={() => {
                   setCurrentStory(story);

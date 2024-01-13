@@ -1,5 +1,5 @@
 import { AppContext } from "context/AppContext";
-import React, { useContext, useEffect } from "react";
+import React, { useContext, useEffect, useRef } from "react";
 import { Fade } from "react-awesome-reveal";
 import Modal from "react-overlays/Modal";
 import SafTitleOnly from "components/SafTitleOnly";
@@ -9,11 +9,14 @@ import { Transition } from "react-transition-group";
 export default function GalleryModal() {
   const { t, i18n, ready } = useTranslation();
   const lang = i18n.language;
+  const modalRef = useRef(null);
+
   const {
     galleryModalIsOpen,
+    setCurrentStory,
+    stories,
     setGalleryModalIsOpen,
     currentStory,
-    lightbox,
     setLightBox,
   } = useContext(AppContext);
 
@@ -32,11 +35,32 @@ export default function GalleryModal() {
 
   useEffect(() => {}, [galleryModalIsOpen]);
 
+  const moveStory = (type) => {
+    const index = parseInt(currentStory?.index);
+
+    let newIndex = 0;
+    if (type === "next") {
+      if (currentStory?.index >= 19) {
+        return;
+      }
+      newIndex = index;
+    }
+    if (type === "prev") {
+      if (currentStory?.index <= 1) {
+        return;
+      }
+      newIndex = index - 2;
+    }
+    modalRef.current.dialog.scrollTo({ top: 0, behavior: "smooth" });
+    setCurrentStory(stories[newIndex]);
+  };
+
   return (
     <div>
       <Modal
         onShow={() => window.fullpage_api.setAllowScrolling(false)}
         show={galleryModalIsOpen}
+        ref={modalRef}
         onExit={() => {
           window.fullpage_api.setAllowScrolling(true);
         }}
@@ -119,7 +143,11 @@ export default function GalleryModal() {
                     </div>
                   </div>
                   <div className="relative">
-                    <img class="w-full" src={currentStory?.thumbnail} alt="" />
+                    <img
+                      className="w-full"
+                      src={currentStory?.thumbnail}
+                      alt=""
+                    />
                     <div className="absolute bottom-0 left-0 mx-auto w-full bg-opacity-50 bg-gradient-to-b from-transparent to-black/50 py-10">
                       <div className="mx-auto flex max-w-[700px] text-white">
                         <div className="whitespace-nowrap text-3xl">
@@ -166,12 +194,13 @@ export default function GalleryModal() {
                       if (image?.image) {
                         return (
                           <div
+                            key={key}
                             className="group relative flex-1 cursor-pointer"
                             onClick={() =>
                               setLightBox({
                                 image: image.image,
                                 caption: image.caption,
-                                index: image.index,
+                                index: key,
                               })
                             }
                           >
@@ -209,8 +238,14 @@ export default function GalleryModal() {
                     <div className="mx-auto flex max-w-screen-md items-end gap-20  ">
                       <div className="flex-1">
                         <div
-                          className="cursor-pointer text-right font-semibold uppercase"
-                          onClick={() => window.fullpage_api.moveTo("gallery")}
+                          className={` text-right font-semibold uppercase ${
+                            currentStory?.index <= 1
+                              ? "opacity-40"
+                              : "cursor-pointer"
+                          }`}
+                          onClick={() => {
+                            moveStory("prev");
+                          }}
                         >
                           <div className="color-neutral-700 mb-1 whitespace-nowrap pl-6 leading-5 tracking-widest">
                             Previous <br />
@@ -235,14 +270,25 @@ export default function GalleryModal() {
                             Gallery
                           </div>
                           <div className="mb-2 mt-2 flex flex-col items-center">
-                            <div class="border-x-8 border-b-8 border-t-0 border-solid border-x-transparent border-b-neutral-700"></div>
+                            <div className="border-x-8 border-b-8 border-t-0 border-solid border-x-transparent border-b-neutral-700"></div>
                             <div className="h-0.5 w-full flex-grow-0 bg-neutral-700"></div>
                           </div>
                         </div>
                       </div>
 
                       <div className="flex-1">
-                        <div className="cursor-pointer text-left font-semibold uppercase">
+                        <div
+                          className={`text-left font-semibold uppercase 
+                          ${
+                            currentStory?.index >= 19
+                              ? "cursor-default opacity-40"
+                              : "cursor-pointer"
+                          }
+                          `}
+                          onClick={() => {
+                            moveStory("next");
+                          }}
+                        >
                           <div className="color-neutral-700 mb-1 whitespace-nowrap pr-6 leading-5 tracking-widest">
                             Next <br />
                             Story

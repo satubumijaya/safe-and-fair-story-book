@@ -17,7 +17,27 @@ export default function LightboxModal() {
   const closeModal = () => {
     setLightBox(null);
   };
-  console.log(lightbox);
+
+  const moveGallery = (type) => {
+    const index = lightbox.index;
+    let newIndex = 0;
+    if (type === "next") {
+      newIndex = index + 1;
+    }
+    if (type === "prev") {
+      newIndex = index - 1;
+    }
+
+    setLightBox({
+      image: currentStory?.gallery[newIndex]?.image,
+      caption: currentStory?.gallery[newIndex]?.caption,
+      index: newIndex,
+    });
+  };
+
+  console.log(lightbox?.index);
+  console.log(lightbox?.index);
+  console.log(currentStory?.gallery?.length);
   return (
     <div>
       <Modal
@@ -38,6 +58,7 @@ export default function LightboxModal() {
                 closeModal();
               }}
             ></div>
+
             <div className="relative top-0 z-50 mx-auto mb-20 mt-24 max-h-[60svh] max-w-fit bg-white">
               <button
                 onClick={() => {
@@ -61,6 +82,49 @@ export default function LightboxModal() {
                   </g>
                 </svg>
               </button>
+
+              {/* prev */}
+              {lightbox?.index > 0 && (
+                <button
+                  className="absolute right-full top-1/2 -translate-y-1/2 rotate-180"
+                  onClick={() => moveGallery("prev")}
+                >
+                  <div className="px-4 py-4">
+                    <svg
+                      className=" w-7"
+                      viewBox="0 0 30 9.97"
+                      xmlns="http://www.w3.org/2000/svg"
+                    >
+                      <path
+                        d="m30 5.01-8.62-5.01-.01 4.49-21.37-.06v1l21.36.06-.01 4.48z"
+                        fill="#fff"
+                      />
+                    </svg>
+                  </div>
+                </button>
+              )}
+
+              {/* next */}
+              {lightbox?.index < currentStory?.gallery?.length - 1 && (
+                <button
+                  className="absolute left-full top-1/2 -translate-y-1/2"
+                  onClick={() => moveGallery("next")}
+                >
+                  <div className="px-4 py-4">
+                    <svg
+                      className=" w-7"
+                      viewBox="0 0 30 9.97"
+                      xmlns="http://www.w3.org/2000/svg"
+                    >
+                      <path
+                        d="m30 5.01-8.62-5.01-.01 4.49-21.37-.06v1l21.36.06-.01 4.48z"
+                        fill="#fff"
+                      />
+                    </svg>
+                  </div>
+                </button>
+              )}
+
               <div>
                 <img
                   src={lightbox?.image}

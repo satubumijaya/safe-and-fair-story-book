@@ -16,7 +16,7 @@ export default function ScrollArrow() {
             className="h-6 w-6 fill-gray-600"
           >
             <path
-              fill-rule="evenodd"
+              fillRule="evenodd"
               d="M8 1v11.29l3.14-3.15 .7.7 -4.36 4.35 -4.36-4.36 .7-.71 3.14 3.14V.96h1Z"
             />
           </svg>
