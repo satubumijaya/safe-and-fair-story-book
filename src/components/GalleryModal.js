@@ -102,13 +102,12 @@ export default function GalleryModal() {
               {/* content */}
               <div className="bg-white">
                 <div className=" relative z-10 mx-auto h-full min-h-screen w-full">
-                  <div className="flex  w-full content-between items-end py-16">
-                    <div className="flex-1 px-10 text-left">
-                      {/* <h2 className="h whitespace-nowrap">Safe and Fair</h2> */}
+                  <div className="flex w-full flex-1 flex-col content-between items-end py-16 md:flex-row">
+                    <div className="mb-6 w-full flex-1 px-6 text-left md:mb-0 md:px-10">
                       <SafTitleOnly maxWidth={260} />
                     </div>
-                    <div className="ml-auto flex items-center">
-                      <div className="flex items-center fill-gray-700">
+                    <div className="flex items-center pl-6 max-sm:w-full md:ml-auto  md:px-0">
+                      <div className="flex w-full items-center fill-gray-700">
                         <div className="" style={{ width: 200 }}>
                           <svg
                             viewBox="0 0 227.74 13.25"
@@ -136,7 +135,7 @@ export default function GalleryModal() {
                         </div>
                         <div className="ml-3 flex-grow">
                           <div
-                            className={`h-[1px] w-20 flex-grow bg-neutral-700`}
+                            className={`h-[1px] w-full flex-grow bg-neutral-700 md:w-20`}
                           ></div>
                         </div>
                       </div>
@@ -148,14 +147,14 @@ export default function GalleryModal() {
                       src={currentStory?.thumbnail}
                       alt=""
                     />
-                    <div className="absolute bottom-0 left-0 mx-auto w-full bg-opacity-50 bg-gradient-to-b from-transparent to-black/50 py-10">
-                      <div className="mx-auto flex max-w-[700px] text-white">
+                    <div className="absolute bottom-0 left-0 mx-auto w-full bg-opacity-50 bg-gradient-to-b from-transparent to-black/50 py-10 pb-6 md:pb-10">
+                      <div className="mx-auto flex max-w-[700px] flex-col px-6 text-white md:flex-row md:px-0">
                         <div className="whitespace-nowrap text-3xl">
                           <h3 className=" border-r border-white pr-6">
                             {currentStory?.name}
                           </h3>
                         </div>
-                        <div className="pl-6 text-xs">
+                        <div className="hidden text-xs md:block md:pl-6">
                           This is the space for photo captions. Lorem ipsum
                           dolor sit amet, consectetuer adipiscing elit, sed diam
                           nonummy nibh euismod tincidunt ut laoreet dolore magna
@@ -171,7 +170,7 @@ export default function GalleryModal() {
                     </div>
                   </div>
 
-                  <div className="px-10 py-16">
+                  <div className="px-6 py-16 md:px-10">
                     <div className="mx-auto max-w-[700px]">
                       <div className="mb-6">
                         <div className="inline-block rounded bg-neutral-200 px-4 py-1 text-sm">
@@ -189,7 +188,7 @@ export default function GalleryModal() {
                   </div>
 
                   {/* bottom gallery */}
-                  <div className="grid grid-cols-4 pb-28">
+                  <div className="grid grid-cols-2 gap-1 pb-28 md:grid-cols-4 md:gap-0">
                     {currentStory?.gallery?.map((image, key) => {
                       if (image?.image) {
                         return (
@@ -234,68 +233,141 @@ export default function GalleryModal() {
                   </div>
 
                   {/* footer */}
-                  <div className="w-full border-t border-neutral-700 py-16">
-                    <div className="mx-auto flex max-w-screen-md items-end gap-20  ">
-                      <div className="flex-1">
-                        <div
-                          className={` text-right font-semibold uppercase ${
-                            currentStory?.index <= 1
-                              ? "opacity-40"
-                              : "cursor-pointer"
-                          }`}
-                          onClick={() => {
-                            moveStory("prev");
-                          }}
-                        >
-                          <div className="color-neutral-700 mb-1 whitespace-nowrap pl-6 leading-5 tracking-widest">
-                            Previous <br />
-                            Story
-                          </div>
-                          <div className="flex items-center">
-                            <div className="border-y-8 border-l-0 border-r-8 border-solid border-y-transparent border-r-neutral-700"></div>
-                            <div className="h-0.5 w-full flex-grow-0 bg-neutral-600"></div>
-                          </div>
-                        </div>
-                      </div>
-
-                      <div className="flex-1">
-                        <div
-                          className="cursor-pointer text-center font-semibold uppercase"
-                          onClick={() => {
-                            closeModal();
-                            window.fullpage_api.moveTo("gallery");
-                          }}
-                        >
-                          <div className="color-neutral-700 mb-1 whitespace-nowrap px-3 leading-5 tracking-widest">
-                            Gallery
-                          </div>
-                          <div className="mb-2 mt-2 flex flex-col items-center">
-                            <div className="border-x-8 border-b-8 border-t-0 border-solid border-x-transparent border-b-neutral-700"></div>
-                            <div className="h-0.5 w-full flex-grow-0 bg-neutral-700"></div>
+                  <div className="hidden md:block">
+                    <div className="w-full border-t border-neutral-700 px-6 py-16">
+                      <div className="mx-auto flex max-w-screen-md items-end md:gap-10 lg:gap-20  ">
+                        <div className="flex-1">
+                          <div
+                            className={` text-right font-semibold uppercase ${
+                              currentStory?.index <= 1
+                                ? "opacity-40"
+                                : "cursor-pointer"
+                            }`}
+                            onClick={() => {
+                              moveStory("prev");
+                            }}
+                          >
+                            <div className="color-neutral-700 mb-1 whitespace-nowrap pl-6 leading-5 tracking-widest">
+                              Previous <br />
+                              Story
+                            </div>
+                            <div className="flex items-center">
+                              <div className="border-y-8 border-l-0 border-r-8 border-solid border-y-transparent border-r-neutral-700"></div>
+                              <div className="h-0.5 w-full flex-grow-0 bg-neutral-600"></div>
+                            </div>
                           </div>
                         </div>
-                      </div>
 
-                      <div className="flex-1">
-                        <div
-                          className={`text-left font-semibold uppercase 
+                        <div className="flex-1">
+                          <div
+                            className="cursor-pointer text-center font-semibold uppercase"
+                            onClick={() => {
+                              closeModal();
+                              window.fullpage_api.moveTo("gallery");
+                            }}
+                          >
+                            <div className="color-neutral-700 mb-1 whitespace-nowrap px-3 leading-5 tracking-widest">
+                              Gallery
+                            </div>
+                            <div className="mb-2 mt-2 flex flex-col items-center">
+                              <div className="border-x-8 border-b-8 border-t-0 border-solid border-x-transparent border-b-neutral-700"></div>
+                              <div className="h-0.5 w-full flex-grow-0 bg-neutral-700"></div>
+                            </div>
+                          </div>
+                        </div>
+
+                        <div className="flex-1">
+                          <div
+                            className={`text-left font-semibold uppercase 
                           ${
                             currentStory?.index >= 19
                               ? "cursor-default opacity-40"
                               : "cursor-pointer"
                           }
                           `}
-                          onClick={() => {
-                            moveStory("next");
-                          }}
-                        >
-                          <div className="color-neutral-700 mb-1 whitespace-nowrap pr-6 leading-5 tracking-widest">
-                            Next <br />
-                            Story
+                            onClick={() => {
+                              moveStory("next");
+                            }}
+                          >
+                            <div className="color-neutral-700 mb-1 whitespace-nowrap pr-6 leading-5 tracking-widest">
+                              Next <br />
+                              Story
+                            </div>
+                            <div className="flex items-center">
+                              <div className="h-0.5 w-full flex-grow-0 bg-neutral-700"></div>
+                              <div className="border-y-8 border-l-8 border-r-0 border-solid border-y-transparent border-l-neutral-700"></div>
+                            </div>
                           </div>
-                          <div className="flex items-center">
-                            <div className="h-0.5 w-full flex-grow-0 bg-neutral-700"></div>
-                            <div className="border-y-8 border-l-8 border-r-0 border-solid border-y-transparent border-l-neutral-700"></div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+
+                  <div className="block md:hidden">
+                    <div className="w-full border-t border-neutral-700 px-6 py-16">
+                      <div className="mx-auto flex max-w-screen-md flex-col items-end gap-8  ">
+                        <div className="w-full flex-1">
+                          <div
+                            className="cursor-pointer text-center font-semibold uppercase"
+                            onClick={() => {
+                              closeModal();
+                              window.fullpage_api.moveTo("gallery");
+                            }}
+                          >
+                            <div className="color-neutral-700 mb-1 whitespace-nowrap px-3 leading-5 tracking-widest">
+                              Gallery
+                            </div>
+                            <div className="mb-2 mt-2 flex flex-col items-center">
+                              <div className="border-x-8 border-b-8 border-t-0 border-solid border-x-transparent border-b-neutral-700"></div>
+                              <div className="h-0.5 w-full flex-grow-0 bg-neutral-700"></div>
+                            </div>
+                          </div>
+                        </div>
+                        <div className="flex w-full gap-6">
+                          <div className="w-full flex-1">
+                            <div
+                              className={` text-right font-semibold uppercase ${
+                                currentStory?.index <= 1
+                                  ? "opacity-40"
+                                  : "cursor-pointer"
+                              }`}
+                              onClick={() => {
+                                moveStory("prev");
+                              }}
+                            >
+                              <div className="color-neutral-700 mb-1 whitespace-nowrap pl-6 leading-5 tracking-widest">
+                                Previous <br />
+                                Story
+                              </div>
+                              <div className="flex items-center">
+                                <div className="border-y-8 border-l-0 border-r-8 border-solid border-y-transparent border-r-neutral-700"></div>
+                                <div className="h-0.5 w-full flex-grow-0 bg-neutral-600"></div>
+                              </div>
+                            </div>
+                          </div>
+
+                          <div className="w-full flex-1">
+                            <div
+                              className={`text-left font-semibold uppercase 
+                          ${
+                            currentStory?.index >= 19
+                              ? "cursor-default opacity-40"
+                              : "cursor-pointer"
+                          }
+                          `}
+                              onClick={() => {
+                                moveStory("next");
+                              }}
+                            >
+                              <div className="color-neutral-700 mb-1 whitespace-nowrap pr-6 leading-5 tracking-widest">
+                                Next <br />
+                                Story
+                              </div>
+                              <div className="flex items-center">
+                                <div className="h-0.5 w-full flex-grow-0 bg-neutral-700"></div>
+                                <div className="border-y-8 border-l-8 border-r-0 border-solid border-y-transparent border-l-neutral-700"></div>
+                              </div>
+                            </div>
                           </div>
                         </div>
                       </div>

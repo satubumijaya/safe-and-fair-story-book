@@ -56,7 +56,7 @@ export default function LightboxModal() {
               }}
             ></div>
 
-            <div className="relative top-0 z-50 mx-auto mb-20 mt-24 max-h-[60svh] max-w-fit overflow-hidden bg-white">
+            <div className="relative top-0 z-50 mx-auto mb-20 mt-24 max-w-fit overflow-hidden bg-white lg:max-h-[60svh]">
               <button
                 onClick={() => {
                   closeModal();
