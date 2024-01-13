@@ -6,9 +6,9 @@ export default function SafTitle({
   maxWidth = 370,
   color = "dark",
 }) {
-  const headingWidth = maxWidth * 0.72 + 16;
+  const headingWidth = maxWidth * 0.72 + 24;
   const headingMarginBottom = maxWidth * 0.04;
-  const subheadingWidth = maxWidth * 1 + 16;
+  const subheadingWidth = maxWidth * 1 + 24;
   const subheadingMarginBottom = maxWidth * 0.1;
   const bottomWidth = maxWidth * 0.58;
   return (

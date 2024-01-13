@@ -77,7 +77,7 @@ export default function Gallery() {
                       <div className="mt-[2px] h-[1px] w-full bg-white"></div>
                       <div className="mx-auto h-0 w-0 border-4 border-solid border-transparent border-t-white"></div>
                     </div>
-                    <div className="bg-black bg-opacity-50 px-2 py-2 text-xs">
+                    <div className="bg-black bg-opacity-50 px-2 py-2 text-center text-xs">
                       {story.name}
                     </div>
                   </div>

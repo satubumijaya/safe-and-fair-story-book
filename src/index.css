@@ -28,12 +28,12 @@ h2,
 
 p {
   @apply mb-6;
-  &:last-child {
-    @apply mb-0;
-  }
-  a {
-    @apply text-main transition-colors hover:text-main-dark;
-  }
+}
+p:last-child {
+  @apply mb-0;
+}
+p a {
+  @apply text-main transition-colors hover:text-main-dark;
 }
 
 .fp-watermark {
@@ -46,17 +46,15 @@ blockquote {
 
 .slick-dots {
   @apply absolute bottom-4 left-1/2 z-10 !flex -translate-x-1/2 gap-1;
-  li {
-    button {
-      font-size: 0.1px !important;
-      line-height: 0.1px !important;
-      color: transparent;
-      @apply h-[3px] w-2 bg-white;
-    }
-    &.slick-active {
-      button {
-        @apply bg-main;
-      }
-    }
-  }
+}
+
+.slick-dots li button {
+  font-size: 0.1px !important;
+  line-height: 0.1px !important;
+  color: transparent;
+  @apply h-[3px] w-2 bg-white;
+}
+
+.slick-dots li.slick-active button {
+  @apply bg-main;
 }
