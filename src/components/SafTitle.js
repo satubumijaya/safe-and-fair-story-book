@@ -6,16 +6,16 @@ export default function SafTitle({
   maxWidth = 370,
   color = "dark",
 }) {
-  const headingWidth = maxWidth * 0.72;
+  const headingWidth = maxWidth * 0.72 + 16;
   const headingMarginBottom = maxWidth * 0.04;
-  const subheadingWidth = maxWidth * 1;
+  const subheadingWidth = maxWidth * 1 + 16;
   const subheadingMarginBottom = maxWidth * 0.1;
   const bottomWidth = maxWidth * 0.58;
   return (
     <div className={`${color === "dark" ? "fill-neutral-700" : "fill-white"}`}>
       <Fade cascade direction="up" damping={0.3} triggerOnce={true}>
         <div
-          className="max-w-full"
+          className="max-w-full pr-4"
           style={{ width: headingWidth, marginBottom: headingMarginBottom }}
         >
           <svg viewBox="0 0 282.15 33.98" xmlns="http://www.w3.org/2000/svg">
@@ -37,7 +37,7 @@ export default function SafTitle({
         </div>
 
         <div
-          className="max-w-full"
+          className="max-w-full pr-4"
           style={{
             width: subheadingWidth,
             marginBottom: subheadingMarginBottom,

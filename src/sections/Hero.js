@@ -42,7 +42,7 @@ export default function Hero() {
     <div className="section">
       <div className="relative pb-20 pt-10">
         {/* logo */}
-        <div className="mx-auto mb-12 px-6">
+        <div className="mx-auto mb-6 px-6 md:mb-12">
           <div className="flex items-end justify-center">
             <div className="flex items-end gap-4 border-r pr-2 md:gap-10 md:pr-8">
               <div>
