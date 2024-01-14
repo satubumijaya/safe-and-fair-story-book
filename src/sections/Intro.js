@@ -84,7 +84,7 @@ export default function Intro() {
               triggerOnce={true}
             >
               <div className="h-60 border-l border-white"></div>
-              {i18n.language == "en" && (
+              {i18n.language === "en" && (
                 <div>
                   <p>
                     Maecenas sit amet mi ut mi vestibulum finibus.Proin tempor

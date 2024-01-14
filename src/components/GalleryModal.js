@@ -33,7 +33,9 @@ export default function GalleryModal() {
     setGalleryModalIsOpen(false);
   };
 
-  useEffect(() => {}, [galleryModalIsOpen]);
+  useEffect(() => {
+    modalRef?.current?.dialog?.scrollTo({ top: 0, behavior: "smooth" });
+  }, [currentStory]);
 
   const moveStory = (type) => {
     const index = parseInt(currentStory?.index);
@@ -51,7 +53,6 @@ export default function GalleryModal() {
       }
       newIndex = index - 2;
     }
-    modalRef.current.dialog.scrollTo({ top: 0, behavior: "smooth" });
     setCurrentStory(stories[newIndex]);
   };
 
