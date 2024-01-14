@@ -3,6 +3,7 @@
 @tailwind utilities;
 
 @import "css/slick.css";
+/* @import "fonts/fonts.css"; */
 
 body {
   margin: 0;

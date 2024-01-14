@@ -76,33 +76,37 @@ export default function GalleryModal() {
                 closeModal();
               }}
             ></div>
-            <div className="relative top-0 z-50 mx-auto mb-20 mt-24 max-w-screen-lg bg-white">
-              <button
-                onClick={() => {
-                  closeModal();
-                }}
-                className="absolute -top-12 right-0 bg-main p-2 transition-colors hover:bg-main-dark"
-              >
-                <svg
-                  viewBox="0 0 22.43 22.43"
-                  xmlns="http://www.w3.org/2000/svg"
-                  className="h-5 w-5"
+            <div className="mb-20 mt-12">
+              <div className="sticky top-0 z-[60] flex w-full ">
+                <button
+                  onClick={() => {
+                    closeModal();
+                  }}
+                  className="-top-12 right-0 top-0 ml-auto bg-main p-2 transition-colors hover:bg-main-dark md:absolute"
                 >
-                  <g
-                    fill="#fff"
-                    stroke="#fff"
-                    strokeMiterlimit="10"
-                    strokeWidth="2"
+                  <svg
+                    viewBox="0 0 22.43 22.43"
+                    xmlns="http://www.w3.org/2000/svg"
+                    className="h-5 w-5"
                   >
-                    <path d="m.71 21.72 21.01-21.01" />
-                    <path d="m21.72 21.72-21.01-21.01" />
-                  </g>
-                </svg>
-              </button>
-              {/* content */}
-              <div className="bg-white">
+                    <g
+                      fill="#fff"
+                      stroke="#fff"
+                      strokeMiterlimit="10"
+                      strokeWidth="2"
+                    >
+                      <path d="m.71 21.72 21.01-21.01" />
+                      <path d="m21.72 21.72-21.01-21.01" />
+                    </g>
+                  </svg>
+                </button>
+              </div>
+              <div className="relative top-0 z-50 mx-auto  mt-3 max-w-screen-lg bg-white">
+                {/* content */}
+                {/* <div className=""> */}
                 <div className=" relative z-10 mx-auto h-full min-h-screen w-full">
-                  <div className="flex w-full flex-1 flex-col content-between items-end py-8 md:flex-row md:py-16">
+                  {/* header */}
+                  <div className="flex w-full flex-1 flex-col content-between items-end py-12 md:flex-row md:py-16">
                     <div className="mb-6 w-full flex-1 px-6 text-left md:mb-0 md:px-10">
                       <SafTitleOnly maxWidth={260} />
                     </div>
@@ -141,6 +145,7 @@ export default function GalleryModal() {
                       </div>
                     </div>
                   </div>
+
                   <div className="relative">
                     <img
                       className="w-full"
@@ -170,7 +175,7 @@ export default function GalleryModal() {
                     </div>
                   </div>
 
-                  <div className="px-6 py-16 md:px-10">
+                  <div className="px-6 py-10 md:px-10 md:py-16">
                     <div className="mx-auto max-w-[700px]">
                       <div className="mb-6">
                         <div className="inline-block rounded bg-neutral-200 px-4 py-1 text-sm">
@@ -188,7 +193,7 @@ export default function GalleryModal() {
                   </div>
 
                   {/* bottom gallery */}
-                  <div className="grid grid-cols-2 gap-1 pb-28 md:grid-cols-4 md:gap-0">
+                  <div className="grid grid-cols-2 gap-1 pb-16 md:grid-cols-4 md:gap-0 md:pb-28">
                     {currentStory?.gallery?.map((image, key) => {
                       if (image?.image) {
                         return (
@@ -374,6 +379,7 @@ export default function GalleryModal() {
                     </div>
                   </div>
                 </div>
+                {/* </div> */}
               </div>
             </div>
           </div>
