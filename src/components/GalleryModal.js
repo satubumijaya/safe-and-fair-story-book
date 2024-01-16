@@ -78,12 +78,12 @@ export default function GalleryModal() {
               }}
             ></div>
             <div className="mb-20 mt-12">
-              <div className="sticky top-0 z-[60] flex w-full ">
+              <div className="sticky top-0 z-[60] mx-auto flex w-full max-w-screen-lg">
                 <button
                   onClick={() => {
                     closeModal();
                   }}
-                  className="-top-12 right-0 top-0 ml-auto bg-main p-2 transition-colors hover:bg-main-dark md:absolute"
+                  className="-top-12 right-0 top-0 ml-auto bg-main p-2 transition-colors hover:bg-main-dark"
                 >
                   <svg
                     viewBox="0 0 22.43 22.43"

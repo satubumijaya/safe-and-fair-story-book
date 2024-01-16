@@ -65,42 +65,50 @@ export default function Intro() {
             </Fade>
           </div>
         </div>
-        <div className="flex flex-col bg-main-dark text-white md:max-w-xs lg:max-w-md">
+        <div className="flex flex-col bg-main text-white md:max-w-xs lg:max-w-md">
           <div
-            className="overlay relative bg-neutral-800 bg-cover bg-center px-20 py-16 text-center after:absolute after:inset-0 after:z-0 after:bg-black after:opacity-75 after:content-['']"
-            style={{ backgroundImage: `url(${introImg})` }}
+            className="overlay relative h-64 overflow-hidden bg-contain bg-center bg-no-repeat px-20 py-16 text-center"
+            style={
+              {
+                // backgroundImage: `url(${concave})`,
+                // backgroundPosition: `-50% -50%`,
+              }
+            }
           >
             <img
               src={concave}
               alt=""
-              className="relative z-20 mx-auto max-w-[70%]"
+              className="absolute bottom-8 left-1/2 aspect-square h-[150%] w-auto max-w-[200%]"
             />
           </div>
-          <div className="mx-6 flex gap-6 py-12 text-left lg:mx-16 lg:gap-8">
-            <Fade
-              cascade
-              delay={windowSize?.width >= 768 ? 1300 : 0}
-              damping={0.2}
-              triggerOnce={true}
-            >
-              <div className="h-60 border-l border-white"></div>
-              {i18n.language === "en" && (
-                <div>
-                  <p>
-                    Maecenas sit amet mi ut mi vestibulum finibus.Proin tempor
-                    est consectetur, aliquet ipsum scelerisque, tempor quam.Nunc
-                    ipsum nulla, commodo tempor laoreet ut, scelerisque eu
-                    quam.Curabitur gravida, libero eget elementum sollicitudin,
-                    eros mauris aliquam nunc, vitae fermentum felis neque at
-                    velit.Mauris vestibulum rutrum nibh, vitae volutpat odio
-                    feugiat eget.Vestibulum iaculis lobortis egestas.Curabitur
-                    tincidunt viverra odio.In tempus molestie lorem, at
-                    efficitur tortor tincidunt vitae.In ultrices lobortis
-                    scelerisque.Integer a mollis dolor, vel pellentesque diam.
-                  </p>
-                </div>
-              )}
-            </Fade>
+          <div className="bg-main-dark">
+            <div className="mx-6 flex gap-6  py-12 text-left lg:mx-16 lg:gap-8">
+              <Fade
+                cascade
+                delay={windowSize?.width >= 768 ? 1300 : 0}
+                damping={0.2}
+                triggerOnce={true}
+              >
+                <div className="h-60 border-l border-white"></div>
+                {i18n.language === "en" && (
+                  <div>
+                    <p>
+                      Maecenas sit amet mi ut mi vestibulum finibus.Proin tempor
+                      est consectetur, aliquet ipsum scelerisque, tempor
+                      quam.Nunc ipsum nulla, commodo tempor laoreet ut,
+                      scelerisque eu quam.Curabitur gravida, libero eget
+                      elementum sollicitudin, eros mauris aliquam nunc, vitae
+                      fermentum felis neque at velit.Mauris vestibulum rutrum
+                      nibh, vitae volutpat odio feugiat eget.Vestibulum iaculis
+                      lobortis egestas.Curabitur tincidunt viverra odio.In
+                      tempus molestie lorem, at efficitur tortor tincidunt
+                      vitae.In ultrices lobortis scelerisque.Integer a mollis
+                      dolor, vel pellentesque diam.
+                    </p>
+                  </div>
+                )}
+              </Fade>
+            </div>
           </div>
           <div className="mt-auto h-16 bg-main"></div>
         </div>

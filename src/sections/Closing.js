@@ -14,12 +14,18 @@ export default function Closing() {
   const { shareModalIsOpen, setShareModalIsOpen } = useContext(AppContext);
   return (
     <div className="section">
-      <div className="min-h-screen overflow-x-hidden text-left">
+      <div className="relative min-h-screen overflow-x-hidden text-left">
         <div className="flex h-10 bg-main">
           <div className="ml-6 h-14 flex-1 bg-main-dark md:mx-16"></div>
           <div className="flex-1"></div>
         </div>
 
+        <div
+          className="absolute right-0 top-10 -z-10 h-52 w-52 bg-contain"
+          style={{
+            backgroundImage: `url(${require("images/closing-concave.webp")}`,
+          }}
+        ></div>
         <div className="relative flex flex-col items-center gap-16 lg:flex-row xl:gap-32">
           <div className="flex-1 px-6 py-16 pb-0 pt-24 text-left md:px-16 lg:pr-6">
             <div className="mb-10 font-bold">
@@ -57,7 +63,7 @@ export default function Closing() {
             </div>
           </div>
 
-          <div className="md:-px-16 flex-1 lg:py-16">
+          <div className="flex-1 ">
             <div className="pl-6">
               <SafTitle className="w-full" color="dark" maxWidth={340} />
             </div>

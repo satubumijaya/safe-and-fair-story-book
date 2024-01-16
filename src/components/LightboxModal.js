@@ -48,7 +48,7 @@ export default function LightboxModal() {
         className="modal fixed inset-0 overflow-y-scroll"
       >
         <Fade triggerOnce={false}>
-          <div className="px-4">
+          <div className="flex min-h-[100vh] items-center px-4">
             <div
               className="absolute inset-0"
               onClick={() => {
@@ -56,7 +56,7 @@ export default function LightboxModal() {
               }}
             ></div>
 
-            <div className="relative top-0 z-50 mx-auto mb-20 mt-24 max-w-fit overflow-hidden bg-white lg:max-h-[60svh]">
+            <div className="relative top-0 z-50 mx-auto mb-12 mt-12 max-w-fit overflow-hidden bg-white ">
               <button
                 onClick={() => {
                   closeModal();
@@ -126,7 +126,7 @@ export default function LightboxModal() {
                 <img
                   src={lightbox?.image}
                   alt=""
-                  className="max-h-[60svh] w-full max-w-screen-md"
+                  className="max-h-[80svh] w-full max-w-screen-md lg:max-h-[calc(90svh-6rem)]"
                 />
                 <div className="bg-black px-6 py-4 text-sm text-white md:px-8">
                   <div className="border-l border-l-white py-1 pl-4">
