@@ -2,209 +2,233 @@ const dir = "2";
 export const story2 = {
   index: dir,
   thumbnail: require(`images/stories/${dir}/main.webp`),
-  name: "Elisabeth Rona",
+  name: "Yuliani",
   title: {
-    en: "Lulus Kuliah Lewat Jalur Program Safe and Fair",
-    id: "Lulus Kuliah Lewat Jalur Program Safe and Fair",
+    en: "Perjalananku Menyusuri Jalan Penuh Duri Sebagai Perempuan Pekerja Migran",
+    id: "Perjalananku Menyusuri Jalan Penuh Duri Sebagai Perempuan Pekerja Migran",
   },
   content: {
     en: (
       <div>
         <p>
-          Lika-liku perjalanan menulis skripsi biasa dialami kebanyakan
-          mahasiswa tingkat akhir. Menulis skripsi seperti menghadapi raja
-          terakhir menuju wisuda. Termasuk aku yang saat ini sedang berkutat di
-          depan layar laptop ditemani kursor di layar yang berkedip-kedip
-          bersamaan berlalunya detik waktu. Tik...tik...tik... Kursor itu masih
-          berkedip di akhir paragraf yang tidak aku lanjutkan. Nihil. Tidak ada
-          satupun inspirasi yang muncul di kepalaku. Setiap detik kursor itu
-          muncul di layar, semakin meningkat kecemasanku karena tidak mampu
-          menyelesaikan proposal penelitian ini. Aku merasa terjebak dalam
-          situasi yang membuatku frustasi. Terlebih lagi karena ada harapan
-          besar dari keluargaku untuk aku segera lulus kuliah.
+          Pertama kali saya mengenal Yayasan SAPA pada tahun 2019 dari cerita
+          suami. Saat itu saya mendapatkan masalah di Saudi Arabia, negara
+          tempat saya bekerja. Saat itu suami mencari bantuan dan melaporkan
+          kasus yang saya hadapi kepada Yayasan SAPA. Pada saat itu saya tidak
+          mengetahui bahwa saya dalam keadaan hamil, dikarenakan saya tidak
+          melakukan medical check up. Saya baru menyadari bahwa saya hamil 6
+          bulan setelah 5 bulan bekerja di sana.
         </p>
         <p>
-          Aku sampaikan kepada dosen pembimbing tentang kebuntuanku menulis
-          bahwa aku merasa asing dengan topik skripsi yang kupilih, hingga
-          ketidaktertarikan aku dengan dunia per-skripsi-an ini. Beliau
-          menyarankanku untuk meneliti tentang hal yang aku sukai, seperti
-          tentang LSM, tempat di mana aku menyibukkan diri, yang juga merupakan
-          sebuah dunia baru bagiku. Seseorang biasanya betah menghabiskan banyak
-          waktunya, jika berkutat dengan hal yang ia sukai, seperti aku katanya,
-          yang berkegiatan di LSM Damar selama lebih dari 1 tahun saat itu.
-          Topik awal penelitianku adalah bagaimana peran negara dalam menangani
-          isu perdagangan perempuan pekerja migran yang menjadi korban Tindak
-          Pidana Perdagangan Orang (TPPO). Topikku kemudian berubah dan yang
-          menjadi objek penelitianku adalah LSM Perkumpulan Damar.
-        </p>
-        <blockquote>
-          Seperti takdir, beberapa bulan kemudian Sely Fitriyani, Direktur
-          Eksekutif Lada Damar, mengundangku hadir dalam Zoom meeting program
-          Safe and Fair dari UN Women.
-        </blockquote>
-        <p>
-          Pertemuan ini membahas tentang perempuan pekerja migran yang rentan
-          mengalami kekerasan seperti TPPO yang mirip dengan topik penelitian
-          skripsiku. Aku berpikir program ini tentu akan membantu proses
-          penulisan skripsiku, karena topiknya sangat sesuai dengan penelitian
-          yang sedang aku lakukan. Mengetahui hal ini, aku mengajukan diri untuk
-          berpartisipasi dalam setiap kegiatan program Safe and Fair. Aku hadir
-          sebagai representasi dari Mulead Lampung - sebuah komunitas anak muda
-          yang concern pada isu gender dan konselor sebaya bagi perempuan korban
-          kekerasan.
+          Saat itu saya meminta pulang ke Indonesia, akan tetapi majikan saya
+          tidak memberikan izin. Kalau saya pulang, saya harus membayar ganti
+          rugi sebanyak 20 Juta. Saya mengabari keluarga, namun mereka tidak
+          sanggup memenuhi permintaan majikan. Akhirnya saya tetap bertahan di
+          Saudi dengan kondisi hamil dan dipekerjakan. Sampai akhirnya saya
+          melahirkan seorang anak laki-laki dengan berat 4 kg. Saat proses
+          melahirkan, saya berada di Rumah Sakit selama 1 minggu. Setelah pulang
+          ke rumah majikan, saya disuruh bekerja sampai usia anak saya dua
+          bulan.
         </p>
         <p>
-          Menurutku isu pekerja migran bukanlah isu yang menarik di kalangan
-          anak muda. Bukan isu “seksi” yang menarik untuk dijadikan topik
-          diskusi. Mungkin karena isu ini tidak relevan atau berdampak langsung
-          bagi anak-anak muda di sekitarku. Tapi aku melihat isu pekerja migran
-          khususnya bagi perempuan dan anak perempuan merupakan isu krusial yang
-          berdampak signifikan di tingkat global. Melalui kemampuan sederhanaku
-          memproduksi media kampanye, aku ikut berpartisipasi dalam penyusunan
-          RAD Provinsi Lampung untuk pencegahan dan penanganan TPPO, membentuk
-          kebijakan berupa SOP mekanisme penanganan kasus kekerasan yang dialami
-          pekerja migran oleh lembaga layanan, pertemuan lintas sektor dan
-          anggota gugus tugas, penguatan kapasitas bagi purna PMI, membantu
-          kepulangan perempuan-perempuan pekerja migran yang menjadi korban
-          TPPO, hingga kampanye kreatif dan aksi kolektif untuk meningkatkan
-          kesadaran publik akan isu TPPO yang rentan dialami oleh perempuan
-          pekerja migran.
+          Saya diperlakukan seperti bukan manusia di sana. Setelah anak saya
+          menginjak usia 2 bulan setengah, anak saya dianiaya oleh majikan
+          perempuan, dia dimasukkan ke bawah kursi, kepalanya dibenturkan ke
+          tiang kursi, anusnya dimasuki tulang ayam, ditidurkan di keramik tanpa
+          kasur, tanpa selimut dan tanpa sehelai baju. Sampai akhirnya anak saya
+          meninggal dunia. Begitupun dengan saya, yang mendapatkan siksaan dari
+          majikan. Rambut saya digunduli dan tangan saya disetrika. Majikan saya
+          mengancam, dia ingin saya meninggal di hadapannya. Setelah kejadian
+          itu saya dibawa ke kantor polisi untuk diinterogasi sembari menunggu
+          hasil otopsi keluar dalam satu minggu ke depan. Namun saya tidak
+          memiliki bukti bahwa saya bukan pelakunya, saya tetap menunggu sampai
+          satu tahun untuk bisa pulang ke Indonesia sembari saya menunggu kabar
+          dari suami terkait pertolongan dari Yayasan SAPA. Momen pertama kali
+          ketika saya bertemu dengan Yayasan SAPA adalah saat saya mendapatkan
+          layanan konseling psikologi dari mereka.
         </p>
         <p>
-          Sebagai mahasiswa yang baru mengenal isu gender, terlibat dalam
-          program Safe and Fair ini membuka pemahamanku bahwa isu gender adalah
-          isu yang sangat kompleks.
+          Setelah saya berada di rumah, saya hamil dan melahirkan di Rumah Sakit
+          Al Ihsan. Selama saya tinggal rumah sakit, saya tidak memiliki
+          identitas. Lalu Ibu Sugih, staf dari Yayasan SAPA meminta Ibu Dede
+          dari Dinas Sosial bantu membuatkan identitas saya, hingga sekarang
+          saya punya KTP. Kemudian saya terpikir untuk bekerja ke Bahrain, dan
+          pada Maret 2023 saya kembali memutuskan untuk pergi kerja ke luar
+          negeri dalam keadaan bingung dan serba salah dengan masalah yang saya
+          hadapi dalam rumah tangga. Saya yang saat itu harus meninggalkan anak
+          yang masih membutuhkan ASI.
         </p>
         <p>
-          Bagaimana perjuangan-perjuangan menuju kesetaraan ternyata juga masuk
-          dalam konteks migrasi internasional khususnya bagi mereka yang
-          digelari pahlawan devisa negara, pekerja migran. Seluruh proses itu
-          aku tuangkan ke dalam tulisan yang menjadi karya tulis ilmiah atau
-          skripsiku. Selama 1 tahun, diriku belajar seputar isu-isu krusial
-          khususnya memahami isu TPPO bagi pekerja migran sekaligus berproses
-          menjadi orang dewasa. Sebelumnya aku melihat skripsi adalah proses
-          yang sangat menyulitkan, aku merasa tidak yakin apakah aku mampu
-          melewatinya. Aku melihat teman-temanku berkutat pada buku-buku di
-          perpustakaan dan mengurung diri di kamar dari pagi ke pagi. Proses
-          yang membosankan dan membayangkannya saja aku sudah pusing. Namun
-          menulis skripsi berdasarkan pelaksanaan program Safe and Fair membuat
-          perjalananku menjadi lebih berwarna, senang bisa menuliskan
-          temuan-temuan di lapangan dan menjadikannya sebagai data ilmiah yang
-          valid.
+          Saya harus nekat pergi dengan segala masalah yang ada. Masalahnya
+          suami tidak bekerja dan beban utang yang menumpuk setiap harinya.
+          Tidak pikir panjang saya pergi ke teman mencari calo yang siap
+          memberangkatkan saya ke luar negeri. Minggu berikutnya saya pergi ke
+          Jakarta untuk bikin paspor dan medical check-up pasporan medical. Di
+          Jakarta saya ditempatkan di sebuah rumah kontrakan di petakan seluas
+          4x5 bersama 40 orang lainnya. Selama satu minggu saya berada di sana,
+          dengan segala rasa cemas dan bingung karena semua proses yang saya
+          lalui dirasakan janggal dan kurang wajar, orang yang mau pergi ke luar
+          negeri kenapa harus berwajah cantik.
         </p>
         <p>
-          Berakhirnya program Safe and Fair dan terselesaikannya skripsiku
-          bukanlah akhir dari jalanku terlibat dalam dunia pergerakan,
-          perjalananku 1 tahun kemarin adalah proses mengumpulkan amunisi
-          sebagai pejuang kesetaraan. Aku juga mengintrospeksi diri yang masih
-          memiliki banyak kekurangan ini, bagaimana belajar mengendalikan
-          keputusasaanku hidup di negeri yang belum menghargai perempuan. Besar
-          harapanku kedepannya untuk semakin dalam memahami isu gender sebagai
-          isu krusial, melalui pergumulanku di komunitas akar rumput. Pengalaman
-          itu tentu harus aku tuliskan agar menjadi sebuah pengetahuan yang tak
-          hanya aku miliki, tapi bisa aku bagikan kepada dunia. Seperti quotes
-          yang sering aku dengar di komunitas, bahwa pengalaman perempuan adalah
-          sumber pengetahuan.
+          Sebelum ini saya pernah berangkat dan tidak dipermasalahkan wajah
+          cantik dan bertubuh mulus tanpa luka. Suatu malam saya berpikir untuk
+          mencoba kontak dengan Ibu Sugih pendamping yang pernah membantu saya
+          sewaktu mengalami kekerasaan di Saudi di tahun 2020. Saya bercerita
+          tentang keadaan saya. Lalu saya diberi masukan oleh Ibu Sugih dan
+          akhirnya setelah dua hari kemudian saya memutuskan untuk kembali
+          pulang dengan pinjaman uang sebesar Rp 500.000 dari calo. Tanpa
+          disadari sesampai di rumah, uang itu membawa malapetaka karena saya
+          memutuskan untuk tidak jadi bekerja di Bahrain. Setiap hari saya
+          diteror, dimaki, dihina, dan diancam oleh calo. Dia bilang kepada saya
+          melalui Whatsapp voice note &ldquo;Dasar anjing, jangan macam-macam
+          sama orang Garut. Semoga tidak barokah, apa lagi dipake beli susu
+          anak, apalagi digunakan untuk kepentingan pribadi&rdquo;. Calo
+          mengancam, saya akan disantet dan membayar ganti rugi sebanyak Rp
+          10.000.000.
+        </p>
+        <p>
+          Setelah kejadian tersebut, saya melaporkan hal tersebut ke Disnaker
+          dan ke BP2MI. Selama kasus berlangsung, saya selalu didampingi ibu
+          Sugih. Saya diteror terus sama calo. Saya merasa takut dan merasa
+          tidak nyaman. Disnaker lalu melapor ke Polres Bandung dan dari situ
+          mulai sering berkomunikasi dengan Ibu Sugih, dan akhirnya saya diajak
+          ke Bandung DP3AKB Provinsi untuk berbagi pengalaman. Saya merasa
+          senang dan saya mendapatkan dukungan dari semua pihak. Dari sana saya
+          mulai menyadari kesalahan yang saya lakukan dan berniat ingin mengubah
+          hidup saya lebih baik. Sampai akhirnya saya kembali diajak ke Jakarta
+          dan bertemu kawan-kawan dari daerah lain untuk berbagi cerita disini
+          dengan harapan saya bisa jadi perempuan hebat dan kuat seperti
+          teman-teman saya dan berdaya. Lepas pulang dari Jakarta, di dalam di
+          kereta lokal Bandung - Cicalengka ada seorang perempuan beranak dua,
+          kemudian dia curhat kepada saya tentang rumah tangganya yang sedang
+          bermasalah dan berniat ingin pergi bekerja ke luar negeri. Saya
+          mencoba untuk mendengarkan dan memberi arahan supaya dia jangan sampai
+          mengambil keputusan yang tergesa-gesa seperti dulu yang saya alami.
+        </p>
+        <p>
+          <blockquote>
+            Pergi kerja ke luar negeri dengan cara non prosedur itu bukan jalan
+            keluar yang baik dan tak semudah yang kita bayangkan.
+          </blockquote>
+        </p>
+        <p>
+          Dari situ saya menyadari bahwa saya bisa memberi arahan kepada
+          teman-teman yang lain dan harapan saya kedepannya bisa lebih mandiri
+          berdaya secara ekonomi dan bisa menjadi pelopor dan pelapor bagi
+          teman-teman yang mengalami kasus seperti yang saya alami.
         </p>
       </div>
     ),
     id: (
       <div>
         <p>
-          Lika-liku perjalanan menulis skripsi biasa dialami kebanyakan
-          mahasiswa tingkat akhir. Menulis skripsi seperti menghadapi raja
-          terakhir menuju wisuda. Termasuk aku yang saat ini sedang berkutat di
-          depan layar laptop ditemani kursor di layar yang berkedip-kedip
-          bersamaan berlalunya detik waktu. Tik...tik...tik... Kursor itu masih
-          berkedip di akhir paragraf yang tidak aku lanjutkan. Nihil. Tidak ada
-          satupun inspirasi yang muncul di kepalaku. Setiap detik kursor itu
-          muncul di layar, semakin meningkat kecemasanku karena tidak mampu
-          menyelesaikan proposal penelitian ini. Aku merasa terjebak dalam
-          situasi yang membuatku frustasi. Terlebih lagi karena ada harapan
-          besar dari keluargaku untuk aku segera lulus kuliah.
+          Pertama kali saya mengenal Yayasan SAPA pada tahun 2019 dari cerita
+          suami. Saat itu saya mendapatkan masalah di Saudi Arabia, negara
+          tempat saya bekerja. Saat itu suami mencari bantuan dan melaporkan
+          kasus yang saya hadapi kepada Yayasan SAPA. Pada saat itu saya tidak
+          mengetahui bahwa saya dalam keadaan hamil, dikarenakan saya tidak
+          melakukan medical check up. Saya baru menyadari bahwa saya hamil 6
+          bulan setelah 5 bulan bekerja di sana.
         </p>
         <p>
-          Aku sampaikan kepada dosen pembimbing tentang kebuntuanku menulis
-          bahwa aku merasa asing dengan topik skripsi yang kupilih, hingga
-          ketidaktertarikan aku dengan dunia per-skripsi-an ini. Beliau
-          menyarankanku untuk meneliti tentang hal yang aku sukai, seperti
-          tentang LSM, tempat di mana aku menyibukkan diri, yang juga merupakan
-          sebuah dunia baru bagiku. Seseorang biasanya betah menghabiskan banyak
-          waktunya, jika berkutat dengan hal yang ia sukai, seperti aku katanya,
-          yang berkegiatan di LSM Damar selama lebih dari 1 tahun saat itu.
-          Topik awal penelitianku adalah bagaimana peran negara dalam menangani
-          isu perdagangan perempuan pekerja migran yang menjadi korban Tindak
-          Pidana Perdagangan Orang (TPPO). Topikku kemudian berubah dan yang
-          menjadi objek penelitianku adalah LSM Perkumpulan Damar.
-        </p>
-        <blockquote>
-          Seperti takdir, beberapa bulan kemudian Sely Fitriyani, Direktur
-          Eksekutif Lada Damar, mengundangku hadir dalam Zoom meeting program
-          Safe and Fair dari UN Women.
-        </blockquote>
-        <p>
-          Pertemuan ini membahas tentang perempuan pekerja migran yang rentan
-          mengalami kekerasan seperti TPPO yang mirip dengan topik penelitian
-          skripsiku. Aku berpikir program ini tentu akan membantu proses
-          penulisan skripsiku, karena topiknya sangat sesuai dengan penelitian
-          yang sedang aku lakukan. Mengetahui hal ini, aku mengajukan diri untuk
-          berpartisipasi dalam setiap kegiatan program Safe and Fair. Aku hadir
-          sebagai representasi dari Mulead Lampung - sebuah komunitas anak muda
-          yang concern pada isu gender dan konselor sebaya bagi perempuan korban
-          kekerasan.
+          Saat itu saya meminta pulang ke Indonesia, akan tetapi majikan saya
+          tidak memberikan izin. Kalau saya pulang, saya harus membayar ganti
+          rugi sebanyak 20 Juta. Saya mengabari keluarga, namun mereka tidak
+          sanggup memenuhi permintaan majikan. Akhirnya saya tetap bertahan di
+          Saudi dengan kondisi hamil dan dipekerjakan. Sampai akhirnya saya
+          melahirkan seorang anak laki-laki dengan berat 4 kg. Saat proses
+          melahirkan, saya berada di Rumah Sakit selama 1 minggu. Setelah pulang
+          ke rumah majikan, saya disuruh bekerja sampai usia anak saya dua
+          bulan.
         </p>
         <p>
-          Menurutku isu pekerja migran bukanlah isu yang menarik di kalangan
-          anak muda. Bukan isu “seksi” yang menarik untuk dijadikan topik
-          diskusi. Mungkin karena isu ini tidak relevan atau berdampak langsung
-          bagi anak-anak muda di sekitarku. Tapi aku melihat isu pekerja migran
-          khususnya bagi perempuan dan anak perempuan merupakan isu krusial yang
-          berdampak signifikan di tingkat global. Melalui kemampuan sederhanaku
-          memproduksi media kampanye, aku ikut berpartisipasi dalam penyusunan
-          RAD Provinsi Lampung untuk pencegahan dan penanganan TPPO, membentuk
-          kebijakan berupa SOP mekanisme penanganan kasus kekerasan yang dialami
-          pekerja migran oleh lembaga layanan, pertemuan lintas sektor dan
-          anggota gugus tugas, penguatan kapasitas bagi purna PMI, membantu
-          kepulangan perempuan-perempuan pekerja migran yang menjadi korban
-          TPPO, hingga kampanye kreatif dan aksi kolektif untuk meningkatkan
-          kesadaran publik akan isu TPPO yang rentan dialami oleh perempuan
-          pekerja migran.
+          Saya diperlakukan seperti bukan manusia di sana. Setelah anak saya
+          menginjak usia 2 bulan setengah, anak saya dianiaya oleh majikan
+          perempuan, dia dimasukkan ke bawah kursi, kepalanya dibenturkan ke
+          tiang kursi, anusnya dimasuki tulang ayam, ditidurkan di keramik tanpa
+          kasur, tanpa selimut dan tanpa sehelai baju. Sampai akhirnya anak saya
+          meninggal dunia. Begitupun dengan saya, yang mendapatkan siksaan dari
+          majikan. Rambut saya digunduli dan tangan saya disetrika. Majikan saya
+          mengancam, dia ingin saya meninggal di hadapannya. Setelah kejadian
+          itu saya dibawa ke kantor polisi untuk diinterogasi sembari menunggu
+          hasil otopsi keluar dalam satu minggu ke depan. Namun saya tidak
+          memiliki bukti bahwa saya bukan pelakunya, saya tetap menunggu sampai
+          satu tahun untuk bisa pulang ke Indonesia sembari saya menunggu kabar
+          dari suami terkait pertolongan dari Yayasan SAPA. Momen pertama kali
+          ketika saya bertemu dengan Yayasan SAPA adalah saat saya mendapatkan
+          layanan konseling psikologi dari mereka.
         </p>
         <p>
-          Sebagai mahasiswa yang baru mengenal isu gender, terlibat dalam
-          program Safe and Fair ini membuka pemahamanku bahwa isu gender adalah
-          isu yang sangat kompleks.
+          Setelah saya berada di rumah, saya hamil dan melahirkan di Rumah Sakit
+          Al Ihsan. Selama saya tinggal rumah sakit, saya tidak memiliki
+          identitas. Lalu Ibu Sugih, staf dari Yayasan SAPA meminta Ibu Dede
+          dari Dinas Sosial bantu membuatkan identitas saya, hingga sekarang
+          saya punya KTP. Kemudian saya terpikir untuk bekerja ke Bahrain, dan
+          pada Maret 2023 saya kembali memutuskan untuk pergi kerja ke luar
+          negeri dalam keadaan bingung dan serba salah dengan masalah yang saya
+          hadapi dalam rumah tangga. Saya yang saat itu harus meninggalkan anak
+          yang masih membutuhkan ASI.
         </p>
         <p>
-          Bagaimana perjuangan-perjuangan menuju kesetaraan ternyata juga masuk
-          dalam konteks migrasi internasional khususnya bagi mereka yang
-          digelari pahlawan devisa negara, pekerja migran. Seluruh proses itu
-          aku tuangkan ke dalam tulisan yang menjadi karya tulis ilmiah atau
-          skripsiku. Selama 1 tahun, diriku belajar seputar isu-isu krusial
-          khususnya memahami isu TPPO bagi pekerja migran sekaligus berproses
-          menjadi orang dewasa. Sebelumnya aku melihat skripsi adalah proses
-          yang sangat menyulitkan, aku merasa tidak yakin apakah aku mampu
-          melewatinya. Aku melihat teman-temanku berkutat pada buku-buku di
-          perpustakaan dan mengurung diri di kamar dari pagi ke pagi. Proses
-          yang membosankan dan membayangkannya saja aku sudah pusing. Namun
-          menulis skripsi berdasarkan pelaksanaan program Safe and Fair membuat
-          perjalananku menjadi lebih berwarna, senang bisa menuliskan
-          temuan-temuan di lapangan dan menjadikannya sebagai data ilmiah yang
-          valid.
+          Saya harus nekat pergi dengan segala masalah yang ada. Masalahnya
+          suami tidak bekerja dan beban utang yang menumpuk setiap harinya.
+          Tidak pikir panjang saya pergi ke teman mencari calo yang siap
+          memberangkatkan saya ke luar negeri. Minggu berikutnya saya pergi ke
+          Jakarta untuk bikin paspor dan medical check-up pasporan medical. Di
+          Jakarta saya ditempatkan di sebuah rumah kontrakan di petakan seluas
+          4x5 bersama 40 orang lainnya. Selama satu minggu saya berada di sana,
+          dengan segala rasa cemas dan bingung karena semua proses yang saya
+          lalui dirasakan janggal dan kurang wajar, orang yang mau pergi ke luar
+          negeri kenapa harus berwajah cantik.
         </p>
         <p>
-          Berakhirnya program Safe and Fair dan terselesaikannya skripsiku
-          bukanlah akhir dari jalanku terlibat dalam dunia pergerakan,
-          perjalananku 1 tahun kemarin adalah proses mengumpulkan amunisi
-          sebagai pejuang kesetaraan. Aku juga mengintrospeksi diri yang masih
-          memiliki banyak kekurangan ini, bagaimana belajar mengendalikan
-          keputusasaanku hidup di negeri yang belum menghargai perempuan. Besar
-          harapanku kedepannya untuk semakin dalam memahami isu gender sebagai
-          isu krusial, melalui pergumulanku di komunitas akar rumput. Pengalaman
-          itu tentu harus aku tuliskan agar menjadi sebuah pengetahuan yang tak
-          hanya aku miliki, tapi bisa aku bagikan kepada dunia. Seperti quotes
-          yang sering aku dengar di komunitas, bahwa pengalaman perempuan adalah
-          sumber pengetahuan.
+          Sebelum ini saya pernah berangkat dan tidak dipermasalahkan wajah
+          cantik dan bertubuh mulus tanpa luka. Suatu malam saya berpikir untuk
+          mencoba kontak dengan Ibu Sugih pendamping yang pernah membantu saya
+          sewaktu mengalami kekerasaan di Saudi di tahun 2020. Saya bercerita
+          tentang keadaan saya. Lalu saya diberi masukan oleh Ibu Sugih dan
+          akhirnya setelah dua hari kemudian saya memutuskan untuk kembali
+          pulang dengan pinjaman uang sebesar Rp 500.000 dari calo. Tanpa
+          disadari sesampai di rumah, uang itu membawa malapetaka karena saya
+          memutuskan untuk tidak jadi bekerja di Bahrain. Setiap hari saya
+          diteror, dimaki, dihina, dan diancam oleh calo. Dia bilang kepada saya
+          melalui Whatsapp voice note &ldquo;Dasar anjing, jangan macam-macam
+          sama orang Garut. Semoga tidak barokah, apa lagi dipake beli susu
+          anak, apalagi digunakan untuk kepentingan pribadi&rdquo;. Calo
+          mengancam, saya akan disantet dan membayar ganti rugi sebanyak Rp
+          10.000.000.
+        </p>
+        <p>
+          Setelah kejadian tersebut, saya melaporkan hal tersebut ke Disnaker
+          dan ke BP2MI. Selama kasus berlangsung, saya selalu didampingi ibu
+          Sugih. Saya diteror terus sama calo. Saya merasa takut dan merasa
+          tidak nyaman. Disnaker lalu melapor ke Polres Bandung dan dari situ
+          mulai sering berkomunikasi dengan Ibu Sugih, dan akhirnya saya diajak
+          ke Bandung DP3AKB Provinsi untuk berbagi pengalaman. Saya merasa
+          senang dan saya mendapatkan dukungan dari semua pihak. Dari sana saya
+          mulai menyadari kesalahan yang saya lakukan dan berniat ingin mengubah
+          hidup saya lebih baik. Sampai akhirnya saya kembali diajak ke Jakarta
+          dan bertemu kawan-kawan dari daerah lain untuk berbagi cerita disini
+          dengan harapan saya bisa jadi perempuan hebat dan kuat seperti
+          teman-teman saya dan berdaya. Lepas pulang dari Jakarta, di dalam di
+          kereta lokal Bandung - Cicalengka ada seorang perempuan beranak dua,
+          kemudian dia curhat kepada saya tentang rumah tangganya yang sedang
+          bermasalah dan berniat ingin pergi bekerja ke luar negeri. Saya
+          mencoba untuk mendengarkan dan memberi arahan supaya dia jangan sampai
+          mengambil keputusan yang tergesa-gesa seperti dulu yang saya alami.
+        </p>
+        <p>
+          <blockquote>
+            Pergi kerja ke luar negeri dengan cara non prosedur itu bukan jalan
+            keluar yang baik dan tak semudah yang kita bayangkan.
+          </blockquote>
+        </p>
+        <p>
+          Dari situ saya menyadari bahwa saya bisa memberi arahan kepada
+          teman-teman yang lain dan harapan saya kedepannya bisa lebih mandiri
+          berdaya secara ekonomi dan bisa menjadi pelopor dan pelapor bagi
+          teman-teman yang mengalami kasus seperti yang saya alami.
         </p>
       </div>
     ),

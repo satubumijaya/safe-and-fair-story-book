@@ -2,177 +2,241 @@ const dir = "4";
 export const story4 = {
   index: dir,
   thumbnail: require(`images/stories/${dir}/main.webp`),
-  name: "Ria Febriyanti",
+  name: "Yekti Puji Rahayu",
   title: {
-    en: "Orang Muda untuk Perubahan",
-    id: "Orang Muda untuk Perubahan",
+    en: "Aku dan Paralegal",
+    id: "Aku dan Paralegal",
   },
   content: {
     en: (
       <div>
         <p>
-          Apa yang terlintas di pikiran jika mendengar kata anak muda?
-          Organisasi PBB seperti UNESCO dan UNFPA mengartikan pemuda sebagai
-          individu yang memiliki usia antara 15-24 tahun. Hampir setiap orang
-          berpikir bahwa masa-masa menjadi anak muda merupakan masa yang sangat
-          seru. Masa mencari jati diri dengan terus menerus menumpuk keinginan
-          yang entah kapan dapat terkabulkan. Layaknya pemikiran-pemikiran
-          orang-orang tentang anak muda, anak muda saat ini tidak dapat
-          disamakan, ada yang memang memiliki semangat yang tinggi untuk masa
-          depannya, ada juga yang berpasrah diri dengan mengikuti arus hidupnya.
-          Sama seperti halnya anak muda di kota kelahiranku, Batam. Berbagai
-          pandangan tentang anak muda seringkali didengar mulai dari yang
-          positif hingga negatif.
+          Seperti biasa mentari pagi terbit dengan senyum manisnya. Menyapa
+          lembut tanaman padi yang menguning, runduk bulir padi menjanjikan
+          hasil yang berlimpah, dan membuat sang pemilik tersenyum merekah.
+          Seiring mentari senja kembali ke peraduan dan berganti sinar bulan
+          begitu indah lukisan alam desaku.
         </p>
         <p>
-          Melihat kondisi anak muda di kota kecil ini terkadang juga cukup
-          memprihatinkan. Mereka membangun lingkungan dengan batasan-batasan
-          standar tertentu, seperti harus menggunakan handphone merek tertentu,
-          baju branded, sepatu bagus dan masih banyak lagi, menurutku yang
-          membuat lingkungan sosial semakin sempit. Tidak cakap bersosialisasi
-          dengan pemikiran bahwa tidak ada yang lebih penting dari urusan diri
-          mereka sendiri. Kenyataannya memang seperti itu, situasi anak muda di
-          kota kecil ini.
-        </p>
-        <blockquote>
-          Sangat menarik menurutku ketika ada sekelompok anak muda yang
-          menghabiskan waktunya dengan membahas masalah sosial yang terjadi saat
-          ini. Terlebih fokus mereka ada pada permasalahan kotanya sendiri.
-        </blockquote>
-        <p>
-          Setiap akhir pekan mereka tanpa beban berkumpul dengan canda tawa yang
-          mengiringi rapat-rapat dengan topik serius seperti isu kekerasan yang
-          selalu saja berhasil menguras emosi.
+          Aku hidup di lingkungan dengan 5 dari 10 orang perempuan bekerja
+          sebagai buruh tani. Pada tahun 2021, menurut pemerintah Desa Suci,
+          desaku, ada 75 perempuan yang menjadi Pekerja Migran. Mereka sudah tak
+          tertarik lagi menjadi buruh tani karena desakan perekonomian keluarga,
+          karena utang, atau alasan lainnya seperti masalah rumah tangga dan
+          perceraian. Mereka memilih berlari meninggalkan semuanya, memilih
+          terbang melewati gunung, lautan dan ribuan mil jarak yang ditempuh
+          untuk pergi ke negeri seberang dengan harapan bisa mengais Ringgit,
+          Riyal dan Dollar yang akan mengubah kehidupan mereka dengan taruhan
+          meninggalkan keluarga dan sanak saudara.
         </p>
         <p>
-          Aku mengenal mereka dengan sangat dekat, bahkan aku pernah bergabung
-          di dalamnya tepatnya saat aku masih duduk di bangku SMA. Komunitas
-          anak muda KOMPAK (Komunitas Anak Muda Anti Perdagangan Orang dan
-          Eksploitasi Seksual) dan RAEKSA (Remaja Anti Eksploitasi Seksual Anak)
-          Namanya. Layaknya adik kakak yang lahir dari rahim yang sama, selalu
-          saja ada hal-hal pemantik debat dan pertengkaran yang sebenarnya
-          membuat mereka lebih dekat. Aku belajar dan bertumbuh bersama kelompok
-          anak muda ini. Jika dilihat jauh ke belakang aku ada bersama mereka
-          untuk berjuang bersama melawan dan mencegah kekerasan di kota kecil
-          ini sudah hampir 4 tahun. Bersama mereka, aku menjadi selalu punya
-          alasan untuk memperbaiki diri, belajar dengan lebih baik, hingga
-          mengerti makna yang besar dari berbagi dalam satu tujuan yang searah,
-          bersama untuk bermanfaat bagi orang lain. Bersama dengan penuh harap
-          dan berani mengambil langkah untuk dapat memberi penerangan di jalan
-          menuju masa depan yang lebih baik.
+          Mereka tergoda dengan janji manis sang calo, tanpa mengerti dan
+          memahami apakah mereka berangkat ke luar negeri dengan cara yang benar
+          apa tidak, apakah dengan cara yang prosedural dan amankah, mereka juga
+          tidak tahu.
         </p>
         <p>
-          Berkegiatan bersama kelompok anak muda ini, membuat energiku rasanya
-          seperti diisi ulang, dengan bersama-sama menumpahkan ide untuk
-          menggali berbagai cara agar dapat bergerak dengan keunikan yang harus
-          memiliki dampak nyata. Berbagai pandangan baru untuk mencegah dan
-          melawan kekerasan di lingkungan sendiri. Selama kelompok anak muda
-          berdaya, dengan jalannya sendiri, semakin pula menimbulkan banyak
-          pertanyaan dan pernyataan hingga tekanan dari berbagai pihak yang
-          menjadikan kami harus terus punya pondasi jati diri untuk tetap
-          bertahan dengan komitmen yang terus dibentuk dan diasah setiap
-          generasinya. Semakin lama bertumbuh beriringan dengan kelompok anak
-          muda ini, membuat diriku semakin sadar bahwa kalau kami ini membawa
-          perubahan yang nyata. Tidak usah terlalu jauh mengukur dan memandang
-          banyaknya masyarakat yang menerima manfaat, namun kami lah orang-orang
-          di dalamnya yang telah berhasil menjadi lebih baik dengan bertumbuh
-          bersama.
+          <blockquote>
+            Mereka hanya tahu dan berpikir bagaimana bisa berangkat dengan cepat
+            dan lekas bekerja dan mendapatkan uang. Tapi setelah sampai di
+            negara tujuan, ternyata visa mereka bukanlah visa kerja tapi visa
+            kunjungan yang hanya berlaku 90 hari.
+          </blockquote>
         </p>
         <p>
-          Kisahku sebagai penyintas kekerasan seksual dan perjalananku mencari
-          teman-teman yang searah untuk berjuang bersama melawan kekerasan,
-          ternyata menarik perhatian tim media Amerika untuk menjadikan kisahku
-          dan peran komunitas anak muda ini dalam sebuah film dokumenter yang
-          tayang di saluran VOA Indonesia yang berjudul “Healing is a Right”.
-          Dari sini kami sadari dan kembali kami refleksi bahwa kami tidak akan
-          ada dan berdampak sampai saat ini jika tidak ada “ibu” kami Yayasan
-          Embun Pelangi yang selalu memberikan penguatan pemahaman kepada kami,
-          salah satunya melalui program Safe and Fair untuk kami dapat terus
-          berdaya dan kuat bersuara.
+          Tidak ada pilihan selain bertahan dengan segala risiko yang ada.
+          Beruntung jika mereka menemukan majikan yang baik dan memperlakukan
+          mereka dengan baik, bagi mereka yang kurang beruntung, sering mendapat
+          kekerasan dan ketidakadilan dari majikan. Harapan untuk bisa pulang
+          membawa uang, tinggal harapan dan tak sesuai dengan impian. Semua
+          terjadi karena mereka belum mengerti dan paham akan apa itu bermigrasi
+          yang aman, bagaimana menjadi migran yang prosedural. Namun, ada juga
+          soal keterbatasan informasi dan tenaga penyuluh yang kurang memadai.
+        </p>
+        <p>
+          Miris jika mendengar cerita mereka, keluarga sudah menjadi korban,
+          anak-anak tumbuh besar tanpa belai kasih orang tua. Dari cerita dan
+          pengalaman mereka itulah, aku memilih untuk tetap bertahan berada di
+          desaku walau hidup dengan kesederhanaan asal bisa berkumpul bersama
+          keluarga dan membesarkan anak-anak. Aku menikmati proses tumbuh
+          kembang mereka sebagai bentuk kebahagian yang sangat luar biasa
+          bagiku.
+        </p>
+        <p>
+          Untuk menopang perekonomian keluarga kami, aku dan suamiku membuka
+          toko pertanian. Aku juga terlibat dalam kegiatan di desaku sebagai
+          kader PKK dan ikut dalam komunitas bank sampah. Suatu hari, bank
+          sampah kami diundang oleh Koalisi Perempuan Indonesia (KPI) dan itulah
+          awal aku mengenal KPI. Aku berkesempatan ngobrol bersama Ibu Sutipah
+          Sekretaris Cabang KPI Kabupaten Jember. Mendengar bahwa di Desa Suci
+          tempat aku tinggal terdapat banyak migran dan purna migran, pada 23
+          September 2021 KPI masuk ke desa kami dan terbentuklah Balai Perempuan
+          Desa Suci Berseri. Balai Perempuan adalah struktur terendah dari KPI
+          dan Balai Perempuan kami memiliki 4 dewan kelompok kepentingan di
+          antaranya: 1) Dewan kelompok kepentingan purna migran, 2) Dewan
+          kepentingan buruh perkebunan, 3) Dewan kepentingan rumah tangga, 4)
+          Dewan kepentingan informal.
+        </p>
+        <p>
+          Pada 9 Oktober 2021, kami dari tiga anggota KPI dan tiga orang dari
+          aparat desa diberi kesempatan mengikuti pelatihan paralegal di
+          Surabaya selama 3 hari yang didukung oleh Safe and Fair (SAF) dan UN
+          WOMEN. Tapi bukan hal yang mudah bagiku untuk mengantongi restu dan
+          izin dari suami untuk berangkat ke Surabaya. Tetapi aku berhasil
+          menyakinkan suami dengan seribu alasan dan penjelasan akhirnya aku
+          diberi izin untuk ke Surabaya.
+        </p>
+        <p>
+          Dari pelatihan paralegal inilah aku mendapat begitu banyak ilmu
+          tentang isu kekerasan terhadap perempuan dan anak, bagaimana
+          bermigrasi aman dan prosedural, apa itu TPPO, bullying, stereotipe,
+          dan budaya patriarki. Di tahun yang sama, desa kami akhirnya mempunyai
+          Balai Perempuaan Pusat Informasi pengaduan dan Advokasi (BP PIPA).
+          Semenjak ada BP PIPA, aku diberi kesempatan untuk memperkenalkan BP
+          PIPA dalam pertemuan PKK, Kader Posyandu, dan Pengajian Muslimat,
+          untuk memberi edukasi tentang isu kekerasan terhadap perempuan dan
+          anak.
+        </p>
+        <p>
+          Karena aku aktif di BP PIPA, suatu hari aku diminta mendampingi anak
+          korban kekerasan seksual sodomi. Korban bukan dari desa kami tetapi
+          keluarga korban mengenal aku. Mereka berharap aku bisa memberikan
+          solusi terhadap masalah yang mereka alami. Kami hanya berkomunikasi
+          lewat telepon untuk menjelaskan semuanya, dan aku segera menghubungi
+          Sekretaris Cabang KPI dan Unit Pelaksana Teknis Daerah Perlindungan
+          Perempuan &amp; Anak (UPTD PPA) Kabupaten Jember. UPD PPA kemudian
+          mendampingi korban hingga mendapatkan pendampingan psikolog untuk
+          mengembalikan kepercayaan dirinya dan Alhamdulillah akhirnya korban
+          bisa berani bersekolah kembali. Selain itu, aku juga sering sharing
+          pendapat dan mendengarkan curhat dari keluarga migran dan purna migran
+          sebagai bentuk tugasku sebagai paralegal.
+        </p>
+        <p>
+          Pada tahun 2022-2023, di desa ku ada 50 orang yang menjadi PMI, 32
+          diantaranya perempuan. Ini adalah data yang ada di Desa Suci. Mereka
+          berangkat dengan cara prosedural. Aku berharap dengan adanya
+          pelatihan-pelatihan pemberdayaan perempuan seperti pelatihan membuat
+          kue, mendaur ulang sampah limbah plastik (botol dan gelas plastik, tas
+          dari bungkus kopi dan sebagainya) dan diapers bekas menjadi pot bunga
+          dan tempat sampah yang mempunyai nilai jual. Kami berharap kaum
+          perempuan di desa kami berdaya dan mandiri di dalam negeri sehingga
+          tidak perlu memilih untuk pergi keluar negeri.
         </p>
       </div>
     ),
     id: (
       <div>
         <p>
-          Apa yang terlintas di pikiran jika mendengar kata anak muda?
-          Organisasi PBB seperti UNESCO dan UNFPA mengartikan pemuda sebagai
-          individu yang memiliki usia antara 15-24 tahun. Hampir setiap orang
-          berpikir bahwa masa-masa menjadi anak muda merupakan masa yang sangat
-          seru. Masa mencari jati diri dengan terus menerus menumpuk keinginan
-          yang entah kapan dapat terkabulkan. Layaknya pemikiran-pemikiran
-          orang-orang tentang anak muda, anak muda saat ini tidak dapat
-          disamakan, ada yang memang memiliki semangat yang tinggi untuk masa
-          depannya, ada juga yang berpasrah diri dengan mengikuti arus hidupnya.
-          Sama seperti halnya anak muda di kota kelahiranku, Batam. Berbagai
-          pandangan tentang anak muda seringkali didengar mulai dari yang
-          positif hingga negatif.
+          Seperti biasa mentari pagi terbit dengan senyum manisnya. Menyapa
+          lembut tanaman padi yang menguning, runduk bulir padi menjanjikan
+          hasil yang berlimpah, dan membuat sang pemilik tersenyum merekah.
+          Seiring mentari senja kembali ke peraduan dan berganti sinar bulan
+          begitu indah lukisan alam desaku.
         </p>
         <p>
-          Melihat kondisi anak muda di kota kecil ini terkadang juga cukup
-          memprihatinkan. Mereka membangun lingkungan dengan batasan-batasan
-          standar tertentu, seperti harus menggunakan handphone merek tertentu,
-          baju branded, sepatu bagus dan masih banyak lagi, menurutku yang
-          membuat lingkungan sosial semakin sempit. Tidak cakap bersosialisasi
-          dengan pemikiran bahwa tidak ada yang lebih penting dari urusan diri
-          mereka sendiri. Kenyataannya memang seperti itu, situasi anak muda di
-          kota kecil ini.
-        </p>
-        <blockquote>
-          Sangat menarik menurutku ketika ada sekelompok anak muda yang
-          menghabiskan waktunya dengan membahas masalah sosial yang terjadi saat
-          ini. Terlebih fokus mereka ada pada permasalahan kotanya sendiri.
-        </blockquote>
-        <p>
-          Setiap akhir pekan mereka tanpa beban berkumpul dengan canda tawa yang
-          mengiringi rapat-rapat dengan topik serius seperti isu kekerasan yang
-          selalu saja berhasil menguras emosi.
+          Aku hidup di lingkungan dengan 5 dari 10 orang perempuan bekerja
+          sebagai buruh tani. Pada tahun 2021, menurut pemerintah Desa Suci,
+          desaku, ada 75 perempuan yang menjadi Pekerja Migran. Mereka sudah tak
+          tertarik lagi menjadi buruh tani karena desakan perekonomian keluarga,
+          karena utang, atau alasan lainnya seperti masalah rumah tangga dan
+          perceraian. Mereka memilih berlari meninggalkan semuanya, memilih
+          terbang melewati gunung, lautan dan ribuan mil jarak yang ditempuh
+          untuk pergi ke negeri seberang dengan harapan bisa mengais Ringgit,
+          Riyal dan Dollar yang akan mengubah kehidupan mereka dengan taruhan
+          meninggalkan keluarga dan sanak saudara.
         </p>
         <p>
-          Aku mengenal mereka dengan sangat dekat, bahkan aku pernah bergabung
-          di dalamnya tepatnya saat aku masih duduk di bangku SMA. Komunitas
-          anak muda KOMPAK (Komunitas Anak Muda Anti Perdagangan Orang dan
-          Eksploitasi Seksual) dan RAEKSA (Remaja Anti Eksploitasi Seksual Anak)
-          Namanya. Layaknya adik kakak yang lahir dari rahim yang sama, selalu
-          saja ada hal-hal pemantik debat dan pertengkaran yang sebenarnya
-          membuat mereka lebih dekat. Aku belajar dan bertumbuh bersama kelompok
-          anak muda ini. Jika dilihat jauh ke belakang aku ada bersama mereka
-          untuk berjuang bersama melawan dan mencegah kekerasan di kota kecil
-          ini sudah hampir 4 tahun. Bersama mereka, aku menjadi selalu punya
-          alasan untuk memperbaiki diri, belajar dengan lebih baik, hingga
-          mengerti makna yang besar dari berbagi dalam satu tujuan yang searah,
-          bersama untuk bermanfaat bagi orang lain. Bersama dengan penuh harap
-          dan berani mengambil langkah untuk dapat memberi penerangan di jalan
-          menuju masa depan yang lebih baik.
+          Mereka tergoda dengan janji manis sang calo, tanpa mengerti dan
+          memahami apakah mereka berangkat ke luar negeri dengan cara yang benar
+          apa tidak, apakah dengan cara yang prosedural dan amankah, mereka juga
+          tidak tahu.
         </p>
         <p>
-          Berkegiatan bersama kelompok anak muda ini, membuat energiku rasanya
-          seperti diisi ulang, dengan bersama-sama menumpahkan ide untuk
-          menggali berbagai cara agar dapat bergerak dengan keunikan yang harus
-          memiliki dampak nyata. Berbagai pandangan baru untuk mencegah dan
-          melawan kekerasan di lingkungan sendiri. Selama kelompok anak muda
-          berdaya, dengan jalannya sendiri, semakin pula menimbulkan banyak
-          pertanyaan dan pernyataan hingga tekanan dari berbagai pihak yang
-          menjadikan kami harus terus punya pondasi jati diri untuk tetap
-          bertahan dengan komitmen yang terus dibentuk dan diasah setiap
-          generasinya. Semakin lama bertumbuh beriringan dengan kelompok anak
-          muda ini, membuat diriku semakin sadar bahwa kalau kami ini membawa
-          perubahan yang nyata. Tidak usah terlalu jauh mengukur dan memandang
-          banyaknya masyarakat yang menerima manfaat, namun kami lah orang-orang
-          di dalamnya yang telah berhasil menjadi lebih baik dengan bertumbuh
-          bersama.
+          <blockquote>
+            Mereka hanya tahu dan berpikir bagaimana bisa berangkat dengan cepat
+            dan lekas bekerja dan mendapatkan uang. Tapi setelah sampai di
+            negara tujuan, ternyata visa mereka bukanlah visa kerja tapi visa
+            kunjungan yang hanya berlaku 90 hari.
+          </blockquote>
         </p>
         <p>
-          Kisahku sebagai penyintas kekerasan seksual dan perjalananku mencari
-          teman-teman yang searah untuk berjuang bersama melawan kekerasan,
-          ternyata menarik perhatian tim media Amerika untuk menjadikan kisahku
-          dan peran komunitas anak muda ini dalam sebuah film dokumenter yang
-          tayang di saluran VOA Indonesia yang berjudul “Healing is a Right”.
-          Dari sini kami sadari dan kembali kami refleksi bahwa kami tidak akan
-          ada dan berdampak sampai saat ini jika tidak ada “ibu” kami Yayasan
-          Embun Pelangi yang selalu memberikan penguatan pemahaman kepada kami,
-          salah satunya melalui program Safe and Fair untuk kami dapat terus
-          berdaya dan kuat bersuara.
+          Tidak ada pilihan selain bertahan dengan segala risiko yang ada.
+          Beruntung jika mereka menemukan majikan yang baik dan memperlakukan
+          mereka dengan baik, bagi mereka yang kurang beruntung, sering mendapat
+          kekerasan dan ketidakadilan dari majikan. Harapan untuk bisa pulang
+          membawa uang, tinggal harapan dan tak sesuai dengan impian. Semua
+          terjadi karena mereka belum mengerti dan paham akan apa itu bermigrasi
+          yang aman, bagaimana menjadi migran yang prosedural. Namun, ada juga
+          soal keterbatasan informasi dan tenaga penyuluh yang kurang memadai.
+        </p>
+        <p>
+          Miris jika mendengar cerita mereka, keluarga sudah menjadi korban,
+          anak-anak tumbuh besar tanpa belai kasih orang tua. Dari cerita dan
+          pengalaman mereka itulah, aku memilih untuk tetap bertahan berada di
+          desaku walau hidup dengan kesederhanaan asal bisa berkumpul bersama
+          keluarga dan membesarkan anak-anak. Aku menikmati proses tumbuh
+          kembang mereka sebagai bentuk kebahagian yang sangat luar biasa
+          bagiku.
+        </p>
+        <p>
+          Untuk menopang perekonomian keluarga kami, aku dan suamiku membuka
+          toko pertanian. Aku juga terlibat dalam kegiatan di desaku sebagai
+          kader PKK dan ikut dalam komunitas bank sampah. Suatu hari, bank
+          sampah kami diundang oleh Koalisi Perempuan Indonesia (KPI) dan itulah
+          awal aku mengenal KPI. Aku berkesempatan ngobrol bersama Ibu Sutipah
+          Sekretaris Cabang KPI Kabupaten Jember. Mendengar bahwa di Desa Suci
+          tempat aku tinggal terdapat banyak migran dan purna migran, pada 23
+          September 2021 KPI masuk ke desa kami dan terbentuklah Balai Perempuan
+          Desa Suci Berseri. Balai Perempuan adalah struktur terendah dari KPI
+          dan Balai Perempuan kami memiliki 4 dewan kelompok kepentingan di
+          antaranya: 1) Dewan kelompok kepentingan purna migran, 2) Dewan
+          kepentingan buruh perkebunan, 3) Dewan kepentingan rumah tangga, 4)
+          Dewan kepentingan informal.
+        </p>
+        <p>
+          Pada 9 Oktober 2021, kami dari tiga anggota KPI dan tiga orang dari
+          aparat desa diberi kesempatan mengikuti pelatihan paralegal di
+          Surabaya selama 3 hari yang didukung oleh Safe and Fair (SAF) dan UN
+          WOMEN. Tapi bukan hal yang mudah bagiku untuk mengantongi restu dan
+          izin dari suami untuk berangkat ke Surabaya. Tetapi aku berhasil
+          menyakinkan suami dengan seribu alasan dan penjelasan akhirnya aku
+          diberi izin untuk ke Surabaya.
+        </p>
+        <p>
+          Dari pelatihan paralegal inilah aku mendapat begitu banyak ilmu
+          tentang isu kekerasan terhadap perempuan dan anak, bagaimana
+          bermigrasi aman dan prosedural, apa itu TPPO, bullying, stereotipe,
+          dan budaya patriarki. Di tahun yang sama, desa kami akhirnya mempunyai
+          Balai Perempuaan Pusat Informasi pengaduan dan Advokasi (BP PIPA).
+          Semenjak ada BP PIPA, aku diberi kesempatan untuk memperkenalkan BP
+          PIPA dalam pertemuan PKK, Kader Posyandu, dan Pengajian Muslimat,
+          untuk memberi edukasi tentang isu kekerasan terhadap perempuan dan
+          anak.
+        </p>
+        <p>
+          Karena aku aktif di BP PIPA, suatu hari aku diminta mendampingi anak
+          korban kekerasan seksual sodomi. Korban bukan dari desa kami tetapi
+          keluarga korban mengenal aku. Mereka berharap aku bisa memberikan
+          solusi terhadap masalah yang mereka alami. Kami hanya berkomunikasi
+          lewat telepon untuk menjelaskan semuanya, dan aku segera menghubungi
+          Sekretaris Cabang KPI dan Unit Pelaksana Teknis Daerah Perlindungan
+          Perempuan &amp; Anak (UPTD PPA) Kabupaten Jember. UPD PPA kemudian
+          mendampingi korban hingga mendapatkan pendampingan psikolog untuk
+          mengembalikan kepercayaan dirinya dan Alhamdulillah akhirnya korban
+          bisa berani bersekolah kembali. Selain itu, aku juga sering sharing
+          pendapat dan mendengarkan curhat dari keluarga migran dan purna migran
+          sebagai bentuk tugasku sebagai paralegal.
+        </p>
+        <p>
+          Pada tahun 2022-2023, di desa ku ada 50 orang yang menjadi PMI, 32
+          diantaranya perempuan. Ini adalah data yang ada di Desa Suci. Mereka
+          berangkat dengan cara prosedural. Aku berharap dengan adanya
+          pelatihan-pelatihan pemberdayaan perempuan seperti pelatihan membuat
+          kue, mendaur ulang sampah limbah plastik (botol dan gelas plastik, tas
+          dari bungkus kopi dan sebagainya) dan diapers bekas menjadi pot bunga
+          dan tempat sampah yang mempunyai nilai jual. Kami berharap kaum
+          perempuan di desa kami berdaya dan mandiri di dalam negeri sehingga
+          tidak perlu memilih untuk pergi keluar negeri.
         </p>
       </div>
     ),

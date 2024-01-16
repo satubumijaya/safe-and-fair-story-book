@@ -2,177 +2,149 @@ const dir = "5";
 export const story5 = {
   index: dir,
   thumbnail: require(`images/stories/${dir}/main.webp`),
-  name: "Ria Febriyanti",
+  name: "Rulis Diana",
   title: {
-    en: "Orang Muda untuk Perubahan",
-    id: "Orang Muda untuk Perubahan",
+    en: "Berdiri karena Keberanian",
+    id: "Berdiri karena Keberanian",
   },
   content: {
     en: (
       <div>
         <p>
-          Apa yang terlintas di pikiran jika mendengar kata anak muda?
-          Organisasi PBB seperti UNESCO dan UNFPA mengartikan pemuda sebagai
-          individu yang memiliki usia antara 15-24 tahun. Hampir setiap orang
-          berpikir bahwa masa-masa menjadi anak muda merupakan masa yang sangat
-          seru. Masa mencari jati diri dengan terus menerus menumpuk keinginan
-          yang entah kapan dapat terkabulkan. Layaknya pemikiran-pemikiran
-          orang-orang tentang anak muda, anak muda saat ini tidak dapat
-          disamakan, ada yang memang memiliki semangat yang tinggi untuk masa
-          depannya, ada juga yang berpasrah diri dengan mengikuti arus hidupnya.
-          Sama seperti halnya anak muda di kota kelahiranku, Batam. Berbagai
-          pandangan tentang anak muda seringkali didengar mulai dari yang
-          positif hingga negatif.
+          Desaku Tamanagung adalah desa yang memiliki 4000 lebih penduduk,
+          hampir sepertiganya pergi ke luar negeri untuk bekerja, ada yang ke
+          Hongkong, Singapura, Taiwan, Malaysia , Arab Saudi dan lainnya. Ada
+          beberapa faktor yang membuat mereka memilih untuk bekerja di luar
+          negeri di antaranya faktor ekonomi. Walaupun faktanya, paling tidak
+          saat saya memberikan pendampingan, ada 3 orang setiap bulannya yang
+          mengalami perlakuan tidak baik di sana. Ada yang gajinya tidak
+          dibayar, ada yang mendapatkan siksaan bahkan sampai meninggal dunia.
         </p>
         <p>
-          Melihat kondisi anak muda di kota kecil ini terkadang juga cukup
-          memprihatinkan. Mereka membangun lingkungan dengan batasan-batasan
-          standar tertentu, seperti harus menggunakan handphone merek tertentu,
-          baju branded, sepatu bagus dan masih banyak lagi, menurutku yang
-          membuat lingkungan sosial semakin sempit. Tidak cakap bersosialisasi
-          dengan pemikiran bahwa tidak ada yang lebih penting dari urusan diri
-          mereka sendiri. Kenyataannya memang seperti itu, situasi anak muda di
-          kota kecil ini.
-        </p>
-        <blockquote>
-          Sangat menarik menurutku ketika ada sekelompok anak muda yang
-          menghabiskan waktunya dengan membahas masalah sosial yang terjadi saat
-          ini. Terlebih fokus mereka ada pada permasalahan kotanya sendiri.
-        </blockquote>
-        <p>
-          Setiap akhir pekan mereka tanpa beban berkumpul dengan canda tawa yang
-          mengiringi rapat-rapat dengan topik serius seperti isu kekerasan yang
-          selalu saja berhasil menguras emosi.
+          Pada tahun 2011, ketika saya berusia 19 tahun, saya mendapat tawaran
+          dari tetangga saya yang bekerja sebagai sponsor di sebuah perusahaan
+          di Malang. Beliau menawarkan saya pekerjaan sebagai Asisten Rumah
+          Tangga di Taiwan dengan gaji yang cukup menggiurkan. Akhirnya, saya
+          menerima tawaran tersebut. Singkat cerita, setelah menjalani
+          pemeriksaan medis, saya berangkat ke perusahaan di Malang yang
+          ditawari oleh tetangga saya. Namun, saya sangat terkejut ketika sampai
+          di sana karena ternyata perusahaan tersebut hanya sebuah rumah kecil
+          yang seharusnya hanya ditempati oleh maksimal 5 orang, tetapi dihuni
+          oleh hampir 50 orang.
         </p>
         <p>
-          Aku mengenal mereka dengan sangat dekat, bahkan aku pernah bergabung
-          di dalamnya tepatnya saat aku masih duduk di bangku SMA. Komunitas
-          anak muda KOMPAK (Komunitas Anak Muda Anti Perdagangan Orang dan
-          Eksploitasi Seksual) dan RAEKSA (Remaja Anti Eksploitasi Seksual Anak)
-          Namanya. Layaknya adik kakak yang lahir dari rahim yang sama, selalu
-          saja ada hal-hal pemantik debat dan pertengkaran yang sebenarnya
-          membuat mereka lebih dekat. Aku belajar dan bertumbuh bersama kelompok
-          anak muda ini. Jika dilihat jauh ke belakang aku ada bersama mereka
-          untuk berjuang bersama melawan dan mencegah kekerasan di kota kecil
-          ini sudah hampir 4 tahun. Bersama mereka, aku menjadi selalu punya
-          alasan untuk memperbaiki diri, belajar dengan lebih baik, hingga
-          mengerti makna yang besar dari berbagi dalam satu tujuan yang searah,
-          bersama untuk bermanfaat bagi orang lain. Bersama dengan penuh harap
-          dan berani mengambil langkah untuk dapat memberi penerangan di jalan
-          menuju masa depan yang lebih baik.
+          <blockquote>
+            Ketika ada pihak kepolisian datang, saya dan beberapa orang lainnya
+            harus bersembunyi di kolong ranjang dan kamar mandi. Pada saat itu,
+            kondisi kesehatan saya sudah kurang baik, sehingga saya meminta izin
+            untuk berobat dan diizinkan pulang. Sejak saat itu, saya tidak
+            pernah kembali ke sana.
+          </blockquote>
         </p>
         <p>
-          Berkegiatan bersama kelompok anak muda ini, membuat energiku rasanya
-          seperti diisi ulang, dengan bersama-sama menumpahkan ide untuk
-          menggali berbagai cara agar dapat bergerak dengan keunikan yang harus
-          memiliki dampak nyata. Berbagai pandangan baru untuk mencegah dan
-          melawan kekerasan di lingkungan sendiri. Selama kelompok anak muda
-          berdaya, dengan jalannya sendiri, semakin pula menimbulkan banyak
-          pertanyaan dan pernyataan hingga tekanan dari berbagai pihak yang
-          menjadikan kami harus terus punya pondasi jati diri untuk tetap
-          bertahan dengan komitmen yang terus dibentuk dan diasah setiap
-          generasinya. Semakin lama bertumbuh beriringan dengan kelompok anak
-          muda ini, membuat diriku semakin sadar bahwa kalau kami ini membawa
-          perubahan yang nyata. Tidak usah terlalu jauh mengukur dan memandang
-          banyaknya masyarakat yang menerima manfaat, namun kami lah orang-orang
-          di dalamnya yang telah berhasil menjadi lebih baik dengan bertumbuh
-          bersama.
+          Setelah kembali ke desa, saya bergabung dengan Koalisi Perempuan
+          Indonesia (KPI). Melalui program Safe and Fair yang didukung oleh UN
+          WOMEN, KPI Banyuwangi bersinergi dengan pemerintah desa dan pemangku
+          kepentingan lainnya, dengan harapan bahwa kami bisa menjadi
+          perpanjangan tangan tempat para Pekerja Migran Indonesia (PMI) mengadu
+          dan mendapatkan perlindungan. Kami mengadakan pertemuan dan diskusi
+          terfokus membahas tentang permasalahan PMI yang ada di Desa
+          Tamanagung. Selain dari pemerintah desa kami juga melibatkan tokoh
+          pemuda, tokoh masyarakat, dan tokoh agama untuk ikut andil dalam
+          perlindungan PMI. Meskipun pemerintah desa belum bisa memberikan
+          anggaran untuk perlindungan PMI, tapi mereka sudah mau memberikan
+          informasi saat ada PMI mau ke luar negeri untuk kita dampingi.
         </p>
         <p>
-          Kisahku sebagai penyintas kekerasan seksual dan perjalananku mencari
-          teman-teman yang searah untuk berjuang bersama melawan kekerasan,
-          ternyata menarik perhatian tim media Amerika untuk menjadikan kisahku
-          dan peran komunitas anak muda ini dalam sebuah film dokumenter yang
-          tayang di saluran VOA Indonesia yang berjudul “Healing is a Right”.
-          Dari sini kami sadari dan kembali kami refleksi bahwa kami tidak akan
-          ada dan berdampak sampai saat ini jika tidak ada “ibu” kami Yayasan
-          Embun Pelangi yang selalu memberikan penguatan pemahaman kepada kami,
-          salah satunya melalui program Safe and Fair untuk kami dapat terus
-          berdaya dan kuat bersuara.
+          Pasca pelatihan paralegal yang telah diberikan kepada kami, membuat
+          pengetahuan kami bertambah dalam memahami langkah-langkah yang harus
+          dilakukan saat ada PMI menghadapi kendala. Kami juga sudah membentuk 2
+          Balai Perempuan Pusat Informasi Pengaduan dan Advokasi (BPPIPA) di
+          desa kami. Selain memberikan informasi untuk menjadi PMI yang aman dan
+          prosedural, kami juga mendampingi saat ada PMI yang sakit stroke dan
+          ingin pulang tetapi pihak sponsor malah meminta uang tebusan. Meski
+          kami selalu ada dan siap membantu PMI, tapi tentu saja kami berharap
+          tidak ada lagi PMI yang mengalami kekerasan dalam bekerja dan saat
+          jauh dari keluarga.
+        </p>
+        <p>
+          DI BP PIPA, Kami juga membantu mendampingi purna PMI yang mengalami
+          pelecehan seksual oleh majikannya hingga mengalami trauma dan
+          terganggu kesehatan mentalnya. Kami mendampingi dengan melaporkan
+          kepada pihak Puskesmas yang fokus pendampingan pada dokter gangguan
+          kejiwaan untuk bisa mendapatkan pelayanan kesehatan. Kami juga telah
+          membuat nota kesepahaman dan kerjasama MOU dengan lembaga psikologi
+          Exafit untuk kerjasama memberikan layanan pendampingan korban.
         </p>
       </div>
     ),
     id: (
       <div>
         <p>
-          Apa yang terlintas di pikiran jika mendengar kata anak muda?
-          Organisasi PBB seperti UNESCO dan UNFPA mengartikan pemuda sebagai
-          individu yang memiliki usia antara 15-24 tahun. Hampir setiap orang
-          berpikir bahwa masa-masa menjadi anak muda merupakan masa yang sangat
-          seru. Masa mencari jati diri dengan terus menerus menumpuk keinginan
-          yang entah kapan dapat terkabulkan. Layaknya pemikiran-pemikiran
-          orang-orang tentang anak muda, anak muda saat ini tidak dapat
-          disamakan, ada yang memang memiliki semangat yang tinggi untuk masa
-          depannya, ada juga yang berpasrah diri dengan mengikuti arus hidupnya.
-          Sama seperti halnya anak muda di kota kelahiranku, Batam. Berbagai
-          pandangan tentang anak muda seringkali didengar mulai dari yang
-          positif hingga negatif.
+          Desaku Tamanagung adalah desa yang memiliki 4000 lebih penduduk,
+          hampir sepertiganya pergi ke luar negeri untuk bekerja, ada yang ke
+          Hongkong, Singapura, Taiwan, Malaysia , Arab Saudi dan lainnya. Ada
+          beberapa faktor yang membuat mereka memilih untuk bekerja di luar
+          negeri di antaranya faktor ekonomi. Walaupun faktanya, paling tidak
+          saat saya memberikan pendampingan, ada 3 orang setiap bulannya yang
+          mengalami perlakuan tidak baik di sana. Ada yang gajinya tidak
+          dibayar, ada yang mendapatkan siksaan bahkan sampai meninggal dunia.
         </p>
         <p>
-          Melihat kondisi anak muda di kota kecil ini terkadang juga cukup
-          memprihatinkan. Mereka membangun lingkungan dengan batasan-batasan
-          standar tertentu, seperti harus menggunakan handphone merek tertentu,
-          baju branded, sepatu bagus dan masih banyak lagi, menurutku yang
-          membuat lingkungan sosial semakin sempit. Tidak cakap bersosialisasi
-          dengan pemikiran bahwa tidak ada yang lebih penting dari urusan diri
-          mereka sendiri. Kenyataannya memang seperti itu, situasi anak muda di
-          kota kecil ini.
-        </p>
-        <blockquote>
-          Sangat menarik menurutku ketika ada sekelompok anak muda yang
-          menghabiskan waktunya dengan membahas masalah sosial yang terjadi saat
-          ini. Terlebih fokus mereka ada pada permasalahan kotanya sendiri.
-        </blockquote>
-        <p>
-          Setiap akhir pekan mereka tanpa beban berkumpul dengan canda tawa yang
-          mengiringi rapat-rapat dengan topik serius seperti isu kekerasan yang
-          selalu saja berhasil menguras emosi.
+          Pada tahun 2011, ketika saya berusia 19 tahun, saya mendapat tawaran
+          dari tetangga saya yang bekerja sebagai sponsor di sebuah perusahaan
+          di Malang. Beliau menawarkan saya pekerjaan sebagai Asisten Rumah
+          Tangga di Taiwan dengan gaji yang cukup menggiurkan. Akhirnya, saya
+          menerima tawaran tersebut. Singkat cerita, setelah menjalani
+          pemeriksaan medis, saya berangkat ke perusahaan di Malang yang
+          ditawari oleh tetangga saya. Namun, saya sangat terkejut ketika sampai
+          di sana karena ternyata perusahaan tersebut hanya sebuah rumah kecil
+          yang seharusnya hanya ditempati oleh maksimal 5 orang, tetapi dihuni
+          oleh hampir 50 orang.
         </p>
         <p>
-          Aku mengenal mereka dengan sangat dekat, bahkan aku pernah bergabung
-          di dalamnya tepatnya saat aku masih duduk di bangku SMA. Komunitas
-          anak muda KOMPAK (Komunitas Anak Muda Anti Perdagangan Orang dan
-          Eksploitasi Seksual) dan RAEKSA (Remaja Anti Eksploitasi Seksual Anak)
-          Namanya. Layaknya adik kakak yang lahir dari rahim yang sama, selalu
-          saja ada hal-hal pemantik debat dan pertengkaran yang sebenarnya
-          membuat mereka lebih dekat. Aku belajar dan bertumbuh bersama kelompok
-          anak muda ini. Jika dilihat jauh ke belakang aku ada bersama mereka
-          untuk berjuang bersama melawan dan mencegah kekerasan di kota kecil
-          ini sudah hampir 4 tahun. Bersama mereka, aku menjadi selalu punya
-          alasan untuk memperbaiki diri, belajar dengan lebih baik, hingga
-          mengerti makna yang besar dari berbagi dalam satu tujuan yang searah,
-          bersama untuk bermanfaat bagi orang lain. Bersama dengan penuh harap
-          dan berani mengambil langkah untuk dapat memberi penerangan di jalan
-          menuju masa depan yang lebih baik.
+          <blockquote>
+            Ketika ada pihak kepolisian datang, saya dan beberapa orang lainnya
+            harus bersembunyi di kolong ranjang dan kamar mandi. Pada saat itu,
+            kondisi kesehatan saya sudah kurang baik, sehingga saya meminta izin
+            untuk berobat dan diizinkan pulang. Sejak saat itu,
+          </blockquote>
+        </p>
+        <p>saya tidak pernah kembali ke sana.</p>
+        <p>
+          Setelah kembali ke desa, saya bergabung dengan Koalisi Perempuan
+          Indonesia (KPI). Melalui program Safe and Fair yang didukung oleh UN
+          WOMEN, KPI Banyuwangi bersinergi dengan pemerintah desa dan pemangku
+          kepentingan lainnya, dengan harapan bahwa kami bisa menjadi
+          perpanjangan tangan tempat para Pekerja Migran Indonesia (PMI) mengadu
+          dan mendapatkan perlindungan. Kami mengadakan pertemuan dan diskusi
+          terfokus membahas tentang permasalahan PMI yang ada di Desa
+          Tamanagung. Selain dari pemerintah desa kami juga melibatkan tokoh
+          pemuda, tokoh masyarakat, dan tokoh agama untuk ikut andil dalam
+          perlindungan PMI. Meskipun pemerintah desa belum bisa memberikan
+          anggaran untuk perlindungan PMI, tapi mereka sudah mau memberikan
+          informasi saat ada PMI mau ke luar negeri untuk kita dampingi.
         </p>
         <p>
-          Berkegiatan bersama kelompok anak muda ini, membuat energiku rasanya
-          seperti diisi ulang, dengan bersama-sama menumpahkan ide untuk
-          menggali berbagai cara agar dapat bergerak dengan keunikan yang harus
-          memiliki dampak nyata. Berbagai pandangan baru untuk mencegah dan
-          melawan kekerasan di lingkungan sendiri. Selama kelompok anak muda
-          berdaya, dengan jalannya sendiri, semakin pula menimbulkan banyak
-          pertanyaan dan pernyataan hingga tekanan dari berbagai pihak yang
-          menjadikan kami harus terus punya pondasi jati diri untuk tetap
-          bertahan dengan komitmen yang terus dibentuk dan diasah setiap
-          generasinya. Semakin lama bertumbuh beriringan dengan kelompok anak
-          muda ini, membuat diriku semakin sadar bahwa kalau kami ini membawa
-          perubahan yang nyata. Tidak usah terlalu jauh mengukur dan memandang
-          banyaknya masyarakat yang menerima manfaat, namun kami lah orang-orang
-          di dalamnya yang telah berhasil menjadi lebih baik dengan bertumbuh
-          bersama.
+          Pasca pelatihan paralegal yang telah diberikan kepada kami, membuat
+          pengetahuan kami bertambah dalam memahami langkah-langkah yang harus
+          dilakukan saat ada PMI menghadapi kendala. Kami juga sudah membentuk 2
+          Balai Perempuan Pusat Informasi Pengaduan dan Advokasi (BPPIPA) di
+          desa kami. Selain memberikan informasi untuk menjadi PMI yang aman dan
+          prosedural, kami juga mendampingi saat ada PMI yang sakit stroke dan
+          ingin pulang tetapi pihak sponsor malah meminta uang tebusan. Meski
+          kami selalu ada dan siap membantu PMI, tapi tentu saja kami berharap
+          tidak ada lagi PMI yang mengalami kekerasan dalam bekerja dan saat
+          jauh dari keluarga.
         </p>
         <p>
-          Kisahku sebagai penyintas kekerasan seksual dan perjalananku mencari
-          teman-teman yang searah untuk berjuang bersama melawan kekerasan,
-          ternyata menarik perhatian tim media Amerika untuk menjadikan kisahku
-          dan peran komunitas anak muda ini dalam sebuah film dokumenter yang
-          tayang di saluran VOA Indonesia yang berjudul “Healing is a Right”.
-          Dari sini kami sadari dan kembali kami refleksi bahwa kami tidak akan
-          ada dan berdampak sampai saat ini jika tidak ada “ibu” kami Yayasan
-          Embun Pelangi yang selalu memberikan penguatan pemahaman kepada kami,
-          salah satunya melalui program Safe and Fair untuk kami dapat terus
-          berdaya dan kuat bersuara.
+          DI BP PIPA, Kami juga membantu mendampingi purna PMI yang mengalami
+          pelecehan seksual oleh majikannya hingga mengalami trauma dan
+          terganggu kesehatan mentalnya. Kami mendampingi dengan melaporkan
+          kepada pihak Puskesmas yang fokus pendampingan pada dokter gangguan
+          kejiwaan untuk bisa mendapatkan pelayanan kesehatan. Kami juga telah
+          membuat nota kesepahaman dan kerjasama MOU dengan lembaga psikologi
+          Exafit untuk kerjasama memberikan layanan pendampingan korban.
         </p>
       </div>
     ),

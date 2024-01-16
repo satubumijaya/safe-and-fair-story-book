@@ -2,219 +2,113 @@ const dir = "1";
 export const story1 = {
   index: dir,
   thumbnail: require(`images/stories/${dir}/main.webp`),
-  name: "Ahmad Haryono",
+  name: "Susilawati",
   title: {
-    en: "Membedah Budaya Bisu PMI Purna di Pekon Ambarawa",
-    id: "Membedah Budaya Bisu PMI Purna di Pekon Ambarawa",
+    en: "Ibu Muda Purna PMI yang Ingin Terus Belajar",
+    id: "Ibu Muda Purna PMI yang Ingin Terus Belajar",
   },
   content: {
     en: (
       <div>
         <p>
-          6 September 2023 yang lalu, Sofyan hadir ke desa atau kami menyebutnya
-          Pekon Ambarawa Pringsewu. Ia merupakan pendamping komunitas Pekerja
-          Migran Indonesia program Safe and Fair pada lembaga Perkumpulan DAMAR
-          Lampung. Aktif wara wiri ke Pekon ini sejak setahun lalu. Ditemani
-          motor Beat hitam kesayangannya, Sofyan harus tancap gas sekitar satu
-          setengah jam dari rumahnya di Kecamatan Natar Lampung Selatan.
+          Nama saya Susi, berusia 30 tahunan, berasal dari Desa Tangkil,
+          Cirebon, Jawa Barat. Saya seorang ibu muda lulusan SMP. Pada tahun
+          2016 saya pernah masuk ke Perusahaan Penempatan Pekerja Migran
+          Indonesia (P3MI) secara non-prosedural. Waktu itu saya tidak tahu sama
+          sekali bahwa saya direkrut bekerja tidak mengikuti dan memenuhi syarat
+          yang berlaku. Saya tetap berangkat ke negara Timur Tengah, tapi
+          alhamdulillah beruntungnya saat itu saya mendapat majikan yang sangat
+          baik dan saya diperlakukan sangat baik sampai finish kontrak.
         </p>
         <p>
-          Agenda Sofyan ke Pekon Ambarawa, tentu tak lepas dari tugas dan
-          tanggung jawabnya sebagai pendamping komunitas. Terutama bertemu dan
-          ngobrol dari hati ke hati dengan para PMI purna. Tujuannya menggali
-          sebanyak-banyaknya masalah yang ada seputar isu PMI, yang nantinya
-          digunakan sebagai bahan melakukan advokasi. Sofyan menyadari, tak
-          mudah untuk membuka pembicaraan seputar pekerjaan di luar negeri yang
-          dialami para PMI purna. Umumnya mereka menghindar bahkan cenderung
-          membisu ketika diajak bicara hal tersebut. Seperti ada trauma, dan
-          penyesalan. Mereka merasa gagal, karena pasca pulang ke kampung,
-          keluarganya berantakan, suaminya kawin lagi, dan anak-anaknya tidak
-          terurus. Bu Yatni misalnya, PMI purna yang kini membuka usaha warung
-          makan “Pecel Lele ECHO” di depan Balai Pekon Ambarawa yang sulit
-          diajak bicara. “..Oalah pak pak, ngapain diceritakan lagi, toh saya
-          sudah pulang. Sudah gak kesana lagi. Saya malas cerita-cerita kayak
-          gini.” Yatni adalah mantan PMI yang bekerja di Malaysia selama 6
-          tahun. Mulai bekerja pada tahun 2015, ia dibawa oleh agen (baca;
-          calo), orang dari desa yang sama dengannya. Karena alasan ekonomi,
-          Yatni rela meninggalkan suami dan 2 orang anaknya. Setiap bulan Yatni
-          mengirimkan uang ke Pekon untuk kebutuhan makan suami dan
-          anak-anaknya. Selain itu, Yatni juga menyisihkan sedikit gajinya untuk
-          bisa ditabungkan di sana. Akan tetapi nasib kebahagiaan belum berpihak
-          padanya. Badai menghampiri Yatni, suaminya kawin lagi. Sepulang dari
-          Malaysia dia minta bercerai, dan kedua anaknya ikut bersama Yatni.
-        </p>
-        <blockquote>
-          Kisah pilu seperti yang dialami Yatni ini juga banyak dialami
-          perempuan-perempuan lain di Pekon Ambarawa. Dan mereka cenderung
-          bungkam, enggan bercerita.
-        </blockquote>
-        <p>
-          Tapi Sofyan tidak pantang menyerah. Baginya, cerita-cerita seperti ini
-          tidak harus secara langsung didapat dari sumber aslinya, PMI nya
-          sendiri. Namun cerita bisa didapatkan dari anggota keluarganya, dari
-          ibu atau saudara PMI. Sofyan berusaha menggali informasi dari berbagai
-          sumber terpercaya agar memperoleh data yang benar. Tanpa sepengetahuan
-          Yatni, Sofyan mendatangi rumah saudara Yatni. Setidaknya dengan cara
-          ini Sofyan bisa mendapatkan informasi, sebagai bahan merumuskan
-          kegiatan yang harus dilakukan bersama tim program Safe and Fair
-          Perkumpulan DAMAR.
+          Pada tahun 2021, lagi-lagi saya merasa beruntung. Saat itu saya dapat
+          undangan dari desa untuk menghadiri kegiatan yang diselenggarakan oleh
+          WCC MAWAR BALQIS yaitu pelatihan paralegal. Dari situ, saya belajar
+          tentang kesetaraan Gender dan menjadi pekerja migran yang prosedural
+          dan aman. Saya juga belajar bagaimana menjadi seorang paralegal yang
+          berperan untuk memberikan informasi yang benar kepada Calon Pekerja
+          Migran Indonesia (CPMI) dan menerima laporan jika ada kasus-kasus yang
+          dialami oleh PMI dan keluarganya di desa saya.
         </p>
         <p>
-          Sore hari yang sama, Sofyan beruntung bisa bertemu dengan Indah di
-          rumahnya. Indah yang merupakan PMI purna itu, kini bekerja sebagai
-          salah satu staf pelayan dan kebersihan di kantor Pekon Ambarawa.
-          Sofyan tahu dan kenal nama Indah dari Muji, kakak Yatni yang pernah
-          ngobrol dengannya. Dengan sikap sopan Sofyan bertanya dengan Indah,
-          “..Mbak Indah mengapa ya teman-teman PMI di sini sulit diajak bicara
-          pengalamannya bekerja di luar negeri? Indah bercerita, “Iya malu
-          mungkin Pak. Karena kerja ke luar itu (sebagai PMI) ada yang berhasil
-          ada yang tidak. Yang berhasil ya mau cerita-cerita, bahkan ada yang
-          sudah balik lagi bekerja ke luar negeri. Kalo yang tidak berhasil,
-          malu lah Pak. Saya ini termasuk yang pernah bekerja di Malaysia dan
-          gagal. Sebab saya direkrut oleh saudara saya yang ternyata calo. Tahun
-          2010, saya berangkat lewat darat, lewat Batam waktu itu. Saya
-          terkatung-katung di sana, Pak. Lama tidak dapat pekerjaan. Singkat
-          cerita saya dapat pekerjaan nyuci piring di rumah makan. Sudah satu
-          bulan kok gak dapat gaji. Terus aja begitu sampai 2 bulan lebih. Lalu
-          ada razia polisi Malaysia, saya ditahan dan akhirnya dipulangkan.”
+          Peran saya sebagai paralegal di komunitas desa sangat penting untuk
+          memberikan informasi mengenai syarat dan tata cara bekerja ke luar
+          negeri yang aman dan hak-hak sebagai PMI. Sebagai paralegal saya juga
+          memberikan informasi mengenai cara melaporkan kasus yang dihadapi PMI
+          atau keluarganya serta akses untuk mendapatkan perlindungan yang
+          dibutuhkan oleh komunitas sekitar saya yang ingin bekerja ke luar
+          negeri.
         </p>
         <p>
-          Sofyan melanjutkan pertanyaan, setahu mbak Indah, apakah di pekon
-          Ambarawa ini banyak calo-calo yang menawarkan kerja sebagai PMI dengan
-          iming-iming tertentu, misal gajinya besar, kerjanya enak, gitu mbak.
-          Menurut Indah tidak terfokus di desa Ambarawa saja, tetapi banyak dari
-          desa-desa di sekitar sini. Sofyan lama merenung di ruang tamu Indah,
-          saat ditinggal ke belakang untuk mengambil air minum. Terbayang di
-          benak Sofyan betapa pentingnya memberi pemahaman Migrasi Aman bagi
-          calon Pekerja Migran Indonesia (PMI) di Pekon Ambarawa dan sekitarnya
-          agar terhindar dari jangkauan calo-calo kotor yang ingin memanfaatkan
-          situasi. Sekaligus ajang silaturahmi dan berbagi informasi di antara
-          para PMI purna agar pengalaman pahit yang mereka rasakan tidak
-          terulang pada generasi berikutnya. Sofyan tersadarkan dari lamunannya
-          saat Indah kembali ke ruang tamu sambil membawa secangkir kopi panas,
-          yang tentu bisa menghangatkan suasana.
+          <blockquote>
+            Dari pelatihan paralegal dan pertemuan-pertemuan yang saya ikuti,
+            saya mendapat banyak pembelajaran untuk diri saya sendiri dan dapat
+            membaginya kepada anak, suami, lingkungan sekitar, dan teman-teman
+            saya di desa.
+          </blockquote>
         </p>
         <p>
-          Sofyan lalu bercerita kepada Indah, bahwa ia dan timnya akan
-          menyelenggarakan kegiatan pertemuan Sosialisasi Migrasi Aman kepada
-          para Calon PMI di Balai Pekon Ambarawa dan akan mengundang para
-          pemangku kepentingan mulai dari aparat Pekon, camat, hingga Dinas
-          Tenaga Kerja Kabupaten Pringsewu, untuk bahu membahu memberi pemahaman
-          tata cara bekerja keluar negeri secara aman, memudahkan urusan
-          administrasi secara terbuka, dan melindungi para pekerja migran di
-          luar negeri dengan terus memantau melalui nomor-nomor telepon yang
-          bisa dihubungi.
-        </p>
-        <p>
-          Indah menyambut gembira rencana kegiatan itu. Ia berjanji akan hadir
-          dan mengajak teman-teman PMI purna lainnya agar juga bisa berbagai
-          pengalaman suka duka PMI kepada para calon PMI dari Pekon Ambarawa dan
-          sekitarnya.*
+          Sekarang saya sudah tahu prosedur bekerja ke luar negeri yang aman dan
+          benar, serta hak-hak saya sebagai PMI, sehingga ke depan kalau saya
+          atau keluarga dan komunitas sekitar saya ingin bekerja ke luar negeri
+          mereka tidak lagi bekerja secara non-prosedural. Saya dan mereka bisa
+          terlindungi sepenuhnya dan tidak lagi bergantung pada nasib.
+          Pengalaman saya sebelumnya memang saya bernasib baik, tapi kemungkinan
+          nasib buruk juga bisa dialami seperti kasus-kasus yang saya dengar dan
+          lihat. Harapan saya kedepannya, saya bisa belajar lebih banyak lagi,
+          menjadi pekerja migran dan ibu muda yang sukses.
         </p>
       </div>
     ),
     id: (
       <div>
         <p>
-          6 September 2023 yang lalu, Sofyan hadir ke desa atau kami menyebutnya
-          Pekon Ambarawa Pringsewu. Ia merupakan pendamping komunitas Pekerja
-          Migran Indonesia program Safe and Fair pada lembaga Perkumpulan DAMAR
-          Lampung. Aktif wara wiri ke Pekon ini sejak setahun lalu. Ditemani
-          motor Beat hitam kesayangannya, Sofyan harus tancap gas sekitar satu
-          setengah jam dari rumahnya di Kecamatan Natar Lampung Selatan.
+          Nama saya Susi, berusia 30 tahunan, berasal dari Desa Tangkil,
+          Cirebon, Jawa Barat. Saya seorang ibu muda lulusan SMP. Pada tahun
+          2016 saya pernah masuk ke Perusahaan Penempatan Pekerja Migran
+          Indonesia (P3MI) secara non-prosedural. Waktu itu saya tidak tahu sama
+          sekali bahwa saya direkrut bekerja tidak mengikuti dan memenuhi syarat
+          yang berlaku. Saya tetap berangkat ke negara Timur Tengah, tapi
+          alhamdulillah beruntungnya saat itu saya mendapat majikan yang sangat
+          baik dan saya diperlakukan sangat baik sampai finish kontrak.
         </p>
         <p>
-          Agenda Sofyan ke Pekon Ambarawa, tentu tak lepas dari tugas dan
-          tanggung jawabnya sebagai pendamping komunitas. Terutama bertemu dan
-          ngobrol dari hati ke hati dengan para PMI purna. Tujuannya menggali
-          sebanyak-banyaknya masalah yang ada seputar isu PMI, yang nantinya
-          digunakan sebagai bahan melakukan advokasi. Sofyan menyadari, tak
-          mudah untuk membuka pembicaraan seputar pekerjaan di luar negeri yang
-          dialami para PMI purna. Umumnya mereka menghindar bahkan cenderung
-          membisu ketika diajak bicara hal tersebut. Seperti ada trauma, dan
-          penyesalan. Mereka merasa gagal, karena pasca pulang ke kampung,
-          keluarganya berantakan, suaminya kawin lagi, dan anak-anaknya tidak
-          terurus. Bu Yatni misalnya, PMI purna yang kini membuka usaha warung
-          makan “Pecel Lele ECHO” di depan Balai Pekon Ambarawa yang sulit
-          diajak bicara. “..Oalah pak pak, ngapain diceritakan lagi, toh saya
-          sudah pulang. Sudah gak kesana lagi. Saya malas cerita-cerita kayak
-          gini.” Yatni adalah mantan PMI yang bekerja di Malaysia selama 6
-          tahun. Mulai bekerja pada tahun 2015, ia dibawa oleh agen (baca;
-          calo), orang dari desa yang sama dengannya. Karena alasan ekonomi,
-          Yatni rela meninggalkan suami dan 2 orang anaknya. Setiap bulan Yatni
-          mengirimkan uang ke Pekon untuk kebutuhan makan suami dan
-          anak-anaknya. Selain itu, Yatni juga menyisihkan sedikit gajinya untuk
-          bisa ditabungkan di sana. Akan tetapi nasib kebahagiaan belum berpihak
-          padanya. Badai menghampiri Yatni, suaminya kawin lagi. Sepulang dari
-          Malaysia dia minta bercerai, dan kedua anaknya ikut bersama Yatni.
-        </p>
-        <blockquote>
-          Kisah pilu seperti yang dialami Yatni ini juga banyak dialami
-          perempuan-perempuan lain di Pekon Ambarawa. Dan mereka cenderung
-          bungkam, enggan bercerita.
-        </blockquote>
-        <p>
-          Tapi Sofyan tidak pantang menyerah. Baginya, cerita-cerita seperti ini
-          tidak harus secara langsung didapat dari sumber aslinya, PMI nya
-          sendiri. Namun cerita bisa didapatkan dari anggota keluarganya, dari
-          ibu atau saudara PMI. Sofyan berusaha menggali informasi dari berbagai
-          sumber terpercaya agar memperoleh data yang benar. Tanpa sepengetahuan
-          Yatni, Sofyan mendatangi rumah saudara Yatni. Setidaknya dengan cara
-          ini Sofyan bisa mendapatkan informasi, sebagai bahan merumuskan
-          kegiatan yang harus dilakukan bersama tim program Safe and Fair
-          Perkumpulan DAMAR.
+          Pada tahun 2021, lagi-lagi saya merasa beruntung. Saat itu saya dapat
+          undangan dari desa untuk menghadiri kegiatan yang diselenggarakan oleh
+          WCC MAWAR BALQIS yaitu pelatihan paralegal. Dari situ, saya belajar
+          tentang kesetaraan Gender dan menjadi pekerja migran yang prosedural
+          dan aman. Saya juga belajar bagaimana menjadi seorang paralegal yang
+          berperan untuk memberikan informasi yang benar kepada Calon Pekerja
+          Migran Indonesia (CPMI) dan menerima laporan jika ada kasus-kasus yang
+          dialami oleh PMI dan keluarganya di desa saya.
         </p>
         <p>
-          Sore hari yang sama, Sofyan beruntung bisa bertemu dengan Indah di
-          rumahnya. Indah yang merupakan PMI purna itu, kini bekerja sebagai
-          salah satu staf pelayan dan kebersihan di kantor Pekon Ambarawa.
-          Sofyan tahu dan kenal nama Indah dari Muji, kakak Yatni yang pernah
-          ngobrol dengannya. Dengan sikap sopan Sofyan bertanya dengan Indah,
-          “..Mbak Indah mengapa ya teman-teman PMI di sini sulit diajak bicara
-          pengalamannya bekerja di luar negeri? Indah bercerita, “Iya malu
-          mungkin Pak. Karena kerja ke luar itu (sebagai PMI) ada yang berhasil
-          ada yang tidak. Yang berhasil ya mau cerita-cerita, bahkan ada yang
-          sudah balik lagi bekerja ke luar negeri. Kalo yang tidak berhasil,
-          malu lah Pak. Saya ini termasuk yang pernah bekerja di Malaysia dan
-          gagal. Sebab saya direkrut oleh saudara saya yang ternyata calo. Tahun
-          2010, saya berangkat lewat darat, lewat Batam waktu itu. Saya
-          terkatung-katung di sana, Pak. Lama tidak dapat pekerjaan. Singkat
-          cerita saya dapat pekerjaan nyuci piring di rumah makan. Sudah satu
-          bulan kok gak dapat gaji. Terus aja begitu sampai 2 bulan lebih. Lalu
-          ada razia polisi Malaysia, saya ditahan dan akhirnya dipulangkan.”
+          Peran saya sebagai paralegal di komunitas desa sangat penting untuk
+          memberikan informasi mengenai syarat dan tata cara bekerja ke luar
+          negeri yang aman dan hak-hak sebagai PMI. Sebagai paralegal saya juga
+          memberikan informasi mengenai cara melaporkan kasus yang dihadapi PMI
+          atau keluarganya serta akses untuk mendapatkan perlindungan yang
+          dibutuhkan oleh komunitas sekitar saya yang ingin bekerja ke luar
+          negeri.
         </p>
         <p>
-          Sofyan melanjutkan pertanyaan, setahu mbak Indah, apakah di pekon
-          Ambarawa ini banyak calo-calo yang menawarkan kerja sebagai PMI dengan
-          iming-iming tertentu, misal gajinya besar, kerjanya enak, gitu mbak.
-          Menurut Indah tidak terfokus di desa Ambarawa saja, tetapi banyak dari
-          desa-desa di sekitar sini. Sofyan lama merenung di ruang tamu Indah,
-          saat ditinggal ke belakang untuk mengambil air minum. Terbayang di
-          benak Sofyan betapa pentingnya memberi pemahaman Migrasi Aman bagi
-          calon Pekerja Migran Indonesia (PMI) di Pekon Ambarawa dan sekitarnya
-          agar terhindar dari jangkauan calo-calo kotor yang ingin memanfaatkan
-          situasi. Sekaligus ajang silaturahmi dan berbagi informasi di antara
-          para PMI purna agar pengalaman pahit yang mereka rasakan tidak
-          terulang pada generasi berikutnya. Sofyan tersadarkan dari lamunannya
-          saat Indah kembali ke ruang tamu sambil membawa secangkir kopi panas,
-          yang tentu bisa menghangatkan suasana.
+          <blockquote>
+            Dari pelatihan paralegal dan pertemuan-pertemuan yang saya ikuti,
+            saya mendapat banyak pembelajaran untuk diri saya sendiri dan dapat
+            membaginya kepada anak, suami, lingkungan sekitar, dan teman-teman
+            saya di desa.
+          </blockquote>
         </p>
         <p>
-          Sofyan lalu bercerita kepada Indah, bahwa ia dan timnya akan
-          menyelenggarakan kegiatan pertemuan Sosialisasi Migrasi Aman kepada
-          para Calon PMI di Balai Pekon Ambarawa dan akan mengundang para
-          pemangku kepentingan mulai dari aparat Pekon, camat, hingga Dinas
-          Tenaga Kerja Kabupaten Pringsewu, untuk bahu membahu memberi pemahaman
-          tata cara bekerja keluar negeri secara aman, memudahkan urusan
-          administrasi secara terbuka, dan melindungi para pekerja migran di
-          luar negeri dengan terus memantau melalui nomor-nomor telepon yang
-          bisa dihubungi.
-        </p>
-        <p>
-          Indah menyambut gembira rencana kegiatan itu. Ia berjanji akan hadir
-          dan mengajak teman-teman PMI purna lainnya agar juga bisa berbagai
-          pengalaman suka duka PMI kepada para calon PMI dari Pekon Ambarawa dan
-          sekitarnya.*
+          Sekarang saya sudah tahu prosedur bekerja ke luar negeri yang aman dan
+          benar, serta hak-hak saya sebagai PMI, sehingga ke depan kalau saya
+          atau keluarga dan komunitas sekitar saya ingin bekerja ke luar negeri
+          mereka tidak lagi bekerja secara non-prosedural. Saya dan mereka bisa
+          terlindungi sepenuhnya dan tidak lagi bergantung pada nasib.
+          Pengalaman saya sebelumnya memang saya bernasib baik, tapi kemungkinan
+          nasib buruk juga bisa dialami seperti kasus-kasus yang saya dengar dan
+          lihat. Harapan saya kedepannya, saya bisa belajar lebih banyak lagi,
+          menjadi pekerja migran dan ibu muda yang sukses.
         </p>
       </div>
     ),
