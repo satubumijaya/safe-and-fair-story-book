@@ -2,177 +2,147 @@ const dir = "10";
 export const story10 = {
   index: dir,
   thumbnail: require(`images/stories/${dir}/main.webp`),
-  name: "Ria Febriyanti",
+  name: "Sri Wahyuni",
   title: {
-    en: "Orang Muda untuk Perubahan",
-    id: "Orang Muda untuk Perubahan",
+    en: "Orang Muda yang Bersuara",
+    id: "Orang Muda yang Bersuara",
   },
   content: {
     en: (
       <div>
         <p>
-          Apa yang terlintas di pikiran jika mendengar kata anak muda?
-          Organisasi PBB seperti UNESCO dan UNFPA mengartikan pemuda sebagai
-          individu yang memiliki usia antara 15-24 tahun. Hampir setiap orang
-          berpikir bahwa masa-masa menjadi anak muda merupakan masa yang sangat
-          seru. Masa mencari jati diri dengan terus menerus menumpuk keinginan
-          yang entah kapan dapat terkabulkan. Layaknya pemikiran-pemikiran
-          orang-orang tentang anak muda, anak muda saat ini tidak dapat
-          disamakan, ada yang memang memiliki semangat yang tinggi untuk masa
-          depannya, ada juga yang berpasrah diri dengan mengikuti arus hidupnya.
-          Sama seperti halnya anak muda di kota kelahiranku, Batam. Berbagai
-          pandangan tentang anak muda seringkali didengar mulai dari yang
-          positif hingga negatif.
+          <blockquote>
+            &ldquo;Anak muda zaman sekarang ya agak beda dari orang zaman dulu,
+            kalo sekarang kerja keras kurang, suka kritik, dikit-dikit kesehatan
+            mental, susah lah pokoknya banyak gak maunya.&rdquo;
+          </blockquote>
         </p>
         <p>
-          Melihat kondisi anak muda di kota kecil ini terkadang juga cukup
-          memprihatinkan. Mereka membangun lingkungan dengan batasan-batasan
-          standar tertentu, seperti harus menggunakan handphone merek tertentu,
-          baju branded, sepatu bagus dan masih banyak lagi, menurutku yang
-          membuat lingkungan sosial semakin sempit. Tidak cakap bersosialisasi
-          dengan pemikiran bahwa tidak ada yang lebih penting dari urusan diri
-          mereka sendiri. Kenyataannya memang seperti itu, situasi anak muda di
-          kota kecil ini.
-        </p>
-        <blockquote>
-          Sangat menarik menurutku ketika ada sekelompok anak muda yang
-          menghabiskan waktunya dengan membahas masalah sosial yang terjadi saat
-          ini. Terlebih fokus mereka ada pada permasalahan kotanya sendiri.
-        </blockquote>
-        <p>
-          Setiap akhir pekan mereka tanpa beban berkumpul dengan canda tawa yang
-          mengiringi rapat-rapat dengan topik serius seperti isu kekerasan yang
-          selalu saja berhasil menguras emosi.
+          Ucap salah satu peserta diskusi terfokus dalam kegiatan yang pernah
+          aku ikuti di tahun 2022.Ucapan ini langsung terngiang di kepalaku
+          hingga beberapa hari setelahnya, membuatku merasa tersindir sebagai
+          generasi muda zaman ini. Ingin sekali kubuktikan bahwa ucapan peserta
+          tersebut tidak sepenuhnya benar. Stigma tersebut tidak bisa
+          diberlakukan pada semua orang muda. Tetapi pembuktianku di usiaku yang
+          28 tahun ini terbentur pada kapasitas dan pengalaman.
         </p>
         <p>
-          Aku mengenal mereka dengan sangat dekat, bahkan aku pernah bergabung
-          di dalamnya tepatnya saat aku masih duduk di bangku SMA. Komunitas
-          anak muda KOMPAK (Komunitas Anak Muda Anti Perdagangan Orang dan
-          Eksploitasi Seksual) dan RAEKSA (Remaja Anti Eksploitasi Seksual Anak)
-          Namanya. Layaknya adik kakak yang lahir dari rahim yang sama, selalu
-          saja ada hal-hal pemantik debat dan pertengkaran yang sebenarnya
-          membuat mereka lebih dekat. Aku belajar dan bertumbuh bersama kelompok
-          anak muda ini. Jika dilihat jauh ke belakang aku ada bersama mereka
-          untuk berjuang bersama melawan dan mencegah kekerasan di kota kecil
-          ini sudah hampir 4 tahun. Bersama mereka, aku menjadi selalu punya
-          alasan untuk memperbaiki diri, belajar dengan lebih baik, hingga
-          mengerti makna yang besar dari berbagi dalam satu tujuan yang searah,
-          bersama untuk bermanfaat bagi orang lain. Bersama dengan penuh harap
-          dan berani mengambil langkah untuk dapat memberi penerangan di jalan
-          menuju masa depan yang lebih baik.
+          Program Safe and Fair dari UN Women yang telah bersamaku dan Yayasan
+          SAPA selama dua tahun ke belakang, membuatku belajar banyak terkait
+          advokasi. Advokasi ialah suatu proses untuk mempengaruhi orang lain
+          dan melalui proses advokasi inilah aku dan orang muda lainnya dapat
+          menyuarakan suara kami. Salah satu proses advokasi yang kami lakukan
+          ialah penyusunan revisi Rancangan Peraturan Gubernur Jawa Barat.
+          Dimulai dengan pertemuan bersama para pemangku kepentingan atau
+          stakeholder terkait mendesaknya revisi kebijakan, pertemuan konsultasi
+          dan dialog bersama SKPD , hingga penyusunan daftar inventaris masalah
+          dari revisi Rapergub ini, aku dan orang muda lainya lalui dengan
+          berbagai rasa atau mixed feelings. Di satu sisi ada rasa bangga bahwa
+          aku dan orang muda dapat mengikuti forum-forum strategi ini dan
+          menjadi momen berharga kami untuk mengeluarkan pendapat pada para
+          pembuat kebijakan. Tapi di sisi lain, ada rasa takut salah dan minder
+          karena aku dan orang muda lainya tidak memiliki jam terbang dalam hal
+          advokasi, apalagi dalam menuliskan revisi kebijakan. Karena terlalu
+          sadar akan hal ini, aku selalu gelisah sebelum memulai kegiatan
+          advokasi.
         </p>
         <p>
-          Berkegiatan bersama kelompok anak muda ini, membuat energiku rasanya
-          seperti diisi ulang, dengan bersama-sama menumpahkan ide untuk
-          menggali berbagai cara agar dapat bergerak dengan keunikan yang harus
-          memiliki dampak nyata. Berbagai pandangan baru untuk mencegah dan
-          melawan kekerasan di lingkungan sendiri. Selama kelompok anak muda
-          berdaya, dengan jalannya sendiri, semakin pula menimbulkan banyak
-          pertanyaan dan pernyataan hingga tekanan dari berbagai pihak yang
-          menjadikan kami harus terus punya pondasi jati diri untuk tetap
-          bertahan dengan komitmen yang terus dibentuk dan diasah setiap
-          generasinya. Semakin lama bertumbuh beriringan dengan kelompok anak
-          muda ini, membuat diriku semakin sadar bahwa kalau kami ini membawa
-          perubahan yang nyata. Tidak usah terlalu jauh mengukur dan memandang
-          banyaknya masyarakat yang menerima manfaat, namun kami lah orang-orang
-          di dalamnya yang telah berhasil menjadi lebih baik dengan bertumbuh
-          bersama.
+          Yang paling menegangkan adalah ketika aku dan orang muda lainya
+          berdialog dengan para stakeholder terkait tentang hasil rumusan kami
+          terhadap Rancangan Peraturan Gubernur Jawa Barat di tahun 2022. Di
+          hari itu entah kenapa terasa lebih panas dari biasanya sehingga
+          membuatku bercucuran keringat. Sesampainya di ruangan rapat yang telah
+          disediakan, kursi dan meja diatur berbentuk U yang membuat tiap orang
+          saling berhadapan. Yang hadir pada hari itu bukan hanya aku dan orang
+          muda, tetapi juga para aktivis senior yang sudah memiliki jam terbang
+          advokasi yang tinggi sehingga tidak terlihat raut gelisah di wajah
+          para senior ini. Sementara wajahku pasti sangat berbeda saat itu.
+          Kegelisahanku bertambah ketika aku ditunjuk sebagai fasilitator rapat
+          tersebut. Entah apa yang ada di pikiranku, aku mulai saja rapat itu
+          dengan salam dan tujuan kegiatan. Rapat hari itu berjalan lancar dan
+          tidak semenakutkan yang kubayangkan yaitu orang muda tidak mampu
+          memberikan suara dan pendapatnya sehingga kami ada hanya untuk
+          memenuhi kuota pertemuan.
         </p>
         <p>
-          Kisahku sebagai penyintas kekerasan seksual dan perjalananku mencari
-          teman-teman yang searah untuk berjuang bersama melawan kekerasan,
-          ternyata menarik perhatian tim media Amerika untuk menjadikan kisahku
-          dan peran komunitas anak muda ini dalam sebuah film dokumenter yang
-          tayang di saluran VOA Indonesia yang berjudul “Healing is a Right”.
-          Dari sini kami sadari dan kembali kami refleksi bahwa kami tidak akan
-          ada dan berdampak sampai saat ini jika tidak ada “ibu” kami Yayasan
-          Embun Pelangi yang selalu memberikan penguatan pemahaman kepada kami,
-          salah satunya melalui program Safe and Fair untuk kami dapat terus
-          berdaya dan kuat bersuara.
+          Ketakutan itu tidak terjadi. Aku dan orang muda lainnya dapat secara
+          lugas menyuarakan pendapat kami terkait pentingnya peran orang muda
+          dalam pencegahan kekerasan berbasis gender dan perdagangan orang di
+          Jawa Barat. Diriku pun turut bangga bahwa salah satu penyusun dokumen
+          usulan revisi Rancangan Peraturan Gubernur Jawa Barat yang juga
+          diserahkan pada hari itu ialah aku. Ini adalah momen yang berharga,
+          aku dan orang muda lainnya bisa membuktikan kontribusi kami terhadap
+          pencegahan kekerasan berbasis gender dan perdagangan orang di Jawa
+          Barat.
         </p>
       </div>
     ),
     id: (
       <div>
         <p>
-          Apa yang terlintas di pikiran jika mendengar kata anak muda?
-          Organisasi PBB seperti UNESCO dan UNFPA mengartikan pemuda sebagai
-          individu yang memiliki usia antara 15-24 tahun. Hampir setiap orang
-          berpikir bahwa masa-masa menjadi anak muda merupakan masa yang sangat
-          seru. Masa mencari jati diri dengan terus menerus menumpuk keinginan
-          yang entah kapan dapat terkabulkan. Layaknya pemikiran-pemikiran
-          orang-orang tentang anak muda, anak muda saat ini tidak dapat
-          disamakan, ada yang memang memiliki semangat yang tinggi untuk masa
-          depannya, ada juga yang berpasrah diri dengan mengikuti arus hidupnya.
-          Sama seperti halnya anak muda di kota kelahiranku, Batam. Berbagai
-          pandangan tentang anak muda seringkali didengar mulai dari yang
-          positif hingga negatif.
+          <blockquote>
+            &ldquo;Anak muda zaman sekarang ya agak beda dari orang zaman dulu,
+            kalo sekarang kerja keras kurang, suka kritik, dikit-dikit kesehatan
+            mental, susah lah pokoknya banyak gak maunya.&rdquo;
+          </blockquote>
         </p>
         <p>
-          Melihat kondisi anak muda di kota kecil ini terkadang juga cukup
-          memprihatinkan. Mereka membangun lingkungan dengan batasan-batasan
-          standar tertentu, seperti harus menggunakan handphone merek tertentu,
-          baju branded, sepatu bagus dan masih banyak lagi, menurutku yang
-          membuat lingkungan sosial semakin sempit. Tidak cakap bersosialisasi
-          dengan pemikiran bahwa tidak ada yang lebih penting dari urusan diri
-          mereka sendiri. Kenyataannya memang seperti itu, situasi anak muda di
-          kota kecil ini.
-        </p>
-        <blockquote>
-          Sangat menarik menurutku ketika ada sekelompok anak muda yang
-          menghabiskan waktunya dengan membahas masalah sosial yang terjadi saat
-          ini. Terlebih fokus mereka ada pada permasalahan kotanya sendiri.
-        </blockquote>
-        <p>
-          Setiap akhir pekan mereka tanpa beban berkumpul dengan canda tawa yang
-          mengiringi rapat-rapat dengan topik serius seperti isu kekerasan yang
-          selalu saja berhasil menguras emosi.
+          Ucap salah satu peserta diskusi terfokus dalam kegiatan yang pernah
+          aku ikuti di tahun 2022.Ucapan ini langsung terngiang di kepalaku
+          hingga beberapa hari setelahnya, membuatku merasa tersindir sebagai
+          generasi muda zaman ini. Ingin sekali kubuktikan bahwa ucapan peserta
+          tersebut tidak sepenuhnya benar. Stigma tersebut tidak bisa
+          diberlakukan pada semua orang muda. Tetapi pembuktianku di usiaku yang
+          28 tahun ini terbentur pada kapasitas dan pengalaman.
         </p>
         <p>
-          Aku mengenal mereka dengan sangat dekat, bahkan aku pernah bergabung
-          di dalamnya tepatnya saat aku masih duduk di bangku SMA. Komunitas
-          anak muda KOMPAK (Komunitas Anak Muda Anti Perdagangan Orang dan
-          Eksploitasi Seksual) dan RAEKSA (Remaja Anti Eksploitasi Seksual Anak)
-          Namanya. Layaknya adik kakak yang lahir dari rahim yang sama, selalu
-          saja ada hal-hal pemantik debat dan pertengkaran yang sebenarnya
-          membuat mereka lebih dekat. Aku belajar dan bertumbuh bersama kelompok
-          anak muda ini. Jika dilihat jauh ke belakang aku ada bersama mereka
-          untuk berjuang bersama melawan dan mencegah kekerasan di kota kecil
-          ini sudah hampir 4 tahun. Bersama mereka, aku menjadi selalu punya
-          alasan untuk memperbaiki diri, belajar dengan lebih baik, hingga
-          mengerti makna yang besar dari berbagi dalam satu tujuan yang searah,
-          bersama untuk bermanfaat bagi orang lain. Bersama dengan penuh harap
-          dan berani mengambil langkah untuk dapat memberi penerangan di jalan
-          menuju masa depan yang lebih baik.
+          Program Safe and Fair dari UN Women yang telah bersamaku dan Yayasan
+          SAPA selama dua tahun ke belakang, membuatku belajar banyak terkait
+          advokasi. Advokasi ialah suatu proses untuk mempengaruhi orang lain
+          dan melalui proses advokasi inilah aku dan orang muda lainnya dapat
+          menyuarakan suara kami. Salah satu proses advokasi yang kami lakukan
+          ialah penyusunan revisi Rancangan Peraturan Gubernur Jawa Barat.
+          Dimulai dengan pertemuan bersama para pemangku kepentingan atau
+          stakeholder terkait mendesaknya revisi kebijakan, pertemuan konsultasi
+          dan dialog bersama SKPD , hingga penyusunan daftar inventaris masalah
+          dari revisi Rapergub ini, aku dan orang muda lainya lalui dengan
+          berbagai rasa atau mixed feelings. Di satu sisi ada rasa bangga bahwa
+          aku dan orang muda dapat mengikuti forum-forum strategi ini dan
+          menjadi momen berharga kami untuk mengeluarkan pendapat pada para
+          pembuat kebijakan. Tapi di sisi lain, ada rasa takut salah dan minder
+          karena aku dan orang muda lainya tidak memiliki jam terbang dalam hal
+          advokasi, apalagi dalam menuliskan revisi kebijakan. Karena terlalu
+          sadar akan hal ini, aku selalu gelisah sebelum memulai kegiatan
+          advokasi.
         </p>
         <p>
-          Berkegiatan bersama kelompok anak muda ini, membuat energiku rasanya
-          seperti diisi ulang, dengan bersama-sama menumpahkan ide untuk
-          menggali berbagai cara agar dapat bergerak dengan keunikan yang harus
-          memiliki dampak nyata. Berbagai pandangan baru untuk mencegah dan
-          melawan kekerasan di lingkungan sendiri. Selama kelompok anak muda
-          berdaya, dengan jalannya sendiri, semakin pula menimbulkan banyak
-          pertanyaan dan pernyataan hingga tekanan dari berbagai pihak yang
-          menjadikan kami harus terus punya pondasi jati diri untuk tetap
-          bertahan dengan komitmen yang terus dibentuk dan diasah setiap
-          generasinya. Semakin lama bertumbuh beriringan dengan kelompok anak
-          muda ini, membuat diriku semakin sadar bahwa kalau kami ini membawa
-          perubahan yang nyata. Tidak usah terlalu jauh mengukur dan memandang
-          banyaknya masyarakat yang menerima manfaat, namun kami lah orang-orang
-          di dalamnya yang telah berhasil menjadi lebih baik dengan bertumbuh
-          bersama.
+          Yang paling menegangkan adalah ketika aku dan orang muda lainya
+          berdialog dengan para stakeholder terkait tentang hasil rumusan kami
+          terhadap Rancangan Peraturan Gubernur Jawa Barat di tahun 2022. Di
+          hari itu entah kenapa terasa lebih panas dari biasanya sehingga
+          membuatku bercucuran keringat. Sesampainya di ruangan rapat yang telah
+          disediakan, kursi dan meja diatur berbentuk U yang membuat tiap orang
+          saling berhadapan. Yang hadir pada hari itu bukan hanya aku dan orang
+          muda, tetapi juga para aktivis senior yang sudah memiliki jam terbang
+          advokasi yang tinggi sehingga tidak terlihat raut gelisah di wajah
+          para senior ini. Sementara wajahku pasti sangat berbeda saat itu.
+          Kegelisahanku bertambah ketika aku ditunjuk sebagai fasilitator rapat
+          tersebut. Entah apa yang ada di pikiranku, aku mulai saja rapat itu
+          dengan salam dan tujuan kegiatan. Rapat hari itu berjalan lancar dan
+          tidak semenakutkan yang kubayangkan yaitu orang muda tidak mampu
+          memberikan suara dan pendapatnya sehingga kami ada hanya untuk
+          memenuhi kuota pertemuan.
         </p>
         <p>
-          Kisahku sebagai penyintas kekerasan seksual dan perjalananku mencari
-          teman-teman yang searah untuk berjuang bersama melawan kekerasan,
-          ternyata menarik perhatian tim media Amerika untuk menjadikan kisahku
-          dan peran komunitas anak muda ini dalam sebuah film dokumenter yang
-          tayang di saluran VOA Indonesia yang berjudul “Healing is a Right”.
-          Dari sini kami sadari dan kembali kami refleksi bahwa kami tidak akan
-          ada dan berdampak sampai saat ini jika tidak ada “ibu” kami Yayasan
-          Embun Pelangi yang selalu memberikan penguatan pemahaman kepada kami,
-          salah satunya melalui program Safe and Fair untuk kami dapat terus
-          berdaya dan kuat bersuara.
+          Ketakutan itu tidak terjadi. Aku dan orang muda lainnya dapat secara
+          lugas menyuarakan pendapat kami terkait pentingnya peran orang muda
+          dalam pencegahan kekerasan berbasis gender dan perdagangan orang di
+          Jawa Barat. Diriku pun turut bangga bahwa salah satu penyusun dokumen
+          usulan revisi Rancangan Peraturan Gubernur Jawa Barat yang juga
+          diserahkan pada hari itu ialah aku. Ini adalah momen yang berharga,
+          aku dan orang muda lainnya bisa membuktikan kontribusi kami terhadap
+          pencegahan kekerasan berbasis gender dan perdagangan orang di Jawa
+          Barat.
         </p>
       </div>
     ),

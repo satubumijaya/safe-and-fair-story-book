@@ -2,177 +2,251 @@ const dir = "8";
 export const story8 = {
   index: dir,
   thumbnail: require(`images/stories/${dir}/main.webp`),
-  name: "Ria Febriyanti",
+  name: "Roudlotul Jannah",
   title: {
-    en: "Orang Muda untuk Perubahan",
-    id: "Orang Muda untuk Perubahan",
+    en: "Perubahan adalah Tanggung Jawab Bersama",
+    id: "Perubahan adalah Tanggung Jawab Bersama",
   },
   content: {
     en: (
       <div>
         <p>
-          Apa yang terlintas di pikiran jika mendengar kata anak muda?
-          Organisasi PBB seperti UNESCO dan UNFPA mengartikan pemuda sebagai
-          individu yang memiliki usia antara 15-24 tahun. Hampir setiap orang
-          berpikir bahwa masa-masa menjadi anak muda merupakan masa yang sangat
-          seru. Masa mencari jati diri dengan terus menerus menumpuk keinginan
-          yang entah kapan dapat terkabulkan. Layaknya pemikiran-pemikiran
-          orang-orang tentang anak muda, anak muda saat ini tidak dapat
-          disamakan, ada yang memang memiliki semangat yang tinggi untuk masa
-          depannya, ada juga yang berpasrah diri dengan mengikuti arus hidupnya.
-          Sama seperti halnya anak muda di kota kelahiranku, Batam. Berbagai
-          pandangan tentang anak muda seringkali didengar mulai dari yang
-          positif hingga negatif.
+          &ldquo;Wis mbak bli papa, kita ora melu ning komunitas tapi Insya
+          Allah kita siap melu kegiatan. Baka ana apa-apa kari hubungi bae kita
+          ya mbak&rdquo; (tidak apa-apa mbak, saya tidak ikut dalam komunitas
+          juga insya Allah saya siap ikut dalam kegiatan. Dan kalau ada apa-apa
+          tinggal hubungi saja saya ya)
         </p>
         <p>
-          Melihat kondisi anak muda di kota kecil ini terkadang juga cukup
-          memprihatinkan. Mereka membangun lingkungan dengan batasan-batasan
-          standar tertentu, seperti harus menggunakan handphone merek tertentu,
-          baju branded, sepatu bagus dan masih banyak lagi, menurutku yang
-          membuat lingkungan sosial semakin sempit. Tidak cakap bersosialisasi
-          dengan pemikiran bahwa tidak ada yang lebih penting dari urusan diri
-          mereka sendiri. Kenyataannya memang seperti itu, situasi anak muda di
-          kota kecil ini.
-        </p>
-        <blockquote>
-          Sangat menarik menurutku ketika ada sekelompok anak muda yang
-          menghabiskan waktunya dengan membahas masalah sosial yang terjadi saat
-          ini. Terlebih fokus mereka ada pada permasalahan kotanya sendiri.
-        </blockquote>
-        <p>
-          Setiap akhir pekan mereka tanpa beban berkumpul dengan canda tawa yang
-          mengiringi rapat-rapat dengan topik serius seperti isu kekerasan yang
-          selalu saja berhasil menguras emosi.
+          Kalimat yang menurut saya sangat menguatkan sekali yang keluar dari
+          seorang ibu rumah tangga, seorang kader Posyandu Desa yang memiliki
+          rasa kepedulian sangat tinggi untuk perempuan-perempuan pekerja migran
+          sekitarnya. Walau keadaan di sana sedang hiruk pikuk setelah adanya
+          pesta demokrasi di desa, tetapi hambatan itu tidak menyurutkan
+          semangatnya sama sekali.
         </p>
         <p>
-          Aku mengenal mereka dengan sangat dekat, bahkan aku pernah bergabung
-          di dalamnya tepatnya saat aku masih duduk di bangku SMA. Komunitas
-          anak muda KOMPAK (Komunitas Anak Muda Anti Perdagangan Orang dan
-          Eksploitasi Seksual) dan RAEKSA (Remaja Anti Eksploitasi Seksual Anak)
-          Namanya. Layaknya adik kakak yang lahir dari rahim yang sama, selalu
-          saja ada hal-hal pemantik debat dan pertengkaran yang sebenarnya
-          membuat mereka lebih dekat. Aku belajar dan bertumbuh bersama kelompok
-          anak muda ini. Jika dilihat jauh ke belakang aku ada bersama mereka
-          untuk berjuang bersama melawan dan mencegah kekerasan di kota kecil
-          ini sudah hampir 4 tahun. Bersama mereka, aku menjadi selalu punya
-          alasan untuk memperbaiki diri, belajar dengan lebih baik, hingga
-          mengerti makna yang besar dari berbagi dalam satu tujuan yang searah,
-          bersama untuk bermanfaat bagi orang lain. Bersama dengan penuh harap
-          dan berani mengambil langkah untuk dapat memberi penerangan di jalan
-          menuju masa depan yang lebih baik.
+          Sengat teriknya matahari pada hari itu adalah kali pertama pertemuan
+          kami dimulai. Kekhawatiran banyak orang dalam situasi Covid-19 membuat
+          sedikit aktivitas yang berjalan. Program Safe and Fair adalah jembatan
+          bagi saya dan teman-teman di Desa Kedongdong untuk bisa bertemu dan
+          juga berbagi. Sebut saja Faoziah namanya, perkenalan awal saya
+          dengannya sangat singkat. Sama-sama tidak kenal dan saya sedikit
+          memberikan gambaran tujuan saya untuk bisa berbagi informasi terkait
+          migrasi aman di Desa Kedongdong ini. Dengan semangat dan sedikit ragu
+          dengan dirinya sendiri, dia menjawab &ldquo;baiklah saya akan membantu
+          dan mencoba untuk ikut dalam kegiatan ini&rdquo;. Berbinar saya
+          mendengar jawabannya dan terucap rasa syukur dalam hati.
         </p>
         <p>
-          Berkegiatan bersama kelompok anak muda ini, membuat energiku rasanya
-          seperti diisi ulang, dengan bersama-sama menumpahkan ide untuk
-          menggali berbagai cara agar dapat bergerak dengan keunikan yang harus
-          memiliki dampak nyata. Berbagai pandangan baru untuk mencegah dan
-          melawan kekerasan di lingkungan sendiri. Selama kelompok anak muda
-          berdaya, dengan jalannya sendiri, semakin pula menimbulkan banyak
-          pertanyaan dan pernyataan hingga tekanan dari berbagai pihak yang
-          menjadikan kami harus terus punya pondasi jati diri untuk tetap
-          bertahan dengan komitmen yang terus dibentuk dan diasah setiap
-          generasinya. Semakin lama bertumbuh beriringan dengan kelompok anak
-          muda ini, membuat diriku semakin sadar bahwa kalau kami ini membawa
-          perubahan yang nyata. Tidak usah terlalu jauh mengukur dan memandang
-          banyaknya masyarakat yang menerima manfaat, namun kami lah orang-orang
-          di dalamnya yang telah berhasil menjadi lebih baik dengan bertumbuh
-          bersama.
+          Seiring berjalannya waktu, saya terus berkomunikasi intens melalui
+          Whatsapp dengan Ibu Faoziah karena memang jarak rumah kami lumayan
+          berjauhan dan hanya beberapa kali saja kami bertemu dalam satu bulan.
+          Kami membuat rencana kegiatan bersama, membuat daftar warga desa
+          perempuan yang akan dilibatkan dalam kegiatan dan juga sedikit membuat
+          pemetaan untuk sosialisasi. Walaupun saat itu kami berkomunikasi hanya
+          melalui handphone, tapi kami merasa &ldquo;nyambung&rdquo;.
         </p>
         <p>
-          Kisahku sebagai penyintas kekerasan seksual dan perjalananku mencari
-          teman-teman yang searah untuk berjuang bersama melawan kekerasan,
-          ternyata menarik perhatian tim media Amerika untuk menjadikan kisahku
-          dan peran komunitas anak muda ini dalam sebuah film dokumenter yang
-          tayang di saluran VOA Indonesia yang berjudul “Healing is a Right”.
-          Dari sini kami sadari dan kembali kami refleksi bahwa kami tidak akan
-          ada dan berdampak sampai saat ini jika tidak ada “ibu” kami Yayasan
-          Embun Pelangi yang selalu memberikan penguatan pemahaman kepada kami,
-          salah satunya melalui program Safe and Fair untuk kami dapat terus
-          berdaya dan kuat bersuara.
+          &ldquo;Mbak, saya kumpulin orang-orang sekitar saya saja dulu ya mbak
+          untuk pertemuan awal kita,&rdquo; kata Ibu Faoziah
+        </p>
+        <p>
+          &ldquo;Iya bu tidak apa, sembari nanti kita bersilaturahmi ke ibu Kuwu
+          yang baru, barangkali ada rekomendasi lainnya,&rdquo; sahut saya.
+        </p>
+        <p>
+          Pertemuan dan sosialisasi pertama kami berjalan lancar di rumah Ibu
+          Faoziah, yang pada awalnya ibu-ibu ini masih malu-malu. Ternyata di
+          akhir kegiatan, mereka banyak bercerita dan curhat terkait masih
+          banyak perempuan-perempuan yang berangkat ke Timur Tengah secara
+          non-prosedural di masa pandemi Covid-19. Ada juga yang kehilangan
+          kontak dengan keluarganya dan juga banyak dari mereka yang menuakan
+          usia untuk memenuhi syarat pemberangkatan mereka bekerja.
+        </p>
+        <p>
+          Seusai pertemuan, biasanya saya mengobrol bersama dengan Ibu Faoziah,
+          terkait masih banyaknya warga di desa ini yang berangkat secara
+          non-prosedural. Informasi yang diterima oleh masyarakat juga sangat
+          kurang, apalagi saat itu kondisi pemerintah desa yang sepertinya
+          kurang peduli. Tapi dengan adanya pemerintahan baru ini, ada harapan
+          baru semoga pemerintah desa lebih peduli lagi dengan masyarakat
+          khususnya dengan perempuan pekerja migran dan juga keluarganya.
+        </p>
+        <p>
+          Memang dalam setiap perjalanan itu akan selalu ada
+          &ldquo;surprisenya&rdquo;, seperti yang sedang saya dan Ibu Faoziah
+          alami sekarang. Dengan adanya pemerintahan desa yang baru, harapan
+          kami ternyata pupus, karena Ibu Kuwu, istri kepala desa, meminta Ibu
+          Faoziah sebagai koordinator komunitas diganti dengan Kadernya.
+        </p>
+        <p>
+          <blockquote>
+            Harapan saya sangat besar dengan pemerintahan baru saat itu,
+            berharap bahwa Ibu Faoziah yang sudah bergerak bersama masyarakat
+            desa tersebut, seharusnya mendapatkan dukungan, tapi ya sudahlah
+            pasti setiap desa memiliki cerita menariknya sendiri.
+          </blockquote>
+        </p>
+        <p>
+          Ternyata, semangat saya sempat turun karena adanya pergantian ini.
+          Terlalu overthinking dengan apa yang sudah saya lakukan dengan Ibu
+          Faoziah sebelumnya. Karena dengan kondisi sekarang, saya harus
+          melakukan semuanya dari &ldquo;0&rdquo; lagi. Namun, lagi-lagi Ibu
+          Faoziah menampar saya dengan memberikan semangat bahwa ini bukan akhir
+          dari segalanya. Dengan tidak terikatnya Ibu Faoziah bersama komunitas,
+          tidak menyurutkan semangatnya untuk bisa menjadi orang yang bermanfaat
+          untuk perempuan-perempuan di desanya. Karena itu kami tetap melibatkan
+          Ibu Faoziah secara mandiri.
+        </p>
+        <p>
+          Dengan semangat Ibu Faoziah, ini juga menumbuhkan semangat dan tekad
+          saya untuk bisa memberikan yang terbaik. Terutama informasi-informasi
+          yang berkaitan dengan Perempuan Pekerja Migran. Berbagai kegiatan
+          untuk peningkatan kapasitas, kami tetap melibatkan Ibu Faoziah di
+          dalamnya. Terkait pelatihan paralegal, melakukan advokasi dengan
+          pemerintahan daerah, dan berbagai kegiatan lainnya untuk bisa
+          menumbuhkan kepercayaan diri Ibu Faoziah berbicara dalam forum dan
+          juga untuk memperluas informasinya.
+        </p>
+        <p>
+          Bagi saya Ibu Faoziah adalah, teman, guru dan panutan saya. Walaupun
+          dengan berbagai keterbatasan dia tetap semangat untuk bisa menjadi
+          orang yang bermanfaat dan bisa berbagi dengan orang lain. Sampai saat
+          ini kami terus berkomunikasi dan berbagi informasi. Seperti pada Juli
+          lalu ada beberapa kasus yang terjadi di desa tersebut, dengan
+          semangatnya Ibu Faoziah berbagi dengan kami dan langsung
+          &ldquo;gercep&rdquo; melakukan pendampingan kepada keluarga korban.
+          Dengan informasi tersebut kami juga bisa berkoordinasi dengan
+          pihak-pihak terkait dalam penanganannya.
+        </p>
+        <p>
+          Banyak hal yang bisa saya pelajari bersama dalam perjalanan ini, bahwa
+          setiap kendala yang ada itu bukan akhir dari segalanya. Hal kecil yang
+          menurut orang lain itu tidak ada gunanya bisa menjadi hal yang besar
+          dan bisa bermanfaat untuk banyak orang. Itu adalah keberadaan Ibu
+          Faoziah di desanya.
         </p>
       </div>
     ),
     id: (
       <div>
         <p>
-          Apa yang terlintas di pikiran jika mendengar kata anak muda?
-          Organisasi PBB seperti UNESCO dan UNFPA mengartikan pemuda sebagai
-          individu yang memiliki usia antara 15-24 tahun. Hampir setiap orang
-          berpikir bahwa masa-masa menjadi anak muda merupakan masa yang sangat
-          seru. Masa mencari jati diri dengan terus menerus menumpuk keinginan
-          yang entah kapan dapat terkabulkan. Layaknya pemikiran-pemikiran
-          orang-orang tentang anak muda, anak muda saat ini tidak dapat
-          disamakan, ada yang memang memiliki semangat yang tinggi untuk masa
-          depannya, ada juga yang berpasrah diri dengan mengikuti arus hidupnya.
-          Sama seperti halnya anak muda di kota kelahiranku, Batam. Berbagai
-          pandangan tentang anak muda seringkali didengar mulai dari yang
-          positif hingga negatif.
+          &ldquo;Wis mbak bli papa, kita ora melu ning komunitas tapi Insya
+          Allah kita siap melu kegiatan. Baka ana apa-apa kari hubungi bae kita
+          ya mbak&rdquo; (tidak apa-apa mbak, saya tidak ikut dalam komunitas
+          juga insya Allah saya siap ikut dalam kegiatan. Dan kalau ada apa-apa
+          tinggal hubungi saja saya ya)
         </p>
         <p>
-          Melihat kondisi anak muda di kota kecil ini terkadang juga cukup
-          memprihatinkan. Mereka membangun lingkungan dengan batasan-batasan
-          standar tertentu, seperti harus menggunakan handphone merek tertentu,
-          baju branded, sepatu bagus dan masih banyak lagi, menurutku yang
-          membuat lingkungan sosial semakin sempit. Tidak cakap bersosialisasi
-          dengan pemikiran bahwa tidak ada yang lebih penting dari urusan diri
-          mereka sendiri. Kenyataannya memang seperti itu, situasi anak muda di
-          kota kecil ini.
-        </p>
-        <blockquote>
-          Sangat menarik menurutku ketika ada sekelompok anak muda yang
-          menghabiskan waktunya dengan membahas masalah sosial yang terjadi saat
-          ini. Terlebih fokus mereka ada pada permasalahan kotanya sendiri.
-        </blockquote>
-        <p>
-          Setiap akhir pekan mereka tanpa beban berkumpul dengan canda tawa yang
-          mengiringi rapat-rapat dengan topik serius seperti isu kekerasan yang
-          selalu saja berhasil menguras emosi.
+          Kalimat yang menurut saya sangat menguatkan sekali yang keluar dari
+          seorang ibu rumah tangga, seorang kader Posyandu Desa yang memiliki
+          rasa kepedulian sangat tinggi untuk perempuan-perempuan pekerja migran
+          sekitarnya. Walau keadaan di sana sedang hiruk pikuk setelah adanya
+          pesta demokrasi di desa, tetapi hambatan itu tidak menyurutkan
+          semangatnya sama sekali.
         </p>
         <p>
-          Aku mengenal mereka dengan sangat dekat, bahkan aku pernah bergabung
-          di dalamnya tepatnya saat aku masih duduk di bangku SMA. Komunitas
-          anak muda KOMPAK (Komunitas Anak Muda Anti Perdagangan Orang dan
-          Eksploitasi Seksual) dan RAEKSA (Remaja Anti Eksploitasi Seksual Anak)
-          Namanya. Layaknya adik kakak yang lahir dari rahim yang sama, selalu
-          saja ada hal-hal pemantik debat dan pertengkaran yang sebenarnya
-          membuat mereka lebih dekat. Aku belajar dan bertumbuh bersama kelompok
-          anak muda ini. Jika dilihat jauh ke belakang aku ada bersama mereka
-          untuk berjuang bersama melawan dan mencegah kekerasan di kota kecil
-          ini sudah hampir 4 tahun. Bersama mereka, aku menjadi selalu punya
-          alasan untuk memperbaiki diri, belajar dengan lebih baik, hingga
-          mengerti makna yang besar dari berbagi dalam satu tujuan yang searah,
-          bersama untuk bermanfaat bagi orang lain. Bersama dengan penuh harap
-          dan berani mengambil langkah untuk dapat memberi penerangan di jalan
-          menuju masa depan yang lebih baik.
+          Sengat teriknya matahari pada hari itu adalah kali pertama pertemuan
+          kami dimulai. Kekhawatiran banyak orang dalam situasi Covid-19 membuat
+          sedikit aktivitas yang berjalan. Program Safe and Fair adalah jembatan
+          bagi saya dan teman-teman di Desa Kedongdong untuk bisa bertemu dan
+          juga berbagi. Sebut saja Faoziah namanya, perkenalan awal saya
+          dengannya sangat singkat. Sama-sama tidak kenal dan saya sedikit
+          memberikan gambaran tujuan saya untuk bisa berbagi informasi terkait
+          migrasi aman di Desa Kedongdong ini. Dengan semangat dan sedikit ragu
+          dengan dirinya sendiri, dia menjawab &ldquo;baiklah saya akan membantu
+          dan mencoba untuk ikut dalam kegiatan ini&rdquo;. Berbinar saya
+          mendengar jawabannya dan terucap rasa syukur dalam hati.
         </p>
         <p>
-          Berkegiatan bersama kelompok anak muda ini, membuat energiku rasanya
-          seperti diisi ulang, dengan bersama-sama menumpahkan ide untuk
-          menggali berbagai cara agar dapat bergerak dengan keunikan yang harus
-          memiliki dampak nyata. Berbagai pandangan baru untuk mencegah dan
-          melawan kekerasan di lingkungan sendiri. Selama kelompok anak muda
-          berdaya, dengan jalannya sendiri, semakin pula menimbulkan banyak
-          pertanyaan dan pernyataan hingga tekanan dari berbagai pihak yang
-          menjadikan kami harus terus punya pondasi jati diri untuk tetap
-          bertahan dengan komitmen yang terus dibentuk dan diasah setiap
-          generasinya. Semakin lama bertumbuh beriringan dengan kelompok anak
-          muda ini, membuat diriku semakin sadar bahwa kalau kami ini membawa
-          perubahan yang nyata. Tidak usah terlalu jauh mengukur dan memandang
-          banyaknya masyarakat yang menerima manfaat, namun kami lah orang-orang
-          di dalamnya yang telah berhasil menjadi lebih baik dengan bertumbuh
-          bersama.
+          Seiring berjalannya waktu, saya terus berkomunikasi intens melalui
+          Whatsapp dengan Ibu Faoziah karena memang jarak rumah kami lumayan
+          berjauhan dan hanya beberapa kali saja kami bertemu dalam satu bulan.
+          Kami membuat rencana kegiatan bersama, membuat daftar warga desa
+          perempuan yang akan dilibatkan dalam kegiatan dan juga sedikit membuat
+          pemetaan untuk sosialisasi. Walaupun saat itu kami berkomunikasi hanya
+          melalui handphone, tapi kami merasa &ldquo;nyambung&rdquo;.
         </p>
         <p>
-          Kisahku sebagai penyintas kekerasan seksual dan perjalananku mencari
-          teman-teman yang searah untuk berjuang bersama melawan kekerasan,
-          ternyata menarik perhatian tim media Amerika untuk menjadikan kisahku
-          dan peran komunitas anak muda ini dalam sebuah film dokumenter yang
-          tayang di saluran VOA Indonesia yang berjudul “Healing is a Right”.
-          Dari sini kami sadari dan kembali kami refleksi bahwa kami tidak akan
-          ada dan berdampak sampai saat ini jika tidak ada “ibu” kami Yayasan
-          Embun Pelangi yang selalu memberikan penguatan pemahaman kepada kami,
-          salah satunya melalui program Safe and Fair untuk kami dapat terus
-          berdaya dan kuat bersuara.
+          &ldquo;Mbak, saya kumpulin orang-orang sekitar saya saja dulu ya mbak
+          untuk pertemuan awal kita,&rdquo; kata Ibu Faoziah
+        </p>
+        <p>
+          &ldquo;Iya bu tidak apa, sembari nanti kita bersilaturahmi ke ibu Kuwu
+          yang baru, barangkali ada rekomendasi lainnya,&rdquo; sahut saya.
+        </p>
+        <p>
+          Pertemuan dan sosialisasi pertama kami berjalan lancar di rumah Ibu
+          Faoziah, yang pada awalnya ibu-ibu ini masih malu-malu. Ternyata di
+          akhir kegiatan, mereka banyak bercerita dan curhat terkait masih
+          banyak perempuan-perempuan yang berangkat ke Timur Tengah secara
+          non-prosedural di masa pandemi Covid-19. Ada juga yang kehilangan
+          kontak dengan keluarganya dan juga banyak dari mereka yang menuakan
+          usia untuk memenuhi syarat pemberangkatan mereka bekerja.
+        </p>
+        <p>
+          Seusai pertemuan, biasanya saya mengobrol bersama dengan Ibu Faoziah,
+          terkait masih banyaknya warga di desa ini yang berangkat secara
+          non-prosedural. Informasi yang diterima oleh masyarakat juga sangat
+          kurang, apalagi saat itu kondisi pemerintah desa yang sepertinya
+          kurang peduli. Tapi dengan adanya pemerintahan baru ini, ada harapan
+          baru semoga pemerintah desa lebih peduli lagi dengan masyarakat
+          khususnya dengan perempuan pekerja migran dan juga keluarganya.
+        </p>
+        <p>
+          Memang dalam setiap perjalanan itu akan selalu ada
+          &ldquo;surprisenya&rdquo;, seperti yang sedang saya dan Ibu Faoziah
+          alami sekarang. Dengan adanya pemerintahan desa yang baru, harapan
+          kami ternyata pupus, karena Ibu Kuwu, istri kepala desa, meminta Ibu
+          Faoziah sebagai koordinator komunitas diganti dengan Kadernya.
+        </p>
+        <p>
+          <blockquote>
+            Harapan saya sangat besar dengan pemerintahan baru saat itu,
+            berharap bahwa Ibu Faoziah yang sudah bergerak bersama masyarakat
+            desa tersebut, seharusnya mendapatkan dukungan, tapi ya sudahlah
+            pasti setiap desa memiliki cerita menariknya sendiri.
+          </blockquote>
+        </p>
+        <p>
+          Ternyata, semangat saya sempat turun karena adanya pergantian ini.
+          Terlalu overthinking dengan apa yang sudah saya lakukan dengan Ibu
+          Faoziah sebelumnya. Karena dengan kondisi sekarang, saya harus
+          melakukan semuanya dari &ldquo;0&rdquo; lagi. Namun, lagi-lagi Ibu
+          Faoziah menampar saya dengan memberikan semangat bahwa ini bukan akhir
+          dari segalanya. Dengan tidak terikatnya Ibu Faoziah bersama komunitas,
+          tidak menyurutkan semangatnya untuk bisa menjadi orang yang bermanfaat
+          untuk perempuan-perempuan di desanya. Karena itu kami tetap melibatkan
+          Ibu Faoziah secara mandiri.
+        </p>
+        <p>
+          Dengan semangat Ibu Faoziah, ini juga menumbuhkan semangat dan tekad
+          saya untuk bisa memberikan yang terbaik. Terutama informasi-informasi
+          yang berkaitan dengan Perempuan Pekerja Migran. Berbagai kegiatan
+          untuk peningkatan kapasitas, kami tetap melibatkan Ibu Faoziah di
+          dalamnya. Terkait pelatihan paralegal, melakukan advokasi dengan
+          pemerintahan daerah, dan berbagai kegiatan lainnya untuk bisa
+          menumbuhkan kepercayaan diri Ibu Faoziah berbicara dalam forum dan
+          juga untuk memperluas informasinya.
+        </p>
+        <p>
+          Bagi saya Ibu Faoziah adalah, teman, guru dan panutan saya. Walaupun
+          dengan berbagai keterbatasan dia tetap semangat untuk bisa menjadi
+          orang yang bermanfaat dan bisa berbagi dengan orang lain. Sampai saat
+          ini kami terus berkomunikasi dan berbagi informasi. Seperti pada Juli
+          lalu ada beberapa kasus yang terjadi di desa tersebut, dengan
+          semangatnya Ibu Faoziah berbagi dengan kami dan langsung
+          &ldquo;gercep&rdquo; melakukan pendampingan kepada keluarga korban.
+          Dengan informasi tersebut kami juga bisa berkoordinasi dengan
+          pihak-pihak terkait dalam penanganannya.
+        </p>
+        <p>
+          Banyak hal yang bisa saya pelajari bersama dalam perjalanan ini, bahwa
+          setiap kendala yang ada itu bukan akhir dari segalanya. Hal kecil yang
+          menurut orang lain itu tidak ada gunanya bisa menjadi hal yang besar
+          dan bisa bermanfaat untuk banyak orang. Itu adalah keberadaan Ibu
+          Faoziah di desanya.
         </p>
       </div>
     ),

@@ -34,11 +34,14 @@ export const story6 = {
           mereka sendiri. Kenyataannya memang seperti itu, situasi anak muda di
           kota kecil ini.
         </p>
-        <blockquote>
-          Sangat menarik menurutku ketika ada sekelompok anak muda yang
-          menghabiskan waktunya dengan membahas masalah sosial yang terjadi saat
-          ini. Terlebih fokus mereka ada pada permasalahan kotanya sendiri.
-        </blockquote>
+        <p>
+          <blockquote>
+            Sangat menarik menurutku ketika ada sekelompok anak muda yang
+            menghabiskan waktunya dengan membahas masalah sosial yang terjadi
+            saat ini. Terlebih fokus mereka ada pada permasalahan kotanya
+            sendiri.
+          </blockquote>
+        </p>
         <p>
           Setiap akhir pekan mereka tanpa beban berkumpul dengan canda tawa yang
           mengiringi rapat-rapat dengan topik serius seperti isu kekerasan yang
@@ -83,12 +86,12 @@ export const story6 = {
           teman-teman yang searah untuk berjuang bersama melawan kekerasan,
           ternyata menarik perhatian tim media Amerika untuk menjadikan kisahku
           dan peran komunitas anak muda ini dalam sebuah film dokumenter yang
-          tayang di saluran VOA Indonesia yang berjudul “Healing is a Right”.
-          Dari sini kami sadari dan kembali kami refleksi bahwa kami tidak akan
-          ada dan berdampak sampai saat ini jika tidak ada “ibu” kami Yayasan
-          Embun Pelangi yang selalu memberikan penguatan pemahaman kepada kami,
-          salah satunya melalui program Safe and Fair untuk kami dapat terus
-          berdaya dan kuat bersuara.
+          tayang di saluran VOA Indonesia yang berjudul &ldquo;Healing is a
+          Right&rdquo;. Dari sini kami sadari dan kembali kami refleksi bahwa
+          kami tidak akan ada dan berdampak sampai saat ini jika tidak ada
+          &ldquo;ibu&rdquo; kami Yayasan Embun Pelangi yang selalu memberikan
+          penguatan pemahaman kepada kami, salah satunya melalui program Safe
+          and Fair untuk kami dapat terus berdaya dan kuat bersuara.
         </p>
       </div>
     ),
@@ -118,11 +121,14 @@ export const story6 = {
           mereka sendiri. Kenyataannya memang seperti itu, situasi anak muda di
           kota kecil ini.
         </p>
-        <blockquote>
-          Sangat menarik menurutku ketika ada sekelompok anak muda yang
-          menghabiskan waktunya dengan membahas masalah sosial yang terjadi saat
-          ini. Terlebih fokus mereka ada pada permasalahan kotanya sendiri.
-        </blockquote>
+        <p>
+          <blockquote>
+            Sangat menarik menurutku ketika ada sekelompok anak muda yang
+            menghabiskan waktunya dengan membahas masalah sosial yang terjadi
+            saat ini. Terlebih fokus mereka ada pada permasalahan kotanya
+            sendiri.
+          </blockquote>
+        </p>
         <p>
           Setiap akhir pekan mereka tanpa beban berkumpul dengan canda tawa yang
           mengiringi rapat-rapat dengan topik serius seperti isu kekerasan yang
@@ -167,12 +173,12 @@ export const story6 = {
           teman-teman yang searah untuk berjuang bersama melawan kekerasan,
           ternyata menarik perhatian tim media Amerika untuk menjadikan kisahku
           dan peran komunitas anak muda ini dalam sebuah film dokumenter yang
-          tayang di saluran VOA Indonesia yang berjudul “Healing is a Right”.
-          Dari sini kami sadari dan kembali kami refleksi bahwa kami tidak akan
-          ada dan berdampak sampai saat ini jika tidak ada “ibu” kami Yayasan
-          Embun Pelangi yang selalu memberikan penguatan pemahaman kepada kami,
-          salah satunya melalui program Safe and Fair untuk kami dapat terus
-          berdaya dan kuat bersuara.
+          tayang di saluran VOA Indonesia yang berjudul &ldquo;Healing is a
+          Right&rdquo;. Dari sini kami sadari dan kembali kami refleksi bahwa
+          kami tidak akan ada dan berdampak sampai saat ini jika tidak ada
+          &ldquo;ibu&rdquo; kami Yayasan Embun Pelangi yang selalu memberikan
+          penguatan pemahaman kepada kami, salah satunya melalui program Safe
+          and Fair untuk kami dapat terus berdaya dan kuat bersuara.
         </p>
       </div>
     ),
