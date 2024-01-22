@@ -48,7 +48,7 @@ export default function LightboxModal() {
         className="modal fixed inset-0 overflow-y-scroll"
       >
         <Fade triggerOnce={false}>
-          <div className="flex min-h-[100vh] items-center px-4">
+          <div className="flex min-h-[100svh] items-center px-4">
             <div
               className="absolute inset-0"
               onClick={() => {
