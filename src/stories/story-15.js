@@ -2,177 +2,189 @@ const dir = "15";
 export const story15 = {
   index: dir,
   thumbnail: require(`images/stories/${dir}/main.webp`),
-  name: "Ria Febriyanti",
+  name: "Anisa",
   title: {
-    en: "Orang Muda untuk Perubahan",
-    id: "Orang Muda untuk Perubahan",
+    en: "Terbangkan ku ke Belanda",
+    id: "Terbangkan ku ke Belanda",
   },
   content: {
     en: (
       <div>
         <p>
-          Apa yang terlintas di pikiran jika mendengar kata anak muda?
-          Organisasi PBB seperti UNESCO dan UNFPA mengartikan pemuda sebagai
-          individu yang memiliki usia antara 15-24 tahun. Hampir setiap orang
-          berpikir bahwa masa-masa menjadi anak muda merupakan masa yang sangat
-          seru. Masa mencari jati diri dengan terus menerus menumpuk keinginan
-          yang entah kapan dapat terkabulkan. Layaknya pemikiran-pemikiran
-          orang-orang tentang anak muda, anak muda saat ini tidak dapat
-          disamakan, ada yang memang memiliki semangat yang tinggi untuk masa
-          depannya, ada juga yang berpasrah diri dengan mengikuti arus hidupnya.
-          Sama seperti halnya anak muda di kota kelahiranku, Batam. Berbagai
-          pandangan tentang anak muda seringkali didengar mulai dari yang
-          positif hingga negatif.
+          Pergi ke luar negeri selalu menjadi harapan bagi sebagian orang, baik
+          sebagai penyambung kehidupan maupun meneguk hausnya ilmu di negeri
+          impian. Perkenalanku terhadap kisah hidup para migran yang banyak
+          berujung kesedihan dan kepiluan, dimulai di tengah pandemi Covid-19.
+          Saat itu banyak pekerja migran yang mesti dipulangkan maupun menjadi
+          korban jalur penempatan non-prosedural. Hidup yang sangat berat di
+          negeri sendiri, saling berebut mata pencaharian, membuat banyak
+          perempuan rela meninggalkan kampung halaman, hidup yang harus
+          dipertaruhkan di negeri orang, dengan harapan pulang membawa banyak
+          uang, malah berakhir menjadi korban. Sangat disayangkan memang, namun
+          hidup adalah pilihan, meski menjadi pekerja migran tak perlu
+          dimasukkan.
         </p>
         <p>
-          Melihat kondisi anak muda di kota kecil ini terkadang juga cukup
-          memprihatinkan. Mereka membangun lingkungan dengan batasan-batasan
-          standar tertentu, seperti harus menggunakan handphone merek tertentu,
-          baju branded, sepatu bagus dan masih banyak lagi, menurutku yang
-          membuat lingkungan sosial semakin sempit. Tidak cakap bersosialisasi
-          dengan pemikiran bahwa tidak ada yang lebih penting dari urusan diri
-          mereka sendiri. Kenyataannya memang seperti itu, situasi anak muda di
-          kota kecil ini.
-        </p>
-        <blockquote>
-          Sangat menarik menurutku ketika ada sekelompok anak muda yang
-          menghabiskan waktunya dengan membahas masalah sosial yang terjadi saat
-          ini. Terlebih fokus mereka ada pada permasalahan kotanya sendiri.
-        </blockquote>
-        <p>
-          Setiap akhir pekan mereka tanpa beban berkumpul dengan canda tawa yang
-          mengiringi rapat-rapat dengan topik serius seperti isu kekerasan yang
-          selalu saja berhasil menguras emosi.
+          Seperti salah satu korban dampingan Damar Lampung, Susan (52 tahun)
+          yang harus pulang di tengah pandemi COVID–19. Dia tidak pulang karena
+          tempat kerjanya tutup akibat pandemi, namun Susan menjadi korban
+          penganiayaan yang dilakukan oleh sang majikan. Gaji yang ia harapkan
+          tiap bulan dapat dikirimkan ke kampung halaman, nyatanya tak kunjung
+          dibayarkan. “Sudah jatuh tertimpa tangga” mungkin itu peribahasa yang
+          cocok menggambarkan kondisi Susan. Pulang saat situasi pandemi, harus
+          kembali ke tanah air membawa luka dan trauma, tanpa uang yang ia
+          harapkan menjadi tumpuan. “Nasi sudah menjadi bubur”perjalanan dua
+          tahun mengais rejeki di negeri orang tak seindah yang dibayangkan,
+          “Syukur-syukur masih dapat kumpul bersama keluarga, meski kembali
+          hidup seadanya,” kenangnya pada saat itu.
         </p>
         <p>
-          Aku mengenal mereka dengan sangat dekat, bahkan aku pernah bergabung
-          di dalamnya tepatnya saat aku masih duduk di bangku SMA. Komunitas
-          anak muda KOMPAK (Komunitas Anak Muda Anti Perdagangan Orang dan
-          Eksploitasi Seksual) dan RAEKSA (Remaja Anti Eksploitasi Seksual Anak)
-          Namanya. Layaknya adik kakak yang lahir dari rahim yang sama, selalu
-          saja ada hal-hal pemantik debat dan pertengkaran yang sebenarnya
-          membuat mereka lebih dekat. Aku belajar dan bertumbuh bersama kelompok
-          anak muda ini. Jika dilihat jauh ke belakang aku ada bersama mereka
-          untuk berjuang bersama melawan dan mencegah kekerasan di kota kecil
-          ini sudah hampir 4 tahun. Bersama mereka, aku menjadi selalu punya
-          alasan untuk memperbaiki diri, belajar dengan lebih baik, hingga
-          mengerti makna yang besar dari berbagi dalam satu tujuan yang searah,
-          bersama untuk bermanfaat bagi orang lain. Bersama dengan penuh harap
-          dan berani mengambil langkah untuk dapat memberi penerangan di jalan
-          menuju masa depan yang lebih baik.
+          Pengalaman mendampingi Susan, dan banyak teman seperti Susan lainnya,
+          membuatku percaya, perubahan bisa dilakukan, dengan juga memperhatikan
+          nasib dan mimpi anak-anak pekerja migran. Itu adalah impian yang aku
+          sampaikan kepada pemberi beasiswa. Banyak dari mereka yang tidak
+          mendapatkan asuhan prima dari orang tua. Bahkan berujung menjadi
+          korban pemerkosaan, yang akhirnya semakin menguburkan segala impian.
+          Ditinggal ibu bekerja ke luar negeri, ditambah menjadi korban
+          pemerkosaan, menancapkan luka yang begitu dalam pada anak pekerja
+          migran. Padahal tujuan perempuan pergi bermigrasi adalah demi mimpi si
+          buah hati, agar ia memiliki mimpi yang jauh lebih tinggi. Seperti
+          kisah Mirna (13 tahun) yang harus menjadi korban pelampiasan nafsu
+          bejat ayah kandungnya sendiri. Sudahlah merasa sendirian dan kesepian
+          tanpa asuhan, tiap hari ia harus mengalami ketakutan, mendapatkan
+          ancaman dari sang ayah untuk memenuhi nafsu bejatnya, dan menerima
+          kenyataan bahwa ia kini menjadi korban pemerkosaan. Proses pemulihan
+          tidak sebentar dan tidak akan pernah menyembuhkan atau bahkan
+          menghapus segala derita yang dialami Mirna. Bagaimana ia bisa menata
+          kembali masa depan sebelum semua dihancurkan, bahkan untuk meneruskan
+          pendidikan saja ia sudah enggan.
         </p>
         <p>
-          Berkegiatan bersama kelompok anak muda ini, membuat energiku rasanya
-          seperti diisi ulang, dengan bersama-sama menumpahkan ide untuk
-          menggali berbagai cara agar dapat bergerak dengan keunikan yang harus
-          memiliki dampak nyata. Berbagai pandangan baru untuk mencegah dan
-          melawan kekerasan di lingkungan sendiri. Selama kelompok anak muda
-          berdaya, dengan jalannya sendiri, semakin pula menimbulkan banyak
-          pertanyaan dan pernyataan hingga tekanan dari berbagai pihak yang
-          menjadikan kami harus terus punya pondasi jati diri untuk tetap
-          bertahan dengan komitmen yang terus dibentuk dan diasah setiap
-          generasinya. Semakin lama bertumbuh beriringan dengan kelompok anak
-          muda ini, membuat diriku semakin sadar bahwa kalau kami ini membawa
-          perubahan yang nyata. Tidak usah terlalu jauh mengukur dan memandang
-          banyaknya masyarakat yang menerima manfaat, namun kami lah orang-orang
-          di dalamnya yang telah berhasil menjadi lebih baik dengan bertumbuh
-          bersama.
+          Dalam proses pendampingan, saya melakukan perenungan yang cukup
+          panjang. Bagaimana nasib mereka ke depan? Sebagai generasi emas
+          Indonesia yang akan meneruskan perjuangan. Masih terlintas dalam
+          ingatan tentang kata-kata dari Suli (32 tahun) sebelum ia memutuskan
+          untuk menjadi pekerja migran “Ada tabungan pendidikan yang harus aku
+          siapkan agar kelak anakku pergi ke luar negeri bukan untuk menjadi
+          pekerja migran, melainkan melanjutkan pendidikan”.
         </p>
         <p>
-          Kisahku sebagai penyintas kekerasan seksual dan perjalananku mencari
-          teman-teman yang searah untuk berjuang bersama melawan kekerasan,
-          ternyata menarik perhatian tim media Amerika untuk menjadikan kisahku
-          dan peran komunitas anak muda ini dalam sebuah film dokumenter yang
-          tayang di saluran VOA Indonesia yang berjudul “Healing is a Right”.
-          Dari sini kami sadari dan kembali kami refleksi bahwa kami tidak akan
-          ada dan berdampak sampai saat ini jika tidak ada “ibu” kami Yayasan
-          Embun Pelangi yang selalu memberikan penguatan pemahaman kepada kami,
-          salah satunya melalui program Safe and Fair untuk kami dapat terus
-          berdaya dan kuat bersuara.
+          <blockquote>
+            Nasib anak pekerja migran yang mesti dipertaruhkan tidak akan pernah
+            sebanding dengan besaran remitansi atau uang yang ditransfer pekerja
+            migran kepada keluarganya di kampung halaman. Karena hal ini
+            menyangkut masa depan, maka semua pihak layak dilibatkan.
+          </blockquote>
+        </p>
+        <p>
+          Semua harus bahu membahu dalam pola pengasuhan, advokasi kebijakan,
+          sampai dengan anggaran. Pada akhirnya pergi bekerja ke luar negeri
+          tidak boleh menjadi satu-satunya pilihan, dan nasib anak pekerja
+          migran tak perlu lagi dikorbankan. Karena tidak ada hal yang lebih
+          menyenangkan selain melihat tumbuh kembang sang anak dalam dekapan.
+        </p>
+        <p>
+          Aku berharap kelak bisa menjadi agen perubahan, menjadi perempuan yang
+          maju menduduki posisi strategis, dan memperjuangkan isu yang sering
+          kali terabaikan. Keputusan untuk menempuh pendidikan ke Belanda adalah
+          sebuah impian dan harapan bahwa ilmu yang aku dapatkan kelak bisa
+          menjadi jalan untuk perubahan dan kebaikan anak pekerja migran yang
+          selalu aku doakan.
+        </p>
+        <p>
+          Dari sekian perjalanan program, aku belajar banyak dari para korban
+          “Terima kasih telah mengajarkan arti kehidupan bahwa mimpi memang
+          perlu diperjuangkan, dan harus dengan cara yang aman".
         </p>
       </div>
     ),
     id: (
       <div>
         <p>
-          Apa yang terlintas di pikiran jika mendengar kata anak muda?
-          Organisasi PBB seperti UNESCO dan UNFPA mengartikan pemuda sebagai
-          individu yang memiliki usia antara 15-24 tahun. Hampir setiap orang
-          berpikir bahwa masa-masa menjadi anak muda merupakan masa yang sangat
-          seru. Masa mencari jati diri dengan terus menerus menumpuk keinginan
-          yang entah kapan dapat terkabulkan. Layaknya pemikiran-pemikiran
-          orang-orang tentang anak muda, anak muda saat ini tidak dapat
-          disamakan, ada yang memang memiliki semangat yang tinggi untuk masa
-          depannya, ada juga yang berpasrah diri dengan mengikuti arus hidupnya.
-          Sama seperti halnya anak muda di kota kelahiranku, Batam. Berbagai
-          pandangan tentang anak muda seringkali didengar mulai dari yang
-          positif hingga negatif.
+          Pergi ke luar negeri selalu menjadi harapan bagi sebagian orang, baik
+          sebagai penyambung kehidupan maupun meneguk hausnya ilmu di negeri
+          impian. Perkenalanku terhadap kisah hidup para migran yang banyak
+          berujung kesedihan dan kepiluan, dimulai di tengah pandemi Covid-19.
+          Saat itu banyak pekerja migran yang mesti dipulangkan maupun menjadi
+          korban jalur penempatan non-prosedural. Hidup yang sangat berat di
+          negeri sendiri, saling berebut mata pencaharian, membuat banyak
+          perempuan rela meninggalkan kampung halaman, hidup yang harus
+          dipertaruhkan di negeri orang, dengan harapan pulang membawa banyak
+          uang, malah berakhir menjadi korban. Sangat disayangkan memang, namun
+          hidup adalah pilihan, meski menjadi pekerja migran tak perlu
+          dimasukkan.
         </p>
         <p>
-          Melihat kondisi anak muda di kota kecil ini terkadang juga cukup
-          memprihatinkan. Mereka membangun lingkungan dengan batasan-batasan
-          standar tertentu, seperti harus menggunakan handphone merek tertentu,
-          baju branded, sepatu bagus dan masih banyak lagi, menurutku yang
-          membuat lingkungan sosial semakin sempit. Tidak cakap bersosialisasi
-          dengan pemikiran bahwa tidak ada yang lebih penting dari urusan diri
-          mereka sendiri. Kenyataannya memang seperti itu, situasi anak muda di
-          kota kecil ini.
-        </p>
-        <blockquote>
-          Sangat menarik menurutku ketika ada sekelompok anak muda yang
-          menghabiskan waktunya dengan membahas masalah sosial yang terjadi saat
-          ini. Terlebih fokus mereka ada pada permasalahan kotanya sendiri.
-        </blockquote>
-        <p>
-          Setiap akhir pekan mereka tanpa beban berkumpul dengan canda tawa yang
-          mengiringi rapat-rapat dengan topik serius seperti isu kekerasan yang
-          selalu saja berhasil menguras emosi.
+          Seperti salah satu korban dampingan Damar Lampung, Susan (52 tahun)
+          yang harus pulang di tengah pandemi COVID–19. Dia tidak pulang karena
+          tempat kerjanya tutup akibat pandemi, namun Susan menjadi korban
+          penganiayaan yang dilakukan oleh sang majikan. Gaji yang ia harapkan
+          tiap bulan dapat dikirimkan ke kampung halaman, nyatanya tak kunjung
+          dibayarkan. “Sudah jatuh tertimpa tangga” mungkin itu peribahasa yang
+          cocok menggambarkan kondisi Susan. Pulang saat situasi pandemi, harus
+          kembali ke tanah air membawa luka dan trauma, tanpa uang yang ia
+          harapkan menjadi tumpuan. “Nasi sudah menjadi bubur”perjalanan dua
+          tahun mengais rejeki di negeri orang tak seindah yang dibayangkan,
+          “Syukur-syukur masih dapat kumpul bersama keluarga, meski kembali
+          hidup seadanya,” kenangnya pada saat itu.
         </p>
         <p>
-          Aku mengenal mereka dengan sangat dekat, bahkan aku pernah bergabung
-          di dalamnya tepatnya saat aku masih duduk di bangku SMA. Komunitas
-          anak muda KOMPAK (Komunitas Anak Muda Anti Perdagangan Orang dan
-          Eksploitasi Seksual) dan RAEKSA (Remaja Anti Eksploitasi Seksual Anak)
-          Namanya. Layaknya adik kakak yang lahir dari rahim yang sama, selalu
-          saja ada hal-hal pemantik debat dan pertengkaran yang sebenarnya
-          membuat mereka lebih dekat. Aku belajar dan bertumbuh bersama kelompok
-          anak muda ini. Jika dilihat jauh ke belakang aku ada bersama mereka
-          untuk berjuang bersama melawan dan mencegah kekerasan di kota kecil
-          ini sudah hampir 4 tahun. Bersama mereka, aku menjadi selalu punya
-          alasan untuk memperbaiki diri, belajar dengan lebih baik, hingga
-          mengerti makna yang besar dari berbagi dalam satu tujuan yang searah,
-          bersama untuk bermanfaat bagi orang lain. Bersama dengan penuh harap
-          dan berani mengambil langkah untuk dapat memberi penerangan di jalan
-          menuju masa depan yang lebih baik.
+          Pengalaman mendampingi Susan, dan banyak teman seperti Susan lainnya,
+          membuatku percaya, perubahan bisa dilakukan, dengan juga memperhatikan
+          nasib dan mimpi anak-anak pekerja migran. Itu adalah impian yang aku
+          sampaikan kepada pemberi beasiswa. Banyak dari mereka yang tidak
+          mendapatkan asuhan prima dari orang tua. Bahkan berujung menjadi
+          korban pemerkosaan, yang akhirnya semakin menguburkan segala impian.
+          Ditinggal ibu bekerja ke luar negeri, ditambah menjadi korban
+          pemerkosaan, menancapkan luka yang begitu dalam pada anak pekerja
+          migran. Padahal tujuan perempuan pergi bermigrasi adalah demi mimpi si
+          buah hati, agar ia memiliki mimpi yang jauh lebih tinggi. Seperti
+          kisah Mirna (13 tahun) yang harus menjadi korban pelampiasan nafsu
+          bejat ayah kandungnya sendiri. Sudahlah merasa sendirian dan kesepian
+          tanpa asuhan, tiap hari ia harus mengalami ketakutan, mendapatkan
+          ancaman dari sang ayah untuk memenuhi nafsu bejatnya, dan menerima
+          kenyataan bahwa ia kini menjadi korban pemerkosaan. Proses pemulihan
+          tidak sebentar dan tidak akan pernah menyembuhkan atau bahkan
+          menghapus segala derita yang dialami Mirna. Bagaimana ia bisa menata
+          kembali masa depan sebelum semua dihancurkan, bahkan untuk meneruskan
+          pendidikan saja ia sudah enggan.
         </p>
         <p>
-          Berkegiatan bersama kelompok anak muda ini, membuat energiku rasanya
-          seperti diisi ulang, dengan bersama-sama menumpahkan ide untuk
-          menggali berbagai cara agar dapat bergerak dengan keunikan yang harus
-          memiliki dampak nyata. Berbagai pandangan baru untuk mencegah dan
-          melawan kekerasan di lingkungan sendiri. Selama kelompok anak muda
-          berdaya, dengan jalannya sendiri, semakin pula menimbulkan banyak
-          pertanyaan dan pernyataan hingga tekanan dari berbagai pihak yang
-          menjadikan kami harus terus punya pondasi jati diri untuk tetap
-          bertahan dengan komitmen yang terus dibentuk dan diasah setiap
-          generasinya. Semakin lama bertumbuh beriringan dengan kelompok anak
-          muda ini, membuat diriku semakin sadar bahwa kalau kami ini membawa
-          perubahan yang nyata. Tidak usah terlalu jauh mengukur dan memandang
-          banyaknya masyarakat yang menerima manfaat, namun kami lah orang-orang
-          di dalamnya yang telah berhasil menjadi lebih baik dengan bertumbuh
-          bersama.
+          Dalam proses pendampingan, saya melakukan perenungan yang cukup
+          panjang. Bagaimana nasib mereka ke depan? Sebagai generasi emas
+          Indonesia yang akan meneruskan perjuangan. Masih terlintas dalam
+          ingatan tentang kata-kata dari Suli (32 tahun) sebelum ia memutuskan
+          untuk menjadi pekerja migran “Ada tabungan pendidikan yang harus aku
+          siapkan agar kelak anakku pergi ke luar negeri bukan untuk menjadi
+          pekerja migran, melainkan melanjutkan pendidikan”.
         </p>
         <p>
-          Kisahku sebagai penyintas kekerasan seksual dan perjalananku mencari
-          teman-teman yang searah untuk berjuang bersama melawan kekerasan,
-          ternyata menarik perhatian tim media Amerika untuk menjadikan kisahku
-          dan peran komunitas anak muda ini dalam sebuah film dokumenter yang
-          tayang di saluran VOA Indonesia yang berjudul “Healing is a Right”.
-          Dari sini kami sadari dan kembali kami refleksi bahwa kami tidak akan
-          ada dan berdampak sampai saat ini jika tidak ada “ibu” kami Yayasan
-          Embun Pelangi yang selalu memberikan penguatan pemahaman kepada kami,
-          salah satunya melalui program Safe and Fair untuk kami dapat terus
-          berdaya dan kuat bersuara.
+          <blockquote>
+            Nasib anak pekerja migran yang mesti dipertaruhkan tidak akan pernah
+            sebanding dengan besaran remitansi atau uang yang ditransfer pekerja
+            migran kepada keluarganya di kampung halaman. Karena hal ini
+            menyangkut masa depan, maka semua pihak layak dilibatkan.
+          </blockquote>
+        </p>
+        <p>
+          Semua harus bahu membahu dalam pola pengasuhan, advokasi kebijakan,
+          sampai dengan anggaran. Pada akhirnya pergi bekerja ke luar negeri
+          tidak boleh menjadi satu-satunya pilihan, dan nasib anak pekerja
+          migran tak perlu lagi dikorbankan. Karena tidak ada hal yang lebih
+          menyenangkan selain melihat tumbuh kembang sang anak dalam dekapan.
+        </p>
+        <p>
+          Aku berharap kelak bisa menjadi agen perubahan, menjadi perempuan yang
+          maju menduduki posisi strategis, dan memperjuangkan isu yang sering
+          kali terabaikan. Keputusan untuk menempuh pendidikan ke Belanda adalah
+          sebuah impian dan harapan bahwa ilmu yang aku dapatkan kelak bisa
+          menjadi jalan untuk perubahan dan kebaikan anak pekerja migran yang
+          selalu aku doakan.
+        </p>
+        <p>
+          Dari sekian perjalanan program, aku belajar banyak dari para korban
+          “Terima kasih telah mengajarkan arti kehidupan bahwa mimpi memang
+          perlu diperjuangkan, dan harus dengan cara yang aman".
         </p>
       </div>
     ),
