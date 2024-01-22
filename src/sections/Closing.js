@@ -21,7 +21,7 @@ export default function Closing() {
         </div>
 
         <div
-          className="absolute right-0 top-10 -z-10 h-52 w-52 bg-contain"
+          className="absolute right-0 top-10 -z-10 h-36 w-36 bg-contain lg:h-52 lg:w-52"
           style={{
             backgroundImage: `url(${require("images/closing-concave.webp")}`,
           }}
