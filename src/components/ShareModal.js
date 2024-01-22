@@ -10,7 +10,7 @@ export default function ShareModal() {
   const lang = i18n.language;
   const { shareModalIsOpen, setShareModalIsOpen } = useContext(AppContext);
   const [copied, setCopied] = useState(false);
-  const siteUrl = "https://kusumahendra.github.io/saf/";
+  const siteUrl = `${window?.location?.origin}${window?.location?.pathname}`;
 
   const renderBackdrop = (props) => (
     <div className="backdrop fixed inset-0 bg-black bg-opacity-80" {...props} />

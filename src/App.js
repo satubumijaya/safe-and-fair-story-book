@@ -23,7 +23,7 @@ function App() {
       <AppContextProvider>
         <ReactFullpage
           scrollingSpeed={1000} /* Options here */
-          anchors={["home", "intro", "gallery"]}
+          anchors={["home", "intro", "gallery", "closing"]}
           normalScrollElements=".modal"
           render={({ state, fullpageApi }) => {
             return (

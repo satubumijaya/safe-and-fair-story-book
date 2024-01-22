@@ -24,9 +24,14 @@ export default function GalleryModal() {
     <div className="backdrop fixed inset-0 bg-black bg-opacity-80" {...props} />
   );
 
-  if (!currentStory) {
-    setGalleryModalIsOpen(false);
-  }
+  // if (!currentStory) {
+  //   setGalleryModalIsOpen(false);
+  // }
+  useEffect(() => {
+    if (!currentStory) {
+      setGalleryModalIsOpen(false);
+    }
+  }, [currentStory]);
 
   const closeModal = () => {
     window.fullpage_api.setAllowScrolling(true);
@@ -230,7 +235,7 @@ export default function GalleryModal() {
                                   />
                                 </svg>
                               </div>
-                              <div className="h-8 bg-main-dark"></div>
+                              <div className="hidden h-8 bg-main-dark md:block"></div>
                             </div>
                           </div>
                         );
