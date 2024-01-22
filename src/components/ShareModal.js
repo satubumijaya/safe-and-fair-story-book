@@ -92,7 +92,7 @@ export default function ShareModal() {
                   <div className="mb-8 text-center font-semibold uppercase">
                     Share to
                   </div>
-                  <div className="relative z-20 px-4">
+                  <div className="relative z-20 md:px-4">
                     <div className="grid grid-cols-2 grid-rows-2 gap-6">
                       <a
                         className="cursor-pointer"
