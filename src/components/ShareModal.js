@@ -58,6 +58,7 @@ export default function ShareModal() {
               }}
             ></div>
             <div className="relative top-0 z-50 mx-auto mb-20 mt-24 w-full max-w-sm bg-white">
+              {/* close button */}
               <button
                 onClick={() => {
                   closeModal();
@@ -117,7 +118,7 @@ export default function ShareModal() {
                       </a>
                       <a
                         className="cursor-pointer"
-                        href={`https://twitter.com/intent/tweet?text=${encodeURIComponent(
+                        href={`https://x.com/intent/tweet?text=${encodeURIComponent(
                           siteUrl,
                         )}`}
                         target="_blank"
@@ -128,11 +129,10 @@ export default function ShareModal() {
                           viewBox="0 0 56 56"
                           xmlns="http://www.w3.org/2000/svg"
                         >
-                          <path
-                            d="m49.16 0c3.77 0 6.84 3.07 6.84 6.84v42.32c0 3.78-3.07 6.84-6.84 6.84h-42.32c-3.78 0-6.84-3.07-6.84-6.84v-42.32c0-3.77 3.07-6.84 6.84-6.84zm-27.77 46.43c14.87 0 23-12.32 23-23 0-.35 0-.7-.02-1.04 1.58-1.14 2.95-2.56 4.04-4.19-1.44.64-3 1.07-4.64 1.27 1.68-1.01 2.95-2.58 3.55-4.48-1.56.92-3.29 1.59-5.13 1.96-1.48-1.58-3.57-2.55-5.9-2.55-4.46 0-8.08 3.62-8.08 8.08 0 .64.07 1.26.22 1.84-6.72-.34-12.67-3.55-16.66-8.45-.69 1.19-1.09 2.58-1.09 4.06 0 2.8 1.42 5.28 3.6 6.72-1.32-.03-2.56-.4-3.65-1.01v.1c0 3.92 2.78 7.17 6.49 7.93-.67.18-1.39.29-2.13.29-.52 0-1.02-.05-1.53-.15 1.02 3.22 4.01 5.55 7.54 5.62-2.77 2.16-6.25 3.45-10.04 3.45-.65 0-1.29-.03-1.93-.12 3.54 2.31 7.79 3.65 12.35 3.65z"
-                            fill="#414343"
-                            fillRule="evenodd"
-                          />
+                          <g fill="#414343" fillRule="evenodd">
+                            <path d="m42.02 44.21-23.06-32.3h-5.01l23.06 32.3z" />
+                            <path d="m56 6.84c0-3.78-3.07-6.84-6.84-6.84h-42.32c-3.77 0-6.84 3.07-6.84 6.84v42.32c0 3.78 3.07 6.84 6.84 6.84h42.32c3.78 0 6.84-3.07 6.84-6.84zm-20.52 39.66-10.08-14.37-12.62 14.37h-3.26l14.43-16.43-14.43-20.57h11.01l9.54 13.6 11.96-13.6h3.26l-13.76 15.67 14.96 21.33z" />
+                          </g>
                         </svg>
                         <div className="mt-2 text-center text-sm">Twitter</div>
                       </a>

@@ -15,7 +15,7 @@ export default function Closing() {
   const { shareModalIsOpen, setShareModalIsOpen } = useContext(AppContext);
   return (
     <div className="section">
-      <div className="relative min-h-screen overflow-x-hidden text-left">
+      <div className="relative flex min-h-screen flex-col overflow-x-hidden text-left">
         <div className="flex h-10 bg-main">
           <div className="ml-6 h-14 flex-1 bg-main-dark md:mx-16"></div>
           <div className="flex-1"></div>
@@ -86,80 +86,16 @@ export default function Closing() {
             </div>
           </div>
         </div>
-
-        <div className="hidden md:block">
-          <div className="mx-auto mb-16 mt-20 flex max-w-screen-md flex-col items-end gap-10 px-6 md:flex-row lg:gap-20">
-            <div className="w-full flex-1">
-              <div
-                className="cursor-pointer text-right font-semibold uppercase"
-                onClick={() => window.fullpage_api.moveTo("gallery")}
-              >
-                <div className="whitespace-nowrap pl-6 tracking-widest">
-                  Back to Gallery
-                </div>
-                <div className="flex items-center">
-                  <div className="border-y-8 border-l-0 border-r-8 border-solid border-y-transparent border-r-black"></div>
-                  <div className="h-0.5 w-full flex-grow-0 bg-black"></div>
-                </div>
-              </div>
-            </div>
-
-            <div className="w-full flex-1">
-              <div
-                className="cursor-pointer text-center font-semibold uppercase"
-                onClick={() => window.fullpage_api.moveTo("home")}
-              >
-                <div className="whitespace-nowrap px-3 tracking-widest">
-                  Home
-                </div>
-                <div className="mb-2 mt-2 flex flex-col items-center">
-                  <div className="border-x-8 border-b-8 border-t-0 border-solid border-x-transparent border-b-black"></div>
-                  <div className="h-0.5 w-full flex-grow-0 bg-black"></div>
-                </div>
-              </div>
-            </div>
-
-            <div className="w-full flex-1">
-              <div
-                className="cursor-pointer text-left font-semibold uppercase"
-                onClick={() => setShareModalIsOpen(true)}
-              >
-                <div className="whitespace-nowrap pr-6 tracking-widest">
-                  Share
-                </div>
-                <div className="flex items-center">
-                  <div className="h-0.5 w-full flex-grow-0 bg-black"></div>
-                  <div className="border-y-8 border-l-8 border-r-0 border-solid border-y-transparent border-l-black"></div>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-
-        <div className="md:hidden">
-          <div className="mx-auto mb-16 mt-20 flex max-w-screen-md flex-col items-end gap-10 px-6 md:flex-row lg:gap-20">
-            <div className="w-full flex-1">
-              <div
-                className="cursor-pointer text-center font-semibold uppercase"
-                onClick={() => window.fullpage_api.moveTo("home")}
-              >
-                <div className="whitespace-nowrap px-3 text-sm tracking-widest">
-                  Home
-                </div>
-                <div className="mb-2 mt-2 flex flex-col items-center">
-                  <div className="border-x-8 border-b-8 border-t-0 border-solid border-x-transparent border-b-black"></div>
-                  <div className="h-0.5 w-full flex-grow-0 bg-black"></div>
-                </div>
-              </div>
-            </div>
-            <div className="flex w-full gap-6">
+        <div className="mt-auto">
+          <div className="hidden md:block">
+            <div className="mx-auto mb-16 mt-20 flex max-w-screen-md flex-col items-end gap-10 px-6 md:flex-row lg:gap-20">
               <div className="w-full flex-1">
                 <div
                   className="cursor-pointer text-right font-semibold uppercase"
                   onClick={() => window.fullpage_api.moveTo("gallery")}
                 >
-                  <div className="whitespace-nowrap pl-6 text-sm tracking-widest">
-                    Gallery
+                  <div className="whitespace-nowrap pl-6 tracking-widest">
+                    Back to Gallery
                   </div>
                   <div className="flex items-center">
                     <div className="border-y-8 border-l-0 border-r-8 border-solid border-y-transparent border-r-black"></div>
@@ -170,10 +106,25 @@ export default function Closing() {
 
               <div className="w-full flex-1">
                 <div
+                  className="cursor-pointer text-center font-semibold uppercase"
+                  onClick={() => window.fullpage_api.moveTo("home")}
+                >
+                  <div className="whitespace-nowrap px-3 tracking-widest">
+                    Home
+                  </div>
+                  <div className="mb-2 mt-2 flex flex-col items-center">
+                    <div className="border-x-8 border-b-8 border-t-0 border-solid border-x-transparent border-b-black"></div>
+                    <div className="h-0.5 w-full flex-grow-0 bg-black"></div>
+                  </div>
+                </div>
+              </div>
+
+              <div className="w-full flex-1">
+                <div
                   className="cursor-pointer text-left font-semibold uppercase"
                   onClick={() => setShareModalIsOpen(true)}
                 >
-                  <div className="whitespace-nowrap pr-6 text-sm tracking-widest">
+                  <div className="whitespace-nowrap pr-6 tracking-widest">
                     Share
                   </div>
                   <div className="flex items-center">
@@ -184,24 +135,74 @@ export default function Closing() {
               </div>
             </div>
           </div>
-        </div>
 
-        <div className="flex">
-          {stories.map((story, key) => {
-            return (
-              <div
-                key={key}
-                className="relative flex-grow cursor-pointer after:absolute after:inset-0 after:bg-main after:opacity-0 after:transition-all after:duration-300 after:content-[''] hover:after:opacity-20"
-              >
+          <div className="md:hidden">
+            <div className="mx-auto mb-16 mt-20 flex max-w-screen-md flex-col items-end gap-10 px-6 md:flex-row lg:gap-20">
+              <div className="w-full flex-1">
                 <div
-                  className="bg pt-[66%]"
-                  style={{
-                    backgroundImage: `url(${story?.thumbnail})`,
-                  }}
-                ></div>
+                  className="cursor-pointer text-center font-semibold uppercase"
+                  onClick={() => window.fullpage_api.moveTo("home")}
+                >
+                  <div className="whitespace-nowrap px-3 text-sm tracking-widest">
+                    Home
+                  </div>
+                  <div className="mb-2 mt-2 flex flex-col items-center">
+                    <div className="border-x-8 border-b-8 border-t-0 border-solid border-x-transparent border-b-black"></div>
+                    <div className="h-0.5 w-full flex-grow-0 bg-black"></div>
+                  </div>
+                </div>
               </div>
-            );
-          })}
+              <div className="flex w-full gap-6">
+                <div className="w-full flex-1">
+                  <div
+                    className="cursor-pointer text-right font-semibold uppercase"
+                    onClick={() => window.fullpage_api.moveTo("gallery")}
+                  >
+                    <div className="whitespace-nowrap pl-6 text-sm tracking-widest">
+                      Gallery
+                    </div>
+                    <div className="flex items-center">
+                      <div className="border-y-8 border-l-0 border-r-8 border-solid border-y-transparent border-r-black"></div>
+                      <div className="h-0.5 w-full flex-grow-0 bg-black"></div>
+                    </div>
+                  </div>
+                </div>
+
+                <div className="w-full flex-1">
+                  <div
+                    className="cursor-pointer text-left font-semibold uppercase"
+                    onClick={() => setShareModalIsOpen(true)}
+                  >
+                    <div className="whitespace-nowrap pr-6 text-sm tracking-widest">
+                      Share
+                    </div>
+                    <div className="flex items-center">
+                      <div className="h-0.5 w-full flex-grow-0 bg-black"></div>
+                      <div className="border-y-8 border-l-8 border-r-0 border-solid border-y-transparent border-l-black"></div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div className="flex">
+            {stories.map((story, key) => {
+              return (
+                <div
+                  key={key}
+                  className="relative flex-grow cursor-pointer after:absolute after:inset-0 after:bg-main after:opacity-0 after:transition-all after:duration-300 after:content-[''] hover:after:opacity-20"
+                >
+                  <div
+                    className="bg pt-[66%]"
+                    style={{
+                      backgroundImage: `url(${story?.thumbnail})`,
+                    }}
+                  ></div>
+                </div>
+              );
+            })}
+          </div>
         </div>
       </div>
     </div>

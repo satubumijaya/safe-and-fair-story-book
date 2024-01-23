@@ -99,7 +99,7 @@ export default function Gallery() {
   return (
     <div className="section">
       <div className="relative z-0 overflow-hidden bg-main">
-        <div className=" relative z-10 mx-auto h-full min-h-screen w-full max-w-[920px] bg-white py-16">
+        <div className=" relative z-10 mx-auto h-full min-h-screen w-full max-w-[920px] bg-white py-16 2xl:max-w-screen-xl">
           <div className="flex w-full flex-col content-between items-end pb-16 md:flex-row">
             <div className="mb-4 w-full flex-1 px-6 text-left md:mb-0 md:px-10">
               <SafTitleOnly maxWidth={260} />
