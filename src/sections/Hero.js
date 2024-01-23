@@ -80,7 +80,7 @@ export default function Hero() {
               })}
             </Slider>
           </div>
-          <div className="w-16 bg-main-dark"></div>
+          <div className="w-16 bg-main"></div>
         </div>
         <div className="flex">
           {stories.map((story, key) => {

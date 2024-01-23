@@ -10,6 +10,7 @@ import { AppContext } from "context/AppContext";
 
 export default function Closing() {
   const { t, i18n, ready } = useTranslation();
+  const { stories, setWindowSize } = useContext(AppContext);
 
   const { shareModalIsOpen, setShareModalIsOpen } = useContext(AppContext);
   return (
@@ -26,6 +27,7 @@ export default function Closing() {
             backgroundImage: `url(${require("images/closing-concave.webp")}`,
           }}
         ></div>
+
         <div className="relative flex flex-col items-center gap-16 lg:flex-row xl:gap-32">
           <div className="flex-1 px-6 py-16 pb-0 pt-24 text-left md:px-16 lg:pr-6">
             <div className="mb-10 font-bold">
@@ -86,7 +88,7 @@ export default function Closing() {
         </div>
 
         <div className="hidden md:block">
-          <div className="mx-auto mb-24 mt-16 flex max-w-screen-md flex-col items-end gap-10 px-6 md:flex-row lg:gap-20">
+          <div className="mx-auto mb-16 mt-20 flex max-w-screen-md flex-col items-end gap-10 px-6 md:flex-row lg:gap-20">
             <div className="w-full flex-1">
               <div
                 className="cursor-pointer text-right font-semibold uppercase"
@@ -135,7 +137,7 @@ export default function Closing() {
         </div>
 
         <div className="md:hidden">
-          <div className="mx-auto mb-24 mt-16 flex max-w-screen-md flex-col items-end gap-10 px-6 md:flex-row lg:gap-20">
+          <div className="mx-auto mb-16 mt-20 flex max-w-screen-md flex-col items-end gap-10 px-6 md:flex-row lg:gap-20">
             <div className="w-full flex-1">
               <div
                 className="cursor-pointer text-center font-semibold uppercase"
@@ -182,6 +184,24 @@ export default function Closing() {
               </div>
             </div>
           </div>
+        </div>
+
+        <div className="flex">
+          {stories.map((story, key) => {
+            return (
+              <div
+                key={key}
+                className="relative flex-grow cursor-pointer after:absolute after:inset-0 after:bg-main after:opacity-0 after:transition-all after:duration-300 after:content-[''] hover:after:opacity-20"
+              >
+                <div
+                  className="bg pt-[66%]"
+                  style={{
+                    backgroundImage: `url(${story?.thumbnail})`,
+                  }}
+                ></div>
+              </div>
+            );
+          })}
         </div>
       </div>
     </div>

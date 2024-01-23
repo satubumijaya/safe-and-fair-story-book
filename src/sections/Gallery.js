@@ -123,8 +123,8 @@ export default function Gallery() {
             style={{ backgroundImage: `url(${concave})` }}
           ></div>
         </div>
-        <div className="absolute left-0 top-0 -z-10 h-full w-1/2"></div>
-        <div className="absolute right-0 top-0 -z-10 h-full w-1/2 bg-main-dark"></div>
+        {/* <div className="absolute left-0 top-0 -z-10 h-full w-1/2"></div> */}
+        {/* <div className="absolute right-0 top-0 -z-10 h-full w-1/2 bg-main-dark"></div> */}
         <ScrollArrow />
       </div>
     </div>

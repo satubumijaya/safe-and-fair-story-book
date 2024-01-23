@@ -83,12 +83,12 @@ export default function ShareModal() {
 
               <div className="bg-white">
                 <div className="p-6 md:p-10">
-                  <div
+                  {/* <div
                     className="absolute inset-6 z-0 bg-contain bg-center bg-no-repeat"
                     style={{
                       backgroundImage: `url(${require("images/convex-gray.webp")})`,
                     }}
-                  ></div>
+                  ></div> */}
                   <div className="mb-8 text-center font-semibold uppercase">
                     Share to
                   </div>
