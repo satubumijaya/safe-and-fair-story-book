@@ -24,19 +24,21 @@ export default function GalleryModal() {
     <div className="backdrop fixed inset-0 bg-black bg-opacity-80" {...props} />
   );
 
-  // if (!currentStory) {
-  //   setGalleryModalIsOpen(false);
-  // }
+  const closeModal = () => {
+    window.fullpage_api.setAllowScrolling(true);
+    setGalleryModalIsOpen(false);
+  };
+
+  const breadcrumbClick = (section) => {
+    closeModal();
+    window.fullpage_api.moveTo(section);
+  };
+
   useEffect(() => {
     if (!currentStory) {
       setGalleryModalIsOpen(false);
     }
   }, [currentStory]);
-
-  const closeModal = () => {
-    window.fullpage_api.setAllowScrolling(true);
-    setGalleryModalIsOpen(false);
-  };
 
   useEffect(() => {
     modalRef?.current?.dialog?.scrollTo({ top: 0, behavior: "smooth" });
@@ -185,7 +187,20 @@ export default function GalleryModal() {
                     <div className="mx-auto max-w-[700px]">
                       <div className="mb-6">
                         <div className="inline-block rounded bg-neutral-200 px-4 py-1 text-sm">
-                          Home / Gallery /{" "}
+                          <span
+                            onClick={() => breadcrumbClick("home")}
+                            className="cursor-pointer transition hover:text-black"
+                          >
+                            Home
+                          </span>
+                          {" / "}
+                          <span
+                            onClick={() => breadcrumbClick("gallery")}
+                            className="cursor-pointer transition hover:text-black"
+                          >
+                            Gallery
+                          </span>
+                          {" / "}
                           <span className="text-main-dark">
                             Story {currentStory?.index}
                           </span>
