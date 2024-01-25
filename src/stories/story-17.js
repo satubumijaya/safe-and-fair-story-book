@@ -2,6 +2,14 @@ const dir = "17";
 export const story17 = {
   index: dir,
   thumbnail: require(`images/stories/${dir}/main.webp`),
+  thumbnail_credit: {
+    en: "Photo: UN Women/M R Hasan, Illustration: PORTRAY",
+    id: "Photo: UN Women/M R Hasan, Illustration: PORTRAY",
+  },
+  thumbnail_caption: {
+    en: "This is the space for photo captions. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.",
+    id: "This is the space for photo captions. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.",
+  },
   name: "Dira Septiani",
   title: {
     en: "Langkah Awal Keluar dari Zona Nyaman “Membangun Kebiasaan Positif dan Membentuk Diri Menjadi Lebih Baik”",

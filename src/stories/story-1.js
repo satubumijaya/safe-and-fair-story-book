@@ -2,6 +2,14 @@ const dir = "1";
 export const story1 = {
   index: dir,
   thumbnail: require(`images/stories/${dir}/main.webp`),
+  thumbnail_credit: {
+    en: "Photo: UN Women/M R Hasan, Illustration: PORTRAY",
+    id: "Photo: UN Women/M R Hasan, Illustration: PORTRAY",
+  },
+  thumbnail_caption: {
+    en: "This is the space for photo captions. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.",
+    id: "This is the space for photo captions. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.",
+  },
   name: "Susilawati",
   title: {
     en: "Ibu Muda Purna PMI yang Ingin Terus Belajar",
