@@ -180,12 +180,20 @@ export const story18 = {
         en: "Lorem ipsum english",
         id: "Lorem ipsum bahasa indonesia",
       },
+      credit: {
+        en: "credit en",
+        id: "credit en",
+      },
     },
     {
       image: require(`images/stories/${dir}/image-2.webp`),
       caption: {
         en: "Lorem ipsum english",
         id: "Lorem ipsum bahasa indonesia",
+      },
+      credit: {
+        en: "credit en",
+        id: "credit en",
       },
     },
     {
@@ -194,12 +202,20 @@ export const story18 = {
         en: "Lorem ipsum english",
         id: "Lorem ipsum bahasa indonesia",
       },
+      credit: {
+        en: "credit en",
+        id: "credit en",
+      },
     },
     {
       image: require(`images/stories/${dir}/image-4.webp`),
       caption: {
         en: "Lorem ipsum english",
         id: "Lorem ipsum bahasa indonesia",
+      },
+      credit: {
+        en: "credit en",
+        id: "credit en",
       },
     },
   ],
