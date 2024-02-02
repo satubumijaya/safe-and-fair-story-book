@@ -23,6 +23,13 @@
  * Copyright (C) 2018 alvarotrigo.com - A project by Alvaro Trigo & Michael Walker
  */
 
+/*!
+ * cookie
+ * Copyright(c) 2012-2014 Roman Shtylman
+ * Copyright(c) 2015 Douglas Christopher Wilson
+ * MIT Licensed
+ */
+
 /**
  * @license React
  * react-dom.production.min.js
