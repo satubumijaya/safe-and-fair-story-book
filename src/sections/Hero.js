@@ -15,6 +15,7 @@ import SafTitle from "components/SafTitle";
 
 export default function Hero() {
   const { t, i18n, ready } = useTranslation();
+
   const { stories, setWindowSize } = useContext(AppContext);
   let sliderRef = useRef(null);
 
@@ -57,6 +58,32 @@ export default function Hero() {
           <div className="flex w-full max-w-xl flex-1 items-center">
             <div className="w-full flex-1 py-14 pl-6 md:pl-16">
               <SafTitle className="" color="white" maxWidth={390} />
+              <div className="mt-10">
+                <div className="mb-1 text-xs">Select language</div>
+                <div className="flex gap-2">
+                  <button
+                    className={`cursor-pointer border border-white px-4 py-0.5 text-xs ${
+                      i18n.language === "en" ? "bg-white text-main-dark" : ""
+                    }
+                    }`}
+                    onClick={() => {
+                      i18n.changeLanguage("en");
+                    }}
+                  >
+                    English
+                  </button>
+                  <button
+                    className={`cursor-pointer border border-white px-4 py-0.5 text-xs ${
+                      i18n.language === "id" ? "bg-white text-main-dark" : ""
+                    }`}
+                    onClick={() => {
+                      i18n.changeLanguage("id");
+                    }}
+                  >
+                    Indonesia
+                  </button>
+                </div>
+              </div>
             </div>
           </div>
           <div className="relative min-h-0 min-w-0 flex-1">

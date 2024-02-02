@@ -118,7 +118,7 @@ export default function GalleryModal() {
                     <div className="mb-6 w-full flex-1 px-6 text-left md:mb-0 md:px-10">
                       <SafTitleOnly maxWidth={260} />
                     </div>
-                    <div className="flex items-center pl-6 max-sm:w-full md:ml-auto  md:px-0">
+                    {/* <div className="flex items-center pl-6 max-sm:w-full md:ml-auto  md:px-0">
                       <div className="flex w-full items-center fill-gray-700">
                         <div className="" style={{ width: 200 }}>
                           <svg
@@ -151,6 +151,25 @@ export default function GalleryModal() {
                           ></div>
                         </div>
                       </div>
+                    </div> */}
+                    <div className="flex items-center pl-6 max-sm:w-full md:ml-auto  md:px-0">
+                      <div className="flex w-full items-center fill-gray-700">
+                        <div
+                          className="uppercase italic"
+                          style={{
+                            // width: 200,
+                            fontSize: 16.6,
+                            letterSpacing: `0.12em`,
+                          }}
+                        >
+                          {t("title.bottom")}
+                        </div>
+                        <div className="ml-3 flex-grow">
+                          <div
+                            className={`h-[1px] w-full flex-grow bg-neutral-700 md:w-20`}
+                          ></div>
+                        </div>
+                      </div>
                     </div>
                   </div>
 
@@ -173,7 +192,7 @@ export default function GalleryModal() {
                       </div>
                     </div>
 
-                    <div className="absolute bottom-10 left-full right-2 hidden  -translate-x-4 whitespace-nowrap text-xs  text-xs text-white md:block">
+                    <div className="absolute bottom-10 left-full right-2 hidden  -translate-x-4 whitespace-nowrap  text-xs text-white md:block">
                       <div className="-rotate-90">
                         {currentStory?.thumbnail_credit[[lang]]}
                       </div>
@@ -194,18 +213,18 @@ export default function GalleryModal() {
                             onClick={() => breadcrumbClick("home")}
                             className="cursor-pointer transition hover:text-black"
                           >
-                            Home
+                            {t("stories.home")}
                           </span>
                           {" / "}
                           <span
                             onClick={() => breadcrumbClick("gallery")}
                             className="cursor-pointer transition hover:text-black"
                           >
-                            Gallery
+                            {t("stories.gallery")}
                           </span>
                           {" / "}
                           <span className="text-main-dark">
-                            Story {currentStory?.index}
+                            {t("stories.story")} {currentStory?.index}
                           </span>
                         </div>
                       </div>
@@ -228,6 +247,7 @@ export default function GalleryModal() {
                               setLightBox({
                                 image: image.image,
                                 caption: image.caption,
+                                credit: image.credit,
                                 index: key,
                               })
                             }
@@ -277,8 +297,7 @@ export default function GalleryModal() {
                             }}
                           >
                             <div className="color-neutral-700 mb-1 whitespace-nowrap pl-6 leading-5 tracking-widest">
-                              Previous <br />
-                              Story
+                              {t("stories.prev")}
                             </div>
                             <div className="flex items-center">
                               <div className="border-y-8 border-l-0 border-r-8 border-solid border-y-transparent border-r-neutral-700"></div>
@@ -296,7 +315,7 @@ export default function GalleryModal() {
                             }}
                           >
                             <div className="color-neutral-700 mb-1 whitespace-nowrap px-3 leading-5 tracking-widest">
-                              Gallery
+                              {t("stories.gallery")}
                             </div>
                             <div className="mb-2 mt-2 flex flex-col items-center">
                               <div className="border-x-8 border-b-8 border-t-0 border-solid border-x-transparent border-b-neutral-700"></div>
@@ -319,8 +338,7 @@ export default function GalleryModal() {
                             }}
                           >
                             <div className="color-neutral-700 mb-1 whitespace-nowrap pr-6 leading-5 tracking-widest">
-                              Next <br />
-                              Story
+                              {t("stories.next")}
                             </div>
                             <div className="flex items-center">
                               <div className="h-0.5 w-full flex-grow-0 bg-neutral-700"></div>
@@ -344,7 +362,7 @@ export default function GalleryModal() {
                             }}
                           >
                             <div className="color-neutral-700 mb-1 whitespace-nowrap px-3 leading-5 tracking-widest">
-                              Gallery
+                              {t("stories.gallery")}
                             </div>
                             <div className="mb-2 mt-2 flex flex-col items-center">
                               <div className="border-x-8 border-b-8 border-t-0 border-solid border-x-transparent border-b-neutral-700"></div>
@@ -365,8 +383,7 @@ export default function GalleryModal() {
                               }}
                             >
                               <div className="color-neutral-700 mb-1 whitespace-nowrap pl-6 leading-5 tracking-widest">
-                                Previous <br />
-                                Story
+                                {t("stories.prev")}
                               </div>
                               <div className="flex items-center">
                                 <div className="border-y-8 border-l-0 border-r-8 border-solid border-y-transparent border-r-neutral-700"></div>
@@ -389,8 +406,7 @@ export default function GalleryModal() {
                               }}
                             >
                               <div className="color-neutral-700 mb-1 whitespace-nowrap pr-6 leading-5 tracking-widest">
-                                Next <br />
-                                Story
+                                {t("stories.next")}
                               </div>
                               <div className="flex items-center">
                                 <div className="h-0.5 w-full flex-grow-0 bg-neutral-700"></div>

@@ -1,5 +1,6 @@
 import React from "react";
 import { Fade } from "react-awesome-reveal";
+import { useTranslation } from "react-i18next";
 
 export default function SafTitle({
   className,
@@ -11,6 +12,10 @@ export default function SafTitle({
   const subheadingWidth = maxWidth * 1 + 24;
   const subheadingMarginBottom = maxWidth * 0.1;
   const bottomWidth = maxWidth * 0.58;
+  const bottomFontSize = maxWidth * 0.0488;
+  const bottomLetterSpacing = maxWidth * 0.00035;
+
+  const { t, i18n, ready } = useTranslation();
   return (
     <div className={`${color === "dark" ? "fill-neutral-700" : "fill-white"}`}>
       <Fade cascade direction="up" damping={0.3} triggerOnce={true}>
@@ -115,7 +120,8 @@ export default function SafTitle({
             </g>
           </svg>
         </div>
-        <div className="flex items-center">
+        {/* bottom */}
+        {/* <div className="flex items-center">
           <div className="max-w-full" style={{ width: bottomWidth }}>
             <svg viewBox="0 0 227.74 13.25" xmlns="http://www.w3.org/2000/svg">
               <g>
@@ -137,6 +143,28 @@ export default function SafTitle({
                 <path d="m220.52 7.09-1.89 1.69-.74 4.29h-1.66l2.24-12.89h1.66l-1.1 6.28 6.57-6.28h2.14l-5.99 5.77 4.01 7.12h-1.85z" />
               </g>
             </svg>
+          </div>
+          <div className="ml-3 flex-grow">
+            <Fade direction="right" delay={1200} triggerOnce={true}>
+              <div
+                className={`h-[1px] flex-grow ${
+                  color === "dark" ? "bg-neutral-700" : "bg-white "
+                }`}
+              ></div>
+            </Fade>
+          </div>
+        </div> */}
+
+        <div className="flex items-center">
+          <div
+            className="max-w-full uppercase italic tracking-widest"
+            style={{
+              // width: bottomWidth,
+              fontSize: bottomFontSize,
+              letterSpacing: `${bottomLetterSpacing}em`,
+            }}
+          >
+            {t("title.bottom")}
           </div>
           <div className="ml-3 flex-grow">
             <Fade direction="right" delay={1200} triggerOnce={true}>

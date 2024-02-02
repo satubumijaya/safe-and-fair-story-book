@@ -95,7 +95,7 @@ export default function Closing() {
                   onClick={() => window.fullpage_api.moveTo("gallery")}
                 >
                   <div className="whitespace-nowrap pl-6 tracking-widest">
-                    Back to Gallery
+                    {t("closing.back-gallery")}
                   </div>
                   <div className="flex items-center">
                     <div className="border-y-8 border-l-0 border-r-8 border-solid border-y-transparent border-r-black"></div>
@@ -110,7 +110,7 @@ export default function Closing() {
                   onClick={() => window.fullpage_api.moveTo("home")}
                 >
                   <div className="whitespace-nowrap px-3 tracking-widest">
-                    Home
+                    {t("closing.home")}
                   </div>
                   <div className="mb-2 mt-2 flex flex-col items-center">
                     <div className="border-x-8 border-b-8 border-t-0 border-solid border-x-transparent border-b-black"></div>
@@ -125,7 +125,7 @@ export default function Closing() {
                   onClick={() => setShareModalIsOpen(true)}
                 >
                   <div className="whitespace-nowrap pr-6 tracking-widest">
-                    Share
+                    {t("closing.share")}
                   </div>
                   <div className="flex items-center">
                     <div className="h-0.5 w-full flex-grow-0 bg-black"></div>
@@ -144,7 +144,7 @@ export default function Closing() {
                   onClick={() => window.fullpage_api.moveTo("home")}
                 >
                   <div className="whitespace-nowrap px-3 text-sm tracking-widest">
-                    Home
+                    {t("closing.home")}
                   </div>
                   <div className="mb-2 mt-2 flex flex-col items-center">
                     <div className="border-x-8 border-b-8 border-t-0 border-solid border-x-transparent border-b-black"></div>
@@ -159,7 +159,7 @@ export default function Closing() {
                     onClick={() => window.fullpage_api.moveTo("gallery")}
                   >
                     <div className="whitespace-nowrap pl-6 text-sm tracking-widest">
-                      Gallery
+                      {t("closing.back-gallery")}
                     </div>
                     <div className="flex items-center">
                       <div className="border-y-8 border-l-0 border-r-8 border-solid border-y-transparent border-r-black"></div>
@@ -174,7 +174,7 @@ export default function Closing() {
                     onClick={() => setShareModalIsOpen(true)}
                   >
                     <div className="whitespace-nowrap pr-6 text-sm tracking-widest">
-                      Share
+                      {t("closing.share")}
                     </div>
                     <div className="flex items-center">
                       <div className="h-0.5 w-full flex-grow-0 bg-black"></div>
