@@ -5,8 +5,10 @@ import ScrollArrow from "components/ScrollArrow";
 import { Fade, Slide } from "react-awesome-reveal";
 import { AppContext } from "context/AppContext";
 import SafTitleOnly from "components/SafTitleOnly";
+import { useTranslation } from "react-i18next";
 
 export default function Gallery() {
+  const { t, i18n, ready } = useTranslation();
   const { setGalleryModalIsOpen, stories, setCurrentStory } =
     useContext(AppContext);
   const homeIndex = 17;
@@ -48,8 +50,8 @@ export default function Gallery() {
                 >
                   <div className="flex h-full flex-col">
                     <div className="m-auto">
-                      <div className="font-semibold tracking-widest text-white">
-                        HOME
+                      <div className="font-semibold uppercase tracking-widest text-white">
+                        {t("gallery.home")}
                       </div>
                       <div className="flex flex-col">
                         <div className="mx-auto h-0 w-0 border-8 border-solid border-transparent border-b-white"></div>
@@ -73,7 +75,7 @@ export default function Gallery() {
                 <div className="absolute inset-0 bg-main-dark bg-opacity-70 text-white opacity-0 transition-all duration-500 group-hover:opacity-100">
                   <div className="flex h-full flex-col">
                     <div className="m-auto translate-y-2 text-xs font-semibold">
-                      <div className="px-1">VIEW</div>
+                      <div className="px-1 uppercase">{t("gallery.view")}</div>
                       <div className="mt-[2px] h-[1px] w-full bg-white"></div>
                       <div className="mx-auto h-0 w-0 border-4 border-solid border-transparent border-t-white"></div>
                     </div>
