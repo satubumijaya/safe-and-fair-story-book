@@ -91,7 +91,7 @@ export default function ShareModal() {
                     }}
                   ></div> */}
                   <div className="mb-8 text-center font-semibold uppercase">
-                    Share to
+                    {t("closing.share-to")}
                   </div>
                   <div className="relative z-20 md:px-4">
                     <div className="grid grid-cols-2 grid-rows-2 gap-6">
@@ -134,7 +134,7 @@ export default function ShareModal() {
                             <path d="m56 6.84c0-3.78-3.07-6.84-6.84-6.84h-42.32c-3.77 0-6.84 3.07-6.84 6.84v42.32c0 3.78 3.07 6.84 6.84 6.84h42.32c3.78 0 6.84-3.07 6.84-6.84zm-20.52 39.66-10.08-14.37-12.62 14.37h-3.26l14.43-16.43-14.43-20.57h11.01l9.54 13.6 11.96-13.6h3.26l-13.76 15.67 14.96 21.33z" />
                           </g>
                         </svg>
-                        <div className="mt-2 text-center text-sm">Twitter</div>
+                        <div className="mt-2 text-center text-sm">X</div>
                       </a>
                       <a
                         className="cursor-pointer"
