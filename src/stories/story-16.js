@@ -3,12 +3,12 @@ export const story16 = {
   index: dir,
   thumbnail: require(`images/stories/${dir}/main.webp`),
   thumbnail_credit: {
-    en: "Photo: UN Women/M R Hasan, Illustration: PORTRAY",
-    id: "Photo: UN Women/M R Hasan, Illustration: PORTRAY",
+    en: "Photo: UN Women/Christina Phan, Illustration: PORTRAY",
+    id: "Photo: UN Women/Christina Phan, Illustration: PORTRAY",
   },
   thumbnail_caption: {
-    en: "This is the space for photo captions. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.",
-    id: "This is the space for photo captions. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.",
+    en: "Pemaparan program sekolah parenting pada acara \"Menulis Cerita Perubahan\" oleh UN Women di Jakarta.",
+    id: "Pemaparan program sekolah parenting pada acara \"Menulis Cerita Perubahan\" oleh UN Women di Jakarta.",
   },
   name: "Nunung Fitriana",
   title: {
@@ -577,45 +577,45 @@ export const story16 = {
     {
       image: require(`images/stories/${dir}/image-1.webp`),
       caption: {
-        en: "Lorem ipsum english",
-        id: "Lorem ipsum bahasa indonesia",
+        en: "Pemaparan materi ke-2 pada salah satu kelas sekolah parenting.",
+        id: "Pemaparan materi ke-2 pada salah satu kelas sekolah parenting.",
       },
       credit: {
-        en: "credit en",
-        id: "credit en",
+        en: "Photo: Moh. Rofiqi",
+        id: "Photo: Moh. Rofiqi",
       },
     },
     {
       image: require(`images/stories/${dir}/image-2.webp`),
       caption: {
-        en: "Lorem ipsum english",
-        id: "Lorem ipsum bahasa indonesia",
+        en: "Sesi curhat dan sharing, bagian dari sesi sekolah parenting. Peserta saling berbagi cerita tanpa ada penghakiman dari yang lain, sebuah upaya membangun empati dan ruang aman bagi kaum perempuan.",
+        id: "Sesi curhat dan sharing, bagian dari sesi sekolah parenting. Peserta saling berbagi cerita tanpa ada penghakiman dari yang lain, sebuah upaya membangun empati dan ruang aman bagi kaum perempuan.",
       },
       credit: {
-        en: "credit en",
-        id: "credit en",
+        en: "Photo: Moh. Rofiqi",
+        id: "Photo: Moh. Rofiqi",
       },
     },
     {
       image: require(`images/stories/${dir}/image-3.webp`),
       caption: {
-        en: "Lorem ipsum english",
-        id: "Lorem ipsum bahasa indonesia",
+        en: "Sesi curhat dan sharing di sekolah parenting.",
+        id: "Sesi curhat dan sharing di sekolah parenting.",
       },
       credit: {
-        en: "credit en",
-        id: "credit en",
+        en: "Photo: Moh. Rofiqi",
+        id: "Photo: Moh. Rofiqi",
       },
     },
     {
       image: require(`images/stories/${dir}/image-4.webp`),
       caption: {
-        en: "Lorem ipsum english",
-        id: "Lorem ipsum bahasa indonesia",
+        en: "Pertemuan Balai Perempuan Ratoh Ebhu berisi \"arisan cerita perempuan\".",
+        id: "Pertemuan Balai Perempuan Ratoh Ebhu berisi \"arisan cerita perempuan\".",
       },
       credit: {
-        en: "credit en",
-        id: "credit en",
+        en: "Photo: Moh. Rofiqi",
+        id: "Photo: Moh. Rofiqi",
       },
     },
   ],
