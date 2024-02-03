@@ -48,7 +48,7 @@ export default function LightboxModal() {
         className="modal fixed inset-0 overflow-y-scroll"
       >
         <Fade triggerOnce={false}>
-          <div className="flex min-h-[100vh] items-center px-4">
+          <div className="flex min-h-[100svh] items-center px-4">
             <div
               className="absolute inset-0"
               onClick={() => {
@@ -56,12 +56,12 @@ export default function LightboxModal() {
               }}
             ></div>
 
-            <div className="relative top-0 z-50 mx-auto mb-12 mt-12 max-w-fit overflow-hidden bg-white ">
+            <div className="relative top-0 z-50 mx-auto mb-12 mt-12 max-w-fit bg-white ">
               <button
                 onClick={() => {
                   closeModal();
                 }}
-                className="absolute right-3 top-3 bg-black bg-opacity-60 p-2 transition-colors hover:bg-opacity-100"
+                className="absolute right-3 top-3 z-50 bg-black bg-opacity-60 p-2 transition-colors hover:bg-opacity-100"
               >
                 <svg
                   viewBox="0 0 22.43 22.43"
@@ -83,7 +83,7 @@ export default function LightboxModal() {
               {/* prev */}
               {lightbox?.index > 0 && (
                 <button
-                  className="absolute right-full top-1/2 -translate-y-1/2 rotate-180"
+                  className="absolute right-full top-1/2 z-10 -translate-y-1/2 rotate-180"
                   onClick={() => moveGallery("prev")}
                 >
                   <div className="px-4 py-4">
@@ -104,7 +104,7 @@ export default function LightboxModal() {
               {/* next */}
               {lightbox?.index < currentStory?.gallery?.length - 1 && (
                 <button
-                  className="absolute left-full top-1/2 -translate-y-1/2"
+                  className="absolute left-full top-1/2 z-10 -translate-y-1/2"
                   onClick={() => moveGallery("next")}
                 >
                   <div className="px-4 py-4">
@@ -123,11 +123,16 @@ export default function LightboxModal() {
               )}
 
               <div>
-                <img
-                  src={lightbox?.image}
-                  alt=""
-                  className="max-h-[80svh] w-full max-w-screen-md lg:max-h-[calc(90svh-6rem)]"
-                />
+                <div className="relative">
+                  <img
+                    src={lightbox?.image}
+                    alt=""
+                    className="max-h-[80svh] w-full max-w-screen-md lg:max-h-[calc(90svh-6rem)]"
+                  />
+                  <div className="absolute bottom-4 left-4 right-4 text-right text-xs text-white drop-shadow-md">
+                    {lightbox?.credit && lightbox?.credit[lang]}
+                  </div>
+                </div>
                 <div className="bg-black px-6 py-4 text-sm text-white md:px-8">
                   <div className="border-l border-l-white py-1 pl-4">
                     {lightbox?.caption && lightbox?.caption[lang]}

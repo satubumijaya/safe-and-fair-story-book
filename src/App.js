@@ -10,20 +10,31 @@ import Closing from "./sections/Closing";
 import GalleryModal from "components/GalleryModal";
 import LightboxModal from "components/LightboxModal";
 import ShareModal from "components/ShareModal";
+import { useCookies } from "react-cookie";
 
 function App() {
   const { t, i18n, ready } = useTranslation();
+  const [cookies, setCookie, removeCookie] = useCookies(["lang"]);
 
   useEffect(() => {
-    i18n.changeLanguage("en");
+    if (cookies.lang) {
+      i18n.changeLanguage(cookies.lang);
+    } else {
+      i18n.changeLanguage("en");
+    }
   }, []);
+
+  useEffect(() => {
+    let expires = new Date();
+    setCookie("lang", i18n.language, expires.getTime() + 30 * 1000);
+  }, [i18n.language]);
 
   return (
     <div className="App">
       <AppContextProvider>
         <ReactFullpage
           scrollingSpeed={1000} /* Options here */
-          anchors={["home", "intro", "gallery"]}
+          anchors={["home", "intro", "gallery", "closing"]}
           normalScrollElements=".modal"
           render={({ state, fullpageApi }) => {
             return (

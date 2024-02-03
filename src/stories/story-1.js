@@ -2,6 +2,14 @@ const dir = "1";
 export const story1 = {
   index: dir,
   thumbnail: require(`images/stories/${dir}/main.webp`),
+  thumbnail_credit: {
+    en: "Photo: UN Women/M R Hasan, Illustration: PORTRAY",
+    id: "Photo: UN Women/M R Hasan, Illustration: PORTRAY",
+  },
+  thumbnail_caption: {
+    en: "This is the space for photo captions. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.",
+    id: "This is the space for photo captions. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.",
+  },
   name: "Susilawati",
   title: {
     en: "Ibu Muda Purna PMI yang Ingin Terus Belajar",
@@ -120,12 +128,20 @@ export const story1 = {
         en: "Mengikuti pelatihan menulis dan fotografi bersama UN Women.",
         id: "Mengikuti pelatihan menulis dan fotografi bersama UN Women.",
       },
+      credit: {
+        en: "credit en",
+        id: "credit en",
+      },
     },
     {
       image: require(`images/stories/${dir}/image-2.webp`),
       caption: {
         en: "Diskusi bersama kelompok Satgas desa dan WCC Mawar Balqis mengenai pekerja migran indonesia.",
         id: "Diskusi bersama kelompok Satgas desa dan WCC Mawar Balqis mengenai pekerja migran indonesia.",
+      },
+      credit: {
+        en: "credit en",
+        id: "credit en",
       },
     },
     {
@@ -134,12 +150,20 @@ export const story1 = {
         en: "Foto keluarga kecil ku di saat Lebaran Haji 2023.",
         id: "Foto keluarga kecil ku di saat Lebaran Haji 2023.",
       },
+      credit: {
+        en: "credit en",
+        id: "credit en",
+      },
     },
     {
       image: require(`images/stories/${dir}/image-4.webp`),
       caption: {
         en: "Acara pelatihan menjadi pekerja migran yang baik bersama WCC Mawar Balqis.",
         id: "Acara pelatihan menjadi pekerja migran yang baik bersama WCC Mawar Balqis.",
+      },
+      credit: {
+        en: "credit en",
+        id: "credit en",
       },
     },
   ],

@@ -2,6 +2,14 @@ const dir = "8";
 export const story8 = {
   index: dir,
   thumbnail: require(`images/stories/${dir}/main.webp`),
+  thumbnail_credit: {
+    en: "Photo: UN Women/M R Hasan, Illustration: PORTRAY",
+    id: "Photo: UN Women/M R Hasan, Illustration: PORTRAY",
+  },
+  thumbnail_caption: {
+    en: "This is the space for photo captions. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.",
+    id: "This is the space for photo captions. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.",
+  },
   name: "Roudlotul Jannah",
   title: {
     en: "Perubahan adalah Tanggung Jawab Bersama",
@@ -258,12 +266,20 @@ export const story8 = {
         en: "Lorem ipsum english",
         id: "Lorem ipsum bahasa indonesia",
       },
+      credit: {
+        en: "credit en",
+        id: "credit en",
+      },
     },
     {
       image: require(`images/stories/${dir}/image-2.webp`),
       caption: {
         en: "Lorem ipsum english",
         id: "Lorem ipsum bahasa indonesia",
+      },
+      credit: {
+        en: "credit en",
+        id: "credit en",
       },
     },
     {
@@ -272,12 +288,20 @@ export const story8 = {
         en: "Lorem ipsum english",
         id: "Lorem ipsum bahasa indonesia",
       },
+      credit: {
+        en: "credit en",
+        id: "credit en",
+      },
     },
     {
       image: require(`images/stories/${dir}/image-4.webp`),
       caption: {
         en: "Lorem ipsum english",
         id: "Lorem ipsum bahasa indonesia",
+      },
+      credit: {
+        en: "credit en",
+        id: "credit en",
       },
     },
   ],

@@ -24,14 +24,21 @@ export default function GalleryModal() {
     <div className="backdrop fixed inset-0 bg-black bg-opacity-80" {...props} />
   );
 
-  if (!currentStory) {
-    setGalleryModalIsOpen(false);
-  }
-
   const closeModal = () => {
     window.fullpage_api.setAllowScrolling(true);
     setGalleryModalIsOpen(false);
   };
+
+  const breadcrumbClick = (section) => {
+    closeModal();
+    window.fullpage_api.moveTo(section);
+  };
+
+  useEffect(() => {
+    if (!currentStory) {
+      setGalleryModalIsOpen(false);
+    }
+  }, [currentStory]);
 
   useEffect(() => {
     modalRef?.current?.dialog?.scrollTo({ top: 0, behavior: "smooth" });
@@ -111,7 +118,7 @@ export default function GalleryModal() {
                     <div className="mb-6 w-full flex-1 px-6 text-left md:mb-0 md:px-10">
                       <SafTitleOnly maxWidth={260} />
                     </div>
-                    <div className="flex items-center pl-6 max-sm:w-full md:ml-auto  md:px-0">
+                    {/* <div className="flex items-center pl-6 max-sm:w-full md:ml-auto  md:px-0">
                       <div className="flex w-full items-center fill-gray-700">
                         <div className="" style={{ width: 200 }}>
                           <svg
@@ -144,6 +151,25 @@ export default function GalleryModal() {
                           ></div>
                         </div>
                       </div>
+                    </div> */}
+                    <div className="flex items-center pl-6 max-sm:w-full md:ml-auto  md:px-0">
+                      <div className="flex w-full items-center fill-gray-700">
+                        <div
+                          className="uppercase italic"
+                          style={{
+                            // width: 200,
+                            fontSize: 16.6,
+                            letterSpacing: `0.12em`,
+                          }}
+                        >
+                          {t("title.bottom")}
+                        </div>
+                        <div className="ml-3 flex-grow">
+                          <div
+                            className={`h-[1px] w-full flex-grow bg-neutral-700 md:w-20`}
+                          ></div>
+                        </div>
+                      </div>
                     </div>
                   </div>
 
@@ -153,7 +179,7 @@ export default function GalleryModal() {
                       src={currentStory?.thumbnail}
                       alt=""
                     />
-                    <div className="absolute bottom-0 left-0 mx-auto w-full bg-opacity-50 bg-gradient-to-b from-transparent to-black/50 py-10 pb-6 md:pb-10">
+                    <div className="absolute bottom-0 left-0 mx-auto w-full bg-opacity-50 bg-gradient-to-b from-transparent to-neutral-700 pb-6 pt-20 md:to-black/60 md:px-10 md:pb-10 lg:pb-10">
                       <div className="mx-auto flex max-w-[700px] flex-col px-6 text-white md:flex-row md:px-0">
                         <div className="whitespace-nowrap text-3xl">
                           <h3 className="border-white pr-6 md:border-r">
@@ -161,28 +187,44 @@ export default function GalleryModal() {
                           </h3>
                         </div>
                         <div className="hidden text-xs md:block md:pl-6">
-                          This is the space for photo captions. Lorem ipsum
-                          dolor sit amet, consectetuer adipiscing elit, sed diam
-                          nonummy nibh euismod tincidunt ut laoreet dolore magna
-                          aliquam erat volutpat.
+                          {currentStory?.thumbnail_caption[[lang]]}
                         </div>
                       </div>
                     </div>
 
-                    <div className="absolute bottom-10 left-full right-2 -translate-x-4  whitespace-nowrap text-xs text-xs  text-white">
+                    <div className="absolute bottom-10 left-full right-2 hidden  -translate-x-4 whitespace-nowrap  text-xs text-white md:block">
                       <div className="-rotate-90">
-                        Photo: UN Women/M R Hasan, Illustration: PORTRAY
+                        {currentStory?.thumbnail_credit[[lang]]}
                       </div>
                     </div>
+                  </div>
+                  <div className=" flex flex-col gap-3 bg-neutral-700 px-6 pb-6 pt-2 text-xs text-white md:hidden">
+                    <div className="">
+                      {currentStory?.thumbnail_caption[[lang]]}
+                    </div>
+                    <div>{currentStory?.thumbnail_credit[[lang]]}</div>
                   </div>
 
                   <div className="px-6 py-10 md:px-10 md:py-16">
                     <div className="mx-auto max-w-[700px]">
                       <div className="mb-6">
                         <div className="inline-block rounded bg-neutral-200 px-4 py-1 text-sm">
-                          Home / Gallery /{" "}
+                          <span
+                            onClick={() => breadcrumbClick("home")}
+                            className="cursor-pointer transition hover:text-black"
+                          >
+                            {t("stories.home")}
+                          </span>
+                          {" / "}
+                          <span
+                            onClick={() => breadcrumbClick("gallery")}
+                            className="cursor-pointer transition hover:text-black"
+                          >
+                            {t("stories.gallery")}
+                          </span>
+                          {" / "}
                           <span className="text-main-dark">
-                            Story {currentStory?.index}
+                            {t("stories.story")} {currentStory?.index}
                           </span>
                         </div>
                       </div>
@@ -205,6 +247,7 @@ export default function GalleryModal() {
                               setLightBox({
                                 image: image.image,
                                 caption: image.caption,
+                                credit: image.credit,
                                 index: key,
                               })
                             }
@@ -230,7 +273,7 @@ export default function GalleryModal() {
                                   />
                                 </svg>
                               </div>
-                              <div className="h-8 bg-main-dark"></div>
+                              <div className="hidden h-8 bg-main-dark md:block"></div>
                             </div>
                           </div>
                         );
@@ -254,8 +297,7 @@ export default function GalleryModal() {
                             }}
                           >
                             <div className="color-neutral-700 mb-1 whitespace-nowrap pl-6 leading-5 tracking-widest">
-                              Previous <br />
-                              Story
+                              {t("stories.prev")}
                             </div>
                             <div className="flex items-center">
                               <div className="border-y-8 border-l-0 border-r-8 border-solid border-y-transparent border-r-neutral-700"></div>
@@ -273,7 +315,7 @@ export default function GalleryModal() {
                             }}
                           >
                             <div className="color-neutral-700 mb-1 whitespace-nowrap px-3 leading-5 tracking-widest">
-                              Gallery
+                              {t("stories.gallery")}
                             </div>
                             <div className="mb-2 mt-2 flex flex-col items-center">
                               <div className="border-x-8 border-b-8 border-t-0 border-solid border-x-transparent border-b-neutral-700"></div>
@@ -296,8 +338,7 @@ export default function GalleryModal() {
                             }}
                           >
                             <div className="color-neutral-700 mb-1 whitespace-nowrap pr-6 leading-5 tracking-widest">
-                              Next <br />
-                              Story
+                              {t("stories.next")}
                             </div>
                             <div className="flex items-center">
                               <div className="h-0.5 w-full flex-grow-0 bg-neutral-700"></div>
@@ -321,7 +362,7 @@ export default function GalleryModal() {
                             }}
                           >
                             <div className="color-neutral-700 mb-1 whitespace-nowrap px-3 leading-5 tracking-widest">
-                              Gallery
+                              {t("stories.gallery")}
                             </div>
                             <div className="mb-2 mt-2 flex flex-col items-center">
                               <div className="border-x-8 border-b-8 border-t-0 border-solid border-x-transparent border-b-neutral-700"></div>
@@ -342,8 +383,7 @@ export default function GalleryModal() {
                               }}
                             >
                               <div className="color-neutral-700 mb-1 whitespace-nowrap pl-6 leading-5 tracking-widest">
-                                Previous <br />
-                                Story
+                                {t("stories.prev")}
                               </div>
                               <div className="flex items-center">
                                 <div className="border-y-8 border-l-0 border-r-8 border-solid border-y-transparent border-r-neutral-700"></div>
@@ -366,8 +406,7 @@ export default function GalleryModal() {
                               }}
                             >
                               <div className="color-neutral-700 mb-1 whitespace-nowrap pr-6 leading-5 tracking-widest">
-                                Next <br />
-                                Story
+                                {t("stories.next")}
                               </div>
                               <div className="flex items-center">
                                 <div className="h-0.5 w-full flex-grow-0 bg-neutral-700"></div>
