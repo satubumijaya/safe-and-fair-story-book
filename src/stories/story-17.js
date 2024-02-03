@@ -3,12 +3,12 @@ export const story17 = {
   index: dir,
   thumbnail: require(`images/stories/${dir}/main.webp`),
   thumbnail_credit: {
-    en: "Photo: UN Women/M R Hasan, Illustration: PORTRAY",
-    id: "Photo: UN Women/M R Hasan, Illustration: PORTRAY",
+    en: "Photo: Dira Septiani, Illustration: PORTRAY",
+    id: "Photo: Dira Septiani, Illustration: PORTRAY",
   },
   thumbnail_caption: {
-    en: "This is the space for photo captions. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.",
-    id: "This is the space for photo captions. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.",
+    en: "Foto saat Dira berada di bangku SMA menggunakan baju seragam batik sekolah. Foto diambil pada tahun 2019 di Batam.",
+    id: "Foto saat Dira berada di bangku SMA menggunakan baju seragam batik sekolah. Foto diambil pada tahun 2019 di Batam.",
   },
   name: "Dira Septiani",
   title: {
@@ -139,45 +139,45 @@ export const story17 = {
     {
       image: require(`images/stories/${dir}/image-1.webp`),
       caption: {
-        en: "Lorem ipsum english",
-        id: "Lorem ipsum bahasa indonesia",
+        en: "Pertama kali mengikuti kegiatan KOMPAK dengan kegiatan capacity building tentang Tindak Pidana Perdagangan Orang (TPPO). Foto tersebut diambil pada tahun 2022 di kantor Yayasan Embun Pelangi Batam.",
+        id: "Pertama kali mengikuti kegiatan KOMPAK dengan kegiatan capacity building tentang Tindak Pidana Perdagangan Orang (TPPO). Foto tersebut diambil pada tahun 2022 di kantor Yayasan Embun Pelangi Batam.",
       },
       credit: {
-        en: "credit en",
-        id: "credit en",
+        en: "Photo: Dira Septiani",
+        id: "Photo: Dira Septiani",
       },
     },
     {
       image: require(`images/stories/${dir}/image-2.webp`),
       caption: {
-        en: "Lorem ipsum english",
-        id: "Lorem ipsum bahasa indonesia",
+        en: "Pertama kali datang ke acara Safe and Fair UN Women. Foto diambil pada 26 September 2023 di Hotel Ashley Wahid Hasyim Jakarta.",
+        id: "Pertama kali datang ke acara Safe and Fair UN Women. Foto diambil pada 26 September 2023 di Hotel Ashley Wahid Hasyim Jakarta.",
       },
       credit: {
-        en: "credit en",
-        id: "credit en",
+        en: "Photo: Dira Septiani",
+        id: "Photo: Dira Septiani",
       },
     },
     {
       image: require(`images/stories/${dir}/image-3.webp`),
       caption: {
-        en: "Lorem ipsum english",
-        id: "Lorem ipsum bahasa indonesia",
+        en: "Mengikuti kegiatan KOMPAK yaitu memberikan makanan 4 sehat 5 sempurna untuk memperingati hari gizi nasional. Foto diambil pada tahun 2023 di lampu merah Gelael Batam.",
+        id: "Mengikuti kegiatan KOMPAK yaitu memberikan makanan 4 sehat 5 sempurna untuk memperingati hari gizi nasional. Foto diambil pada tahun 2023 di lampu merah Gelael Batam.",
       },
       credit: {
-        en: "credit en",
-        id: "credit en",
+        en: "Photo: Dira Septiani",
+        id: "Photo: Dira Septiani",
       },
     },
     {
       image: require(`images/stories/${dir}/image-4.webp`),
       caption: {
-        en: "Lorem ipsum english",
-        id: "Lorem ipsum bahasa indonesia",
+        en: "Membacakan sepenggal cerita perubahan. Foto diambil pada tanggal 28 September 2023 di Hotel Ashley Wahid Hasyim Jakarta.",
+        id: "Membacakan sepenggal cerita perubahan. Foto diambil pada tanggal 28 September 2023 di Hotel Ashley Wahid Hasyim Jakarta.",
       },
       credit: {
-        en: "credit en",
-        id: "credit en",
+        en: "Photo: UN Women/Christina Phan",
+        id: "Photo: UN Women/Christina Phan",
       },
     },
   ],
