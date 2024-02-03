@@ -3,12 +3,12 @@ export const story5 = {
   index: dir,
   thumbnail: require(`images/stories/${dir}/main.webp`),
   thumbnail_credit: {
-    en: "Photo: UN Women/M R Hasan, Illustration: PORTRAY",
-    id: "Photo: UN Women/M R Hasan, Illustration: PORTRAY",
+    en: "Photo: Rulis Diana/NTV, Illustration: PORTRAY",
+    id: "Photo: Rulis Diana/NTV, Illustration: PORTRAY",
   },
   thumbnail_caption: {
-    en: "This is the space for photo captions. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.",
-    id: "This is the space for photo captions. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.",
+    en: "Menjadi narasumber talk show bertema pencegahan kekerasan terhadap perempuan dan trafficking.",
+    id: "Menjadi narasumber talk show bertema pencegahan kekerasan terhadap perempuan dan trafficking.",
   },
   name: "Rulis Diana",
   title: {
@@ -161,45 +161,45 @@ export const story5 = {
     {
       image: require(`images/stories/${dir}/image-1.webp`),
       caption: {
-        en: "Lorem ipsum english",
-        id: "Lorem ipsum bahasa indonesia",
+        en: "Penandatanganan persetujuan korban pendampingan.",
+        id: "Penandatanganan persetujuan korban pendampingan.",
       },
       credit: {
-        en: "credit en",
-        id: "credit en",
+        en: "Photo: Rulis Diana",
+        id: "Photo: Rulis Diana",
       },
     },
     {
       image: require(`images/stories/${dir}/image-2.webp`),
       caption: {
-        en: "Lorem ipsum english",
-        id: "Lorem ipsum bahasa indonesia",
+        en: "Audiensi dengan Pemerintah Desa Tamanagung.",
+        id: "Audiensi dengan Pemerintah Desa Tamanagung.",
       },
       credit: {
-        en: "credit en",
-        id: "credit en",
+        en: "Photo: Rulis Diana",
+        id: "Photo: Rulis Diana",
       },
     },
     {
       image: require(`images/stories/${dir}/image-3.webp`),
       caption: {
-        en: "Lorem ipsum english",
-        id: "Lorem ipsum bahasa indonesia",
+        en: "Pendampingan purna PMI korban kekerasan seksual.",
+        id: "Pendampingan purna PMI korban kekerasan seksual.",
       },
       credit: {
-        en: "credit en",
-        id: "credit en",
+        en: "Photo: Rulis Diana",
+        id: "Photo: Rulis Diana",
       },
     },
     {
       image: require(`images/stories/${dir}/image-4.webp`),
       caption: {
-        en: "Lorem ipsum english",
-        id: "Lorem ipsum bahasa indonesia",
+        en: "Pelatihan Paralegal.",
+        id: "Pelatihan Paralegal.",
       },
       credit: {
-        en: "credit en",
-        id: "credit en",
+        en: "Photo: Rulis Diana",
+        id: "Photo: Rulis Diana",
       },
     },
   ],
