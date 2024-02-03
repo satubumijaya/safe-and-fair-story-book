@@ -117,29 +117,29 @@ export const story1 = {
     {
       image: require(`images/stories/${dir}/image-1.webp`),
       caption: {
-        en: "Lorem ipsum english",
-        id: "Lorem ipsum bahasa indonesia",
+        en: "Mengikuti pelatihan menulis dan fotografi bersama UN Women.",
+        id: "Mengikuti pelatihan menulis dan fotografi bersama UN Women.",
       },
     },
     {
       image: require(`images/stories/${dir}/image-2.webp`),
       caption: {
-        en: "Lorem ipsum english",
-        id: "Lorem ipsum bahasa indonesia",
+        en: "Diskusi bersama kelompok Satgas desa dan WCC Mawar Balqis mengenai pekerja migran indonesia.",
+        id: "Diskusi bersama kelompok Satgas desa dan WCC Mawar Balqis mengenai pekerja migran indonesia.",
       },
     },
     {
       image: require(`images/stories/${dir}/image-3.webp`),
       caption: {
-        en: "Lorem ipsum english",
-        id: "Lorem ipsum bahasa indonesia",
+        en: "Foto keluarga kecil ku di saat Lebaran Haji 2023.",
+        id: "Foto keluarga kecil ku di saat Lebaran Haji 2023.",
       },
     },
     {
       image: require(`images/stories/${dir}/image-4.webp`),
       caption: {
-        en: "Lorem ipsum english",
-        id: "Lorem ipsum bahasa indonesia",
+        en: "Acara pelatihan menjadi pekerja migran yang baik bersama WCC Mawar Balqis.",
+        id: "Acara pelatihan menjadi pekerja migran yang baik bersama WCC Mawar Balqis.",
       },
     },
   ],
