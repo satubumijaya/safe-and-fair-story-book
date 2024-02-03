@@ -3,12 +3,12 @@ export const story18 = {
   index: dir,
   thumbnail: require(`images/stories/${dir}/main.webp`),
   thumbnail_credit: {
-    en: "Photo: UN Women/M R Hasan, Illustration: PORTRAY",
-    id: "Photo: UN Women/M R Hasan, Illustration: PORTRAY",
+    en: "Photo: UN Women/Christina Phan, Illustration: PORTRAY",
+    id: "Photo: UN Women/Christina Phan, Illustration: PORTRAY",
   },
   thumbnail_caption: {
-    en: "This is the space for photo captions. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.",
-    id: "This is the space for photo captions. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.",
+    en: "Memaparkan rangkaian cerita perubahan di kegiatan lokakarya pelatihan penulisan UN Women.",
+    id: "Memaparkan rangkaian cerita perubahan di kegiatan lokakarya pelatihan penulisan UN Women.",
   },
   name: "Sogi Alamsyach",
   title: {
@@ -177,45 +177,45 @@ export const story18 = {
     {
       image: require(`images/stories/${dir}/image-1.webp`),
       caption: {
-        en: "Lorem ipsum english",
-        id: "Lorem ipsum bahasa indonesia",
+        en: "Mendiskusikan situasi terkait Tindak Pidana Perdagangan Orang dan Pekerja Migran Non Prosedural di Kota Batam, bersama Komunitas Orang Muda Anti Perdagangan Orang dan Eksploitasi Seksual Anak (KOMPAK).",
+        id: "Mendiskusikan situasi terkait Tindak Pidana Perdagangan Orang dan Pekerja Migran Non Prosedural di Kota Batam, bersama Komunitas Orang Muda Anti Perdagangan Orang dan Eksploitasi Seksual Anak (KOMPAK).",
       },
       credit: {
-        en: "credit en",
-        id: "credit en",
+        en: "Photo: UN Women/Christina Phan",
+        id: "Photo: UN Women/Christina Phan",
       },
     },
     {
       image: require(`images/stories/${dir}/image-2.webp`),
       caption: {
-        en: "Lorem ipsum english",
-        id: "Lorem ipsum bahasa indonesia",
+        en: "Mempresentasikan hasil karya tulisan saya sendiri dengan judul “Advokasi Di Perbatasan”.",
+        id: "Mempresentasikan hasil karya tulisan saya sendiri dengan judul “Advokasi Di Perbatasan”.",
       },
       credit: {
-        en: "credit en",
-        id: "credit en",
+        en: "Photo: UN Women/Christina Phan",
+        id: "Photo: UN Women/Christina Phan",
       },
     },
     {
       image: require(`images/stories/${dir}/image-3.webp`),
       caption: {
-        en: "Lorem ipsum english",
-        id: "Lorem ipsum bahasa indonesia",
+        en: "Menjadi Fasilitator dan memberikan materi tentang Tindak Pidana Perdagangan Orang kepada ibu-ibu dan bapak-bapak perwakilan dari 13 Komunitas tingkat kelurahan dampingan Yayasan Embun Pelangi.",
+        id: "Menjadi Fasilitator dan memberikan materi tentang Tindak Pidana Perdagangan Orang kepada ibu-ibu dan bapak-bapak perwakilan dari 13 Komunitas tingkat kelurahan dampingan Yayasan Embun Pelangi.",
       },
       credit: {
-        en: "credit en",
-        id: "credit en",
+        en: "Photo: Sogi Alamsyach",
+        id: "Photo: Sogi Alamsyach",
       },
     },
     {
       image: require(`images/stories/${dir}/image-4.webp`),
       caption: {
-        en: "Lorem ipsum english",
-        id: "Lorem ipsum bahasa indonesia",
+        en: "Sharing tentang cerita masa kecil.",
+        id: "Sharing tentang cerita masa kecil.",
       },
       credit: {
-        en: "credit en",
-        id: "credit en",
+        en: "Photo: UN Women/Christina Phan",
+        id: "Photo: UN Women/Christina Phan",
       },
     },
   ],
