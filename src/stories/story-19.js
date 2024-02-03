@@ -3,12 +3,12 @@ export const story19 = {
   index: dir,
   thumbnail: require(`images/stories/${dir}/main.webp`),
   thumbnail_credit: {
-    en: "Photo: UN Women/M R Hasan, Illustration: PORTRAY",
-    id: "Photo: UN Women/M R Hasan, Illustration: PORTRAY",
+    en: "Photo: UN Women/Christina Phan, Illustration: PORTRAY",
+    id: "Photo: UN Women/Christina Phan, Illustration: PORTRAY",
   },
   thumbnail_caption: {
-    en: "This is the space for photo captions. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.",
-    id: "This is the space for photo captions. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.",
+    en: "Pelatihan penulisan bersama UN Women, Agustus 2023.",
+    id: "Pelatihan penulisan bersama UN Women, Agustus 2023.",
   },
   name: "Sri Nursyifa",
   title: {
@@ -295,45 +295,45 @@ export const story19 = {
     {
       image: require(`images/stories/${dir}/image-1.webp`),
       caption: {
-        en: "Lorem ipsum english",
-        id: "Lorem ipsum bahasa indonesia",
+        en: "Kegiatan 16HAKTP bersama ibu-ibu Bale Istri, Desember 2022. ",
+        id: "Kegiatan 16HAKTP bersama ibu-ibu Bale Istri, Desember 2022. ",
       },
       credit: {
-        en: "credit en",
-        id: "credit en",
+        en: "Photo: Komunitas Bale Istri ",
+        id: "Photo: Komunitas Bale Istri ",
       },
     },
     {
       image: require(`images/stories/${dir}/image-2.webp`),
       caption: {
-        en: "Lorem ipsum english",
-        id: "Lorem ipsum bahasa indonesia",
+        en: "Pertemuan Bale Istri Mekarlaksana, Oktober 2021.",
+        id: "Pertemuan Bale Istri Mekarlaksana, Oktober 2021.",
       },
       credit: {
-        en: "credit en",
-        id: "credit en",
+        en: "Photo: Komunitas Bale Istri ",
+        id: "Photo: Komunitas Bale Istri ",
       },
     },
     {
       image: require(`images/stories/${dir}/image-3.webp`),
       caption: {
-        en: "Lorem ipsum english",
-        id: "Lorem ipsum bahasa indonesia",
+        en: "Pertemuan Bale Istri Sukamaju, Juli 2021.",
+        id: "Pertemuan Bale Istri Sukamaju, Juli 2021.",
       },
       credit: {
-        en: "credit en",
-        id: "credit en",
+        en: "Photo: Komunitas Bale Istri ",
+        id: "Photo: Komunitas Bale Istri ",
       },
     },
     {
       image: require(`images/stories/${dir}/image-4.webp`),
       caption: {
-        en: "Lorem ipsum english",
-        id: "Lorem ipsum bahasa indonesia",
+        en: "Makan-makan bersama Bale Istri Cipaku, November 2021.",
+        id: "Makan-makan bersama Bale Istri Cipaku, November 2021.",
       },
       credit: {
-        en: "credit en",
-        id: "credit en",
+        en: "Photo: Komunitas Bale Istri ",
+        id: "Photo: Komunitas Bale Istri ",
       },
     },
   ],
