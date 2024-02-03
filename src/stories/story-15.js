@@ -3,12 +3,12 @@ export const story15 = {
   index: dir,
   thumbnail: require(`images/stories/${dir}/main.webp`),
   thumbnail_credit: {
-    en: "Photo: UN Women/M R Hasan, Illustration: PORTRAY",
-    id: "Photo: UN Women/M R Hasan, Illustration: PORTRAY",
+    en: "Photo: UN Women/Christina Phan, Illustration: PORTRAY",
+    id: "Photo: UN Women/Christina Phan, Illustration: PORTRAY",
   },
   thumbnail_caption: {
-    en: "This is the space for photo captions. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.",
-    id: "This is the space for photo captions. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.",
+    en: "Anisa, Staf Penanganan Kasus dan Database Perkumpulan Damar Lampung.",
+    id: "Anisa, Staf Penanganan Kasus dan Database Perkumpulan Damar Lampung.",
   },
   name: "Anisa",
   title: {
@@ -201,45 +201,45 @@ export const story15 = {
     {
       image: require(`images/stories/${dir}/image-1.webp`),
       caption: {
-        en: "Lorem ipsum english",
-        id: "Lorem ipsum bahasa indonesia",
+        en: "Sosialisasi Pencegahan TPPO di Kecamatan Anak Tuha Lampung Tengah, kolaborasi Perkumpulan Damar, Dinas P3A Lampung Tengah, BP3MI Lampung, dan Dinas Tenaga Kerja Lampung Tengah.",
+        id: "Sosialisasi Pencegahan TPPO di Kecamatan Anak Tuha Lampung Tengah, kolaborasi Perkumpulan Damar, Dinas P3A Lampung Tengah, BP3MI Lampung, dan Dinas Tenaga Kerja Lampung Tengah.",
       },
       credit: {
-        en: "credit en",
-        id: "credit en",
+        en: "Photo: Anisa",
+        id: "Photo: Anisa",
       },
     },
     {
       image: require(`images/stories/${dir}/image-2.webp`),
       caption: {
-        en: "Lorem ipsum english",
-        id: "Lorem ipsum bahasa indonesia",
+        en: "Diskusi Penanganan Kasus, Pemulangan Kasus Perempuan PMI Korban TPPO dari Batam ke Lampung Barat antara Perkumpulan Damar, Dinas P3A Provinsi Lampung, UPTD Provinsi Lampung, Disnaker Lampung, BP3MI Lampung, dan beberapa CSO Lokal Lainnya di Lampung.",
+        id: "Diskusi Penanganan Kasus, Pemulangan Kasus Perempuan PMI Korban TPPO dari Batam ke Lampung Barat antara Perkumpulan Damar, Dinas P3A Provinsi Lampung, UPTD Provinsi Lampung, Disnaker Lampung, BP3MI Lampung, dan beberapa CSO Lokal Lainnya di Lampung.",
       },
       credit: {
-        en: "credit en",
-        id: "credit en",
+        en: "Photo: Anisa",
+        id: "Photo: Anisa",
       },
     },
     {
       image: require(`images/stories/${dir}/image-3.webp`),
       caption: {
-        en: "Lorem ipsum english",
-        id: "Lorem ipsum bahasa indonesia",
+        en: "Konferensi Pers Penangkapan Pelaku TPPO oleh Polda Lampung, Perkumpulan Damar, dan UPTD PPA Lampung.",
+        id: "Konferensi Pers Penangkapan Pelaku TPPO oleh Polda Lampung, Perkumpulan Damar, dan UPTD PPA Lampung.",
       },
       credit: {
-        en: "credit en",
-        id: "credit en",
+        en: "Photo: Anisa",
+        id: "Photo: Anisa",
       },
     },
     {
       image: require(`images/stories/${dir}/image-4.webp`),
       caption: {
-        en: "Lorem ipsum english",
-        id: "Lorem ipsum bahasa indonesia",
+        en: "Diskusi Satgas TPPO Provinsi Lampung mengenai Program Pola Pengasuhan bagi Anak PMI yang Ditinggalkan oleh Orang Tuanya Bekerja.",
+        id: "Diskusi Satgas TPPO Provinsi Lampung mengenai Program Pola Pengasuhan bagi Anak PMI yang Ditinggalkan oleh Orang Tuanya Bekerja.",
       },
       credit: {
-        en: "credit en",
-        id: "credit en",
+        en: "Photo: Anisa",
+        id: "Photo: Anisa",
       },
     },
   ],
