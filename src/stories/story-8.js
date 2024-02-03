@@ -3,12 +3,12 @@ export const story8 = {
   index: dir,
   thumbnail: require(`images/stories/${dir}/main.webp`),
   thumbnail_credit: {
-    en: "Photo: UN Women/M R Hasan, Illustration: PORTRAY",
-    id: "Photo: UN Women/M R Hasan, Illustration: PORTRAY",
+    en: "Photo: Roudlotul Jannah, Illustration: PORTRAY",
+    id: "Photo: Roudlotul Jannah, Illustration: PORTRAY",
   },
   thumbnail_caption: {
-    en: "This is the space for photo captions. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.",
-    id: "This is the space for photo captions. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.",
+    en: "Diskusi dalam rangka mengisi matriks pemetaan indikator desa ramah perempuan dan peduli anak bersama dengan rekan-rekan relawan SAPA (Sahabat Perempuan dan Anak) di dinas PPKBP3A.",
+    id: "Diskusi dalam rangka mengisi matriks pemetaan indikator desa ramah perempuan dan peduli anak bersama dengan rekan-rekan relawan SAPA (Sahabat Perempuan dan Anak) di dinas PPKBP3A.",
   },
   name: "Roudlotul Jannah",
   title: {
@@ -263,45 +263,45 @@ export const story8 = {
     {
       image: require(`images/stories/${dir}/image-1.webp`),
       caption: {
-        en: "Lorem ipsum english",
-        id: "Lorem ipsum bahasa indonesia",
+        en: "Diskusi dalam kegiatan penyusunan peraturan desa Kedongdong bersama Koordinator Komunitas desa.",
+        id: "Diskusi dalam kegiatan penyusunan peraturan desa Kedongdong bersama Koordinator Komunitas desa.",
       },
       credit: {
-        en: "credit en",
-        id: "credit en",
+        en: "Photo: Roudlotul Jannah",
+        id: "Photo: Roudlotul Jannah",
       },
     },
     {
       image: require(`images/stories/${dir}/image-2.webp`),
       caption: {
-        en: "Lorem ipsum english",
-        id: "Lorem ipsum bahasa indonesia",
+        en: "Foto bersama dengan Tim WCC Mawar Balqis selepas kegiatan Migrant Day tahun 2021.",
+        id: "Foto bersama dengan Tim WCC Mawar Balqis selepas kegiatan Migrant Day tahun 2021.",
       },
       credit: {
-        en: "credit en",
-        id: "credit en",
+        en: "Photo: Roudlotul Jannah",
+        id: "Photo: Roudlotul Jannah",
       },
     },
     {
       image: require(`images/stories/${dir}/image-3.webp`),
       caption: {
-        en: "Lorem ipsum english",
-        id: "Lorem ipsum bahasa indonesia",
+        en: "Partisipasi dalam kegiatan pelatihan menulis dan fotografi bersama UN Women. ",
+        id: "Partisipasi dalam kegiatan pelatihan menulis dan fotografi bersama UN Women. ",
       },
       credit: {
-        en: "credit en",
-        id: "credit en",
+        en: "Photo: Roudlotul Jannah",
+        id: "Photo: Roudlotul Jannah",
       },
     },
     {
       image: require(`images/stories/${dir}/image-4.webp`),
       caption: {
-        en: "Lorem ipsum english",
-        id: "Lorem ipsum bahasa indonesia",
+        en: "Pelatihan Peningkatan Kapasitas untuk Komunitas Desa.",
+        id: "Pelatihan Peningkatan Kapasitas untuk Komunitas Desa.",
       },
       credit: {
-        en: "credit en",
-        id: "credit en",
+        en: "Photo: Roudlotul Jannah",
+        id: "Photo: Roudlotul Jannah",
       },
     },
   ],
