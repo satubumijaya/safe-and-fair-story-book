@@ -3,12 +3,12 @@ export const story14 = {
   index: dir,
   thumbnail: require(`images/stories/${dir}/main.webp`),
   thumbnail_credit: {
-    en: "Photo: UN Women/M R Hasan, Illustration: PORTRAY",
-    id: "Photo: UN Women/M R Hasan, Illustration: PORTRAY",
+    en: "Photo: UN Women/Christina Phan, Illustration: PORTRAY",
+    id: "Photo: UN Women/Christina Phan, Illustration: PORTRAY",
   },
   thumbnail_caption: {
-    en: "This is the space for photo captions. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.",
-    id: "This is the space for photo captions. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.",
+    en: "Mengikuti kegiatan Lokakarya Penulisan Cerita Perubahan bagi Mitra Pelaksana dan Penerima Manfaat Program SAF, September 2023.",
+    id: "Mengikuti kegiatan Lokakarya Penulisan Cerita Perubahan bagi Mitra Pelaksana dan Penerima Manfaat Program SAF, September 2023.",
   },
   name: "Ahmad Haryono",
   title: {
@@ -229,45 +229,45 @@ export const story14 = {
     {
       image: require(`images/stories/${dir}/image-1.webp`),
       caption: {
-        en: "Lorem ipsum english",
-        id: "Lorem ipsum bahasa indonesia",
+        en: "Diskusi dan lobi dengan aparat desa/pekon Ambarawa Pringsewu untuk proses pendampingan PMI, November 2021.",
+        id: "Diskusi dan lobi dengan aparat desa/pekon Ambarawa Pringsewu untuk proses pendampingan PMI, November 2021.",
       },
       credit: {
-        en: "credit en",
-        id: "credit en",
+        en: "Photo: Ahmad Haryono",
+        id: "Photo: Ahmad Haryono",
       },
     },
     {
       image: require(`images/stories/${dir}/image-2.webp`),
       caption: {
-        en: "Lorem ipsum english",
-        id: "Lorem ipsum bahasa indonesia",
+        en: "Pemetaan potensi ekonomi di pekon Ambarawa Pringsewu, Januari 2022.",
+        id: "Pemetaan potensi ekonomi di pekon Ambarawa Pringsewu, Januari 2022.",
       },
       credit: {
-        en: "credit en",
-        id: "credit en",
+        en: "Photo: Ahmad Haryono",
+        id: "Photo: Ahmad Haryono",
       },
     },
     {
       image: require(`images/stories/${dir}/image-3.webp`),
       caption: {
-        en: "Lorem ipsum english",
-        id: "Lorem ipsum bahasa indonesia",
+        en: "Diskusi tentang TPPO di kantor Lada DAMAR, April 2022.",
+        id: "Diskusi tentang TPPO di kantor Lada DAMAR, April 2022.",
       },
       credit: {
-        en: "credit en",
-        id: "credit en",
+        en: "Photo: Ahmad Haryono",
+        id: "Photo: Ahmad Haryono",
       },
     },
     {
       image: require(`images/stories/${dir}/image-4.webp`),
       caption: {
-        en: "Lorem ipsum english",
-        id: "Lorem ipsum bahasa indonesia",
+        en: "Workshop pengembangan ekonomi perempuan PMI Purna di pekon Ambarawa Pringsewu, Januari 2022.",
+        id: "Workshop pengembangan ekonomi perempuan PMI Purna di pekon Ambarawa Pringsewu, Januari 2022.",
       },
       credit: {
-        en: "credit en",
-        id: "credit en",
+        en: "Photo: Ahmad Haryono",
+        id: "Photo: Ahmad Haryono",
       },
     },
   ],
