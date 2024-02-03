@@ -3,12 +3,12 @@ export const story7 = {
   index: dir,
   thumbnail: require(`images/stories/${dir}/main.webp`),
   thumbnail_credit: {
-    en: "Photo: UN Women/M R Hasan, Illustration: PORTRAY",
-    id: "Photo: UN Women/M R Hasan, Illustration: PORTRAY",
+    en: "Photo: UN Women/Christina Phan, Illustration: PORTRAY",
+    id: "Photo: UN Women/Christina Phan, Illustration: PORTRAY",
   },
   thumbnail_caption: {
-    en: "This is the space for photo captions. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.",
-    id: "This is the space for photo captions. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.",
+    en: "Mengikuti workshop penulisan.",
+    id: "Mengikuti workshop penulisan.",
   },
   name: "Rita Ramadani",
   title: {
@@ -287,45 +287,45 @@ export const story7 = {
     {
       image: require(`images/stories/${dir}/image-1.webp`),
       caption: {
-        en: "Lorem ipsum english",
-        id: "Lorem ipsum bahasa indonesia",
+        en: "Irwan Setiawan membuka kegiatan pelatihan komunitas tentang alur penanganan kasus.",
+        id: "Irwan Setiawan membuka kegiatan pelatihan komunitas tentang alur penanganan kasus.",
       },
       credit: {
-        en: "credit en",
-        id: "credit en",
+        en: "Photo: UN Women/Christina Phan",
+        id: "Photo: UN Women/Christina Phan",
       },
     },
     {
       image: require(`images/stories/${dir}/image-2.webp`),
       caption: {
-        en: "Lorem ipsum english",
-        id: "Lorem ipsum bahasa indonesia",
+        en: "Peningkatan pengetahuan komunitas tanjung pinggir tentang peran komunitas dalam perlindungan perempuan dan anak.",
+        id: "Peningkatan pengetahuan komunitas tanjung pinggir tentang peran komunitas dalam perlindungan perempuan dan anak.",
       },
       credit: {
-        en: "credit en",
-        id: "credit en",
+        en: "Photo: UN Women/Christina Phan",
+        id: "Photo: UN Women/Christina Phan",
       },
     },
     {
       image: require(`images/stories/${dir}/image-3.webp`),
       caption: {
-        en: "Lorem ipsum english",
-        id: "Lorem ipsum bahasa indonesia",
+        en: "Kegiatan workshop penulisan.",
+        id: "Kegiatan workshop penulisan.",
       },
       credit: {
-        en: "credit en",
-        id: "credit en",
+        en: "Photo: UN Women/Christina Phan",
+        id: "Photo: UN Women/Christina Phan",
       },
     },
     {
       image: require(`images/stories/${dir}/image-4.webp`),
       caption: {
-        en: "Lorem ipsum english",
-        id: "Lorem ipsum bahasa indonesia",
+        en: "Penyintas menuliskan mimpi, harapan dan rencana ke depan setelah dipulangkan.",
+        id: "Penyintas menuliskan mimpi, harapan dan rencana ke depan setelah dipulangkan.",
       },
       credit: {
-        en: "credit en",
-        id: "credit en",
+        en: "Photo: Yayasan Embun Pelangi",
+        id: "Photo: Yayasan Embun Pelangi",
       },
     },
   ],
