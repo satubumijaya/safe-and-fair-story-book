@@ -3,12 +3,12 @@ export const story9 = {
   index: dir,
   thumbnail: require(`images/stories/${dir}/main.webp`),
   thumbnail_credit: {
-    en: "Photo: UN Women/M R Hasan, Illustration: PORTRAY",
-    id: "Photo: UN Women/M R Hasan, Illustration: PORTRAY",
+    en: "Photo: Fifi Ekawati Rohmah, Illustration: PORTRAY",
+    id: "Photo: Fifi Ekawati Rohmah, Illustration: PORTRAY",
   },
   thumbnail_caption: {
-    en: "This is the space for photo captions. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.",
-    id: "This is the space for photo captions. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.",
+    en: "Kegiatan KPI Diseminasi laporan hasil kegiatan pencegahan perkawinan anak di Jogja tahun 2023.",
+    id: "Kegiatan KPI Diseminasi laporan hasil kegiatan pencegahan perkawinan anak di Jogja tahun 2023.",
   },
   name: "Fifi Ekawati Rohmah",
   title: {
@@ -203,45 +203,45 @@ export const story9 = {
     {
       image: require(`images/stories/${dir}/image-1.webp`),
       caption: {
-        en: "Lorem ipsum english",
-        id: "Lorem ipsum bahasa indonesia",
+        en: "Program pemberdayaan usaha perempuan — foto saat Mendampingi desa Tugusumberjo Jombang dalam kegiatan musyawarah desa program Jatim Puspa.",
+        id: "Program pemberdayaan usaha perempuan — foto saat Mendampingi desa Tugusumberjo Jombang dalam kegiatan musyawarah desa program Jatim Puspa.",
       },
       credit: {
-        en: "credit en",
-        id: "credit en",
+        en: "Photo: Fifi Ekawati Rohmah",
+        id: "Photo: Fifi Ekawati Rohmah",
       },
     },
     {
       image: require(`images/stories/${dir}/image-2.webp`),
       caption: {
-        en: "Lorem ipsum english",
-        id: "Lorem ipsum bahasa indonesia",
+        en: "Mengunjungi dan memberikan pendampingan serta motivasi pada Kepala Keluarga perempuan yang sedang menjalankan usaha ekonomi produktif utk meningkatkan penghasilan keluarga di kecamatan Peterongan Jombang.",
+        id: "Mengunjungi dan memberikan pendampingan serta motivasi pada Kepala Keluarga perempuan yang sedang menjalankan usaha ekonomi produktif utk meningkatkan penghasilan keluarga di kecamatan Peterongan Jombang.",
       },
       credit: {
-        en: "credit en",
-        id: "credit en",
+        en: "Photo: Fifi Ekawati Rohmah",
+        id: "Photo: Fifi Ekawati Rohmah",
       },
     },
     {
       image: require(`images/stories/${dir}/image-3.webp`),
       caption: {
-        en: "Lorem ipsum english",
-        id: "Lorem ipsum bahasa indonesia",
+        en: "Fasilitasi kegiatan Sekolah Perempuan (Sekoper Dewi Sri) Desa Ngogri Megaluh, Jombang.",
+        id: "Fasilitasi kegiatan Sekolah Perempuan (Sekoper Dewi Sri) Desa Ngogri Megaluh, Jombang.",
       },
       credit: {
-        en: "credit en",
-        id: "credit en",
+        en: "Photo: Fifi Ekawati Rohmah",
+        id: "Photo: Fifi Ekawati Rohmah",
       },
     },
     {
       image: require(`images/stories/${dir}/image-4.webp`),
       caption: {
-        en: "Lorem ipsum english",
-        id: "Lorem ipsum bahasa indonesia",
+        en: "Bersama suami berziarah ke makam Gus Dur.",
+        id: "Bersama suami berziarah ke makam Gus Dur.",
       },
       credit: {
-        en: "credit en",
-        id: "credit en",
+        en: "Photo: Fifi Ekawati Rohmah",
+        id: "Photo: Fifi Ekawati Rohmah",
       },
     },
   ],
