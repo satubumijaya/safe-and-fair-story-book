@@ -3,12 +3,12 @@ export const story1 = {
   index: dir,
   thumbnail: require(`images/stories/${dir}/main.webp`),
   thumbnail_credit: {
-    en: "Photo: UN Women/M R Hasan, Illustration: PORTRAY",
-    id: "Photo: UN Women/M R Hasan, Illustration: PORTRAY",
+    en: "Photo: UN Women/Christina Phan, Illustration: PORTRAY",
+    id: "Photo: UN Women/Christina Phan, Illustration: PORTRAY",
   },
   thumbnail_caption: {
-    en: "This is the space for photo captions. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.",
-    id: "This is the space for photo captions. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.",
+    en: "Kegiatan pelatihan penulisan UN Women 2023.",
+    id: "Kegiatan pelatihan penulisan UN Women 2023.",
   },
   name: "Susilawati",
   title: {
@@ -125,45 +125,45 @@ export const story1 = {
     {
       image: require(`images/stories/${dir}/image-1.webp`),
       caption: {
-        en: "Mengikuti pelatihan menulis dan fotografi bersama UN Women.",
-        id: "Mengikuti pelatihan menulis dan fotografi bersama UN Women.",
+        en: "Diskusi bersama kelompok Satgas desa dan WCC Mawar Balqis mengenai pekerja migran indonesia.",
+        id: "Diskusi bersama kelompok Satgas desa dan WCC Mawar Balqis mengenai pekerja migran indonesia.",
       },
       credit: {
-        en: "credit en",
-        id: "credit en",
+        en: "Photo: Susilawati",
+        id: "Photo: Susilawati",
       },
     },
     {
       image: require(`images/stories/${dir}/image-2.webp`),
       caption: {
-        en: "Diskusi bersama kelompok Satgas desa dan WCC Mawar Balqis mengenai pekerja migran indonesia.",
-        id: "Diskusi bersama kelompok Satgas desa dan WCC Mawar Balqis mengenai pekerja migran indonesia.",
+        en: "Foto keluarga kecil ku di saat Lebaran Haji 2023.",
+        id: "Foto keluarga kecil ku di saat Lebaran Haji 2023.",
       },
       credit: {
-        en: "credit en",
-        id: "credit en",
+        en: "Photo: Susilawati",
+        id: "Photo: Susilawati",
       },
     },
     {
       image: require(`images/stories/${dir}/image-3.webp`),
       caption: {
-        en: "Foto keluarga kecil ku di saat Lebaran Haji 2023.",
-        id: "Foto keluarga kecil ku di saat Lebaran Haji 2023.",
+        en: "Acara pelatihan menjadi pekerja migran yang baik bersama WCC Mawar Balqis.",
+        id: "Acara pelatihan menjadi pekerja migran yang baik bersama WCC Mawar Balqis.",
       },
       credit: {
-        en: "credit en",
-        id: "credit en",
+        en: "Photo: Susilawati",
+        id: "Photo: Susilawati",
       },
     },
     {
       image: require(`images/stories/${dir}/image-4.webp`),
       caption: {
-        en: "Acara pelatihan menjadi pekerja migran yang baik bersama WCC Mawar Balqis.",
-        id: "Acara pelatihan menjadi pekerja migran yang baik bersama WCC Mawar Balqis.",
+        en: "Foto tahun 2018 bersama anak aku di Trasmart Cirebon.",
+        id: "Foto tahun 2018 bersama anak aku di Trasmart Cirebon.",
       },
       credit: {
-        en: "credit en",
-        id: "credit en",
+        en: "Photo: Susilawati",
+        id: "Photo: Susilawati",
       },
     },
   ],
