@@ -1,5 +1,5 @@
 import { AppContext } from "context/AppContext";
-import React, { useContext } from "react";
+import React, { useContext, useEffect, useRef, useState } from "react";
 import { Fade } from "react-awesome-reveal";
 import { useTranslation } from "react-i18next";
 import Modal from "react-overlays/Modal";
@@ -8,7 +8,14 @@ export default function LightboxModal() {
   const { t, i18n, ready } = useTranslation();
   const lang = i18n.language;
 
-  const { currentStory, lightbox, setLightBox } = useContext(AppContext);
+  const { currentStory, lightbox, setLightBox, windowSize } =
+    useContext(AppContext);
+  const [captionHeight, setCaptionHeight] = useState(0);
+
+  const captionRef = useRef(null);
+  useEffect(() => {
+    setCaptionHeight(captionRef?.current?.clientHeight);
+  }, [lightbox, windowSize]);
 
   const renderBackdrop = (props) => (
     <div className="backdrop fixed inset-0 bg-black bg-opacity-80" {...props} />
@@ -56,7 +63,10 @@ export default function LightboxModal() {
               }}
             ></div>
 
-            <div className="relative top-0 z-50 mx-auto mb-12 mt-12 max-w-fit bg-white ">
+            <div
+              className="relative top-0 z-50 mx-auto mb-12 mt-12 max-w-fit bg-white"
+              style={{ paddingBottom: captionHeight }}
+            >
               <button
                 onClick={() => {
                   closeModal();
@@ -133,7 +143,10 @@ export default function LightboxModal() {
                     {lightbox?.credit && lightbox?.credit[lang]}
                   </div>
                 </div>
-                <div className="bg-black px-6 py-4 text-sm text-white md:px-8">
+                <div
+                  className="absolute bottom-0 left-0 w-full bg-black px-6 py-4 text-sm text-white md:px-8"
+                  ref={captionRef}
+                >
                   <div className="border-l border-l-white py-1 pl-4">
                     {lightbox?.caption && lightbox?.caption[lang]}
                   </div>
