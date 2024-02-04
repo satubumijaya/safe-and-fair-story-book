@@ -192,7 +192,7 @@ export default function GalleryModal() {
                       </div>
                     </div>
 
-                    <div className="absolute bottom-10 left-full right-2 hidden  -translate-x-4 whitespace-nowrap  text-xs text-white md:block">
+                    <div className="absolute bottom-10 left-full right-2 hidden  -translate-x-4 whitespace-nowrap  text-xs text-white drop-shadow-md md:block">
                       <div className="-rotate-90">
                         {currentStory?.thumbnail_credit[[lang]]}
                       </div>
