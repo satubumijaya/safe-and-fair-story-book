@@ -3,12 +3,12 @@ export const story6 = {
   index: dir,
   thumbnail: require(`images/stories/${dir}/main.webp`),
   thumbnail_credit: {
-    en: "Photo: UN Women/M R Hasan, Illustration: PORTRAY",
-    id: "Photo: UN Women/M R Hasan, Illustration: PORTRAY",
+    en: "Photo: UN Women/Christina Phan, Illustration: PORTRAY",
+    id: "Photo: UN Women/Christina Phan, Illustration: PORTRAY",
   },
   thumbnail_caption: {
-    en: "This is the space for photo captions. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.",
-    id: "This is the space for photo captions. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.",
+    en: "Memaparkan rangkaian cerita perubahan di kegiatan lokakarya pelatihan Penulisan UN Women.",
+    id: "Memaparkan rangkaian cerita perubahan di kegiatan lokakarya pelatihan Penulisan UN Women.",
   },
   name: "Ria Febriyanti",
   title: {
@@ -195,45 +195,45 @@ export const story6 = {
     {
       image: require(`images/stories/${dir}/image-1.webp`),
       caption: {
-        en: "Lorem ipsum english",
-        id: "Lorem ipsum bahasa indonesia",
+        en: "Komunitas Orang Muda Anti Perdagangan Orang dan Eksploitasi Seksual Anak (KOMPAK) Mendapatkan Piagam Apresiasi oleh Wali Kota Batam, karena telah berhasil menjadi Fasilitator dalam perayaan Hari Anak Nasional 2023 di Kota Batam.",
+        id: "Komunitas Orang Muda Anti Perdagangan Orang dan Eksploitasi Seksual Anak (KOMPAK) Mendapatkan Piagam Apresiasi oleh Wali Kota Batam, karena telah berhasil menjadi Fasilitator dalam perayaan Hari Anak Nasional 2023 di Kota Batam.",
       },
       credit: {
-        en: "credit en",
-        id: "credit en",
+        en: "Photo: Ria Febriyanti",
+        id: "Photo: Ria Febriyanti",
       },
     },
     {
       image: require(`images/stories/${dir}/image-2.webp`),
       caption: {
-        en: "Lorem ipsum english",
-        id: "Lorem ipsum bahasa indonesia",
+        en: "Menjadi Tokoh Utama dalam film Dokumenter “Healing is A Right” oleh VOA indonesia.",
+        id: "Menjadi Tokoh Utama dalam film Dokumenter “Healing is A Right” oleh VOA indonesia.",
       },
       credit: {
-        en: "credit en",
-        id: "credit en",
+        en: "Photo: Ria Febriyanti",
+        id: "Photo: Ria Febriyanti",
       },
     },
     {
       image: require(`images/stories/${dir}/image-3.webp`),
       caption: {
-        en: "Lorem ipsum english",
-        id: "Lorem ipsum bahasa indonesia",
+        en: "Menjadi fasilitator dalam Penguatan Kapasitas Kelompok Anak (Remaja anti Eskploitasi Seksual Anak) dan Kelompok Orang Muda (Komunitas Orang Muda Anti Perdagangan Orang dan Eksploitasi Seksual Anak).",
+        id: "Menjadi fasilitator dalam Penguatan Kapasitas Kelompok Anak (Remaja anti Eskploitasi Seksual Anak) dan Kelompok Orang Muda (Komunitas Orang Muda Anti Perdagangan Orang dan Eksploitasi Seksual Anak).",
       },
       credit: {
-        en: "credit en",
-        id: "credit en",
+        en: "Photo: Ria Febriyanti",
+        id: "Photo: Ria Febriyanti",
       },
     },
     {
       image: require(`images/stories/${dir}/image-4.webp`),
       caption: {
-        en: "Lorem ipsum english",
-        id: "Lorem ipsum bahasa indonesia",
+        en: "Membaca Cerita perubahan dalam Lokakarya Pelatihan Penulisan Oleh UN Women.",
+        id: "Membaca Cerita perubahan dalam Lokakarya Pelatihan Penulisan Oleh UN Women.",
       },
       credit: {
-        en: "credit en",
-        id: "credit en",
+        en: "Photo: UN Women/Christina Phan",
+        id: "Photo: UN Women/Christina Phan",
       },
     },
   ],

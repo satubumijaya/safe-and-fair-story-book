@@ -3,12 +3,12 @@ export const story12 = {
   index: dir,
   thumbnail: require(`images/stories/${dir}/main.webp`),
   thumbnail_credit: {
-    en: "Photo: UN Women/M R Hasan, Illustration: PORTRAY",
-    id: "Photo: UN Women/M R Hasan, Illustration: PORTRAY",
+    en: "Photo: UN Women/Christina Phan, Illustration: PORTRAY",
+    id: "Photo: UN Women/Christina Phan, Illustration: PORTRAY",
   },
   thumbnail_caption: {
-    en: "This is the space for photo captions. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.",
-    id: "This is the space for photo captions. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.",
+    en: "Foto saat pembacaan hasil dari tulisan dan cerita perubahan dalam kegiatan lokakarya penulisan cerita perubahan bagi mitra pelaksana dan penerima manfaat program oleh UN Women pada tangal 28 September 2023 di hotel Ashley Jakarta.",
+    id: "Foto saat pembacaan hasil dari tulisan dan cerita perubahan dalam kegiatan lokakarya penulisan cerita perubahan bagi mitra pelaksana dan penerima manfaat program oleh UN Women pada tangal 28 September 2023 di hotel Ashley Jakarta.",
   },
   name: "Faoziah",
   title: {
@@ -231,45 +231,45 @@ export const story12 = {
     {
       image: require(`images/stories/${dir}/image-1.webp`),
       caption: {
-        en: "Lorem ipsum english",
-        id: "Lorem ipsum bahasa indonesia",
+        en: "Foto bareng teman-teman dari WCC Mawar balqis dan Kak Nita dari UN Women di acara lokakarya penulisan cerita perubahan bagi mitra pelaksana dan penerima manfaat program di hotel Ashley Jakarta.",
+        id: "Foto bareng teman-teman dari WCC Mawar balqis dan Kak Nita dari UN Women di acara lokakarya penulisan cerita perubahan bagi mitra pelaksana dan penerima manfaat program di hotel Ashley Jakarta.",
       },
       credit: {
-        en: "credit en",
-        id: "credit en",
+        en: "Photo: Faoziah",
+        id: "Photo: Faoziah",
       },
     },
     {
       image: require(`images/stories/${dir}/image-2.webp`),
       caption: {
-        en: "Lorem ipsum english",
-        id: "Lorem ipsum bahasa indonesia",
+        en: "Foto saat pembentukan Peraturan Desa (Perdes) tentang perlindungan pekerja migran indonesia dan anggota keluarganya di Balai desa Kedongdong Kec. Susukan, Kab. Cirebon.",
+        id: "Foto saat pembentukan Peraturan Desa (Perdes) tentang perlindungan pekerja migran indonesia dan anggota keluarganya di Balai desa Kedongdong Kec. Susukan, Kab. Cirebon.",
       },
       credit: {
-        en: "credit en",
-        id: "credit en",
+        en: "Photo: Faoziah",
+        id: "Photo: Faoziah",
       },
     },
     {
       image: require(`images/stories/${dir}/image-3.webp`),
       caption: {
-        en: "Lorem ipsum english",
-        id: "Lorem ipsum bahasa indonesia",
+        en: "Foto bersama Ibu tercinta saat wisuda di AMA Yogyakarta Tahun 2004.",
+        id: "Foto bersama Ibu tercinta saat wisuda di AMA Yogyakarta Tahun 2004.",
       },
       credit: {
-        en: "credit en",
-        id: "credit en",
+        en: "Photo: Faoziah",
+        id: "Photo: Faoziah",
       },
     },
     {
       image: require(`images/stories/${dir}/image-4.webp`),
       caption: {
-        en: "Lorem ipsum english",
-        id: "Lorem ipsum bahasa indonesia",
+        en: "Foto saat acara pelatihan standar pelayanan dan mekanisme perlindungan yang terpadu dan responsif gender di hotel Apita Cirebon.",
+        id: "Foto saat acara pelatihan standar pelayanan dan mekanisme perlindungan yang terpadu dan responsif gender di hotel Apita Cirebon.",
       },
       credit: {
-        en: "credit en",
-        id: "credit en",
+        en: "Photo: Faoziah",
+        id: "Photo: Faoziah",
       },
     },
   ],

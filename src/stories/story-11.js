@@ -3,12 +3,12 @@ export const story11 = {
   index: dir,
   thumbnail: require(`images/stories/${dir}/main.webp`),
   thumbnail_credit: {
-    en: "Photo: UN Women/M R Hasan, Illustration: PORTRAY",
-    id: "Photo: UN Women/M R Hasan, Illustration: PORTRAY",
+    en: "Photo: Elisabeth Rona, Illustration: PORTRAY",
+    id: "Photo: Elisabeth Rona, Illustration: PORTRAY",
   },
   thumbnail_caption: {
-    en: "This is the space for photo captions. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.",
-    id: "This is the space for photo captions. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.",
+    en: "Foto kelulusan/wisuda, tanggal 22 Juli 2023.",
+    id: "Foto kelulusan/wisuda, tanggal 22 Juli 2023.",
   },
   name: "Elisabeth Rona",
   title: {
@@ -225,45 +225,45 @@ export const story11 = {
     {
       image: require(`images/stories/${dir}/image-1.webp`),
       caption: {
-        en: "Lorem ipsum english",
-        id: "Lorem ipsum bahasa indonesia",
+        en: "Mengikuti pertemuan anggota satgas TPPO provinsi lampung dengan dukungan program SAF, proses pertemuan ini bagian dari pengumpulan data untuk skripsi ku sekaligus ruang aku untuk sharing tentang persoalan dan tantangan yang dihadapi dalam pendampingan kasus TPPO bagi NGO.",
+        id: "Mengikuti pertemuan anggota satgas TPPO provinsi lampung dengan dukungan program SAF, proses pertemuan ini bagian dari pengumpulan data untuk skripsi ku sekaligus ruang aku untuk sharing tentang persoalan dan tantangan yang dihadapi dalam pendampingan kasus TPPO bagi NGO.",
       },
       credit: {
-        en: "credit en",
-        id: "credit en",
+        en: "Photo: Elisabeth Rona",
+        id: "Photo: Elisabeth Rona",
       },
     },
     {
       image: require(`images/stories/${dir}/image-2.webp`),
       caption: {
-        en: "Lorem ipsum english",
-        id: "Lorem ipsum bahasa indonesia",
+        en: "Aku menyampaikan cerita perubahanku bahwa melalui program SAF ini tidak hanya membantu aku mengerjakan tugas akhir (skripsi) saja, bagian dari aku berproses dalam dunia gerakan perempuan untuk mengkampanyekan anti kekerasan terhadap perempuan.",
+        id: "Aku menyampaikan cerita perubahanku bahwa melalui program SAF ini tidak hanya membantu aku mengerjakan tugas akhir (skripsi) saja, bagian dari aku berproses dalam dunia gerakan perempuan untuk mengkampanyekan anti kekerasan terhadap perempuan.",
       },
       credit: {
-        en: "credit en",
-        id: "credit en",
+        en: "Photo: UN Women/Christina Phan",
+        id: "Photo: UN Women/Christina Phan",
       },
     },
     {
       image: require(`images/stories/${dir}/image-3.webp`),
       caption: {
-        en: "Lorem ipsum english",
-        id: "Lorem ipsum bahasa indonesia",
+        en: "Aku mewakili komunitas bernama 'Mulead Lappung' mempresentasikan peran apa saja yang dapat dilakukan oleh komunitas perempuan muda dalam kegiatan dialog lintas sektor untuk mewujudkan pengarusutamaan gender di provinsi lampung, bertempat di kantor dinas PPPA Provinsi Lampung.",
+        id: "Aku mewakili komunitas bernama 'Mulead Lappung' mempresentasikan peran apa saja yang dapat dilakukan oleh komunitas perempuan muda dalam kegiatan dialog lintas sektor untuk mewujudkan pengarusutamaan gender di provinsi lampung, bertempat di kantor dinas PPPA Provinsi Lampung.",
       },
       credit: {
-        en: "credit en",
-        id: "credit en",
+        en: "Photo: Elisabeth Rona",
+        id: "Photo: Elisabeth Rona",
       },
     },
     {
       image: require(`images/stories/${dir}/image-4.webp`),
       caption: {
-        en: "Lorem ipsum english",
-        id: "Lorem ipsum bahasa indonesia",
+        en: "Wawancara mendalam dengan BP3MI Provinsi Lampung, bagian dari proses aku mendapatkan data untuk penelitian akhir (skripsi). Keterlibatan aku dalam program SAF di lampung membantu aku mendapatkan relasi baru dari BP3MI Provinsi Lampung.",
+        id: "Wawancara mendalam dengan BP3MI Provinsi Lampung, bagian dari proses aku mendapatkan data untuk penelitian akhir (skripsi). Keterlibatan aku dalam program SAF di lampung membantu aku mendapatkan relasi baru dari BP3MI Provinsi Lampung.",
       },
       credit: {
-        en: "credit en",
-        id: "credit en",
+        en: "Photo: Elisabeth Rona",
+        id: "Photo: Elisabeth Rona",
       },
     },
   ],

@@ -3,12 +3,12 @@ export const story13 = {
   index: dir,
   thumbnail: require(`images/stories/${dir}/main.webp`),
   thumbnail_credit: {
-    en: "Photo: UN Women/M R Hasan, Illustration: PORTRAY",
-    id: "Photo: UN Women/M R Hasan, Illustration: PORTRAY",
+    en: "Photo: Vivi, Illustration: PORTRAY",
+    id: "Photo: Vivi, Illustration: PORTRAY",
   },
   thumbnail_caption: {
-    en: "This is the space for photo captions. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.",
-    id: "This is the space for photo captions. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.",
+    en: "Merangkak mimpi. Foto diambil sekitar bulan Juli 2022.",
+    id: "Merangkak mimpi. Foto diambil sekitar bulan Juli 2022.",
   },
   name: "Venolia Adeningrum",
   title: {
@@ -185,45 +185,45 @@ export const story13 = {
     {
       image: require(`images/stories/${dir}/image-1.webp`),
       caption: {
-        en: "Lorem ipsum english",
-        id: "Lorem ipsum bahasa indonesia",
+        en: "Saat pendampingan kasus di rumah sakit, Januari 2023.",
+        id: "Saat pendampingan kasus di rumah sakit, Januari 2023.",
       },
       credit: {
-        en: "credit en",
-        id: "credit en",
+        en: "Photo: Venolia Adeningrum",
+        id: "Photo: Venolia Adeningrum",
       },
     },
     {
       image: require(`images/stories/${dir}/image-2.webp`),
       caption: {
-        en: "Lorem ipsum english",
-        id: "Lorem ipsum bahasa indonesia",
+        en: "Mendampingi kasus di Pengadilan Agama, Agustus 2023.",
+        id: "Mendampingi kasus di Pengadilan Agama, Agustus 2023.",
       },
       credit: {
-        en: "credit en",
-        id: "credit en",
+        en: "Photo: Venolia Adeningrum",
+        id: "Photo: Venolia Adeningrum",
       },
     },
     {
       image: require(`images/stories/${dir}/image-3.webp`),
       caption: {
-        en: "Lorem ipsum english",
-        id: "Lorem ipsum bahasa indonesia",
+        en: "Mendampingi kasus di psikolog, September 2023.",
+        id: "Mendampingi kasus di psikolog, September 2023.",
       },
       credit: {
-        en: "credit en",
-        id: "credit en",
+        en: "Photo: Venolia Adeningrum",
+        id: "Photo: Venolia Adeningrum",
       },
     },
     {
       image: require(`images/stories/${dir}/image-4.webp`),
       caption: {
-        en: "Lorem ipsum english",
-        id: "Lorem ipsum bahasa indonesia",
+        en: "Membantu mendampingi kasus di PKBM ( pusat kegiatan belajar masyarakat) agar korban bisa melanjutkan pendidikan foto diambil bulan September 2022.",
+        id: "Membantu mendampingi kasus di PKBM ( pusat kegiatan belajar masyarakat) agar korban bisa melanjutkan pendidikan foto diambil bulan September 2022.",
       },
       credit: {
-        en: "credit en",
-        id: "credit en",
+        en: "Photo: Venolia Adeningrum",
+        id: "Photo: Venolia Adeningrum",
       },
     },
   ],

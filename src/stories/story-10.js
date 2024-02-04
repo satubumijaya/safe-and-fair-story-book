@@ -3,12 +3,12 @@ export const story10 = {
   index: dir,
   thumbnail: require(`images/stories/${dir}/main.webp`),
   thumbnail_credit: {
-    en: "Photo: UN Women/M R Hasan, Illustration: PORTRAY",
-    id: "Photo: UN Women/M R Hasan, Illustration: PORTRAY",
+    en: "Photo: UN Women/Christina Phan, Illustration: PORTRAY",
+    id: "Photo: UN Women/Christina Phan, Illustration: PORTRAY",
   },
   thumbnail_caption: {
-    en: "This is the space for photo captions. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.",
-    id: "This is the space for photo captions. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.",
+    en: "Workshop Menulis UN Women.",
+    id: "Workshop Menulis UN Women.",
   },
   name: "Sri Wahyuni",
   title: {
@@ -159,45 +159,45 @@ export const story10 = {
     {
       image: require(`images/stories/${dir}/image-1.webp`),
       caption: {
-        en: "Lorem ipsum english",
-        id: "Lorem ipsum bahasa indonesia",
+        en: "Workshop Finalisasi Rancangan Peraturan Gubernur (Rapergub) Provinsi Jawa Barat Tentang Pelayanan Terpadu bagi Perempuan dan Anak Korban Kekerasan dan Tindak Pidana Perdagangan Orang dan Audensi kepada Stakeholder terkait di Provinsi Jawa Barat - 11 Oktober 2022.",
+        id: "Workshop Finalisasi Rancangan Peraturan Gubernur (Rapergub) Provinsi Jawa Barat Tentang Pelayanan Terpadu bagi Perempuan dan Anak Korban Kekerasan dan Tindak Pidana Perdagangan Orang dan Audensi kepada Stakeholder terkait di Provinsi Jawa Barat - 11 Oktober 2022.",
       },
       credit: {
-        en: "credit en",
-        id: "credit en",
+        en: "Photo: Internal Yayasan Sapa",
+        id: "Photo: Internal Yayasan Sapa",
       },
     },
     {
       image: require(`images/stories/${dir}/image-2.webp`),
       caption: {
-        en: "Lorem ipsum english",
-        id: "Lorem ipsum bahasa indonesia",
+        en: "Audiensi dengan DP3AKB Provinsi Jawa Barat - 14 Oktober 2022.",
+        id: "Audiensi dengan DP3AKB Provinsi Jawa Barat - 14 Oktober 2022.",
       },
       credit: {
-        en: "credit en",
-        id: "credit en",
+        en: "Photo: Internal Yayasan Sapa",
+        id: "Photo: Internal Yayasan Sapa",
       },
     },
     {
       image: require(`images/stories/${dir}/image-3.webp`),
       caption: {
-        en: "Lorem ipsum english",
-        id: "Lorem ipsum bahasa indonesia",
+        en: "Audiensi dengan DP3AKB Provinsi Jawa Barat - 14 Oktober 2022.",
+        id: "Audiensi dengan DP3AKB Provinsi Jawa Barat - 14 Oktober 2022.",
       },
       credit: {
-        en: "credit en",
-        id: "credit en",
+        en: "Photo: Internal Yayasan Sapa",
+        id: "Photo: Internal Yayasan Sapa",
       },
     },
     {
       image: require(`images/stories/${dir}/image-4.webp`),
       caption: {
-        en: "Lorem ipsum english",
-        id: "Lorem ipsum bahasa indonesia",
+        en: "Workshop Finalisasi Rancangan Peraturan Gubernur (Rapergub) Provinsi Jawa Barat Tentang Pelayanan Terpadu bagi Perempuan dan Anak Korban Kekerasan dan Tindak Pidana Perdagangan Orang dan Audensi kepada Stakeholder terkait Di Provinsi Jawa Barat - 11 Oktober 2022.",
+        id: "Workshop Finalisasi Rancangan Peraturan Gubernur (Rapergub) Provinsi Jawa Barat Tentang Pelayanan Terpadu bagi Perempuan dan Anak Korban Kekerasan dan Tindak Pidana Perdagangan Orang dan Audensi kepada Stakeholder terkait Di Provinsi Jawa Barat - 11 Oktober 2022.",
       },
       credit: {
-        en: "credit en",
-        id: "credit en",
+        en: "Photo: Internal Yayasan Sapa",
+        id: "Photo: Internal Yayasan Sapa",
       },
     },
   ],

@@ -3,12 +3,12 @@ export const story3 = {
   index: dir,
   thumbnail: require(`images/stories/${dir}/main.webp`),
   thumbnail_credit: {
-    en: "Photo: UN Women/M R Hasan, Illustration: PORTRAY",
-    id: "Photo: UN Women/M R Hasan, Illustration: PORTRAY",
+    en: "Photo: Sugih Hartini",
+    id: "Photo: Sugih Hartini",
   },
   thumbnail_caption: {
-    en: "This is the space for photo captions. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.",
-    id: "This is the space for photo captions. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.",
+    en: "Kegiatan pelatihan tata boga dari Disperidag Kabupaten Bandung tahun 2021.",
+    id: "Kegiatan pelatihan tata boga dari Disperidag Kabupaten Bandung tahun 2021.",
   },
   name: "Sugih Hartini",
   title: {
@@ -243,45 +243,45 @@ export const story3 = {
     {
       image: require(`images/stories/${dir}/image-1.webp`),
       caption: {
-        en: "Lorem ipsum english",
-        id: "Lorem ipsum bahasa indonesia",
+        en: "Rapat tahunan koprasi komunitas Bale Istri, diambil di tahun 2023.",
+        id: "Rapat tahunan koprasi komunitas Bale Istri, diambil di tahun 2023.",
       },
       credit: {
-        en: "credit en",
-        id: "credit en",
+        en: "Photo: Sugih Hartini",
+        id: "Photo: Sugih Hartini",
       },
     },
     {
       image: require(`images/stories/${dir}/image-2.webp`),
       caption: {
-        en: "Lorem ipsum english",
-        id: "Lorem ipsum bahasa indonesia",
+        en: "Mendampingi penyintas bersama DP3AKB Provinsi Jawa Barat di Gedung Sekoper Cinta Kota Bandung tahun 2023.",
+        id: "Mendampingi penyintas bersama DP3AKB Provinsi Jawa Barat di Gedung Sekoper Cinta Kota Bandung tahun 2023.",
       },
       credit: {
-        en: "credit en",
-        id: "credit en",
+        en: "Photo: Sugih Hartini",
+        id: "Photo: Sugih Hartini",
       },
     },
     {
       image: require(`images/stories/${dir}/image-3.webp`),
       caption: {
-        en: "Lorem ipsum english",
-        id: "Lorem ipsum bahasa indonesia",
+        en: "Berbagi cerita perubahan bersama Safe & Fair UN Women 2023.",
+        id: "Berbagi cerita perubahan bersama Safe & Fair UN Women 2023.",
       },
       credit: {
-        en: "credit en",
-        id: "credit en",
+        en: "Photo: UN Women/Christina Phan",
+        id: "Photo: UN Women/Christina Phan",
       },
     },
     {
       image: require(`images/stories/${dir}/image-4.webp`),
       caption: {
-        en: "Lorem ipsum english",
-        id: "Lorem ipsum bahasa indonesia",
+        en: "Memberi sambutan di rapat tahunan koprasi komunitas Bale Istri tahun 2023.",
+        id: "Memberi sambutan di rapat tahunan koprasi komunitas Bale Istri tahun 2023.",
       },
       credit: {
-        en: "credit en",
-        id: "credit en",
+        en: "Photo: Sugih Hartini",
+        id: "Photo: Sugih Hartini",
       },
     },
   ],

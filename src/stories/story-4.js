@@ -3,12 +3,12 @@ export const story4 = {
   index: dir,
   thumbnail: require(`images/stories/${dir}/main.webp`),
   thumbnail_credit: {
-    en: "Photo: UN Women/M R Hasan, Illustration: PORTRAY",
-    id: "Photo: UN Women/M R Hasan, Illustration: PORTRAY",
+    en: "Photo: UN Women/Christina Phan, Illustration: PORTRAY",
+    id: "Photo: UN Women/Christina Phan, Illustration: PORTRAY",
   },
   thumbnail_caption: {
-    en: "This is the space for photo captions. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.",
-    id: "This is the space for photo captions. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.",
+    en: "Jakarta 26-28 September 2023 dalam acara Lokakarya Penulisan Cerita Perubahan bagi Penerima Manfaat bersama SAF.",
+    id: "Jakarta 26-28 September 2023 dalam acara Lokakarya Penulisan Cerita Perubahan bagi Penerima Manfaat bersama SAF.",
   },
   name: "Yekti Puji Rahayu",
   title: {
@@ -253,45 +253,45 @@ export const story4 = {
     {
       image: require(`images/stories/${dir}/image-1.webp`),
       caption: {
-        en: "Lorem ipsum english",
-        id: "Lorem ipsum bahasa indonesia",
+        en: "Surabaya 21-24 Oktober 2021 Pelatihan Paralegal foto bersama peserta perwakilan dari Balai Perempuan Pusat Informasi Pengaduan Advokasi (BP PIPA) Desa Suci dan KPI Cab. Jember.",
+        id: "Surabaya 21-24 Oktober 2021 Pelatihan Paralegal foto bersama peserta perwakilan dari Balai Perempuan Pusat Informasi Pengaduan Advokasi (BP PIPA) Desa Suci dan KPI Cab. Jember.",
       },
       credit: {
-        en: "credit en",
-        id: "credit en",
+        en: "Photo: Yekti Puji Rahayu",
+        id: "Photo: Yekti Puji Rahayu",
       },
     },
     {
       image: require(`images/stories/${dir}/image-2.webp`),
       caption: {
-        en: "Lorem ipsum english",
-        id: "Lorem ipsum bahasa indonesia",
+        en: "Presentasi penyelesaian dalam penanganan kasus di pelatihan Paralegal di Surabaya 21-24 Oktober 2021.",
+        id: "Presentasi penyelesaian dalam penanganan kasus di pelatihan Paralegal di Surabaya 21-24 Oktober 2021.",
       },
       credit: {
-        en: "credit en",
-        id: "credit en",
+        en: "Photo: Yekti Puji Rahayu",
+        id: "Photo: Yekti Puji Rahayu",
       },
     },
     {
       image: require(`images/stories/${dir}/image-3.webp`),
       caption: {
-        en: "Lorem ipsum english",
-        id: "Lorem ipsum bahasa indonesia",
+        en: "Pertemuan rutin antara Balai Perempuan Suci Berseri dan Balai Perempuan Kepiring Berseri tanggal 4 Desember 2022 yang dihadiri oleh KPI Cab. Jember Ibu Ketua PKK Desa Suci dan DP3AKB Kab Jember.",
+        id: "Pertemuan rutin antara Balai Perempuan Suci Berseri dan Balai Perempuan Kepiring Berseri tanggal 4 Desember 2022 yang dihadiri oleh KPI Cab. Jember Ibu Ketua PKK Desa Suci dan DP3AKB Kab Jember.",
       },
       credit: {
-        en: "credit en",
-        id: "credit en",
+        en: "Photo: Yekti Puji Rahayu",
+        id: "Photo: Yekti Puji Rahayu",
       },
     },
     {
       image: require(`images/stories/${dir}/image-4.webp`),
       caption: {
-        en: "Lorem ipsum english",
-        id: "Lorem ipsum bahasa indonesia",
+        en: "4 Oktober 2022 penandatangan MOU bersama Kepala Desa, Camat Panti, DPMD, BPD Desa Suci, Disnaker, DP3AKB, BP Suci Berseri dan BP Kepiring Berseri.",
+        id: "4 Oktober 2022 penandatangan MOU bersama Kepala Desa, Camat Panti, DPMD, BPD Desa Suci, Disnaker, DP3AKB, BP Suci Berseri dan BP Kepiring Berseri.",
       },
       credit: {
-        en: "credit en",
-        id: "credit en",
+        en: "Photo: Yekti Puji Rahayu",
+        id: "Photo: Yekti Puji Rahayu",
       },
     },
   ],

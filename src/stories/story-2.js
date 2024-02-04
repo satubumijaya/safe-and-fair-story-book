@@ -3,12 +3,12 @@ export const story2 = {
   index: dir,
   thumbnail: require(`images/stories/${dir}/main.webp`),
   thumbnail_credit: {
-    en: "Photo: UN Women/M R Hasan, Illustration: PORTRAY",
-    id: "Photo: UN Women/M R Hasan, Illustration: PORTRAY",
+    en: "Photo: UN Women/Christina Phan, Illustration: PORTRAY",
+    id: "Photo: UN Women/Christina Phan, Illustration: PORTRAY",
   },
   thumbnail_caption: {
-    en: "This is the space for photo captions. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.",
-    id: "This is the space for photo captions. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.",
+    en: "Kegiatan pelatihan penulisan cerita perubahan bersama UN Women.",
+    id: "Kegiatan pelatihan penulisan cerita perubahan bersama UN Women.",
   },
   name: "Yuliani",
   title: {
@@ -245,45 +245,45 @@ export const story2 = {
     {
       image: require(`images/stories/${dir}/image-1.webp`),
       caption: {
-        en: "Lorem ipsum english",
-        id: "Lorem ipsum bahasa indonesia",
+        en: "Kegiatan testimoni penyintas PMI bersama DP3AKB provinsi Jawa Barat di 2023.",
+        id: "Kegiatan testimoni penyintas PMI bersama DP3AKB provinsi Jawa Barat di 2023.",
       },
       credit: {
-        en: "credit en",
-        id: "credit en",
+        en: "Photo: Yuliani",
+        id: "Photo: Yuliani",
       },
     },
     {
       image: require(`images/stories/${dir}/image-2.webp`),
       caption: {
-        en: "Lorem ipsum english",
-        id: "Lorem ipsum bahasa indonesia",
+        en: "Kegiatan pelatihan penulisan UN Women 2023.",
+        id: "Kegiatan pelatihan penulisan UN Women 2023.",
       },
       credit: {
-        en: "credit en",
-        id: "credit en",
+        en: "Photo: Yuliani",
+        id: "Photo: Yuliani",
       },
     },
     {
       image: require(`images/stories/${dir}/image-3.webp`),
       caption: {
-        en: "Lorem ipsum english",
-        id: "Lorem ipsum bahasa indonesia",
+        en: "Kegiatan testimoni Pekerja Migran Indonesia (PMI) bersama DP3AKB provinsi Jawa Barat 2023.",
+        id: "Kegiatan testimoni Pekerja Migran Indonesia (PMI) bersama DP3AKB provinsi Jawa Barat 2023.",
       },
       credit: {
-        en: "credit en",
-        id: "credit en",
+        en: "Photo: Yuliani",
+        id: "Photo: Yuliani",
       },
     },
     {
       image: require(`images/stories/${dir}/image-4.webp`),
       caption: {
-        en: "Lorem ipsum english",
-        id: "Lorem ipsum bahasa indonesia",
+        en: "perjalanan dr bandung ke Jakarta untuk mengikuti pelatihan penulisan bersama UN Women 2023.",
+        id: "perjalanan dr bandung ke Jakarta untuk mengikuti pelatihan penulisan bersama UN Women 2023.",
       },
       credit: {
-        en: "credit en",
-        id: "credit en",
+        en: "Photo: Yuliani",
+        id: "Photo: Yuliani",
       },
     },
   ],
