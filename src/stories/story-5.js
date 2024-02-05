@@ -24,8 +24,8 @@ export const story5 = {
           Hongkong, Singapura, Taiwan, Malaysia , Arab Saudi dan lainnya. Ada
           beberapa faktor yang membuat mereka memilih untuk bekerja di luar
           negeri di antaranya faktor ekonomi. Walaupun faktanya, paling tidak
-          saat saya memberikan pendampingan, ada 3 orang setiap bulannya yang
-          mengalami perlakuan tidak baik di sana. Ada yang gajinya tidak
+          saat saya memberikan pendampingan,&nbsp; ada 3 orang setiap bulannya
+          yang mengalami perlakuan tidak baik di sana. Ada yang gajinya tidak
           dibayar, ada yang mendapatkan siksaan bahkan sampai meninggal dunia.
         </p>
         <p>
@@ -51,12 +51,12 @@ export const story5 = {
         </p>
         <p>
           Setelah kembali ke desa, saya bergabung dengan Koalisi Perempuan
-          Indonesia (KPI). Melalui program Safe and Fair yang didukung oleh UN
-          WOMEN, KPI Banyuwangi bersinergi dengan pemerintah desa dan pemangku
-          kepentingan lainnya, dengan harapan bahwa kami bisa menjadi
-          perpanjangan tangan tempat para Pekerja Migran Indonesia (PMI) mengadu
-          dan mendapatkan perlindungan. Kami mengadakan pertemuan dan diskusi
-          terfokus membahas tentang permasalahan PMI yang ada di Desa
+          Indonesia (KPI). Melalui&nbsp; program <em>Safe and Fair</em> yang
+          didukung oleh UN WOMEN, KPI Banyuwangi bersinergi dengan pemerintah
+          desa dan pemangku kepentingan lainnya, dengan harapan bahwa kami bisa
+          menjadi perpanjangan tangan tempat para Pekerja Migran Indonesia (PMI)
+          mengadu dan mendapatkan perlindungan. Kami mengadakan pertemuan dan
+          diskusi terfokus membahas tentang permasalahan PMI yang ada di Desa
           Tamanagung. Selain dari pemerintah desa kami juga melibatkan tokoh
           pemuda, tokoh masyarakat, dan tokoh agama untuk ikut andil dalam
           perlindungan PMI. Meskipun pemerintah desa belum bisa memberikan
@@ -76,13 +76,14 @@ export const story5 = {
           jauh dari keluarga.
         </p>
         <p>
-          DI BP PIPA, Kami juga membantu mendampingi purna PMI yang mengalami
-          pelecehan seksual oleh majikannya hingga mengalami trauma dan
-          terganggu kesehatan mentalnya. Kami mendampingi dengan melaporkan
-          kepada pihak Puskesmas yang fokus pendampingan pada dokter gangguan
-          kejiwaan untuk bisa mendapatkan pelayanan kesehatan. Kami juga telah
-          membuat nota kesepahaman dan kerjasama MOU dengan lembaga psikologi
-          Exafit untuk kerjasama memberikan layanan pendampingan korban.
+          DI BP PIPA, Kami juga membantu mendampingi purna PMI yang
+          mengalami&nbsp; pelecehan seksual oleh majikannya hingga mengalami
+          trauma dan terganggu kesehatan mentalnya. Kami mendampingi dengan
+          melaporkan kepada pihak Puskesmas yang fokus pendampingan pada dokter
+          gangguan kejiwaan untuk bisa mendapatkan pelayanan kesehatan. Kami
+          juga telah membuat nota kesepahaman dan kerjasama MOU dengan lembaga
+          psikologi Exafit untuk kerjasama memberikan layanan pendampingan
+          korban.
         </p>
       </div>
     ),
@@ -94,8 +95,8 @@ export const story5 = {
           Hongkong, Singapura, Taiwan, Malaysia , Arab Saudi dan lainnya. Ada
           beberapa faktor yang membuat mereka memilih untuk bekerja di luar
           negeri di antaranya faktor ekonomi. Walaupun faktanya, paling tidak
-          saat saya memberikan pendampingan, ada 3 orang setiap bulannya yang
-          mengalami perlakuan tidak baik di sana. Ada yang gajinya tidak
+          saat saya memberikan pendampingan,&nbsp; ada 3 orang setiap bulannya
+          yang mengalami perlakuan tidak baik di sana. Ada yang gajinya tidak
           dibayar, ada yang mendapatkan siksaan bahkan sampai meninggal dunia.
         </p>
         <p>
@@ -115,18 +116,18 @@ export const story5 = {
             Ketika ada pihak kepolisian datang, saya dan beberapa orang lainnya
             harus bersembunyi di kolong ranjang dan kamar mandi. Pada saat itu,
             kondisi kesehatan saya sudah kurang baik, sehingga saya meminta izin
-            untuk berobat dan diizinkan pulang. Sejak saat itu,
+            untuk berobat dan diizinkan pulang. Sejak saat itu, saya tidak
+            pernah kembali ke sana.
           </blockquote>
         </p>
-        <p>saya tidak pernah kembali ke sana.</p>
         <p>
           Setelah kembali ke desa, saya bergabung dengan Koalisi Perempuan
-          Indonesia (KPI). Melalui program Safe and Fair yang didukung oleh UN
-          WOMEN, KPI Banyuwangi bersinergi dengan pemerintah desa dan pemangku
-          kepentingan lainnya, dengan harapan bahwa kami bisa menjadi
-          perpanjangan tangan tempat para Pekerja Migran Indonesia (PMI) mengadu
-          dan mendapatkan perlindungan. Kami mengadakan pertemuan dan diskusi
-          terfokus membahas tentang permasalahan PMI yang ada di Desa
+          Indonesia (KPI). Melalui&nbsp; program <em>Safe and Fair</em> yang
+          didukung oleh UN WOMEN, KPI Banyuwangi bersinergi dengan pemerintah
+          desa dan pemangku kepentingan lainnya, dengan harapan bahwa kami bisa
+          menjadi perpanjangan tangan tempat para Pekerja Migran Indonesia (PMI)
+          mengadu dan mendapatkan perlindungan. Kami mengadakan pertemuan dan
+          diskusi terfokus membahas tentang permasalahan PMI yang ada di Desa
           Tamanagung. Selain dari pemerintah desa kami juga melibatkan tokoh
           pemuda, tokoh masyarakat, dan tokoh agama untuk ikut andil dalam
           perlindungan PMI. Meskipun pemerintah desa belum bisa memberikan
@@ -146,13 +147,14 @@ export const story5 = {
           jauh dari keluarga.
         </p>
         <p>
-          DI BP PIPA, Kami juga membantu mendampingi purna PMI yang mengalami
-          pelecehan seksual oleh majikannya hingga mengalami trauma dan
-          terganggu kesehatan mentalnya. Kami mendampingi dengan melaporkan
-          kepada pihak Puskesmas yang fokus pendampingan pada dokter gangguan
-          kejiwaan untuk bisa mendapatkan pelayanan kesehatan. Kami juga telah
-          membuat nota kesepahaman dan kerjasama MOU dengan lembaga psikologi
-          Exafit untuk kerjasama memberikan layanan pendampingan korban.
+          DI BP PIPA, Kami juga membantu mendampingi purna PMI yang
+          mengalami&nbsp; pelecehan seksual oleh majikannya hingga mengalami
+          trauma dan terganggu kesehatan mentalnya. Kami mendampingi dengan
+          melaporkan kepada pihak Puskesmas yang fokus pendampingan pada dokter
+          gangguan kejiwaan untuk bisa mendapatkan pelayanan kesehatan. Kami
+          juga telah membuat nota kesepahaman dan kerjasama MOU dengan lembaga
+          psikologi Exafit untuk kerjasama memberikan layanan pendampingan
+          korban.
         </p>
       </div>
     ),
