@@ -70,9 +70,9 @@ export const story7 = {
           provinsi ke Kabupaten Natuna, ini adalah kabupaten terluar Indonesia.
         </p>
         <p>
-          Program Safe and Fair bersama dengan UN Women memberikan kesempatan
-          bagi kami untuk bernafas dan mengatur strategi. Selama 18 bulan
-          membersamai kami untuk tetap memberikan pelayanan bagi perempuan
+          Program <em>Safe and Fair</em> bersama dengan UN Women memberikan
+          kesempatan bagi kami untuk bernafas dan mengatur strategi. Selama 18
+          bulan membersamai kami untuk tetap memberikan pelayanan bagi perempuan
           korban kekerasan berbasis gender dan tindak pidana perdagangan orang.
           Sebanyak 147 perempuan korban kekerasan mendapatkan pendampingan, hal
           ini memperkuat pendapat masih tingginya kasus kekerasan berbasis
@@ -87,40 +87,41 @@ export const story7 = {
           perbatasan Laut Cina Selatan yang masih bagian dari Kepulauan Riau.
         </p>
         <p>
-          Teringat tentang kerelawanan, melalui program Safe and Fair, Yayasan
-          Embun Pelangi mampu memberikan penguatan kepada 15 komunitas tingkat
-          kelurahan yang tersebar di 5 dari 13 kecamatan di Kota Batam. Melalui
-          pertemuan rutin bulanan para anggota dikuatkan tentang menjaga diri
-          dan keluarga saat akan bekerja, melalui migrasi yang aman, memberikan
-          penguatan tentang litigasi lintas negara, serta penguatan kepada
-          penyintas tentang pemberdayaan. Hal ini menjadi langkah lanjutan untuk
-          merawat kerelawanan. Termasuk melibatkan 1 komunitas Remaja Anti
-          Eksploitasi Seksual Anak (RAEKSA) yang terdiri dari anak yang berusia
-          16 &ndash; 18 tahun, siswa siswi setingkat sekolah menengah atas yang
-          secara sukarela mengembangkan diri untuk lebih peduli kepada perempuan
-          dan anak, serta 1 Komunitas Anak Muda Anti Perdagangan Orang dan
-          Eksploitasi Seksual (KOMPAK), mereka adalah pemuda kepulauan dengan
-          rentan usia 18 &ndash; 24 tahun, sebagian besar mereka berkuliah dan
-          yang lainnya bekerja. Di tengah kesibukan, mereka menumbuhkan
-          kepedulian. Menanamkan kepada anak-anak muda tentang kesadaran akan
-          kerentanan di perbatasan, serta perlunya keterlibatan orang muda untuk
-          mengambil langkah untuk meneruskan gerakan kerelawanan.
+          Teringat tentang kerelawanan, melalui program <em>Safe and Fair</em>,
+          Yayasan Embun Pelangi mampu memberikan penguatan kepada 15 komunitas
+          tingkat kelurahan yang tersebar di 5 dari 13 kecamatan di Kota Batam.
+          Melalui pertemuan rutin bulanan para anggota dikuatkan tentang menjaga
+          diri dan keluarga saat akan bekerja, melalui migrasi yang aman,
+          memberikan penguatan tentang litigasi lintas negara, serta penguatan
+          kepada penyintas tentang pemberdayaan. Hal ini menjadi langkah
+          lanjutan untuk merawat kerelawanan. Termasuk melibatkan 1 komunitas
+          Remaja Anti Eksploitasi Seksual Anak (RAEKSA) yang terdiri dari anak
+          yang berusia 16 &ndash; 18 tahun, siswa siswi setingkat sekolah
+          menengah atas yang secara sukarela mengembangkan diri untuk lebih
+          peduli kepada perempuan dan anak, serta 1 Komunitas Anak Muda Anti
+          Perdagangan Orang dan Eksploitasi Seksual&nbsp; (KOMPAK), mereka
+          adalah pemuda kepulauan dengan rentan usia 18 &ndash; 24 tahun,
+          sebagian besar mereka berkuliah dan yang lainnya bekerja.&nbsp; Di
+          tengah kesibukan, mereka menumbuhkan kepedulian. Menanamkan kepada
+          anak-anak muda tentang kesadaran akan kerentanan di perbatasan, serta
+          perlunya keterlibatan orang muda untuk mengambil langkah untuk
+          meneruskan gerakan kerelawanan.
         </p>
         <p>
-          Hambatan dan tantangan ke depan harus terus dihadapi. Melalui program
-          Safe and Fair, kami diajarkan tentang kesetaraan. Belajar dari
-          hubungan yang timbul antara Pengelola program Safe and Fair dan
-          pelaksana program di lapangan, program tidak melulu tentang mengejar
-          target kegiatan dan adu gagasan. Namun juga tentang memasukkan
-          nilai-nilai yang diemban dalam hubungan yang timbul antara lembaga
-          pemberi donor dan penerima donor, yaitu penghargaan, kesetaraan,
-          penghapusan relasi kuasa. Sehingga aktor yang terlibat dalam program
-          merasakan keleluasaan dalam pengelolaan program tanpa melupakan
-          capaian. Tekanan akan capaian tetap ada namun Program Safe and Fair
-          tahu cara memuliakan dalam bermitra.
+          Hambatan dan tantangan ke depan harus&nbsp; terus dihadapi. Melalui
+          program<em> Safe and Fair</em>, kami diajarkan tentang kesetaraan.
+          Belajar dari hubungan yang timbul antara Pengelola program{" "}
+          <em>Safe and Fair</em> dan pelaksana program di lapangan, program
+          tidak melulu tentang mengejar target kegiatan dan adu gagasan. Namun
+          juga tentang memasukkan nilai-nilai yang diemban dalam hubungan yang
+          timbul antara lembaga pemberi donor dan penerima donor, yaitu
+          penghargaan, kesetaraan, penghapusan relasi kuasa. Sehingga aktor yang
+          terlibat dalam program merasakan keleluasaan&nbsp; dalam pengelolaan
+          program tanpa melupakan capaian. Tekanan akan capaian tetap ada namun
+          Program <em>Safe and Fair</em> tahu cara memuliakan dalam bermitra.
         </p>
         <p>
-          Meski masih tertatih, pasca program Safe and Fair kami tetap
+          Meski masih tertatih, pasca program <em>Safe and Fair</em> kami tetap
           meneruskan memberikan layanan kepada korban, mensosialisasikan
           Peraturan Gubernur Nomor 55 Tahun 2023, serta melakukan penguatan
           kepada komunitas di tingkat kelurahan.
@@ -203,9 +204,9 @@ export const story7 = {
           provinsi ke Kabupaten Natuna, ini adalah kabupaten terluar Indonesia.
         </p>
         <p>
-          Program Safe and Fair bersama dengan UN Women memberikan kesempatan
-          bagi kami untuk bernafas dan mengatur strategi. Selama 18 bulan
-          membersamai kami untuk tetap memberikan pelayanan bagi perempuan
+          Program <em>Safe and Fair</em> bersama dengan UN Women memberikan
+          kesempatan bagi kami untuk bernafas dan mengatur strategi. Selama 18
+          bulan membersamai kami untuk tetap memberikan pelayanan bagi perempuan
           korban kekerasan berbasis gender dan tindak pidana perdagangan orang.
           Sebanyak 147 perempuan korban kekerasan mendapatkan pendampingan, hal
           ini memperkuat pendapat masih tingginya kasus kekerasan berbasis
@@ -220,40 +221,41 @@ export const story7 = {
           perbatasan Laut Cina Selatan yang masih bagian dari Kepulauan Riau.
         </p>
         <p>
-          Teringat tentang kerelawanan, melalui program Safe and Fair, Yayasan
-          Embun Pelangi mampu memberikan penguatan kepada 15 komunitas tingkat
-          kelurahan yang tersebar di 5 dari 13 kecamatan di Kota Batam. Melalui
-          pertemuan rutin bulanan para anggota dikuatkan tentang menjaga diri
-          dan keluarga saat akan bekerja, melalui migrasi yang aman, memberikan
-          penguatan tentang litigasi lintas negara, serta penguatan kepada
-          penyintas tentang pemberdayaan. Hal ini menjadi langkah lanjutan untuk
-          merawat kerelawanan. Termasuk melibatkan 1 komunitas Remaja Anti
-          Eksploitasi Seksual Anak (RAEKSA) yang terdiri dari anak yang berusia
-          16 &ndash; 18 tahun, siswa siswi setingkat sekolah menengah atas yang
-          secara sukarela mengembangkan diri untuk lebih peduli kepada perempuan
-          dan anak, serta 1 Komunitas Anak Muda Anti Perdagangan Orang dan
-          Eksploitasi Seksual (KOMPAK), mereka adalah pemuda kepulauan dengan
-          rentan usia 18 &ndash; 24 tahun, sebagian besar mereka berkuliah dan
-          yang lainnya bekerja. Di tengah kesibukan, mereka menumbuhkan
-          kepedulian. Menanamkan kepada anak-anak muda tentang kesadaran akan
-          kerentanan di perbatasan, serta perlunya keterlibatan orang muda untuk
-          mengambil langkah untuk meneruskan gerakan kerelawanan.
+          Teringat tentang kerelawanan, melalui program <em>Safe and Fair</em>,
+          Yayasan Embun Pelangi mampu memberikan penguatan kepada 15 komunitas
+          tingkat kelurahan yang tersebar di 5 dari 13 kecamatan di Kota Batam.
+          Melalui pertemuan rutin bulanan para anggota dikuatkan tentang menjaga
+          diri dan keluarga saat akan bekerja, melalui migrasi yang aman,
+          memberikan penguatan tentang litigasi lintas negara, serta penguatan
+          kepada penyintas tentang pemberdayaan. Hal ini menjadi langkah
+          lanjutan untuk merawat kerelawanan. Termasuk melibatkan 1 komunitas
+          Remaja Anti Eksploitasi Seksual Anak (RAEKSA) yang terdiri dari anak
+          yang berusia 16 &ndash; 18 tahun, siswa siswi setingkat sekolah
+          menengah atas yang secara sukarela mengembangkan diri untuk lebih
+          peduli kepada perempuan dan anak, serta 1 Komunitas Anak Muda Anti
+          Perdagangan Orang dan Eksploitasi Seksual&nbsp; (KOMPAK), mereka
+          adalah pemuda kepulauan dengan rentan usia 18 &ndash; 24 tahun,
+          sebagian besar mereka berkuliah dan yang lainnya bekerja.&nbsp; Di
+          tengah kesibukan, mereka menumbuhkan kepedulian. Menanamkan kepada
+          anak-anak muda tentang kesadaran akan kerentanan di perbatasan, serta
+          perlunya keterlibatan orang muda untuk mengambil langkah untuk
+          meneruskan gerakan kerelawanan.
         </p>
         <p>
-          Hambatan dan tantangan ke depan harus terus dihadapi. Melalui program
-          Safe and Fair, kami diajarkan tentang kesetaraan. Belajar dari
-          hubungan yang timbul antara Pengelola program Safe and Fair dan
-          pelaksana program di lapangan, program tidak melulu tentang mengejar
-          target kegiatan dan adu gagasan. Namun juga tentang memasukkan
-          nilai-nilai yang diemban dalam hubungan yang timbul antara lembaga
-          pemberi donor dan penerima donor, yaitu penghargaan, kesetaraan,
-          penghapusan relasi kuasa. Sehingga aktor yang terlibat dalam program
-          merasakan keleluasaan dalam pengelolaan program tanpa melupakan
-          capaian. Tekanan akan capaian tetap ada namun Program Safe and Fair
-          tahu cara memuliakan dalam bermitra.
+          Hambatan dan tantangan ke depan harus&nbsp; terus dihadapi. Melalui
+          program<em> Safe and Fair</em>, kami diajarkan tentang kesetaraan.
+          Belajar dari hubungan yang timbul antara Pengelola program{" "}
+          <em>Safe and Fair</em> dan pelaksana program di lapangan, program
+          tidak melulu tentang mengejar target kegiatan dan adu gagasan. Namun
+          juga tentang memasukkan nilai-nilai yang diemban dalam hubungan yang
+          timbul antara lembaga pemberi donor dan penerima donor, yaitu
+          penghargaan, kesetaraan, penghapusan relasi kuasa. Sehingga aktor yang
+          terlibat dalam program merasakan keleluasaan&nbsp; dalam pengelolaan
+          program tanpa melupakan capaian. Tekanan akan capaian tetap ada namun
+          Program <em>Safe and Fair</em> tahu cara memuliakan dalam bermitra.
         </p>
         <p>
-          Meski masih tertatih, pasca program Safe and Fair kami tetap
+          Meski masih tertatih, pasca program <em>Safe and Fair</em> kami tetap
           meneruskan memberikan layanan kepada korban, mensosialisasikan
           Peraturan Gubernur Nomor 55 Tahun 2023, serta melakukan penguatan
           kepada komunitas di tingkat kelurahan.
