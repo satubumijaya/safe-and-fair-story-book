@@ -50,15 +50,16 @@ export const story9 = {
           kebiasaan anakku selalu membebani pikiranku, hingga aku tidak pernah
           bisa fokus pada kegiatan yang sedang diikuti. Setiap saat selalu aku
           telepon orang-orang di rumah hanya sekedar ingin tahu apakah mereka
-          baik-baik saja, hal ini benar-benar membuatku sangat terganggu saat
-          itu. Hati dan pikiran bergejolak dengan kondisi yang sedang kujalani
-          dan sebagai seorang ibu, aku ingin selalu berada di dekat anak, yang
-          harus menguasai anak dalam segala hal dan harus tahu semua urusan yang
-          ada di rumah sampai hal-hal kecil sekalipun. Suatu hari suamiku
-          berkata, &ldquo;Anak-anak dan yang di rumah urusanku, kamu fokus saja
-          dengan apa yang sedang dilakukan&rdquo;. Kalimat ini yang sedikit
-          membuatku lega, meski tidak begitu saja aku bisa langsung melakukan
-          yang namanya &ldquo;Fokus dengan yang sedang dilakukan.&rdquo;
+          baik-baik saja, hal&nbsp; ini benar-benar membuatku sangat terganggu
+          saat itu. Hati dan pikiran bergejolak dengan kondisi yang sedang
+          kujalani dan sebagai seorang ibu, aku ingin selalu berada di dekat
+          anak, yang harus menguasai anak dalam segala hal dan harus tahu semua
+          urusan yang ada di rumah sampai hal-hal kecil sekalipun. Suatu hari
+          suamiku berkata, &ldquo;Anak-anak dan yang di rumah urusanku, kamu
+          fokus saja dengan apa yang sedang dilakukan.&ldquo; Kalimat ini yang
+          sedikit membuatku lega, meski tidak begitu saja aku bisa langsung
+          melakukan yang namanya &ldquo;Fokus dengan yang sedang
+          dilakukan.&rdquo;
         </p>
         <p>
           Sejujurnya, aku memang menikmati aktivitas di luar rumah, bertemu
@@ -68,12 +69,14 @@ export const story9 = {
           sehari hari dan membesarkan anak-anaknya, dengan segala keterbatasan.
           Melihat mereka tanpa putus asa tetap berjuang, memberikan banyak
           pelajaran hidup bagiku. Bagaimana mereka tetap bisa bertahan tanpa
-          banyak berkeluh kesah menghadapi kerasnya kehidupan, membuatku selalu
-          kembali harus bersyukur atas semua nikmat yang selama ini Tuhan
-          berikan padaku. Aku masih jauh lebih beruntung daripada para
-          perempuan-perempuan tangguh ini. Lahir dan besar di Kota Santri,
-          Jombang Jawa Timur dan bersekolah di sekolah umum atas pilihanku
-          sendiri.
+          banyak berkeluh kesah menghadapi kerasnya kehidupan,&nbsp; membuatku
+          selalu kembali harus bersyukur atas semua nikmat yang selama ini Tuhan
+          berikan padaku.
+        </p>
+        <p>
+          Aku masih jauh &nbsp;lebih beruntung daripada para perempuan-perempuan
+          tangguh ini. Lahir dan besar di Kota Santri, Jombang Jawa Timur dan
+          bersekolah di sekolah umum atas pilihanku sendiri.
         </p>
         <p>
           <blockquote>
@@ -85,15 +88,15 @@ export const story9 = {
         </p>
         <p>
           Aku ikut mengawali proses lahirnya Koalisi Perempuan Indonesia cabang
-          Jombang dan kini menjadi Sekretaris Wilayah Koalisi Perempuan
+          Jombang dan&nbsp; kini menjadi Sekretaris Wilayah Koalisi Perempuan
           Indonesia Jawa Timur.
         </p>
         <p>
           Kini sudah lebih dari 20 tahun sudah aku bergabung di organisasi yang
           membuatku makin kaya akan berbagai macam pengetahuan dan yang paling
           penting adalah menjadi punya banyak saudara yang mampu sebagai
-          pemimpin, setidaknya memimpin diri sendiri dan memiliki kuasa atas
-          tubuh kami sendiri.
+          pemimpin, setidaknya&nbsp; memimpin diri sendiri dan memiliki kuasa
+          atas tubuh kami sendiri.
         </p>
         <p>
           Dukungan keluarga yang membuatku mampu mengatur waktu dan menempatkan
@@ -103,7 +106,7 @@ export const story9 = {
           Gubernur Jawa Timur, ibu Khofifah. Memang benar semua pilihan yang
           kita ambil pasti akan beresiko baik itu positif atau negatif. Tapi
           jika semua kita jalani dengan niat dan cara yang baik aku yakin akan
-          baik pula hasilnya.
+          baik pula hasilnya. (ff)
         </p>
       </div>
     ),
@@ -141,15 +144,16 @@ export const story9 = {
           kebiasaan anakku selalu membebani pikiranku, hingga aku tidak pernah
           bisa fokus pada kegiatan yang sedang diikuti. Setiap saat selalu aku
           telepon orang-orang di rumah hanya sekedar ingin tahu apakah mereka
-          baik-baik saja, hal ini benar-benar membuatku sangat terganggu saat
-          itu. Hati dan pikiran bergejolak dengan kondisi yang sedang kujalani
-          dan sebagai seorang ibu, aku ingin selalu berada di dekat anak, yang
-          harus menguasai anak dalam segala hal dan harus tahu semua urusan yang
-          ada di rumah sampai hal-hal kecil sekalipun. Suatu hari suamiku
-          berkata, &ldquo;Anak-anak dan yang di rumah urusanku, kamu fokus saja
-          dengan apa yang sedang dilakukan&rdquo;. Kalimat ini yang sedikit
-          membuatku lega, meski tidak begitu saja aku bisa langsung melakukan
-          yang namanya &ldquo;Fokus dengan yang sedang dilakukan.&rdquo;
+          baik-baik saja, hal&nbsp; ini benar-benar membuatku sangat terganggu
+          saat itu. Hati dan pikiran bergejolak dengan kondisi yang sedang
+          kujalani dan sebagai seorang ibu, aku ingin selalu berada di dekat
+          anak, yang harus menguasai anak dalam segala hal dan harus tahu semua
+          urusan yang ada di rumah sampai hal-hal kecil sekalipun. Suatu hari
+          suamiku berkata, &ldquo;Anak-anak dan yang di rumah urusanku, kamu
+          fokus saja dengan apa yang sedang dilakukan.&ldquo; Kalimat ini yang
+          sedikit membuatku lega, meski tidak begitu saja aku bisa langsung
+          melakukan yang namanya &ldquo;Fokus dengan yang sedang
+          dilakukan.&rdquo;
         </p>
         <p>
           Sejujurnya, aku memang menikmati aktivitas di luar rumah, bertemu
@@ -159,12 +163,14 @@ export const story9 = {
           sehari hari dan membesarkan anak-anaknya, dengan segala keterbatasan.
           Melihat mereka tanpa putus asa tetap berjuang, memberikan banyak
           pelajaran hidup bagiku. Bagaimana mereka tetap bisa bertahan tanpa
-          banyak berkeluh kesah menghadapi kerasnya kehidupan, membuatku selalu
-          kembali harus bersyukur atas semua nikmat yang selama ini Tuhan
-          berikan padaku. Aku masih jauh lebih beruntung daripada para
-          perempuan-perempuan tangguh ini. Lahir dan besar di Kota Santri,
-          Jombang Jawa Timur dan bersekolah di sekolah umum atas pilihanku
-          sendiri.
+          banyak berkeluh kesah menghadapi kerasnya kehidupan,&nbsp; membuatku
+          selalu kembali harus bersyukur atas semua nikmat yang selama ini Tuhan
+          berikan padaku.
+        </p>
+        <p>
+          Aku masih jauh &nbsp;lebih beruntung daripada para perempuan-perempuan
+          tangguh ini. Lahir dan besar di Kota Santri, Jombang Jawa Timur dan
+          bersekolah di sekolah umum atas pilihanku sendiri.
         </p>
         <p>
           <blockquote>
@@ -176,15 +182,15 @@ export const story9 = {
         </p>
         <p>
           Aku ikut mengawali proses lahirnya Koalisi Perempuan Indonesia cabang
-          Jombang dan kini menjadi Sekretaris Wilayah Koalisi Perempuan
+          Jombang dan&nbsp; kini menjadi Sekretaris Wilayah Koalisi Perempuan
           Indonesia Jawa Timur.
         </p>
         <p>
           Kini sudah lebih dari 20 tahun sudah aku bergabung di organisasi yang
           membuatku makin kaya akan berbagai macam pengetahuan dan yang paling
           penting adalah menjadi punya banyak saudara yang mampu sebagai
-          pemimpin, setidaknya memimpin diri sendiri dan memiliki kuasa atas
-          tubuh kami sendiri.
+          pemimpin, setidaknya&nbsp; memimpin diri sendiri dan memiliki kuasa
+          atas tubuh kami sendiri.
         </p>
         <p>
           Dukungan keluarga yang membuatku mampu mengatur waktu dan menempatkan
@@ -194,7 +200,7 @@ export const story9 = {
           Gubernur Jawa Timur, ibu Khofifah. Memang benar semua pilihan yang
           kita ambil pasti akan beresiko baik itu positif atau negatif. Tapi
           jika semua kita jalani dengan niat dan cara yang baik aku yakin akan
-          baik pula hasilnya.
+          baik pula hasilnya. (ff)
         </p>
       </div>
     ),
