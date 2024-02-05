@@ -19,16 +19,17 @@ export const story18 = {
     en: (
       <div>
         <p>
-          Kota Batam, Provinsi Kepulauan Riau terletak di kawasan Selat
+          Kota Batam, Provinsi Kepulauan Riau&nbsp; terletak di kawasan Selat
           Singapura dan Selat Malaka dan menjadikan Batam menjadi wilayah
-          terluar Indonesia yang berbatasan langsung dengan negara tetangga
-          yaitu Singapura dan Malaysia. Letaknya yang strategis menjadikan Batam
-          sebagai tempat untuk transit orang-orang yang ingin pergi ke Singapura
-          dan Malaysia. Hal ini dimanfaatkan oleh beberapa oknum hingga sindikat
-          pelaku Tindak Pidana Perdagangan Orang (TPPO), Pekerja Migran Non
-          Prosedural dan penyelundupan manusia (People smuggling). Mereka
-          menjadikan Batam sebagai pintu masuk dan keluarnya menuju negara
-          tetangga yaitu Singapura dan Malaysia.
+          terluar Indonesia yang berbatasan langsung dengan&nbsp; negara
+          tetangga yaitu Singapura dan Malaysia. Letaknya yang strategis
+          menjadikan Batam sebagai tempat untuk transit orang-orang yang ingin
+          pergi ke Singapura dan Malaysia. Hal ini dimanfaatkan oleh beberapa
+          oknum hingga sindikat pelaku Tindak Pidana Perdagangan Orang (TPPO),
+          Pekerja Migran Non Prosedural dan penyelundupan manusia (
+          <em>People smuggling</em>). Mereka menjadikan Batam sebagai pintu
+          masuk dan keluarnya menuju negara tetangga yaitu Singapura dan
+          Malaysia.
         </p>
         <p>
           <blockquote>
@@ -37,6 +38,10 @@ export const story18 = {
             pengamatan saya, jelas sangat berbeda mana yang memang pergi sebagai
             pelancong mana yang memang calon Pekerja Migran non-prosedural.
           </blockquote>
+        </p>
+        <p>
+          Sungguh aneh jika hal ini tidak diketahui oleh pihak yang berwenang?
+          Bagaimana pengawasannya sehingga hal ini terus berulang.
         </p>
         <p>
           Berangkat dari keresahan tersebut, perubahan di wilayah perbatasan
@@ -65,9 +70,10 @@ export const story18 = {
           tanggapan dari instansi terkait bahwa advokasi adalah upaya untuk
           mempengaruhi, tidak bisa dilakukan satu-dua kali. Setidaknya setelah
           kami melakukan advokasi, ada beberapa himbauan berupa spanduk yang
-          bertuliskan “Jangan terpengaruh bujuk rayu calo yang menjanjikan kerja
-          ke luar negeri dengan mudah, cepat, dan tidak prosedural” “jangan
-          mengubah atau membiarkan orang lain mengubah data diri anda”.
+          bertuliskan &ldquo;Jangan terpengaruh bujuk rayu calo yang menjanjikan
+          kerja ke luar negeri dengan mudah, cepat, dan tidak prosedural&rdquo;
+          &ldquo;jangan mengubah atau membiarkan orang lain mengubah data diri
+          anda&rdquo;.
         </p>
         <p>
           Memang bentuk-bentuk himbauan seperti itu tidak membuat para oknum dan
@@ -81,8 +87,8 @@ export const story18 = {
           di Batam menuju Tanjung Pengelih, Malaysia. Kantor Imigrasi TPI Batam
           telah menunda keberangkatan ke luar negeri sebanyak 6.211 pekerja
           migran Indonesia (PMI) non-prosedural selama periode Januari sampai
-          Juli 2023. Hal itu merupakan bentuk preventif perdagangan orang dengan
-          modus kerja ke luar negeri.
+          Juli 2023.&nbsp; Hal itu merupakan bentuk preventif&nbsp; perdagangan
+          orang dengan modus kerja ke luar negeri.
         </p>
         <p>
           Citra Kota Batam adalah sebagai Kota Industri, tentunya besar harapan
@@ -97,16 +103,17 @@ export const story18 = {
     id: (
       <div>
         <p>
-          Kota Batam, Provinsi Kepulauan Riau terletak di kawasan Selat
+          Kota Batam, Provinsi Kepulauan Riau&nbsp; terletak di kawasan Selat
           Singapura dan Selat Malaka dan menjadikan Batam menjadi wilayah
-          terluar Indonesia yang berbatasan langsung dengan negara tetangga
-          yaitu Singapura dan Malaysia. Letaknya yang strategis menjadikan Batam
-          sebagai tempat untuk transit orang-orang yang ingin pergi ke Singapura
-          dan Malaysia. Hal ini dimanfaatkan oleh beberapa oknum hingga sindikat
-          pelaku Tindak Pidana Perdagangan Orang (TPPO), Pekerja Migran Non
-          Prosedural dan penyelundupan manusia (People smuggling). Mereka
-          menjadikan Batam sebagai pintu masuk dan keluarnya menuju negara
-          tetangga yaitu Singapura dan Malaysia.
+          terluar Indonesia yang berbatasan langsung dengan&nbsp; negara
+          tetangga yaitu Singapura dan Malaysia. Letaknya yang strategis
+          menjadikan Batam sebagai tempat untuk transit orang-orang yang ingin
+          pergi ke Singapura dan Malaysia. Hal ini dimanfaatkan oleh beberapa
+          oknum hingga sindikat pelaku Tindak Pidana Perdagangan Orang (TPPO),
+          Pekerja Migran Non Prosedural dan penyelundupan manusia (
+          <em>People smuggling</em>). Mereka menjadikan Batam sebagai pintu
+          masuk dan keluarnya menuju negara tetangga yaitu Singapura dan
+          Malaysia.
         </p>
         <p>
           <blockquote>
@@ -115,6 +122,10 @@ export const story18 = {
             pengamatan saya, jelas sangat berbeda mana yang memang pergi sebagai
             pelancong mana yang memang calon Pekerja Migran non-prosedural.
           </blockquote>
+        </p>
+        <p>
+          Sungguh aneh jika hal ini tidak diketahui oleh pihak yang berwenang?
+          Bagaimana pengawasannya sehingga hal ini terus berulang.
         </p>
         <p>
           Berangkat dari keresahan tersebut, perubahan di wilayah perbatasan
@@ -143,9 +154,10 @@ export const story18 = {
           tanggapan dari instansi terkait bahwa advokasi adalah upaya untuk
           mempengaruhi, tidak bisa dilakukan satu-dua kali. Setidaknya setelah
           kami melakukan advokasi, ada beberapa himbauan berupa spanduk yang
-          bertuliskan “Jangan terpengaruh bujuk rayu calo yang menjanjikan kerja
-          ke luar negeri dengan mudah, cepat, dan tidak prosedural” “jangan
-          mengubah atau membiarkan orang lain mengubah data diri anda”.
+          bertuliskan &ldquo;Jangan terpengaruh bujuk rayu calo yang menjanjikan
+          kerja ke luar negeri dengan mudah, cepat, dan tidak prosedural&rdquo;
+          &ldquo;jangan mengubah atau membiarkan orang lain mengubah data diri
+          anda&rdquo;.
         </p>
         <p>
           Memang bentuk-bentuk himbauan seperti itu tidak membuat para oknum dan
@@ -159,8 +171,8 @@ export const story18 = {
           di Batam menuju Tanjung Pengelih, Malaysia. Kantor Imigrasi TPI Batam
           telah menunda keberangkatan ke luar negeri sebanyak 6.211 pekerja
           migran Indonesia (PMI) non-prosedural selama periode Januari sampai
-          Juli 2023. Hal itu merupakan bentuk preventif perdagangan orang dengan
-          modus kerja ke luar negeri.
+          Juli 2023.&nbsp; Hal itu merupakan bentuk preventif&nbsp; perdagangan
+          orang dengan modus kerja ke luar negeri.
         </p>
         <p>
           Citra Kota Batam adalah sebagai Kota Industri, tentunya besar harapan
