@@ -21,10 +21,11 @@ export const story12 = {
         <p>
           Namaku Faoziah, umurku 40 tahun. Aku berasal dari Desa Kedongdong,
           Kec. Susukan, Kab. Cirebon. Aku merupakan anak tunggal yang tentunya
-          menjadi harapan satu-satunya bagi ibuku yang seorang single parent.
-          Aku terlahir dari wanita hebat, yang demi membahagiakan anak serta
-          menghidupi keluarga besarnya, beliau rela menjadi seorang “pahlawan
-          devisa” di negeri Timur Tengah sana.
+          menjadi harapan satu-satunya bagi ibuku yang seorang{" "}
+          <em>single parent.</em> Aku terlahir dari wanita hebat, yang demi
+          membahagiakan anak serta menghidupi keluarga besarnya, beliau rela
+          menjadi seorang &ldquo;pahlawan devisa&rdquo; di negeri Timur Tengah
+          sana.
         </p>
         <p>
           Sedari aku berumur tiga tahun, ibuku memutuskan menjadi seorang PMI
@@ -44,12 +45,13 @@ export const story12 = {
           fokus mengurus anak kami yang kondisinya saat itu memang sangat tidak
           memungkinkan untuk ditinggal bekerja. Buah hati kami memang sangat
           rewel dan kesehatannya juga sangat ringkih, maka dengan berat hati aku
-          memutuskan untuk resign dari pekerjaanku. Sebelumnya aku sempat
-          meminta pendapat ibuku, namun beliau hanya menjawab, “Lakukan apapun
-          yang menurutmu baik.” Aku tahu pasti ada kekecewaan dari jawabannya.
-          Ibuku sudah mengusahakan yang terbaik untukku, namun nyatanya aku
-          belum mampu membalas jasa ibuku dengan bekerja sesuai dengan jenjang
-          pendidikan yang aku tempuh. Namun saat itu aku tak punya pilihan lain.
+          memutuskan untuk<em> resign</em> dari pekerjaanku. Sebelumnya aku
+          sempat meminta pendapat ibuku, namun beliau hanya menjawab, &ldquo;
+          <em>Lakukan apapun yang menurutmu baik</em>.&rdquo; Aku tahu pasti ada
+          kekecewaan dari jawabannya. Ibuku sudah mengusahakan yang
+          terbaik&nbsp; untukku, namun nyatanya aku belum mampu membalas jasa
+          ibuku dengan bekerja sesuai dengan jenjang pendidikan yang aku tempuh.
+          Namun saat itu aku tak punya pilihan lain.
         </p>
         <p>
           Setelah 6 tahun tidak bekerja dan memilih fokus menjadi ibu rumah
@@ -59,15 +61,19 @@ export const story12 = {
         </p>
         <p>
           <blockquote>
-            “Percuma ya buang-buang uang untuk menyekolahkan dia setinggi
-            mungkin sampai ibunya rela menjadi PMI, tapi sekarang malah jadi
-            pengangguran.” Setiap kata seperti itu terucap dari orang sekitarku,
-            aku tahu dengan pasti ibuku merasakan sakit hati yang sama seperti
-            yang aku rasakan.
+            &ldquo;
+            <em>
+              Percuma ya buang-buang uang untuk menyekolahkan dia setinggi
+              mungkin sampai ibunya rela menjadi PMI, tapi sekarang malah jadi
+              pengangguran
+            </em>
+            .&rdquo; Setiap kata seperti itu terucap dari orang sekitarku, aku
+            tahu dengan pasti ibuku merasakan sakit hati yang sama seperti yang
+            aku rasakan.
           </blockquote>
         </p>
         <p>
-          Terima kasih, untuk Ibu sudah mau mengerti dan berkorban banyak
+          Terimakasih, untuk Ibu sudah mau mengerti dan berkorban banyak
           untukku.
         </p>
         <p>
@@ -116,8 +122,8 @@ export const story12 = {
         </p>
         <p>
           Untuk perempuan terhebat dalam hidupku, hanya satu kata yang bisa ku
-          ucapkan, “Perubahan ini aku persembahkan untukmu, ibu. "I Love you
-          Mom.”
+          ucapkan, &ldquo;Perubahan ini aku persembahkan untukmu, ibu."
+          <em>I Love you Mom</em>.&rdquo;
         </p>
       </div>
     ),
@@ -126,10 +132,11 @@ export const story12 = {
         <p>
           Namaku Faoziah, umurku 40 tahun. Aku berasal dari Desa Kedongdong,
           Kec. Susukan, Kab. Cirebon. Aku merupakan anak tunggal yang tentunya
-          menjadi harapan satu-satunya bagi ibuku yang seorang single parent.
-          Aku terlahir dari wanita hebat, yang demi membahagiakan anak serta
-          menghidupi keluarga besarnya, beliau rela menjadi seorang “pahlawan
-          devisa” di negeri Timur Tengah sana.
+          menjadi harapan satu-satunya bagi ibuku yang seorang{" "}
+          <em>single parent.</em> Aku terlahir dari wanita hebat, yang demi
+          membahagiakan anak serta menghidupi keluarga besarnya, beliau rela
+          menjadi seorang &ldquo;pahlawan devisa&rdquo; di negeri Timur Tengah
+          sana.
         </p>
         <p>
           Sedari aku berumur tiga tahun, ibuku memutuskan menjadi seorang PMI
@@ -149,12 +156,13 @@ export const story12 = {
           fokus mengurus anak kami yang kondisinya saat itu memang sangat tidak
           memungkinkan untuk ditinggal bekerja. Buah hati kami memang sangat
           rewel dan kesehatannya juga sangat ringkih, maka dengan berat hati aku
-          memutuskan untuk resign dari pekerjaanku. Sebelumnya aku sempat
-          meminta pendapat ibuku, namun beliau hanya menjawab, “Lakukan apapun
-          yang menurutmu baik.” Aku tahu pasti ada kekecewaan dari jawabannya.
-          Ibuku sudah mengusahakan yang terbaik untukku, namun nyatanya aku
-          belum mampu membalas jasa ibuku dengan bekerja sesuai dengan jenjang
-          pendidikan yang aku tempuh. Namun saat itu aku tak punya pilihan lain.
+          memutuskan untuk<em> resign</em> dari pekerjaanku. Sebelumnya aku
+          sempat meminta pendapat ibuku, namun beliau hanya menjawab, &ldquo;
+          <em>Lakukan apapun yang menurutmu baik</em>.&rdquo; Aku tahu pasti ada
+          kekecewaan dari jawabannya. Ibuku sudah mengusahakan yang
+          terbaik&nbsp; untukku, namun nyatanya aku belum mampu membalas jasa
+          ibuku dengan bekerja sesuai dengan jenjang pendidikan yang aku tempuh.
+          Namun saat itu aku tak punya pilihan lain.
         </p>
         <p>
           Setelah 6 tahun tidak bekerja dan memilih fokus menjadi ibu rumah
@@ -164,15 +172,19 @@ export const story12 = {
         </p>
         <p>
           <blockquote>
-            “Percuma ya buang-buang uang untuk menyekolahkan dia setinggi
-            mungkin sampai ibunya rela menjadi PMI, tapi sekarang malah jadi
-            pengangguran.” Setiap kata seperti itu terucap dari orang sekitarku,
-            aku tahu dengan pasti ibuku merasakan sakit hati yang sama seperti
-            yang aku rasakan.
+            &ldquo;
+            <em>
+              Percuma ya buang-buang uang untuk menyekolahkan dia setinggi
+              mungkin sampai ibunya rela menjadi PMI, tapi sekarang malah jadi
+              pengangguran
+            </em>
+            .&rdquo; Setiap kata seperti itu terucap dari orang sekitarku, aku
+            tahu dengan pasti ibuku merasakan sakit hati yang sama seperti yang
+            aku rasakan.
           </blockquote>
         </p>
         <p>
-          Terima kasih, untuk Ibu sudah mau mengerti dan berkorban banyak
+          Terimakasih, untuk Ibu sudah mau mengerti dan berkorban banyak
           untukku.
         </p>
         <p>
@@ -221,8 +233,8 @@ export const story12 = {
         </p>
         <p>
           Untuk perempuan terhebat dalam hidupku, hanya satu kata yang bisa ku
-          ucapkan, “Perubahan ini aku persembahkan untukmu, ibu. "I Love you
-          Mom.”
+          ucapkan, &ldquo;Perubahan ini aku persembahkan untukmu, ibu."
+          <em>I Love you Mom</em>.&rdquo;
         </p>
       </div>
     ),
