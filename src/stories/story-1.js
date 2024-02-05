@@ -24,9 +24,10 @@ export const story1 = {
           2016 saya pernah masuk ke Perusahaan Penempatan Pekerja Migran
           Indonesia (P3MI) secara non-prosedural. Waktu itu saya tidak tahu sama
           sekali bahwa saya direkrut bekerja tidak mengikuti dan memenuhi syarat
-          yang berlaku. Saya tetap berangkat ke negara Timur Tengah, tapi
-          alhamdulillah beruntungnya saat itu saya mendapat majikan yang sangat
-          baik dan saya diperlakukan sangat baik sampai finish kontrak.
+          yang berlaku. Saya tetap berangkat ke negara Timur Tengah, tapi{" "}
+          <em>alhamdulillah</em> beruntungnya saat itu saya mendapat majikan
+          yang sangat baik dan saya diperlakukan sangat baik sampai{" "}
+          <em>finish</em> kontrak.
         </p>
         <p>
           Pada tahun 2021, lagi-lagi saya merasa beruntung. Saat itu saya dapat
@@ -36,16 +37,13 @@ export const story1 = {
           dan aman. Saya juga belajar bagaimana menjadi seorang paralegal yang
           berperan untuk memberikan informasi yang benar kepada Calon Pekerja
           Migran Indonesia (CPMI) dan menerima laporan jika ada kasus-kasus yang
-          dialami oleh PMI dan keluarganya di desa saya.
-        </p>
-        <p>
-          Peran saya sebagai paralegal di komunitas desa sangat penting untuk
-          memberikan informasi mengenai syarat dan tata cara bekerja ke luar
-          negeri yang aman dan hak-hak sebagai PMI. Sebagai paralegal saya juga
-          memberikan informasi mengenai cara melaporkan kasus yang dihadapi PMI
-          atau keluarganya serta akses untuk mendapatkan perlindungan yang
-          dibutuhkan oleh komunitas sekitar saya yang ingin bekerja ke luar
-          negeri.
+          dialami oleh PMI dan keluarganya di desa saya. Peran saya sebagai
+          paralegal di komunitas desa sangat penting untuk memberikan informasi
+          mengenai syarat dan tata cara bekerja ke luar negeri yang aman dan
+          hak-hak sebagai PMI. Sebagai paralegal saya juga memberikan informasi
+          mengenai cara melaporkan kasus yang dihadapi PMI atau keluarganya
+          serta akses untuk mendapatkan perlindungan yang dibutuhkan oleh
+          komunitas sekitar saya yang ingin bekerja ke luar negeri.
         </p>
         <p>
           <blockquote>
@@ -76,9 +74,10 @@ export const story1 = {
           2016 saya pernah masuk ke Perusahaan Penempatan Pekerja Migran
           Indonesia (P3MI) secara non-prosedural. Waktu itu saya tidak tahu sama
           sekali bahwa saya direkrut bekerja tidak mengikuti dan memenuhi syarat
-          yang berlaku. Saya tetap berangkat ke negara Timur Tengah, tapi
-          alhamdulillah beruntungnya saat itu saya mendapat majikan yang sangat
-          baik dan saya diperlakukan sangat baik sampai finish kontrak.
+          yang berlaku. Saya tetap berangkat ke negara Timur Tengah, tapi{" "}
+          <em>alhamdulillah</em> beruntungnya saat itu saya mendapat majikan
+          yang sangat baik dan saya diperlakukan sangat baik sampai{" "}
+          <em>finish</em> kontrak.
         </p>
         <p>
           Pada tahun 2021, lagi-lagi saya merasa beruntung. Saat itu saya dapat
@@ -88,16 +87,13 @@ export const story1 = {
           dan aman. Saya juga belajar bagaimana menjadi seorang paralegal yang
           berperan untuk memberikan informasi yang benar kepada Calon Pekerja
           Migran Indonesia (CPMI) dan menerima laporan jika ada kasus-kasus yang
-          dialami oleh PMI dan keluarganya di desa saya.
-        </p>
-        <p>
-          Peran saya sebagai paralegal di komunitas desa sangat penting untuk
-          memberikan informasi mengenai syarat dan tata cara bekerja ke luar
-          negeri yang aman dan hak-hak sebagai PMI. Sebagai paralegal saya juga
-          memberikan informasi mengenai cara melaporkan kasus yang dihadapi PMI
-          atau keluarganya serta akses untuk mendapatkan perlindungan yang
-          dibutuhkan oleh komunitas sekitar saya yang ingin bekerja ke luar
-          negeri.
+          dialami oleh PMI dan keluarganya di desa saya. Peran saya sebagai
+          paralegal di komunitas desa sangat penting untuk memberikan informasi
+          mengenai syarat dan tata cara bekerja ke luar negeri yang aman dan
+          hak-hak sebagai PMI. Sebagai paralegal saya juga memberikan informasi
+          mengenai cara melaporkan kasus yang dihadapi PMI atau keluarganya
+          serta akses untuk mendapatkan perlindungan yang dibutuhkan oleh
+          komunitas sekitar saya yang ingin bekerja ke luar negeri.
         </p>
         <p>
           <blockquote>
