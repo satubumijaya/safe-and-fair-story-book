@@ -19,11 +19,14 @@ export const story8 = {
     en: (
       <div>
         <p>
-          &ldquo;Wis mbak bli papa, kita ora melu ning komunitas tapi Insya
-          Allah kita siap melu kegiatan. Baka ana apa-apa kari hubungi bae kita
-          ya mbak&rdquo; (tidak apa-apa mbak, saya tidak ikut dalam komunitas
-          juga insya Allah saya siap ikut dalam kegiatan. Dan kalau ada apa-apa
-          tinggal hubungi saja saya ya)
+          <em>
+            &ldquo;Wis mbak bli papa, kita ora melu ning komunitas tapi Insya
+            Allah kita siap melu kegiatan. Baka ana apa-apa kari hubungi bae
+            kita ya mbak&rdquo;{" "}
+          </em>
+          (tidak apa-apa mbak, saya tidak ikut dalam komunitas juga insya Allah
+          saya siap ikut dalam kegiatan. Dan kalau ada apa-apa tinggal hubungi
+          saja saya ya)
         </p>
         <p>
           Kalimat yang menurut saya sangat menguatkan sekali yang keluar dari
@@ -35,25 +38,26 @@ export const story8 = {
         </p>
         <p>
           Sengat teriknya matahari pada hari itu adalah kali pertama pertemuan
-          kami dimulai. Kekhawatiran banyak orang dalam situasi Covid-19 membuat
-          sedikit aktivitas yang berjalan. Program Safe and Fair adalah jembatan
-          bagi saya dan teman-teman di Desa Kedongdong untuk bisa bertemu dan
-          juga berbagi. Sebut saja Faoziah namanya, perkenalan awal saya
-          dengannya sangat singkat. Sama-sama tidak kenal dan saya sedikit
+          kami dimulai. Kekhawatiran banyak orang dalam situasi COVID-19 membuat
+          sedikit aktivitas yang berjalan. Program <em>Safe and Fair</em> adalah
+          jembatan bagi saya dan teman-teman di Desa Kedongdong untuk bisa
+          bertemu dan juga berbagi. Sebut saja Faoziah namanya, perkenalan awal
+          saya dengannya sangat singkat. Sama-sama tidak kenal dan saya sedikit
           memberikan gambaran tujuan saya untuk bisa berbagi informasi terkait
-          migrasi aman di Desa Kedongdong ini. Dengan semangat dan sedikit ragu
-          dengan dirinya sendiri, dia menjawab &ldquo;baiklah saya akan membantu
-          dan mencoba untuk ikut dalam kegiatan ini&rdquo;. Berbinar saya
-          mendengar jawabannya dan terucap rasa syukur dalam hati.
+          migrasi aman di Desa Kedongdong ini. Dengan&nbsp; semangat dan sedikit
+          ragu dengan dirinya sendiri, dia menjawab &ldquo;baiklah saya akan
+          membantu dan mencoba untuk ikut dalam kegiatan ini&rdquo;. Berbinar
+          saya mendengar jawabannya dan terucap rasa syukur dalam hati.
         </p>
         <p>
-          Seiring berjalannya waktu, saya terus berkomunikasi intens melalui
-          Whatsapp dengan Ibu Faoziah karena memang jarak rumah kami lumayan
-          berjauhan dan hanya beberapa kali saja kami bertemu dalam satu bulan.
-          Kami membuat rencana kegiatan bersama, membuat daftar warga desa
-          perempuan yang akan dilibatkan dalam kegiatan dan juga sedikit membuat
-          pemetaan untuk sosialisasi. Walaupun saat itu kami berkomunikasi hanya
-          melalui handphone, tapi kami merasa &ldquo;nyambung&rdquo;.
+          Seiring berjalannya waktu, saya terus berkomunikasi intens melalui{" "}
+          <em>Whatsapp</em> dengan Ibu Faoziah karena memang jarak rumah kami
+          lumayan berjauhan dan hanya beberapa kali saja kami bertemu dalam satu
+          bulan. Kami membuat rencana kegiatan bersama, membuat daftar warga
+          desa perempuan yang akan dilibatkan dalam kegiatan dan juga sedikit
+          membuat pemetaan untuk sosialisasi. Walaupun saat itu kami
+          berkomunikasi hanya melalui handphone , tapi kami merasa{" "}
+          <em>&ldquo;nyambung&rdquo;</em> .
         </p>
         <p>
           &ldquo;Mbak, saya kumpulin orang-orang sekitar saya saja dulu ya mbak
@@ -65,8 +69,8 @@ export const story8 = {
         </p>
         <p>
           Pertemuan dan sosialisasi pertama kami berjalan lancar di rumah Ibu
-          Faoziah, yang pada awalnya ibu-ibu ini masih malu-malu. Ternyata di
-          akhir kegiatan, mereka banyak bercerita dan curhat terkait masih
+          Faoziah, yang pada awalnya ibu-ibu ini masih malu-malu.&nbsp; Ternyata
+          di akhir kegiatan, mereka banyak bercerita dan curhat terkait masih
           banyak perempuan-perempuan yang berangkat ke Timur Tengah secara
           non-prosedural di masa pandemi Covid-19. Ada juga yang kehilangan
           kontak dengan keluarganya dan juga banyak dari mereka yang menuakan
@@ -78,15 +82,16 @@ export const story8 = {
           non-prosedural. Informasi yang diterima oleh masyarakat juga sangat
           kurang, apalagi saat itu kondisi pemerintah desa yang sepertinya
           kurang peduli. Tapi dengan adanya pemerintahan baru ini, ada harapan
-          baru semoga pemerintah desa lebih peduli lagi dengan masyarakat
+          baru&nbsp; semoga pemerintah desa lebih peduli lagi dengan masyarakat
           khususnya dengan perempuan pekerja migran dan juga keluarganya.
         </p>
         <p>
-          Memang dalam setiap perjalanan itu akan selalu ada
-          &ldquo;surprisenya&rdquo;, seperti yang sedang saya dan Ibu Faoziah
-          alami sekarang. Dengan adanya pemerintahan desa yang baru, harapan
-          kami ternyata pupus, karena Ibu Kuwu, istri kepala desa, meminta Ibu
-          Faoziah sebagai koordinator komunitas diganti dengan Kadernya.
+          Memang dalam setiap perjalanan itu akan selalu ada{" "}
+          <em>&ldquo;surprisenya&rdquo;,</em> seperti yang sedang saya dan Ibu
+          Faoziah alami sekarang. Dengan adanya pemerintahan desa yang baru,
+          harapan kami ternyata pupus, karena Ibu Kuwu, istri kepala desa,&nbsp;
+          meminta&nbsp; Ibu Faoziah&nbsp; sebagai koordinator komunitas diganti
+          dengan Kadernya.
         </p>
         <p>
           <blockquote>
@@ -98,34 +103,34 @@ export const story8 = {
         </p>
         <p>
           Ternyata, semangat saya sempat turun karena adanya pergantian ini.
-          Terlalu overthinking dengan apa yang sudah saya lakukan dengan Ibu
-          Faoziah sebelumnya. Karena dengan kondisi sekarang, saya harus
-          melakukan semuanya dari &ldquo;0&rdquo; lagi. Namun, lagi-lagi Ibu
-          Faoziah menampar saya dengan memberikan semangat bahwa ini bukan akhir
-          dari segalanya. Dengan tidak terikatnya Ibu Faoziah bersama komunitas,
-          tidak menyurutkan semangatnya untuk bisa menjadi orang yang bermanfaat
-          untuk perempuan-perempuan di desanya. Karena itu kami tetap melibatkan
-          Ibu Faoziah secara mandiri.
+          Terlalu <em>overthinking </em>dengan apa yang sudah saya lakukan
+          dengan Ibu Faoziah sebelumnya. Karena dengan kondisi sekarang, saya
+          harus melakukan semuanya dari &ldquo;0&rdquo; lagi. Namun, lagi-lagi
+          Ibu Faoziah menampar saya dengan memberikan semangat bahwa ini bukan
+          akhir dari segalanya. Dengan tidak terikatnya Ibu Faoziah bersama
+          komunitas, tidak menyurutkan semangatnya untuk bisa menjadi orang yang
+          bermanfaat untuk perempuan-perempuan di desanya. Karena itu kami tetap
+          melibatkan Ibu Faoziah secara mandiri.
         </p>
         <p>
           Dengan semangat Ibu Faoziah, ini juga menumbuhkan semangat dan tekad
-          saya untuk bisa memberikan yang terbaik. Terutama informasi-informasi
-          yang berkaitan dengan Perempuan Pekerja Migran. Berbagai kegiatan
-          untuk peningkatan kapasitas, kami tetap melibatkan Ibu Faoziah di
-          dalamnya. Terkait pelatihan paralegal, melakukan advokasi dengan
-          pemerintahan daerah, dan berbagai kegiatan lainnya untuk bisa
-          menumbuhkan kepercayaan diri Ibu Faoziah berbicara dalam forum dan
-          juga untuk memperluas informasinya.
+          saya untuk bisa memberikan yang terbaik. Terutama&nbsp;
+          informasi-informasi yang berkaitan dengan Perempuan Pekerja Migran.
+          Berbagai kegiatan untuk peningkatan kapasitas, kami tetap melibatkan
+          Ibu Faoziah di dalamnya. Terkait pelatihan paralegal, melakukan
+          advokasi dengan pemerintahan daerah, dan berbagai kegiatan lainnya
+          untuk bisa menumbuhkan kepercayaan diri Ibu Faoziah berbicara dalam
+          forum dan juga untuk memperluas informasinya.
         </p>
         <p>
           Bagi saya Ibu Faoziah adalah, teman, guru dan panutan saya. Walaupun
           dengan berbagai keterbatasan dia tetap semangat untuk bisa menjadi
           orang yang bermanfaat dan bisa berbagi dengan orang lain. Sampai saat
           ini kami terus berkomunikasi dan berbagi informasi. Seperti pada Juli
-          lalu ada beberapa kasus yang terjadi di desa tersebut, dengan
+          lalu ada&nbsp; beberapa kasus yang terjadi di desa tersebut, dengan
           semangatnya Ibu Faoziah berbagi dengan kami dan langsung
-          &ldquo;gercep&rdquo; melakukan pendampingan kepada keluarga korban.
-          Dengan informasi tersebut kami juga bisa berkoordinasi dengan
+          <em> &ldquo;gercep&rdquo;</em> melakukan pendampingan kepada keluarga
+          korban. Dengan informasi tersebut kami juga bisa berkoordinasi dengan
           pihak-pihak terkait dalam penanganannya.
         </p>
         <p>
@@ -140,11 +145,14 @@ export const story8 = {
     id: (
       <div>
         <p>
-          &ldquo;Wis mbak bli papa, kita ora melu ning komunitas tapi Insya
-          Allah kita siap melu kegiatan. Baka ana apa-apa kari hubungi bae kita
-          ya mbak&rdquo; (tidak apa-apa mbak, saya tidak ikut dalam komunitas
-          juga insya Allah saya siap ikut dalam kegiatan. Dan kalau ada apa-apa
-          tinggal hubungi saja saya ya)
+          <em>
+            &ldquo;Wis mbak bli papa, kita ora melu ning komunitas tapi Insya
+            Allah kita siap melu kegiatan. Baka ana apa-apa kari hubungi bae
+            kita ya mbak&rdquo;{" "}
+          </em>
+          (tidak apa-apa mbak, saya tidak ikut dalam komunitas juga insya Allah
+          saya siap ikut dalam kegiatan. Dan kalau ada apa-apa tinggal hubungi
+          saja saya ya)
         </p>
         <p>
           Kalimat yang menurut saya sangat menguatkan sekali yang keluar dari
@@ -156,25 +164,26 @@ export const story8 = {
         </p>
         <p>
           Sengat teriknya matahari pada hari itu adalah kali pertama pertemuan
-          kami dimulai. Kekhawatiran banyak orang dalam situasi Covid-19 membuat
-          sedikit aktivitas yang berjalan. Program Safe and Fair adalah jembatan
-          bagi saya dan teman-teman di Desa Kedongdong untuk bisa bertemu dan
-          juga berbagi. Sebut saja Faoziah namanya, perkenalan awal saya
-          dengannya sangat singkat. Sama-sama tidak kenal dan saya sedikit
+          kami dimulai. Kekhawatiran banyak orang dalam situasi COVID-19 membuat
+          sedikit aktivitas yang berjalan. Program <em>Safe and Fair</em> adalah
+          jembatan bagi saya dan teman-teman di Desa Kedongdong untuk bisa
+          bertemu dan juga berbagi. Sebut saja Faoziah namanya, perkenalan awal
+          saya dengannya sangat singkat. Sama-sama tidak kenal dan saya sedikit
           memberikan gambaran tujuan saya untuk bisa berbagi informasi terkait
-          migrasi aman di Desa Kedongdong ini. Dengan semangat dan sedikit ragu
-          dengan dirinya sendiri, dia menjawab &ldquo;baiklah saya akan membantu
-          dan mencoba untuk ikut dalam kegiatan ini&rdquo;. Berbinar saya
-          mendengar jawabannya dan terucap rasa syukur dalam hati.
+          migrasi aman di Desa Kedongdong ini. Dengan&nbsp; semangat dan sedikit
+          ragu dengan dirinya sendiri, dia menjawab &ldquo;baiklah saya akan
+          membantu dan mencoba untuk ikut dalam kegiatan ini&rdquo;. Berbinar
+          saya mendengar jawabannya dan terucap rasa syukur dalam hati.
         </p>
         <p>
-          Seiring berjalannya waktu, saya terus berkomunikasi intens melalui
-          Whatsapp dengan Ibu Faoziah karena memang jarak rumah kami lumayan
-          berjauhan dan hanya beberapa kali saja kami bertemu dalam satu bulan.
-          Kami membuat rencana kegiatan bersama, membuat daftar warga desa
-          perempuan yang akan dilibatkan dalam kegiatan dan juga sedikit membuat
-          pemetaan untuk sosialisasi. Walaupun saat itu kami berkomunikasi hanya
-          melalui handphone, tapi kami merasa &ldquo;nyambung&rdquo;.
+          Seiring berjalannya waktu, saya terus berkomunikasi intens melalui{" "}
+          <em>Whatsapp</em> dengan Ibu Faoziah karena memang jarak rumah kami
+          lumayan berjauhan dan hanya beberapa kali saja kami bertemu dalam satu
+          bulan. Kami membuat rencana kegiatan bersama, membuat daftar warga
+          desa perempuan yang akan dilibatkan dalam kegiatan dan juga sedikit
+          membuat pemetaan untuk sosialisasi. Walaupun saat itu kami
+          berkomunikasi hanya melalui handphone , tapi kami merasa{" "}
+          <em>&ldquo;nyambung&rdquo;</em> .
         </p>
         <p>
           &ldquo;Mbak, saya kumpulin orang-orang sekitar saya saja dulu ya mbak
@@ -186,8 +195,8 @@ export const story8 = {
         </p>
         <p>
           Pertemuan dan sosialisasi pertama kami berjalan lancar di rumah Ibu
-          Faoziah, yang pada awalnya ibu-ibu ini masih malu-malu. Ternyata di
-          akhir kegiatan, mereka banyak bercerita dan curhat terkait masih
+          Faoziah, yang pada awalnya ibu-ibu ini masih malu-malu.&nbsp; Ternyata
+          di akhir kegiatan, mereka banyak bercerita dan curhat terkait masih
           banyak perempuan-perempuan yang berangkat ke Timur Tengah secara
           non-prosedural di masa pandemi Covid-19. Ada juga yang kehilangan
           kontak dengan keluarganya dan juga banyak dari mereka yang menuakan
@@ -199,15 +208,16 @@ export const story8 = {
           non-prosedural. Informasi yang diterima oleh masyarakat juga sangat
           kurang, apalagi saat itu kondisi pemerintah desa yang sepertinya
           kurang peduli. Tapi dengan adanya pemerintahan baru ini, ada harapan
-          baru semoga pemerintah desa lebih peduli lagi dengan masyarakat
+          baru&nbsp; semoga pemerintah desa lebih peduli lagi dengan masyarakat
           khususnya dengan perempuan pekerja migran dan juga keluarganya.
         </p>
         <p>
-          Memang dalam setiap perjalanan itu akan selalu ada
-          &ldquo;surprisenya&rdquo;, seperti yang sedang saya dan Ibu Faoziah
-          alami sekarang. Dengan adanya pemerintahan desa yang baru, harapan
-          kami ternyata pupus, karena Ibu Kuwu, istri kepala desa, meminta Ibu
-          Faoziah sebagai koordinator komunitas diganti dengan Kadernya.
+          Memang dalam setiap perjalanan itu akan selalu ada{" "}
+          <em>&ldquo;surprisenya&rdquo;,</em> seperti yang sedang saya dan Ibu
+          Faoziah alami sekarang. Dengan adanya pemerintahan desa yang baru,
+          harapan kami ternyata pupus, karena Ibu Kuwu, istri kepala desa,&nbsp;
+          meminta&nbsp; Ibu Faoziah&nbsp; sebagai koordinator komunitas diganti
+          dengan Kadernya.
         </p>
         <p>
           <blockquote>
@@ -219,34 +229,34 @@ export const story8 = {
         </p>
         <p>
           Ternyata, semangat saya sempat turun karena adanya pergantian ini.
-          Terlalu overthinking dengan apa yang sudah saya lakukan dengan Ibu
-          Faoziah sebelumnya. Karena dengan kondisi sekarang, saya harus
-          melakukan semuanya dari &ldquo;0&rdquo; lagi. Namun, lagi-lagi Ibu
-          Faoziah menampar saya dengan memberikan semangat bahwa ini bukan akhir
-          dari segalanya. Dengan tidak terikatnya Ibu Faoziah bersama komunitas,
-          tidak menyurutkan semangatnya untuk bisa menjadi orang yang bermanfaat
-          untuk perempuan-perempuan di desanya. Karena itu kami tetap melibatkan
-          Ibu Faoziah secara mandiri.
+          Terlalu <em>overthinking </em>dengan apa yang sudah saya lakukan
+          dengan Ibu Faoziah sebelumnya. Karena dengan kondisi sekarang, saya
+          harus melakukan semuanya dari &ldquo;0&rdquo; lagi. Namun, lagi-lagi
+          Ibu Faoziah menampar saya dengan memberikan semangat bahwa ini bukan
+          akhir dari segalanya. Dengan tidak terikatnya Ibu Faoziah bersama
+          komunitas, tidak menyurutkan semangatnya untuk bisa menjadi orang yang
+          bermanfaat untuk perempuan-perempuan di desanya. Karena itu kami tetap
+          melibatkan Ibu Faoziah secara mandiri.
         </p>
         <p>
           Dengan semangat Ibu Faoziah, ini juga menumbuhkan semangat dan tekad
-          saya untuk bisa memberikan yang terbaik. Terutama informasi-informasi
-          yang berkaitan dengan Perempuan Pekerja Migran. Berbagai kegiatan
-          untuk peningkatan kapasitas, kami tetap melibatkan Ibu Faoziah di
-          dalamnya. Terkait pelatihan paralegal, melakukan advokasi dengan
-          pemerintahan daerah, dan berbagai kegiatan lainnya untuk bisa
-          menumbuhkan kepercayaan diri Ibu Faoziah berbicara dalam forum dan
-          juga untuk memperluas informasinya.
+          saya untuk bisa memberikan yang terbaik. Terutama&nbsp;
+          informasi-informasi yang berkaitan dengan Perempuan Pekerja Migran.
+          Berbagai kegiatan untuk peningkatan kapasitas, kami tetap melibatkan
+          Ibu Faoziah di dalamnya. Terkait pelatihan paralegal, melakukan
+          advokasi dengan pemerintahan daerah, dan berbagai kegiatan lainnya
+          untuk bisa menumbuhkan kepercayaan diri Ibu Faoziah berbicara dalam
+          forum dan juga untuk memperluas informasinya.
         </p>
         <p>
           Bagi saya Ibu Faoziah adalah, teman, guru dan panutan saya. Walaupun
           dengan berbagai keterbatasan dia tetap semangat untuk bisa menjadi
           orang yang bermanfaat dan bisa berbagi dengan orang lain. Sampai saat
           ini kami terus berkomunikasi dan berbagi informasi. Seperti pada Juli
-          lalu ada beberapa kasus yang terjadi di desa tersebut, dengan
+          lalu ada&nbsp; beberapa kasus yang terjadi di desa tersebut, dengan
           semangatnya Ibu Faoziah berbagi dengan kami dan langsung
-          &ldquo;gercep&rdquo; melakukan pendampingan kepada keluarga korban.
-          Dengan informasi tersebut kami juga bisa berkoordinasi dengan
+          <em> &ldquo;gercep&rdquo;</em> melakukan pendampingan kepada keluarga
+          korban. Dengan informasi tersebut kami juga bisa berkoordinasi dengan
           pihak-pihak terkait dalam penanganannya.
         </p>
         <p>

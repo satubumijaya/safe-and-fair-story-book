@@ -38,7 +38,7 @@ export const story3 = {
           beberapa kepala keluarga, saya dan anggota Bale Istri yang berasal
           dari berbagai latar belakang, mulai dari ibu rumah tangga, kader PKK,
           dan kader posyandu berkumpul setiap pekan sekali. Di saung ini, kami
-          belajar bersama mengenal isu-isu perempuan, seperti Kekerasan Dalam
+          belajar bersama mengenal isu-isu perempuan,seperti Kekerasan Dalam
           Rumah Tangga, kekerasan seksual, kesehatan reproduksi, dan belajar
           kewirausahan.
         </p>
@@ -49,7 +49,7 @@ export const story3 = {
           Dengan dibantu keluarga dan tiga anak, saya mulai mandiri demi
           menghidupi diri dan keluarga. Tahun 2013 saya mulai merintis usaha
           keripik dengan bantuan modal Dinas Sosial sebesar Rp 500.000, dan
-          menekuni usaha tersebut.
+          &nbsp;menekuni usaha tersebut.
         </p>
         <p>
           Tahun 2014 saya bergabung di tim Jaringan Relawan Pendamping Kasus
@@ -67,33 +67,36 @@ export const story3 = {
           pendampingan kasus, dan kegiatan lainnya.
         </p>
         <p>
-          Di tahun 2019, saya direkrut oleh Sapa Institut untuk menjadi
-          koordinator pendamping kasus dan diwajibkan untuk datang ke kantor
-          tiga hari setiap pekannya. Dalam ruangan berukuran 2x3 meter yang
-          ditata rapi itu, saya menerima pengaduan kasus, atau konseling. Selain
-          itu, saya difasilitasi perangkat gawai untuk membuat hotline pengaduan
-          kasus.
+          Saya yang dulu sangat pemalu tidak percaya diri, begitu pula dengan
+          ibu-ibu lainnya mulai merasakan ada perubahan. Perlahan kami semua
+          belajar mendampingi kasus, dan advokasi ke pemerintah setempat,
+          kemudian bernegosiasi dengan pasangannya atau keluarganya. Bersama
+          empat orang teman saya yang hampir sebaya, kami mulai sibuk dengan
+          pendampingan kasus, dan kegiatan lainnya.
         </p>
         <p>
-          Tahun 2020 program Safe &amp; Fair hadir dan saya mulai mencoba
+          Tahun 2020 program <em>Safe and Fair</em> hadir dan saya mulai mencoba
           mendampingi kasus pekerja migran dengan berbekal ilmu seadanya.
           Kesempatan diundang ke istana negara saya dapatkan dalam tahun yang
           sama dalam rangka Hari Perempuan Sedunia.
         </p>
         <p>
           <blockquote>
-            Saya dan lima belas perempuan lainnya dari berbagai provinsi
-            mendapatkan kesempatan berbincang langsung dengan Presiden Joko
-            Widodo.
+            <p>
+              Tahun 2020 program <em>Safe and Fair</em> hadir dan saya mulai
+              mencoba mendampingi kasus pekerja migran dengan berbekal ilmu
+              seadanya. Kesempatan diundang ke istana negara saya dapatkan dalam
+              tahun yang sama dalam rangka Hari Perempuan Sedunia.
+            </p>
           </blockquote>
         </p>
         <p>
-          Program Safe &amp; Fair yang fokus di pendampingan kasus Pekerja
-          Migran Indonesia (PMI) cukup membantu kami dalam peningkatan kapasitas
-          kami sebagai pendamping. Saat ini, relawan pendamping kasus mulai
-          bertambah yang semula hanya 5 orang, menjadi 20 orang dari 8 wilayah
-          desa binaan Bale Istri. Beberapa penyintas atau purna PMI pun turut
-          bergabung di Komunitas Bale Istri.
+          Program <em>Safe and Fair</em> yang fokus di pendampingan kasus
+          Pekerja Migran Indonesia (PMI) cukup membantu kami dalam peningkatan
+          kapasitas kami sebagai pendamping. Saat ini, relawan pendamping kasus
+          mulai bertambah yang semula hanya 5 orang, menjadi 20 orang dari 8
+          wilayah desa binaan Bale Istri. Beberapa penyintas atau purna PMI pun
+          turut bergabung di Komunitas Bale Istri
         </p>
         <p>
           Dengan mendampingi kasus, saya mulai merasa lebih kuat. Dengan
@@ -107,8 +110,10 @@ export const story3 = {
           merasa tertolong.
         </p>
         <p>
-          "Bu, hatur nuhun tos dibantos. Ibu dan keluarga sing sehat, putra
-          putri na saroleh... arageung milikna, aamiin..."
+          <em>
+            "Bu, hatur nuhun tos dibantos. Ibu dan keluarga sing sehat, putra
+            putri na saroleh... arageung milikna, aamiin..."
+          </em>
         </p>
         <p>
           <strong>Kesuksesan dalam Iringan Doa dan Usaha</strong>
@@ -149,7 +154,7 @@ export const story3 = {
           beberapa kepala keluarga, saya dan anggota Bale Istri yang berasal
           dari berbagai latar belakang, mulai dari ibu rumah tangga, kader PKK,
           dan kader posyandu berkumpul setiap pekan sekali. Di saung ini, kami
-          belajar bersama mengenal isu-isu perempuan, seperti Kekerasan Dalam
+          belajar bersama mengenal isu-isu perempuan,seperti Kekerasan Dalam
           Rumah Tangga, kekerasan seksual, kesehatan reproduksi, dan belajar
           kewirausahan.
         </p>
@@ -160,7 +165,7 @@ export const story3 = {
           Dengan dibantu keluarga dan tiga anak, saya mulai mandiri demi
           menghidupi diri dan keluarga. Tahun 2013 saya mulai merintis usaha
           keripik dengan bantuan modal Dinas Sosial sebesar Rp 500.000, dan
-          menekuni usaha tersebut.
+          &nbsp;menekuni usaha tersebut.
         </p>
         <p>
           Tahun 2014 saya bergabung di tim Jaringan Relawan Pendamping Kasus
@@ -178,33 +183,36 @@ export const story3 = {
           pendampingan kasus, dan kegiatan lainnya.
         </p>
         <p>
-          Di tahun 2019, saya direkrut oleh Sapa Institut untuk menjadi
-          koordinator pendamping kasus dan diwajibkan untuk datang ke kantor
-          tiga hari setiap pekannya. Dalam ruangan berukuran 2x3 meter yang
-          ditata rapi itu, saya menerima pengaduan kasus, atau konseling. Selain
-          itu, saya difasilitasi perangkat gawai untuk membuat hotline pengaduan
-          kasus.
+          Saya yang dulu sangat pemalu tidak percaya diri, begitu pula dengan
+          ibu-ibu lainnya mulai merasakan ada perubahan. Perlahan kami semua
+          belajar mendampingi kasus, dan advokasi ke pemerintah setempat,
+          kemudian bernegosiasi dengan pasangannya atau keluarganya. Bersama
+          empat orang teman saya yang hampir sebaya, kami mulai sibuk dengan
+          pendampingan kasus, dan kegiatan lainnya.
         </p>
         <p>
-          Tahun 2020 program Safe &amp; Fair hadir dan saya mulai mencoba
+          Tahun 2020 program <em>Safe and Fair</em> hadir dan saya mulai mencoba
           mendampingi kasus pekerja migran dengan berbekal ilmu seadanya.
           Kesempatan diundang ke istana negara saya dapatkan dalam tahun yang
           sama dalam rangka Hari Perempuan Sedunia.
         </p>
         <p>
           <blockquote>
-            Saya dan lima belas perempuan lainnya dari berbagai provinsi
-            mendapatkan kesempatan berbincang langsung dengan Presiden Joko
-            Widodo.
+            <p>
+              Tahun 2020 program <em>Safe and Fair</em> hadir dan saya mulai
+              mencoba mendampingi kasus pekerja migran dengan berbekal ilmu
+              seadanya. Kesempatan diundang ke istana negara saya dapatkan dalam
+              tahun yang sama dalam rangka Hari Perempuan Sedunia.
+            </p>
           </blockquote>
         </p>
         <p>
-          Program Safe &amp; Fair yang fokus di pendampingan kasus Pekerja
-          Migran Indonesia (PMI) cukup membantu kami dalam peningkatan kapasitas
-          kami sebagai pendamping. Saat ini, relawan pendamping kasus mulai
-          bertambah yang semula hanya 5 orang, menjadi 20 orang dari 8 wilayah
-          desa binaan Bale Istri. Beberapa penyintas atau purna PMI pun turut
-          bergabung di Komunitas Bale Istri.
+          Program <em>Safe and Fair</em> yang fokus di pendampingan kasus
+          Pekerja Migran Indonesia (PMI) cukup membantu kami dalam peningkatan
+          kapasitas kami sebagai pendamping. Saat ini, relawan pendamping kasus
+          mulai bertambah yang semula hanya 5 orang, menjadi 20 orang dari 8
+          wilayah desa binaan Bale Istri. Beberapa penyintas atau purna PMI pun
+          turut bergabung di Komunitas Bale Istri
         </p>
         <p>
           Dengan mendampingi kasus, saya mulai merasa lebih kuat. Dengan
@@ -218,8 +226,10 @@ export const story3 = {
           merasa tertolong.
         </p>
         <p>
-          "Bu, hatur nuhun tos dibantos. Ibu dan keluarga sing sehat, putra
-          putri na saroleh... arageung milikna, aamiin..."
+          <em>
+            "Bu, hatur nuhun tos dibantos. Ibu dan keluarga sing sehat, putra
+            putri na saroleh... arageung milikna, aamiin..."
+          </em>
         </p>
         <p>
           <strong>Kesuksesan dalam Iringan Doa dan Usaha</strong>

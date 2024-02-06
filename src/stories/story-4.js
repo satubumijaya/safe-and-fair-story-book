@@ -21,27 +21,27 @@ export const story4 = {
         <p>
           Seperti biasa mentari pagi terbit dengan senyum manisnya. Menyapa
           lembut tanaman padi yang menguning, runduk bulir padi menjanjikan
-          hasil yang berlimpah, dan membuat sang pemilik tersenyum merekah.
-          Seiring mentari senja kembali ke peraduan dan berganti sinar bulan
-          begitu indah lukisan alam desaku.
+          hasil yang berlimpah, dan&nbsp; membuat sang pemilik tersenyum
+          merekah. Seiring mentari senja kembali ke peraduan dan berganti sinar
+          bulan begitu indah lukisan alam desaku.
         </p>
         <p>
           Aku hidup di lingkungan dengan 5 dari 10 orang perempuan bekerja
-          sebagai buruh tani. Pada tahun 2021, menurut pemerintah Desa Suci,
-          desaku, ada 75 perempuan yang menjadi Pekerja Migran. Mereka sudah tak
-          tertarik lagi menjadi buruh tani karena desakan perekonomian keluarga,
-          karena utang, atau alasan lainnya seperti masalah rumah tangga dan
-          perceraian. Mereka memilih berlari meninggalkan semuanya, memilih
-          terbang melewati gunung, lautan dan ribuan mil jarak yang ditempuh
-          untuk pergi ke negeri seberang dengan harapan bisa mengais Ringgit,
-          Riyal dan Dollar yang akan mengubah kehidupan mereka dengan taruhan
-          meninggalkan keluarga dan sanak saudara.
+          sebagai buruh tani. Pada&nbsp; tahun 2021, menurut pemerintah Desa
+          Suci, desaku, ada 75 perempuan yang menjadi Pekerja Migran. Mereka
+          sudah tak tertarik lagi menjadi buruh tani karena desakan perekonomian
+          keluarga, karena utang, atau alasan lainnya seperti masalah rumah
+          tangga dan perceraian. Mereka memilih berlari meninggalkan semuanya,
+          memilih terbang melewati gunung, lautan dan ribuan mil jarak
+          yang&nbsp; ditempuh untuk pergi ke negeri seberang dengan harapan bisa
+          mengais Ringgit, Riyal dan Dollar yang akan mengubah kehidupan mereka
+          dengan taruhan meninggalkan&nbsp; keluarga dan sanak saudara.
         </p>
         <p>
           Mereka tergoda dengan janji manis sang calo, tanpa mengerti dan
           memahami apakah mereka berangkat ke luar negeri dengan cara yang benar
-          apa tidak, apakah dengan cara yang prosedural dan amankah, mereka juga
-          tidak tahu.
+          apa tidak, apakah&nbsp; dengan cara yang prosedural dan amankah,&nbsp;
+          mereka juga tidak tahu.
         </p>
         <p>
           <blockquote>
@@ -71,39 +71,39 @@ export const story4 = {
           bagiku.
         </p>
         <p>
-          Untuk menopang perekonomian keluarga kami, aku dan suamiku membuka
-          toko pertanian. Aku juga terlibat dalam kegiatan di desaku sebagai
-          kader PKK dan ikut dalam komunitas bank sampah. Suatu hari, bank
-          sampah kami diundang oleh Koalisi Perempuan Indonesia (KPI) dan itulah
-          awal aku mengenal KPI. Aku berkesempatan ngobrol bersama Ibu Sutipah
-          Sekretaris Cabang KPI Kabupaten Jember. Mendengar bahwa di Desa Suci
-          tempat aku tinggal terdapat banyak migran dan purna migran, pada 23
-          September 2021 KPI masuk ke desa kami dan terbentuklah Balai Perempuan
-          Desa Suci Berseri. Balai Perempuan adalah struktur terendah dari KPI
-          dan Balai Perempuan kami memiliki 4 dewan kelompok kepentingan di
-          antaranya: 1) Dewan kelompok kepentingan purna migran, 2) Dewan
-          kepentingan buruh perkebunan, 3) Dewan kepentingan rumah tangga, 4)
-          Dewan kepentingan informal.
+          Untuk&nbsp; menopang perekonomian keluarga kami, aku dan suamiku
+          membuka toko pertanian. Aku juga terlibat dalam kegiatan di desaku
+          sebagai&nbsp; kader PKK dan ikut dalam komunitas bank sampah. Suatu
+          hari, bank sampah kami diundang oleh Koalisi Perempuan Indonesia (KPI)
+          dan itulah awal aku mengenal KPI. Aku berkesempatan ngobrol bersama
+          Ibu Sutipah Sekretaris Cabang KPI Kabupaten Jember.&nbsp; Mendengar
+          bahwa di Desa Suci tempat aku tinggal terdapat banyak migran dan purna
+          migran, pada 23 September 2021 KPI masuk ke desa kami dan terbentuklah
+          Balai Perempuan Desa Suci Berseri. Balai Perempuan adalah struktur
+          terendah dari KPI dan Balai Perempuan kami memiliki 4 dewan kelompok
+          kepentingan di antaranya: 1) Dewan kelompok kepentingan&nbsp; purna
+          migran, 2)Dewan kepentingan buruh perkebunan, 3) Dewan kepentingan
+          rumah tangga, 4) Dewan kepentingan informal.
         </p>
         <p>
           Pada 9 Oktober 2021, kami dari tiga anggota KPI dan tiga orang dari
           aparat desa diberi kesempatan mengikuti pelatihan paralegal di
-          Surabaya selama 3 hari yang didukung oleh Safe and Fair (SAF) dan UN
-          WOMEN. Tapi bukan hal yang mudah bagiku untuk mengantongi restu dan
-          izin dari suami untuk berangkat ke Surabaya. Tetapi aku berhasil
-          menyakinkan suami dengan seribu alasan dan penjelasan akhirnya aku
-          diberi izin untuk ke Surabaya.
+          Surabaya selama 3 hari yang didukung oleh <em>Safe and Fair (SAF)</em>{" "}
+          dan UN WOMEN. Tapi bukan hal yang mudah bagiku untuk mengantongi restu
+          dan izin dari suami untuk berangkat ke Surabaya. Tetapi aku
+          berhasil&nbsp; menyakinkan suami dengan seribu alasan dan penjelasan
+          akhirnya aku diberi izin untuk ke Surabaya.
         </p>
         <p>
           Dari pelatihan paralegal inilah aku mendapat begitu banyak ilmu
           tentang isu kekerasan terhadap perempuan dan anak, bagaimana
-          bermigrasi aman dan prosedural, apa itu TPPO, bullying, stereotipe,
-          dan budaya patriarki. Di tahun yang sama, desa kami akhirnya mempunyai
-          Balai Perempuaan Pusat Informasi pengaduan dan Advokasi (BP PIPA).
-          Semenjak ada BP PIPA, aku diberi kesempatan untuk memperkenalkan BP
-          PIPA dalam pertemuan PKK, Kader Posyandu, dan Pengajian Muslimat,
-          untuk memberi edukasi tentang isu kekerasan terhadap perempuan dan
-          anak.
+          bermigrasi aman dan prosedural, apa itu TPPO, <em>bullying</em>,
+          <em> stereotipe</em>, dan budaya patriarki. Di tahun yang sama, desa
+          kami akhirnya mempunyai Balai Perempuaan Pusat Informasi pengaduan dan
+          Advokasi (BP PIPA). Semenjak ada BP PIPA, aku diberi kesempatan untuk
+          memperkenalkan BP PIPA dalam pertemuan PKK, Kader Posyandu, dan
+          Pengajian Muslimat, untuk memberi edukasi tentang isu kekerasan
+          terhadap perempuan dan anak.
         </p>
         <p>
           Karena aku aktif di BP PIPA, suatu hari aku diminta mendampingi anak
@@ -120,15 +120,16 @@ export const story4 = {
           sebagai bentuk tugasku sebagai paralegal.
         </p>
         <p>
-          Pada tahun 2022-2023, di desa ku ada 50 orang yang menjadi PMI, 32
-          diantaranya perempuan. Ini adalah data yang ada di Desa Suci. Mereka
-          berangkat dengan cara prosedural. Aku berharap dengan adanya
-          pelatihan-pelatihan pemberdayaan perempuan seperti pelatihan membuat
-          kue, mendaur ulang sampah limbah plastik (botol dan gelas plastik, tas
-          dari bungkus kopi dan sebagainya) dan diapers bekas menjadi pot bunga
-          dan tempat sampah yang mempunyai nilai jual. Kami berharap kaum
-          perempuan di desa kami berdaya dan mandiri di dalam negeri sehingga
-          tidak perlu memilih untuk pergi keluar negeri.
+          Pada tahun&nbsp; 2022-2023, di desa ku ada 50 orang yang menjadi PMI,
+          32 diantaranya perempuan. Ini adalah data yang ada di&nbsp; Desa
+          Suci.&nbsp; Mereka berangkat dengan cara prosedural.&nbsp; Aku
+          berharap dengan adanya pelatihan-pelatihan pemberdayaan perempuan
+          seperti pelatihan membuat kue, mendaur ulang sampah limbah plastik
+          (botol dan gelas plastik, tas dari bungkus kopi dan sebagainya) dan{" "}
+          <em>diapers</em> bekas menjadi pot bunga dan tempat sampah yang&nbsp;
+          mempunyai nilai jual. Kami berharap kaum perempuan di desa kami
+          berdaya dan mandiri di dalam negeri sehingga tidak perlu memilih untuk
+          pergi keluar negeri.
         </p>
       </div>
     ),
@@ -137,27 +138,27 @@ export const story4 = {
         <p>
           Seperti biasa mentari pagi terbit dengan senyum manisnya. Menyapa
           lembut tanaman padi yang menguning, runduk bulir padi menjanjikan
-          hasil yang berlimpah, dan membuat sang pemilik tersenyum merekah.
-          Seiring mentari senja kembali ke peraduan dan berganti sinar bulan
-          begitu indah lukisan alam desaku.
+          hasil yang berlimpah, dan&nbsp; membuat sang pemilik tersenyum
+          merekah. Seiring mentari senja kembali ke peraduan dan berganti sinar
+          bulan begitu indah lukisan alam desaku.
         </p>
         <p>
           Aku hidup di lingkungan dengan 5 dari 10 orang perempuan bekerja
-          sebagai buruh tani. Pada tahun 2021, menurut pemerintah Desa Suci,
-          desaku, ada 75 perempuan yang menjadi Pekerja Migran. Mereka sudah tak
-          tertarik lagi menjadi buruh tani karena desakan perekonomian keluarga,
-          karena utang, atau alasan lainnya seperti masalah rumah tangga dan
-          perceraian. Mereka memilih berlari meninggalkan semuanya, memilih
-          terbang melewati gunung, lautan dan ribuan mil jarak yang ditempuh
-          untuk pergi ke negeri seberang dengan harapan bisa mengais Ringgit,
-          Riyal dan Dollar yang akan mengubah kehidupan mereka dengan taruhan
-          meninggalkan keluarga dan sanak saudara.
+          sebagai buruh tani. Pada&nbsp; tahun 2021, menurut pemerintah Desa
+          Suci, desaku, ada 75 perempuan yang menjadi Pekerja Migran. Mereka
+          sudah tak tertarik lagi menjadi buruh tani karena desakan perekonomian
+          keluarga, karena utang, atau alasan lainnya seperti masalah rumah
+          tangga dan perceraian. Mereka memilih berlari meninggalkan semuanya,
+          memilih terbang melewati gunung, lautan dan ribuan mil jarak
+          yang&nbsp; ditempuh untuk pergi ke negeri seberang dengan harapan bisa
+          mengais Ringgit, Riyal dan Dollar yang akan mengubah kehidupan mereka
+          dengan taruhan meninggalkan&nbsp; keluarga dan sanak saudara.
         </p>
         <p>
           Mereka tergoda dengan janji manis sang calo, tanpa mengerti dan
           memahami apakah mereka berangkat ke luar negeri dengan cara yang benar
-          apa tidak, apakah dengan cara yang prosedural dan amankah, mereka juga
-          tidak tahu.
+          apa tidak, apakah&nbsp; dengan cara yang prosedural dan amankah,&nbsp;
+          mereka juga tidak tahu.
         </p>
         <p>
           <blockquote>
@@ -187,39 +188,39 @@ export const story4 = {
           bagiku.
         </p>
         <p>
-          Untuk menopang perekonomian keluarga kami, aku dan suamiku membuka
-          toko pertanian. Aku juga terlibat dalam kegiatan di desaku sebagai
-          kader PKK dan ikut dalam komunitas bank sampah. Suatu hari, bank
-          sampah kami diundang oleh Koalisi Perempuan Indonesia (KPI) dan itulah
-          awal aku mengenal KPI. Aku berkesempatan ngobrol bersama Ibu Sutipah
-          Sekretaris Cabang KPI Kabupaten Jember. Mendengar bahwa di Desa Suci
-          tempat aku tinggal terdapat banyak migran dan purna migran, pada 23
-          September 2021 KPI masuk ke desa kami dan terbentuklah Balai Perempuan
-          Desa Suci Berseri. Balai Perempuan adalah struktur terendah dari KPI
-          dan Balai Perempuan kami memiliki 4 dewan kelompok kepentingan di
-          antaranya: 1) Dewan kelompok kepentingan purna migran, 2) Dewan
-          kepentingan buruh perkebunan, 3) Dewan kepentingan rumah tangga, 4)
-          Dewan kepentingan informal.
+          Untuk&nbsp; menopang perekonomian keluarga kami, aku dan suamiku
+          membuka toko pertanian. Aku juga terlibat dalam kegiatan di desaku
+          sebagai&nbsp; kader PKK dan ikut dalam komunitas bank sampah. Suatu
+          hari, bank sampah kami diundang oleh Koalisi Perempuan Indonesia (KPI)
+          dan itulah awal aku mengenal KPI. Aku berkesempatan ngobrol bersama
+          Ibu Sutipah Sekretaris Cabang KPI Kabupaten Jember.&nbsp; Mendengar
+          bahwa di Desa Suci tempat aku tinggal terdapat banyak migran dan purna
+          migran, pada 23 September 2021 KPI masuk ke desa kami dan terbentuklah
+          Balai Perempuan Desa Suci Berseri. Balai Perempuan adalah struktur
+          terendah dari KPI dan Balai Perempuan kami memiliki 4 dewan kelompok
+          kepentingan di antaranya: 1) Dewan kelompok kepentingan&nbsp; purna
+          migran, 2)Dewan kepentingan buruh perkebunan, 3) Dewan kepentingan
+          rumah tangga, 4) Dewan kepentingan informal.
         </p>
         <p>
           Pada 9 Oktober 2021, kami dari tiga anggota KPI dan tiga orang dari
           aparat desa diberi kesempatan mengikuti pelatihan paralegal di
-          Surabaya selama 3 hari yang didukung oleh Safe and Fair (SAF) dan UN
-          WOMEN. Tapi bukan hal yang mudah bagiku untuk mengantongi restu dan
-          izin dari suami untuk berangkat ke Surabaya. Tetapi aku berhasil
-          menyakinkan suami dengan seribu alasan dan penjelasan akhirnya aku
-          diberi izin untuk ke Surabaya.
+          Surabaya selama 3 hari yang didukung oleh <em>Safe and Fair (SAF)</em>{" "}
+          dan UN WOMEN. Tapi bukan hal yang mudah bagiku untuk mengantongi restu
+          dan izin dari suami untuk berangkat ke Surabaya. Tetapi aku
+          berhasil&nbsp; menyakinkan suami dengan seribu alasan dan penjelasan
+          akhirnya aku diberi izin untuk ke Surabaya.
         </p>
         <p>
           Dari pelatihan paralegal inilah aku mendapat begitu banyak ilmu
           tentang isu kekerasan terhadap perempuan dan anak, bagaimana
-          bermigrasi aman dan prosedural, apa itu TPPO, bullying, stereotipe,
-          dan budaya patriarki. Di tahun yang sama, desa kami akhirnya mempunyai
-          Balai Perempuaan Pusat Informasi pengaduan dan Advokasi (BP PIPA).
-          Semenjak ada BP PIPA, aku diberi kesempatan untuk memperkenalkan BP
-          PIPA dalam pertemuan PKK, Kader Posyandu, dan Pengajian Muslimat,
-          untuk memberi edukasi tentang isu kekerasan terhadap perempuan dan
-          anak.
+          bermigrasi aman dan prosedural, apa itu TPPO, <em>bullying</em>,
+          <em> stereotipe</em>, dan budaya patriarki. Di tahun yang sama, desa
+          kami akhirnya mempunyai Balai Perempuaan Pusat Informasi pengaduan dan
+          Advokasi (BP PIPA). Semenjak ada BP PIPA, aku diberi kesempatan untuk
+          memperkenalkan BP PIPA dalam pertemuan PKK, Kader Posyandu, dan
+          Pengajian Muslimat, untuk memberi edukasi tentang isu kekerasan
+          terhadap perempuan dan anak.
         </p>
         <p>
           Karena aku aktif di BP PIPA, suatu hari aku diminta mendampingi anak
@@ -236,15 +237,16 @@ export const story4 = {
           sebagai bentuk tugasku sebagai paralegal.
         </p>
         <p>
-          Pada tahun 2022-2023, di desa ku ada 50 orang yang menjadi PMI, 32
-          diantaranya perempuan. Ini adalah data yang ada di Desa Suci. Mereka
-          berangkat dengan cara prosedural. Aku berharap dengan adanya
-          pelatihan-pelatihan pemberdayaan perempuan seperti pelatihan membuat
-          kue, mendaur ulang sampah limbah plastik (botol dan gelas plastik, tas
-          dari bungkus kopi dan sebagainya) dan diapers bekas menjadi pot bunga
-          dan tempat sampah yang mempunyai nilai jual. Kami berharap kaum
-          perempuan di desa kami berdaya dan mandiri di dalam negeri sehingga
-          tidak perlu memilih untuk pergi keluar negeri.
+          Pada tahun&nbsp; 2022-2023, di desa ku ada 50 orang yang menjadi PMI,
+          32 diantaranya perempuan. Ini adalah data yang ada di&nbsp; Desa
+          Suci.&nbsp; Mereka berangkat dengan cara prosedural.&nbsp; Aku
+          berharap dengan adanya pelatihan-pelatihan pemberdayaan perempuan
+          seperti pelatihan membuat kue, mendaur ulang sampah limbah plastik
+          (botol dan gelas plastik, tas dari bungkus kopi dan sebagainya) dan{" "}
+          <em>diapers</em> bekas menjadi pot bunga dan tempat sampah yang&nbsp;
+          mempunyai nilai jual. Kami berharap kaum perempuan di desa kami
+          berdaya dan mandiri di dalam negeri sehingga tidak perlu memilih untuk
+          pergi keluar negeri.
         </p>
       </div>
     ),

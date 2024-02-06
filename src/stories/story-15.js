@@ -22,7 +22,7 @@ export const story15 = {
           Pergi ke luar negeri selalu menjadi harapan bagi sebagian orang, baik
           sebagai penyambung kehidupan maupun meneguk hausnya ilmu di negeri
           impian. Perkenalanku terhadap kisah hidup para migran yang banyak
-          berujung kesedihan dan kepiluan, dimulai di tengah pandemi Covid-19.
+          berujung kesedihan dan kepiluan, dimulai di tengah pandemi COVID-19.
           Saat itu banyak pekerja migran yang mesti dipulangkan maupun menjadi
           korban jalur penempatan non-prosedural. Hidup yang sangat berat di
           negeri sendiri, saling berebut mata pencaharian, membuat banyak
@@ -34,17 +34,29 @@ export const story15 = {
         </p>
         <p>
           Seperti salah satu korban dampingan Damar Lampung, Susan (52 tahun)
-          yang harus pulang di tengah pandemi COVID–19. Dia tidak pulang karena
-          tempat kerjanya tutup akibat pandemi, namun Susan menjadi korban
-          penganiayaan yang dilakukan oleh sang majikan. Gaji yang ia harapkan
-          tiap bulan dapat dikirimkan ke kampung halaman, nyatanya tak kunjung
-          dibayarkan. “Sudah jatuh tertimpa tangga” mungkin itu peribahasa yang
-          cocok menggambarkan kondisi Susan. Pulang saat situasi pandemi, harus
-          kembali ke tanah air membawa luka dan trauma, tanpa uang yang ia
-          harapkan menjadi tumpuan. “Nasi sudah menjadi bubur”perjalanan dua
-          tahun mengais rejeki di negeri orang tak seindah yang dibayangkan,
-          “Syukur-syukur masih dapat kumpul bersama keluarga, meski kembali
-          hidup seadanya,” kenangnya pada saat itu.
+          yang harus pulang di tengah pandemi COVID&ndash;19. Dia tidak pulang
+          karena tempat kerjanya tutup akibat pandemi, namun Susan menjadi
+          korban penganiayaan yang dilakukan oleh sang majikan. Gaji yang ia
+          harapkan tiap bulan dapat&nbsp; dikirimkan ke kampung halaman,
+          nyatanya tak kunjung dibayarkan. &ldquo;Sudah jatuh tertimpa
+          tangga&rdquo; mungkin itu peribahasa yang cocok menggambarkan kondisi
+          Susan. Pulang saat situasi pandemi, harus kembali ke tanah air membawa
+          luka dan trauma, tanpa&nbsp; uang yang ia harapkan menjadi tumpuan.
+          &ldquo;Nasi sudah menjadi bubur&rdquo; perjalanan dua tahun mengais
+          rejeki di negeri orang tak seindah yang dibayangkan,&nbsp;
+          &ldquo;Syukur-syukur masih dapat kumpul bersama keluarga, meski
+          kembali hidup seadanya,&rdquo; kenangnya pada saat itu.
+        </p>
+        <p>
+          Program <em>Safe and Fair</em> datang secercah harapan yang dulu tak
+          pernah terbayang. Perempuan migran kini mendapatkan perlindungan,
+          meski belum optimal. Bekerja dan berjuang bersama perempuan di tengah
+          keterbatasan ternyata saling menyempurnakan dan memberikan kekuatan.
+          Diri ini yang minim pengalaman, nyatanya selalu diberikan kesempatan
+          oleh Tuhan dan teman-teman untuk terus belajar. Pengalaman mendampingi
+          korban di lapangan dengan segala cerita dan kerumitan, membuka
+          kesempatan untukku menimba ilmu di negeri seberang, Belanda. Impian
+          yang sudah lama aku inginkan, yaitu menjadi pelajar migran.
         </p>
         <p>
           Pengalaman mendampingi Susan, dan banyak teman seperti Susan lainnya,
@@ -72,9 +84,9 @@ export const story15 = {
           panjang. Bagaimana nasib mereka ke depan? Sebagai generasi emas
           Indonesia yang akan meneruskan perjuangan. Masih terlintas dalam
           ingatan tentang kata-kata dari Suli (32 tahun) sebelum ia memutuskan
-          untuk menjadi pekerja migran “Ada tabungan pendidikan yang harus aku
-          siapkan agar kelak anakku pergi ke luar negeri bukan untuk menjadi
-          pekerja migran, melainkan melanjutkan pendidikan”.
+          untuk menjadi pekerja migran &ldquo;Ada tabungan pendidikan yang harus
+          aku siapkan agar kelak anakku pergi ke luar negeri bukan untuk menjadi
+          pekerja migran, melainkan melanjutkan pendidikan&rdquo;.
         </p>
         <p>
           <blockquote>
@@ -93,16 +105,16 @@ export const story15 = {
         </p>
         <p>
           Aku berharap kelak bisa menjadi agen perubahan, menjadi perempuan yang
-          maju menduduki posisi strategis, dan memperjuangkan isu yang sering
-          kali terabaikan. Keputusan untuk menempuh pendidikan ke Belanda adalah
-          sebuah impian dan harapan bahwa ilmu yang aku dapatkan kelak bisa
-          menjadi jalan untuk perubahan dan kebaikan anak pekerja migran yang
-          selalu aku doakan.
+          maju menduduki posisi strategis,&nbsp; dan memperjuangkan isu yang
+          sering kali terabaikan. Keputusan untuk menempuh pendidikan ke Belanda
+          adalah sebuah impian dan harapan bahwa ilmu yang aku dapatkan kelak
+          bisa menjadi jalan untuk perubahan dan kebaikan anak pekerja migran
+          yang selalu aku doakan.
         </p>
         <p>
           Dari sekian perjalanan program, aku belajar banyak dari para korban
-          “Terima kasih telah mengajarkan arti kehidupan bahwa mimpi memang
-          perlu diperjuangkan, dan harus dengan cara yang aman".
+          &ldquo;Terima kasih telah mengajarkan arti kehidupan bahwa mimpi
+          memang perlu diperjuangkan, dan harus dengan cara yang aman".
         </p>
       </div>
     ),
@@ -112,7 +124,7 @@ export const story15 = {
           Pergi ke luar negeri selalu menjadi harapan bagi sebagian orang, baik
           sebagai penyambung kehidupan maupun meneguk hausnya ilmu di negeri
           impian. Perkenalanku terhadap kisah hidup para migran yang banyak
-          berujung kesedihan dan kepiluan, dimulai di tengah pandemi Covid-19.
+          berujung kesedihan dan kepiluan, dimulai di tengah pandemi COVID-19.
           Saat itu banyak pekerja migran yang mesti dipulangkan maupun menjadi
           korban jalur penempatan non-prosedural. Hidup yang sangat berat di
           negeri sendiri, saling berebut mata pencaharian, membuat banyak
@@ -124,17 +136,29 @@ export const story15 = {
         </p>
         <p>
           Seperti salah satu korban dampingan Damar Lampung, Susan (52 tahun)
-          yang harus pulang di tengah pandemi COVID–19. Dia tidak pulang karena
-          tempat kerjanya tutup akibat pandemi, namun Susan menjadi korban
-          penganiayaan yang dilakukan oleh sang majikan. Gaji yang ia harapkan
-          tiap bulan dapat dikirimkan ke kampung halaman, nyatanya tak kunjung
-          dibayarkan. “Sudah jatuh tertimpa tangga” mungkin itu peribahasa yang
-          cocok menggambarkan kondisi Susan. Pulang saat situasi pandemi, harus
-          kembali ke tanah air membawa luka dan trauma, tanpa uang yang ia
-          harapkan menjadi tumpuan. “Nasi sudah menjadi bubur”perjalanan dua
-          tahun mengais rejeki di negeri orang tak seindah yang dibayangkan,
-          “Syukur-syukur masih dapat kumpul bersama keluarga, meski kembali
-          hidup seadanya,” kenangnya pada saat itu.
+          yang harus pulang di tengah pandemi COVID&ndash;19. Dia tidak pulang
+          karena tempat kerjanya tutup akibat pandemi, namun Susan menjadi
+          korban penganiayaan yang dilakukan oleh sang majikan. Gaji yang ia
+          harapkan tiap bulan dapat&nbsp; dikirimkan ke kampung halaman,
+          nyatanya tak kunjung dibayarkan. &ldquo;Sudah jatuh tertimpa
+          tangga&rdquo; mungkin itu peribahasa yang cocok menggambarkan kondisi
+          Susan. Pulang saat situasi pandemi, harus kembali ke tanah air membawa
+          luka dan trauma, tanpa&nbsp; uang yang ia harapkan menjadi tumpuan.
+          &ldquo;Nasi sudah menjadi bubur&rdquo; perjalanan dua tahun mengais
+          rejeki di negeri orang tak seindah yang dibayangkan,&nbsp;
+          &ldquo;Syukur-syukur masih dapat kumpul bersama keluarga, meski
+          kembali hidup seadanya,&rdquo; kenangnya pada saat itu.
+        </p>
+        <p>
+          Program <em>Safe and Fair</em> datang secercah harapan yang dulu tak
+          pernah terbayang. Perempuan migran kini mendapatkan perlindungan,
+          meski belum optimal. Bekerja dan berjuang bersama perempuan di tengah
+          keterbatasan ternyata saling menyempurnakan dan memberikan kekuatan.
+          Diri ini yang minim pengalaman, nyatanya selalu diberikan kesempatan
+          oleh Tuhan dan teman-teman untuk terus belajar. Pengalaman mendampingi
+          korban di lapangan dengan segala cerita dan kerumitan, membuka
+          kesempatan untukku menimba ilmu di negeri seberang, Belanda. Impian
+          yang sudah lama aku inginkan, yaitu menjadi pelajar migran.
         </p>
         <p>
           Pengalaman mendampingi Susan, dan banyak teman seperti Susan lainnya,
@@ -162,9 +186,9 @@ export const story15 = {
           panjang. Bagaimana nasib mereka ke depan? Sebagai generasi emas
           Indonesia yang akan meneruskan perjuangan. Masih terlintas dalam
           ingatan tentang kata-kata dari Suli (32 tahun) sebelum ia memutuskan
-          untuk menjadi pekerja migran “Ada tabungan pendidikan yang harus aku
-          siapkan agar kelak anakku pergi ke luar negeri bukan untuk menjadi
-          pekerja migran, melainkan melanjutkan pendidikan”.
+          untuk menjadi pekerja migran &ldquo;Ada tabungan pendidikan yang harus
+          aku siapkan agar kelak anakku pergi ke luar negeri bukan untuk menjadi
+          pekerja migran, melainkan melanjutkan pendidikan&rdquo;.
         </p>
         <p>
           <blockquote>
@@ -183,16 +207,16 @@ export const story15 = {
         </p>
         <p>
           Aku berharap kelak bisa menjadi agen perubahan, menjadi perempuan yang
-          maju menduduki posisi strategis, dan memperjuangkan isu yang sering
-          kali terabaikan. Keputusan untuk menempuh pendidikan ke Belanda adalah
-          sebuah impian dan harapan bahwa ilmu yang aku dapatkan kelak bisa
-          menjadi jalan untuk perubahan dan kebaikan anak pekerja migran yang
-          selalu aku doakan.
+          maju menduduki posisi strategis,&nbsp; dan memperjuangkan isu yang
+          sering kali terabaikan. Keputusan untuk menempuh pendidikan ke Belanda
+          adalah sebuah impian dan harapan bahwa ilmu yang aku dapatkan kelak
+          bisa menjadi jalan untuk perubahan dan kebaikan anak pekerja migran
+          yang selalu aku doakan.
         </p>
         <p>
           Dari sekian perjalanan program, aku belajar banyak dari para korban
-          “Terima kasih telah mengajarkan arti kehidupan bahwa mimpi memang
-          perlu diperjuangkan, dan harus dengan cara yang aman".
+          &ldquo;Terima kasih telah mengajarkan arti kehidupan bahwa mimpi
+          memang perlu diperjuangkan, dan harus dengan cara yang aman".
         </p>
       </div>
     ),
