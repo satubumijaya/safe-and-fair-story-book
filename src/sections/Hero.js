@@ -55,7 +55,7 @@ export default function Hero() {
         </div>
 
         <div className="flex flex-col items-stretch overflow-hidden bg-main text-white lg:flex-row">
-          <div className="flex w-full max-w-xl flex-1 items-center">
+          <div className="z-10 flex w-full max-w-xl flex-1 items-center">
             <div className="w-full flex-1 flex-col py-14  pl-6 md:pl-16">
               <SafTitle className="" color="white" maxWidth={390} />
               <div className="mt-10">
