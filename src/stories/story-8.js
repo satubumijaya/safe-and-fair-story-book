@@ -140,6 +140,12 @@ export const story8 = {
           dan bisa bermanfaat untuk banyak orang. Itu adalah keberadaan Ibu
           Faoziah di desanya.
         </p>
+        <p>
+          <em>
+            Dian Roudlotul Jannah adalah Pendamping Komunitas Desa dan Pesantren
+            di WCC Mawar Balqis Cirebon
+          </em>
+        </p>
       </div>
     ),
     id: (
@@ -265,6 +271,12 @@ export const story8 = {
           menurut orang lain itu tidak ada gunanya bisa menjadi hal yang besar
           dan bisa bermanfaat untuk banyak orang. Itu adalah keberadaan Ibu
           Faoziah di desanya.
+        </p>
+        <p>
+          <em>
+            Dian Roudlotul Jannah adalah Pendamping Komunitas Desa dan Pesantren
+            di WCC Mawar Balqis Cirebon
+          </em>
         </p>
       </div>
     ),

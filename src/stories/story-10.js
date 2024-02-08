@@ -88,6 +88,9 @@ export const story10 = {
           terhadap pencegahan kekerasan berbasis gender dan perdagangan orang di
           Jawa Barat.
         </p>
+        <p>
+          <em> Sri Wahyuni, Program Manager Yayasan SAPA</em>
+        </p>
       </div>
     ),
     id: (
@@ -161,6 +164,9 @@ export const story10 = {
           aku dan orang muda lainnya bisa membuktikan&nbsp; kontribusi kami
           terhadap pencegahan kekerasan berbasis gender dan perdagangan orang di
           Jawa Barat.
+        </p>
+        <p>
+          <em> Sri Wahyuni, Program Manager Yayasan SAPA</em>
         </p>
       </div>
     ),

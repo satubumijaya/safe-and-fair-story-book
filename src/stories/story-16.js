@@ -322,6 +322,12 @@ export const story16 = {
           hari semakin saya yakini jika cara paling ampuh untuk menyembuhkan
           luka diri adalah membantu orang lain menyembuhkan lukanya.
         </p>
+        <p>
+          <em>
+            Nunung Fitriana, seorang Guru dan Sekretaris Cabang Sumenep Koalisi
+            Perempuan Indonesia
+          </em>
+        </p>
       </div>
     ),
     id: (
@@ -629,6 +635,12 @@ export const story16 = {
           banyak tempat berdaya saya merasa bermakna sebagai manusia. Semakin
           hari semakin saya yakini jika cara paling ampuh untuk menyembuhkan
           luka diri adalah membantu orang lain menyembuhkan lukanya.
+        </p>
+        <p>
+          <em>
+            Nunung Fitriana, seorang Guru dan Sekretaris Cabang Sumenep Koalisi
+            Perempuan Indonesia
+          </em>
         </p>
       </div>
     ),

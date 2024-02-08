@@ -85,6 +85,12 @@ export const story5 = {
           psikologi Exafit untuk kerjasama memberikan layanan pendampingan
           korban.
         </p>
+        <p>
+          <em>
+            Rulis Diana, sehari-hari bekerja sebagai Pendidik, Sekretaris Cabang
+            Banyuwangi, Koalisi Perempuan Indonesia.
+          </em>
+        </p>
       </div>
     ),
     id: (
@@ -155,6 +161,12 @@ export const story5 = {
           juga telah membuat nota kesepahaman dan kerjasama MOU dengan lembaga
           psikologi Exafit untuk kerjasama memberikan layanan pendampingan
           korban.
+        </p>
+        <p>
+          <em>
+            Rulis Diana, sehari-hari bekerja sebagai Pendidik, Sekretaris Cabang
+            Banyuwangi, Koalisi Perempuan Indonesia.
+          </em>
         </p>
       </div>
     ),

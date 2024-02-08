@@ -130,6 +130,13 @@ export const story3 = {
           tidak putus asa, tetaplah menjadi teman, bagi mereka yang terluka dan
           menjadikan luka sebagai kekuatan untuk kita.
         </p>
+        <p>
+          <em>
+            Sugih Hartini adalah penyintas kekerasan terhadap perempuan yang
+            telah bertransformasi menjadi pendamping korban. Saat ini beliau
+            bekerja Yayasan SAPA dan aktif di Bale Istri.{" "}
+          </em>
+        </p>
       </div>
     ),
     id: (
@@ -245,6 +252,13 @@ export const story3 = {
           Saya berharap saya dan teman-teman pendamping lainnya tetap semangat,
           tidak putus asa, tetaplah menjadi teman, bagi mereka yang terluka dan
           menjadikan luka sebagai kekuatan untuk kita.
+        </p>
+        <p>
+          <em>
+            Sugih Hartini adalah penyintas kekerasan terhadap perempuan yang
+            telah bertransformasi menjadi pendamping korban. Saat ini beliau
+            bekerja Yayasan SAPA dan aktif di Bale Istri.{" "}
+          </em>
         </p>
       </div>
     ),

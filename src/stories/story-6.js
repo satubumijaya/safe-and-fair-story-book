@@ -121,6 +121,14 @@ export const story6 = {
           <em>Safe and Fair </em>&nbsp;untuk kami dapat terus berdaya dan kuat
           bersuara.
         </p>
+        <p>
+          <em>
+            Ria Febriyanti adalah Staf Pendamping program Perempuan dan Anak di
+            Yayasan Embun Pelangi Batam Kepulauan Riau dan Pembina di Komunitas
+            anak muda Komunitas Anak Muda Anti Perdagangan Orang dan Eksploitasi
+            Seksual (KOMPAK)
+          </em>
+        </p>
       </div>
     ),
     id: (
@@ -227,6 +235,14 @@ export const story6 = {
           selalu memberikan penguatan pemahaman kepada kami dengan program{" "}
           <em>Safe and Fair </em>&nbsp;untuk kami dapat terus berdaya dan kuat
           bersuara.
+        </p>
+        <p>
+          <em>
+            Ria Febriyanti adalah Staf Pendamping program Perempuan dan Anak di
+            Yayasan Embun Pelangi Batam Kepulauan Riau dan Pembina di Komunitas
+            anak muda Komunitas Anak Muda Anti Perdagangan Orang dan Eksploitasi
+            Seksual (KOMPAK)
+          </em>
         </p>
       </div>
     ),

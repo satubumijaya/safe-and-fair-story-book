@@ -121,6 +121,11 @@ export const story11 = {
           bagikan kepada dunia. Seperti <em>quotes</em> yang sering aku dengar
           di komunitas, bahwa pengalaman perempuan adalah sumber pengetahuan.
         </p>
+        <p>
+          <em>
+            Elizabeth Rona adalah anggota Mulead Lampung Perkumpulan Damar
+          </em>
+        </p>
       </div>
     ),
     id: (
@@ -227,6 +232,11 @@ export const story11 = {
           menjadi sebuah pengetahuan yang tak hanya aku miliki, tapi bisa aku
           bagikan kepada dunia. Seperti <em>quotes</em> yang sering aku dengar
           di komunitas, bahwa pengalaman perempuan adalah sumber pengetahuan.
+        </p>
+        <p>
+          <em>
+            Elizabeth Rona adalah anggota Mulead Lampung Perkumpulan Damar
+          </em>
         </p>
       </div>
     ),

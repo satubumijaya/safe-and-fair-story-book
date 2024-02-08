@@ -125,6 +125,9 @@ export const story12 = {
           ucapkan, &ldquo;Perubahan ini aku persembahkan untukmu, ibu."
           <em>I Love you Mom</em>.&rdquo;
         </p>
+        <p>
+          <em>Faoziah adalah Pendamping Komunitas WCC Mawar Balqis Cirebon</em>
+        </p>
       </div>
     ),
     id: (
@@ -235,6 +238,9 @@ export const story12 = {
           Untuk perempuan terhebat dalam hidupku, hanya satu kata yang bisa ku
           ucapkan, &ldquo;Perubahan ini aku persembahkan untukmu, ibu."
           <em>I Love you Mom</em>.&rdquo;
+        </p>
+        <p>
+          <em>Faoziah adalah Pendamping Komunitas WCC Mawar Balqis Cirebon</em>
         </p>
       </div>
     ),

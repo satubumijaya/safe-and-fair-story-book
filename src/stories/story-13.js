@@ -98,6 +98,12 @@ export const story13 = {
           lebih berdaya setelah menjadi penyintas. Mendampingi korban membuat
           saya lebih banyak belajar dan menjadi lebih kuat.
         </p>
+        <p>
+          <em>
+            Venolia Adeningrum adalah seorang pendamping Korban di WCC Mawar
+            Balqis Cirebon
+          </em>
+        </p>
       </div>
     ),
     id: (
@@ -181,6 +187,12 @@ export const story13 = {
           anak. sekaligus melindungi dan menyelamatkan korban, serta korban bisa
           lebih berdaya setelah menjadi penyintas. Mendampingi korban membuat
           saya lebih banyak belajar dan menjadi lebih kuat.
+        </p>
+        <p>
+          <em>
+            Venolia Adeningrum adalah seorang pendamping Korban di WCC Mawar
+            Balqis Cirebon
+          </em>
         </p>
       </div>
     ),

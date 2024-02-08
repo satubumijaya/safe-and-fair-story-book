@@ -148,6 +148,12 @@ export const story7 = {
           Semoga gerakan Lungsuran ini bisa menjadi energi baru untuk merawat
           kerelawanan dan gerakan.
         </p>
+        <p>
+          <em>
+            Rita Ramadani, Manager Program Perempuan dan Anak di Yayasan Embun
+            Pelangi Batam
+          </em>
+        </p>
       </div>
     ),
     id: (
@@ -281,6 +287,12 @@ export const story7 = {
           menggambarkan 7 wilayah kabupaten kota yang berada di Kepulauan Riau.
           Semoga gerakan Lungsuran ini bisa menjadi energi baru untuk merawat
           kerelawanan dan gerakan.
+        </p>
+        <p>
+          <em>
+            Rita Ramadani, Manager Program Perempuan dan Anak di Yayasan Embun
+            Pelangi Batam
+          </em>
         </p>
       </div>
     ),

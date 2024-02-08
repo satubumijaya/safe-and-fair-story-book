@@ -130,6 +130,9 @@ export const story2 = {
           berdaya secara ekonomi dan bisa menjadi pelopor dan pelapor bagi
           teman-teman yang mengalami kasus seperti yang saya alami.
         </p>
+        <p>
+          <em>Yuliani, Purna PMI, Penyintas Kekerasan. </em>
+        </p>
       </div>
     ),
     id: (
@@ -245,6 +248,9 @@ export const story2 = {
           teman-teman yang lain dan harapan saya kedepannya bisa lebih mandiri
           berdaya secara ekonomi dan bisa menjadi pelopor dan pelapor bagi
           teman-teman yang mengalami kasus seperti yang saya alami.
+        </p>
+        <p>
+          <em>Yuliani, Purna PMI, Penyintas Kekerasan. </em>
         </p>
       </div>
     ),

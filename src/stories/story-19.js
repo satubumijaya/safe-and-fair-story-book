@@ -140,6 +140,9 @@ export const story19 = {
           Istri, kami terus belajar bersama untuk lebih mengenal arti
           sesungguhnya dari kata &ldquo;perempuan.&rdquo;
         </p>
+        <p>
+          <em>Sri Nursyifa, Staff Komunitas Yayasan SAPA</em>
+        </p>
       </div>
     ),
     id: (
@@ -265,6 +268,9 @@ export const story19 = {
           masyarakat yang patriarki. Aku, <em>Teh</em> Sugih dan Ibu-ibu Bale
           Istri, kami terus belajar bersama untuk lebih mengenal arti
           sesungguhnya dari kata &ldquo;perempuan.&rdquo;
+        </p>
+        <p>
+          <em>Sri Nursyifa, Staff Komunitas Yayasan SAPA</em>
         </p>
       </div>
     ),

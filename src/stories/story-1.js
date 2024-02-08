@@ -64,6 +64,7 @@ export const story1 = {
           lihat. Harapan saya kedepannya, saya bisa belajar lebih banyak lagi,
           menjadi pekerja migran dan ibu muda yang sukses.
         </p>
+        <p>Susilawati adalah purna dan calon PMI asal Desa Tangkil Cirebon </p>
       </div>
     ),
     id: (
@@ -113,6 +114,11 @@ export const story1 = {
           nasib buruk juga bisa dialami seperti kasus-kasus yang saya dengar dan
           lihat. Harapan saya kedepannya, saya bisa belajar lebih banyak lagi,
           menjadi pekerja migran dan ibu muda yang sukses.
+        </p>
+        <p>
+          <em>
+            Susilawati adalah purna dan calon PMI asal Desa Tangkil Cirebon{" "}
+          </em>
         </p>
       </div>
     ),

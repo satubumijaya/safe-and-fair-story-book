@@ -98,6 +98,11 @@ export const story18 = {
           membawa kenangan manis, bukan malah pulang dengan membawa kesedihan
           dan trauma.
         </p>
+        <p>
+          <em>
+            Sogi Alamsyach, Staff Divisi Media, Yayasan Embun Pelangi Batam
+          </em>
+        </p>
       </div>
     ),
     id: (
@@ -181,6 +186,11 @@ export const story18 = {
           kerja di Kota Batam bisa pulang kembali ke kampung halaman dengan
           membawa kenangan manis, bukan malah pulang dengan membawa kesedihan
           dan trauma.
+        </p>
+        <p>
+          <em>
+            Sogi Alamsyach, Staff Divisi Media, Yayasan Embun Pelangi Batam
+          </em>
         </p>
       </div>
     ),

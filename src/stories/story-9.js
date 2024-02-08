@@ -108,6 +108,12 @@ export const story9 = {
           jika semua kita jalani dengan niat dan cara yang baik aku yakin akan
           baik pula hasilnya. (ff)
         </p>
+        <p>
+          <em>
+            Fifi Ekawati Rohmah, sehari-hari bekerja sebagai Guru, Sekretaris
+            Wilayah Koalisi Perempuan Indonesia
+          </em>
+        </p>
       </div>
     ),
     id: (
@@ -201,6 +207,12 @@ export const story9 = {
           kita ambil pasti akan beresiko baik itu positif atau negatif. Tapi
           jika semua kita jalani dengan niat dan cara yang baik aku yakin akan
           baik pula hasilnya. (ff)
+        </p>
+        <p>
+          <em>
+            Fifi Ekawati Rohmah, sehari-hari bekerja sebagai Guru, Sekretaris
+            Wilayah Koalisi Perempuan Indonesia
+          </em>
         </p>
       </div>
     ),

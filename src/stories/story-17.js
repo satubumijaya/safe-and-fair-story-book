@@ -74,6 +74,12 @@ export const story17 = {
           saya dapat memberikan manfaat kepada banyak orang dan menyebarkan
           pengetahuan yang saya miliki.
         </p>
+        <p>
+          <em>
+            Dira Septiani, Bendahara di Komunitas Orang Muda Anti Perdagangan
+            Orang dan Eksploitasi Seksual Anak (KOMPAK) Batam
+          </em>
+        </p>
       </div>
     ),
     id: (
@@ -133,6 +139,12 @@ export const story17 = {
           hidup saya dalam bentuk tulisan. Harapan saya semoga dengan menulis
           saya dapat memberikan manfaat kepada banyak orang dan menyebarkan
           pengetahuan yang saya miliki.
+        </p>
+        <p>
+          <em>
+            Dira Septiani, Bendahara di Komunitas Orang Muda Anti Perdagangan
+            Orang dan Eksploitasi Seksual Anak (KOMPAK) Batam
+          </em>
         </p>
       </div>
     ),

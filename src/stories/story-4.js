@@ -131,6 +131,13 @@ export const story4 = {
           berdaya dan mandiri di dalam negeri sehingga tidak perlu memilih untuk
           pergi keluar negeri.
         </p>
+        <p>
+          <em>
+            Yekti Puji Rahayu adalah pendiri dan pengurus Balai Perempuaan Pusat
+            Informasi pengaduan dan Advokasi di Desa Suci, Jember dan anggota
+            Koalisi Perempuan Indonesia Jawa Timur
+          </em>
+        </p>
       </div>
     ),
     id: (
@@ -247,6 +254,13 @@ export const story4 = {
           mempunyai nilai jual. Kami berharap kaum perempuan di desa kami
           berdaya dan mandiri di dalam negeri sehingga tidak perlu memilih untuk
           pergi keluar negeri.
+        </p>
+        <p>
+          <em>
+            Yekti Puji Rahayu adalah pendiri dan pengurus Balai Perempuaan Pusat
+            Informasi pengaduan dan Advokasi di Desa Suci, Jember dan anggota
+            Koalisi Perempuan Indonesia Jawa Timur
+          </em>
         </p>
       </div>
     ),
