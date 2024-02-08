@@ -92,12 +92,12 @@ export default function Hero() {
               style={{ backgroundImage: `url(${concave})` }}
             ></div>
             <div className="absolute inset-0 z-10 w-14 bg-main-dark opacity-50"></div>
-            <Slider ref={sliderRef} dots={true} arrows={false} autoplay={true}>
+            <Slider ref={sliderRef} dots={true} arrows={false} autoplay={false}>
               {stories.map((story, key) => {
                 return (
-                  <div className="" key={key}>
+                  <div className="h-full min-h-full" key={key}>
                     <div
-                      className="bg pt-[55%]"
+                      className="bg h-full min-h-full pt-[55%]"
                       style={{
                         backgroundImage: `url(${story?.thumbnail})`,
                       }}
