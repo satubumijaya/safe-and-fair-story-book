@@ -38,6 +38,7 @@ export default function LightboxModal() {
     setLightBox({
       image: currentStory?.gallery[newIndex]?.image,
       caption: currentStory?.gallery[newIndex]?.caption,
+      credit: currentStory?.gallery[newIndex]?.credit,
       index: newIndex,
     });
   };
