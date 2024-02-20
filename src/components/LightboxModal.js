@@ -101,7 +101,9 @@ export default function LightboxModal() {
               <div>
                 <div className="relative">
                   <img src={lightbox?.image} alt="" className="max-h-[80svh] w-full max-w-screen-md lg:max-h-[calc(90svh-6rem)]" />
-                  <div className="absolute bottom-4 left-4 right-4 text-right text-xs text-white drop-shadow-lg">{lightbox?.credit && lightbox?.credit[lang]}</div>
+                  <div className="absolute bottom-0 left-0 right-0  text-right text-xs text-white">
+                    <span className="inline-block bg-black bg-opacity-70 px-4 py-1.5">{lightbox?.credit && lightbox?.credit[lang]}</span>
+                  </div>
                 </div>
                 <div className="absolute bottom-0 left-0 w-full bg-black px-6 py-4 text-sm text-white md:px-8" ref={captionRef}>
                   <div className="border-l border-l-white py-1 pl-4">{lightbox?.caption && lightbox?.caption[lang]}</div>

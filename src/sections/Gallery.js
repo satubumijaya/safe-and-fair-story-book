@@ -9,25 +9,16 @@ import { useTranslation } from "react-i18next";
 
 export default function Gallery() {
   const { t, i18n, ready } = useTranslation();
-  const { setGalleryModalIsOpen, stories, setCurrentStory } =
-    useContext(AppContext);
+  const { setGalleryModalIsOpen, stories, setCurrentStory } = useContext(AppContext);
   const homeIndex = 17;
   // const [windowWidth, setWindowWidth] = useState(window.innerWidth);
   const [compiledStories, setCompiledStories] = useState(stories);
 
   const updateWindowWidth = () => {
     if (window.innerWidth >= 1024) {
-      setCompiledStories([
-        ...stories.slice(0, homeIndex),
-        { type: "home" },
-        ...stories.slice(homeIndex),
-      ]);
+      setCompiledStories([...stories.slice(0, homeIndex), { type: "home" }, ...stories.slice(homeIndex)]);
     } else {
-      setCompiledStories([
-        ...stories.slice(0, 19),
-        { type: "home" },
-        ...stories.slice(19),
-      ]);
+      setCompiledStories([...stories.slice(0, 19), { type: "home" }, ...stories.slice(19)]);
     }
   };
 
@@ -43,16 +34,10 @@ export default function Gallery() {
           {compiledStories.map((story, key) => {
             if (story?.type == "home") {
               return (
-                <div
-                  key={key}
-                  className="group  relative h-full w-full cursor-pointer bg-neutral-500 transition-colors duration-500 hover:bg-main-dark"
-                  onClick={() => window.fullpage_api.moveTo("home")}
-                >
+                <div key={key} className="group  relative h-full w-full cursor-pointer bg-neutral-500 transition-colors duration-500 hover:bg-main-dark" onClick={() => window.fullpage_api.moveTo("home")}>
                   <div className="flex h-full flex-col">
                     <div className="m-auto">
-                      <div className="font-semibold uppercase tracking-widest text-white">
-                        {t("gallery.home")}
-                      </div>
+                      <div className="font-semibold uppercase tracking-widest text-white">{t("gallery.home")}</div>
                       <div className="flex flex-col">
                         <div className="mx-auto h-0 w-0 border-8 border-solid border-transparent border-b-white"></div>
                         <div className=" h-[1px] w-full bg-white"></div>
@@ -79,9 +64,7 @@ export default function Gallery() {
                       <div className="mt-[2px] h-[1px] w-full bg-white"></div>
                       <div className="mx-auto h-0 w-0 border-4 border-solid border-transparent border-t-white"></div>
                     </div>
-                    <div className="bg-black bg-opacity-50 px-2 py-2 text-center text-xs">
-                      {story.name}
-                    </div>
+                    <div className="bg-black bg-opacity-50 px-2 py-2 text-center text-xs">{story.name}</div>
                   </div>
                 </div>
                 <div
@@ -102,28 +85,20 @@ export default function Gallery() {
     <div className="section">
       <div className="relative z-0 overflow-hidden bg-main">
         <div className=" relative z-10 mx-auto h-full min-h-screen w-full max-w-[920px] bg-white py-16 2xl:max-w-screen-xl">
-          <div className="flex w-full flex-col content-between items-end pb-16 md:flex-row">
+          <div className="flex w-full flex-col content-between items-end pb-10 md:flex-row md:pb-16">
             <div className="mb-4 w-full flex-1 px-6 text-left md:mb-0 md:px-10">
               <SafTitleOnly maxWidth={260} />
             </div>
-            <div className="ml-auto flex items-center pl-6 md:translate-x-20">
-              <div className="mr-2 whitespace-nowrap text-right">
-                Galeri 19 Penulis Cerita Perubahan
-              </div>
-              <div className="relative flex h-[1px] w-40 max-w-md bg-gray-500 after:absolute after:right-0 after:top-0 after:hidden after:h-[1px] after:w-1/2 after:bg-white after:content-[''] md:after:block"></div>
+            <div className="mr-auto flex items-center px-6 md:px-10 lg:ml-auto lg:mr-0">
+              <div className=" whitespace-nowrap text-right">Galeri 19 Penulis Cerita Perubahan</div>
+              {/* <div className="relative flex h-[1px] w-40 max-w-md bg-gray-500 after:absolute after:right-0 after:top-0 after:hidden after:h-[1px] after:w-1/2 after:bg-white after:content-[''] md:after:block"></div> */}
             </div>
           </div>
           {/* galerry */}
           {renderGalleryImages()}
 
-          <div
-            className="absolute left-0 top-1/2 -z-10 h-1/2 w-1/2 -translate-x-[30%] -translate-y-[50%] bg-contain bg-no-repeat"
-            style={{ backgroundImage: `url(${convex})` }}
-          ></div>
-          <div
-            className="absolute right-0 top-1/2  -z-10 h-1/2 w-1/2 -translate-y-[50%] translate-x-[30%] bg-contain bg-right bg-no-repeat"
-            style={{ backgroundImage: `url(${concave})` }}
-          ></div>
+          <div className="absolute left-0 top-1/2 -z-10 h-1/2 w-1/2 -translate-x-[30%] -translate-y-[50%] bg-contain bg-no-repeat" style={{ backgroundImage: `url(${convex})` }}></div>
+          <div className="absolute right-0 top-1/2  -z-10 h-1/2 w-1/2 -translate-y-[50%] translate-x-[30%] bg-contain bg-right bg-no-repeat" style={{ backgroundImage: `url(${concave})` }}></div>
         </div>
         {/* <div className="absolute left-0 top-0 -z-10 h-full w-1/2"></div> */}
         {/* <div className="absolute right-0 top-0 -z-10 h-full w-1/2 bg-main-dark"></div> */}

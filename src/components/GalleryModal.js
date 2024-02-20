@@ -11,18 +11,9 @@ export default function GalleryModal() {
   const lang = i18n.language;
   const modalRef = useRef(null);
 
-  const {
-    galleryModalIsOpen,
-    setCurrentStory,
-    stories,
-    setGalleryModalIsOpen,
-    currentStory,
-    setLightBox,
-  } = useContext(AppContext);
+  const { galleryModalIsOpen, setCurrentStory, stories, setGalleryModalIsOpen, currentStory, setLightBox } = useContext(AppContext);
 
-  const renderBackdrop = (props) => (
-    <div className="backdrop fixed inset-0 bg-black bg-opacity-80" {...props} />
-  );
+  const renderBackdrop = (props) => <div className="backdrop fixed inset-0 bg-black bg-opacity-80" {...props} />;
 
   const closeModal = () => {
     window.fullpage_api.setAllowScrolling(true);
@@ -92,17 +83,8 @@ export default function GalleryModal() {
                   }}
                   className="-top-12 right-0 top-0 ml-auto bg-main p-2 transition-colors hover:bg-main-dark"
                 >
-                  <svg
-                    viewBox="0 0 22.43 22.43"
-                    xmlns="http://www.w3.org/2000/svg"
-                    className="h-5 w-5"
-                  >
-                    <g
-                      fill="#fff"
-                      stroke="#fff"
-                      strokeMiterlimit="10"
-                      strokeWidth="2"
-                    >
+                  <svg viewBox="0 0 22.43 22.43" xmlns="http://www.w3.org/2000/svg" className="h-5 w-5">
+                    <g fill="#fff" stroke="#fff" strokeMiterlimit="10" strokeWidth="2">
                       <path d="m.71 21.72 21.01-21.01" />
                       <path d="m21.72 21.72-21.01-21.01" />
                     </g>
@@ -165,43 +147,29 @@ export default function GalleryModal() {
                           {t("title.bottom")}
                         </div>
                         <div className="ml-3 flex-grow">
-                          <div
-                            className={`h-[1px] w-full flex-grow bg-neutral-700 md:w-20`}
-                          ></div>
+                          <div className={`h-[1px] w-full flex-grow bg-neutral-700 md:w-20`}></div>
                         </div>
                       </div>
                     </div>
                   </div>
 
                   <div className="relative">
-                    <img
-                      className="w-full"
-                      src={currentStory?.thumbnail}
-                      alt=""
-                    />
+                    <img className="w-full" src={currentStory?.thumbnail} alt="" />
                     <div className="absolute bottom-0 left-0 mx-auto w-full bg-opacity-50 bg-gradient-to-b from-transparent to-neutral-700 pb-6 pt-20 md:to-black/60 md:px-10 md:pb-10 lg:pb-10">
                       <div className="mx-auto flex max-w-[700px] flex-col px-6 text-white md:flex-row md:px-0">
                         <div className="whitespace-nowrap text-3xl">
-                          <h3 className="border-white pr-6 md:border-r">
-                            {currentStory?.name}
-                          </h3>
+                          <h3 className="border-white pr-6 md:border-r">{currentStory?.name}</h3>
                         </div>
-                        <div className="hidden text-xs md:block md:pl-6">
-                          {currentStory?.thumbnail_caption[[lang]]}
-                        </div>
+                        <div className="hidden text-xs md:block md:pl-6">{currentStory?.thumbnail_caption[[lang]]}</div>
                       </div>
                     </div>
 
-                    <div className="absolute bottom-10 left-full right-2 hidden  -translate-x-4 whitespace-nowrap  text-xs text-white drop-shadow-md md:block">
-                      <div className="-rotate-90">
-                        {currentStory?.thumbnail_credit[[lang]]}
-                      </div>
+                    <div className="absolute bottom-10 left-full right-2 hidden  -translate-x-4 whitespace-nowrap  text-xs text-white drop-shadow-[0_2px_2px_rgba(0,0,0,0.8)] md:block">
+                      <div className="-rotate-90">{currentStory?.thumbnail_credit[[lang]]}</div>
                     </div>
                   </div>
                   <div className=" flex flex-col gap-3 bg-neutral-700 px-6 pb-6 pt-2 text-xs text-white md:hidden">
-                    <div className="">
-                      {currentStory?.thumbnail_caption[[lang]]}
-                    </div>
+                    <div className="">{currentStory?.thumbnail_caption[[lang]]}</div>
                     <div>{currentStory?.thumbnail_credit[[lang]]}</div>
                   </div>
 
@@ -209,17 +177,11 @@ export default function GalleryModal() {
                     <div className="mx-auto max-w-[700px]">
                       <div className="mb-6">
                         <div className="inline-block rounded bg-neutral-200 px-4 py-1 text-sm">
-                          <span
-                            onClick={() => breadcrumbClick("home")}
-                            className="cursor-pointer transition hover:text-black"
-                          >
+                          <span onClick={() => breadcrumbClick("home")} className="cursor-pointer transition hover:text-black">
                             {t("stories.home")}
                           </span>
                           {" / "}
-                          <span
-                            onClick={() => breadcrumbClick("gallery")}
-                            className="cursor-pointer transition hover:text-black"
-                          >
+                          <span onClick={() => breadcrumbClick("gallery")} className="cursor-pointer transition hover:text-black">
                             {t("stories.gallery")}
                           </span>
                           {" / "}
@@ -228,9 +190,7 @@ export default function GalleryModal() {
                           </span>
                         </div>
                       </div>
-                      <h3 className="mb-10 text-4xl font-semibold">
-                        {currentStory?.title[lang]}
-                      </h3>
+                      <h3 className="mb-10 text-4xl font-semibold">{currentStory?.title[lang]}</h3>
                       {currentStory?.content[lang]}
                     </div>
                   </div>
@@ -262,15 +222,8 @@ export default function GalleryModal() {
                             </div>
                             <div className="group:hover: absolute inset-0 bg-main bg-opacity-70 opacity-0 transition-all duration-300 group-hover:opacity-100">
                               <div className="flex h-full w-full">
-                                <svg
-                                  viewBox="0 0 45.52 45.71"
-                                  xmlns="http://www.w3.org/2000/svg"
-                                  className="mx-auto my-auto h-10 w-10"
-                                >
-                                  <path
-                                    d="m40.76 45.71-11.34-11.34c-.65-.65-.65-1.7 0-2.35 0 0 .02-.02.03-.02l-3.82-3.82c-2.79 2.22-6.22 3.43-9.83 3.43-4.17 0-8.1-1.61-11.07-4.53-6.22-6.1-6.31-16.13-.21-22.35 2.96-3.01 6.91-4.69 11.13-4.73s8.2 1.57 11.22 4.52c3.01 2.96 4.69 6.91 4.73 11.13.03 3.75-1.23 7.32-3.6 10.18l3.8 3.8s.02-.02.02-.03c.65-.65 1.7-.65 2.35 0l11.34 11.34-4.76 4.76zm-24.96-42.38c-3.23 0-6.46 1.25-8.9 3.73-4.82 4.91-4.75 12.82.16 17.64 2.35 2.3 5.45 3.57 8.74 3.57s6.39-1.27 8.74-3.57l.12-.12s.03-.03.04-.04c2.33-2.38 3.6-5.52 3.57-8.85s-1.36-6.45-3.74-8.79c-2.42-2.38-5.58-3.57-8.74-3.57z"
-                                    fill="#fff"
-                                  />
+                                <svg viewBox="0 0 45.52 45.71" xmlns="http://www.w3.org/2000/svg" className="mx-auto my-auto h-10 w-10">
+                                  <path d="m40.76 45.71-11.34-11.34c-.65-.65-.65-1.7 0-2.35 0 0 .02-.02.03-.02l-3.82-3.82c-2.79 2.22-6.22 3.43-9.83 3.43-4.17 0-8.1-1.61-11.07-4.53-6.22-6.1-6.31-16.13-.21-22.35 2.96-3.01 6.91-4.69 11.13-4.73s8.2 1.57 11.22 4.52c3.01 2.96 4.69 6.91 4.73 11.13.03 3.75-1.23 7.32-3.6 10.18l3.8 3.8s.02-.02.02-.03c.65-.65 1.7-.65 2.35 0l11.34 11.34-4.76 4.76zm-24.96-42.38c-3.23 0-6.46 1.25-8.9 3.73-4.82 4.91-4.75 12.82.16 17.64 2.35 2.3 5.45 3.57 8.74 3.57s6.39-1.27 8.74-3.57l.12-.12s.03-.03.04-.04c2.33-2.38 3.6-5.52 3.57-8.85s-1.36-6.45-3.74-8.79c-2.42-2.38-5.58-3.57-8.74-3.57z" fill="#fff" />
                                 </svg>
                               </div>
                               <div className="hidden h-8 bg-main-dark md:block"></div>
@@ -287,18 +240,12 @@ export default function GalleryModal() {
                       <div className="mx-auto flex max-w-screen-md items-end md:gap-10 lg:gap-20  ">
                         <div className="flex-1">
                           <div
-                            className={` text-right font-semibold uppercase ${
-                              currentStory?.index <= 1
-                                ? "opacity-40"
-                                : "cursor-pointer"
-                            }`}
+                            className={` text-right font-semibold uppercase ${currentStory?.index <= 1 ? "opacity-40" : "cursor-pointer"}`}
                             onClick={() => {
                               moveStory("prev");
                             }}
                           >
-                            <div className="color-neutral-700 mb-1 whitespace-nowrap pl-6 leading-5 tracking-widest">
-                              {t("stories.prev")}
-                            </div>
+                            <div className="color-neutral-700 mb-1 whitespace-nowrap pl-6 leading-5 tracking-widest">{t("stories.prev")}</div>
                             <div className="flex items-center">
                               <div className="border-y-8 border-l-0 border-r-8 border-solid border-y-transparent border-r-neutral-700"></div>
                               <div className="h-0.5 w-full flex-grow-0 bg-neutral-600"></div>
@@ -314,9 +261,7 @@ export default function GalleryModal() {
                               window.fullpage_api.moveTo("gallery");
                             }}
                           >
-                            <div className="color-neutral-700 mb-1 whitespace-nowrap px-3 leading-5 tracking-widest">
-                              {t("stories.gallery")}
-                            </div>
+                            <div className="color-neutral-700 mb-1 whitespace-nowrap px-3 leading-5 tracking-widest">{t("stories.gallery")}</div>
                             <div className="mb-2 mt-2 flex flex-col items-center">
                               <div className="border-x-8 border-b-8 border-t-0 border-solid border-x-transparent border-b-neutral-700"></div>
                               <div className="h-0.5 w-full flex-grow-0 bg-neutral-700"></div>
@@ -327,19 +272,13 @@ export default function GalleryModal() {
                         <div className="flex-1">
                           <div
                             className={`text-left font-semibold uppercase 
-                          ${
-                            currentStory?.index >= 19
-                              ? "cursor-default opacity-40"
-                              : "cursor-pointer"
-                          }
+                          ${currentStory?.index >= 19 ? "cursor-default opacity-40" : "cursor-pointer"}
                           `}
                             onClick={() => {
                               moveStory("next");
                             }}
                           >
-                            <div className="color-neutral-700 mb-1 whitespace-nowrap pr-6 leading-5 tracking-widest">
-                              {t("stories.next")}
-                            </div>
+                            <div className="color-neutral-700 mb-1 whitespace-nowrap pr-6 leading-5 tracking-widest">{t("stories.next")}</div>
                             <div className="flex items-center">
                               <div className="h-0.5 w-full flex-grow-0 bg-neutral-700"></div>
                               <div className="border-y-8 border-l-8 border-r-0 border-solid border-y-transparent border-l-neutral-700"></div>
@@ -361,9 +300,7 @@ export default function GalleryModal() {
                               window.fullpage_api.moveTo("gallery");
                             }}
                           >
-                            <div className="color-neutral-700 mb-1 whitespace-nowrap px-3 text-sm leading-5 tracking-wide">
-                              {t("stories.gallery")}
-                            </div>
+                            <div className="color-neutral-700 mb-1 whitespace-nowrap px-3 text-sm leading-5 tracking-wide">{t("stories.gallery")}</div>
                             <div className="mb-2 mt-2 flex flex-col items-center">
                               <div className="border-x-8 border-b-8 border-t-0 border-solid border-x-transparent border-b-neutral-700"></div>
                               <div className="h-0.5 w-full flex-grow-0 bg-neutral-700"></div>
@@ -373,18 +310,12 @@ export default function GalleryModal() {
                         <div className="flex w-full gap-6">
                           <div className="w-full flex-1">
                             <div
-                              className={` text-right font-semibold uppercase ${
-                                currentStory?.index <= 1
-                                  ? "opacity-40"
-                                  : "cursor-pointer"
-                              }`}
+                              className={` text-right font-semibold uppercase ${currentStory?.index <= 1 ? "opacity-40" : "cursor-pointer"}`}
                               onClick={() => {
                                 moveStory("prev");
                               }}
                             >
-                              <div className="color-neutral-700 mb-1 whitespace-nowrap pl-4 text-sm tracking-wide">
-                                {t("stories.prev")}
-                              </div>
+                              <div className="color-neutral-700 mb-1 whitespace-nowrap pl-4 text-sm tracking-wide">{t("stories.prev")}</div>
                               <div className="flex items-center">
                                 <div className="border-y-8 border-l-0 border-r-8 border-solid border-y-transparent border-r-neutral-700"></div>
                                 <div className="h-0.5 w-full flex-grow-0 bg-neutral-600"></div>
@@ -395,19 +326,13 @@ export default function GalleryModal() {
                           <div className="w-full flex-1">
                             <div
                               className={`text-left font-semibold uppercase 
-                          ${
-                            currentStory?.index >= 19
-                              ? "cursor-default opacity-40"
-                              : "cursor-pointer"
-                          }
+                          ${currentStory?.index >= 19 ? "cursor-default opacity-40" : "cursor-pointer"}
                           `}
                               onClick={() => {
                                 moveStory("next");
                               }}
                             >
-                              <div className="color-neutral-700 mb-1 whitespace-nowrap pr-4 text-sm tracking-wide">
-                                {t("stories.next")}
-                              </div>
+                              <div className="color-neutral-700 mb-1 whitespace-nowrap pr-4 text-sm tracking-wide">{t("stories.next")}</div>
                               <div className="flex items-center">
                                 <div className="h-0.5 w-full flex-grow-0 bg-neutral-700"></div>
                                 <div className="border-y-8 border-l-8 border-r-0 border-solid border-y-transparent border-l-neutral-700"></div>
