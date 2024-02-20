@@ -157,8 +157,8 @@ export default function GalleryModal() {
                     <img className="w-full" src={currentStory?.thumbnail} alt="" />
                     <div className="absolute bottom-0 left-0 mx-auto w-full bg-opacity-50 bg-gradient-to-b from-transparent to-neutral-700 pb-4 pt-20 md:to-black/60 md:px-10 md:pb-10 lg:pb-10">
                       <div className="mx-auto flex max-w-[700px] flex-col px-4 text-white md:flex-row md:px-0">
-                        <div className="whitespace-nowrap text-4xl font-semibold">
-                          <h3 className="border-white pr-6">{currentStory?.name}</h3>
+                        <div className="text-3xl font-semibold md:text-4xl">
+                          <h3 className="border-white">{currentStory?.name}</h3>
                         </div>
                         {/* <div className="hidden text-xs md:block md:pl-6">{currentStory?.thumbnail_caption[[lang]]}</div> */}
                       </div>
@@ -175,7 +175,7 @@ export default function GalleryModal() {
 
                   <div className="px-4 py-10 md:px-10 md:py-16">
                     <div className="mx-auto max-w-[700px]">
-                      <div className="mb-6">
+                      <div className="mb-2 md:mb-6">
                         <div className="inline-block rounded bg-neutral-200 px-4 py-1 text-sm">
                           <span onClick={() => breadcrumbClick("home")} className="cursor-pointer transition hover:text-black">
                             {t("stories.home")}
@@ -190,7 +190,7 @@ export default function GalleryModal() {
                           </span>
                         </div>
                       </div>
-                      <h3 className="mb-10 text-4xl font-semibold">{currentStory?.title[lang]}</h3>
+                      <h3 className="mb-6 text-3xl font-semibold md:mb-10 md:text-4xl">{currentStory?.title[lang]}</h3>
                       {currentStory?.content[lang]}
                     </div>
                   </div>
