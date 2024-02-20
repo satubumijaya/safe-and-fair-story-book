@@ -37,7 +37,7 @@ export default function Intro() {
                       parturient montes, nascetur ridiculus mus. Praesent ac
                       urna pulvinar, scelerisque sapien et, convallis lorem. In
                       urna mauris, eleifend at nisl eget, mollis pellentesque
-                      dolor. Maecenas lacus lacus, feugiat quis velit varius:{" "}
+                      dolor. Maecenas lacus lacus, feugiat quis velit varius:
                       <a href="https://google.com">www.egestas.com</a> pretium
                       orci. Maecenas imperdiet commodo gravida. Pellentesque
                       justo justo, venenatis ut sem ac, tincidunt venenatis ex.
@@ -81,7 +81,7 @@ export default function Intro() {
                       parturient montes, nascetur ridiculus mus. Praesent ac
                       urna pulvinar, scelerisque sapien et, convallis lorem. In
                       urna mauris, eleifend at nisl eget, mollis pellentesque
-                      dolor. Maecenas lacus lacus, feugiat quis velit varius:{" "}
+                      dolor. Maecenas lacus lacus, feugiat quis velit varius:
                       <a href="https://google.com">www.egestas.com</a> pretium
                       orci. Maecenas imperdiet commodo gravida. Pellentesque
                       justo justo, venenatis ut sem ac, tincidunt venenatis ex.
