@@ -361,7 +361,7 @@ export default function GalleryModal() {
                               window.fullpage_api.moveTo("gallery");
                             }}
                           >
-                            <div className="color-neutral-700 mb-1 whitespace-nowrap px-3 leading-5 tracking-widest">
+                            <div className="color-neutral-700 mb-1 whitespace-nowrap px-3 text-sm leading-5 tracking-wide">
                               {t("stories.gallery")}
                             </div>
                             <div className="mb-2 mt-2 flex flex-col items-center">
@@ -382,7 +382,7 @@ export default function GalleryModal() {
                                 moveStory("prev");
                               }}
                             >
-                              <div className="color-neutral-700 mb-1 whitespace-nowrap pl-6 leading-5 tracking-widest">
+                              <div className="color-neutral-700 mb-1 whitespace-nowrap pl-4 text-sm tracking-wide">
                                 {t("stories.prev")}
                               </div>
                               <div className="flex items-center">
@@ -405,7 +405,7 @@ export default function GalleryModal() {
                                 moveStory("next");
                               }}
                             >
-                              <div className="color-neutral-700 mb-1 whitespace-nowrap pr-6 leading-5 tracking-widest">
+                              <div className="color-neutral-700 mb-1 whitespace-nowrap pr-4 text-sm tracking-wide">
                                 {t("stories.next")}
                               </div>
                               <div className="flex items-center">

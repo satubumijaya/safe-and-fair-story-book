@@ -1,10 +1,4 @@
-import React, {
-  useContext,
-  useEffect,
-  useLayoutEffect,
-  useRef,
-  useState,
-} from "react";
+import React, { useContext, useEffect, useLayoutEffect, useRef, useState } from "react";
 import { useTranslation } from "react-i18next";
 import concave from "images/concave.webp";
 import ScrollArrow from "components/ScrollArrow";
@@ -62,9 +56,7 @@ export default function Hero() {
                 <div className="mb-1 text-xs">Select language</div>
                 <div className="flex gap-2">
                   <button
-                    className={`cursor-pointer border border-white px-4 py-0.5 text-xs ${
-                      i18n.language === "en" ? "bg-white text-main-dark" : ""
-                    }
+                    className={`cursor-pointer border border-white px-4 py-0.5 text-xs ${i18n.language === "en" ? "bg-white text-main-dark" : ""}
                     }`}
                     onClick={() => {
                       i18n.changeLanguage("en");
@@ -73,9 +65,7 @@ export default function Hero() {
                     English
                   </button>
                   <button
-                    className={`cursor-pointer border border-white px-4 py-0.5 text-xs ${
-                      i18n.language === "id" ? "bg-white text-main-dark" : ""
-                    }`}
+                    className={`cursor-pointer border border-white px-4 py-0.5 text-xs ${i18n.language === "id" ? "bg-white text-main-dark" : ""}`}
                     onClick={() => {
                       i18n.changeLanguage("id");
                     }}
@@ -87,10 +77,7 @@ export default function Hero() {
             </div>
           </div>
           <div className="relative min-h-0 min-w-0 flex-1">
-            <div
-              className="absolute left-0 aspect-square h-full translate-x-[-50%] translate-y-[50%] bg-contain bg-no-repeat opacity-20"
-              style={{ backgroundImage: `url(${concave})` }}
-            ></div>
+            <div className="absolute left-0 aspect-square h-full translate-x-[-50%] translate-y-[50%] bg-contain bg-no-repeat opacity-50" style={{ backgroundImage: `url(${concave})` }}></div>
             <div className="absolute inset-0 z-10 w-14 bg-main-dark opacity-50"></div>
             <Slider ref={sliderRef} dots={true} arrows={false} autoplay={true}>
               {stories.map((story, key) => {
@@ -112,11 +99,7 @@ export default function Hero() {
         <div className="flex">
           {stories.map((story, key) => {
             return (
-              <div
-                key={key}
-                className="relative flex-grow cursor-pointer after:absolute after:inset-0 after:bg-main after:opacity-0 after:transition-all after:duration-300 after:content-[''] hover:after:opacity-20"
-                onClick={() => sliderRef.current.slickGoTo(key)}
-              >
+              <div key={key} className="relative flex-grow cursor-pointer after:absolute after:inset-0 after:bg-main after:opacity-0 after:transition-all after:duration-300 after:content-[''] hover:after:opacity-20" onClick={() => sliderRef.current.slickGoTo(key)}>
                 <div
                   className="bg pt-[66%]"
                   style={{
