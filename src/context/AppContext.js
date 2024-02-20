@@ -1,4 +1,4 @@
-import React, { createContext, useState, useContext } from "react";
+import React, { createContext, useState, useContext, useEffect } from "react";
 import { Hinge } from "react-awesome-reveal";
 import { story1 } from "stories/story-1";
 import { story10 } from "stories/story-10";
@@ -44,27 +44,7 @@ export const AppContextProvider = ({ children }) => {
     height: window.innerHeight,
   });
 
-  const [stories, setStories] = useState([
-    story1,
-    story2,
-    story3,
-    story4,
-    story5,
-    story6,
-    story7,
-    story8,
-    story9,
-    story10,
-    story11,
-    story12,
-    story13,
-    story14,
-    story15,
-    story16,
-    story17,
-    story18,
-    story19,
-  ]);
+  const [stories, setStories] = useState([story1, story2, story3, story4, story5, story6, story7, story8, story9, story10, story11, story12, story13, story14, story15, story16, story17, story18, story19]);
 
   const [lightbox, setLightBox] = useState(null);
 
