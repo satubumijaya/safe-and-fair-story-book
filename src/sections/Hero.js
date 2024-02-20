@@ -32,7 +32,7 @@ export default function Hero() {
     <div className="section">
       <div className="relative pb-20 pt-10">
         {/* logo */}
-        <div className="mx-auto mb-6 px-6 md:mb-12">
+        <div className="mx-auto mb-6 px-4 md:mb-12">
           <div className="flex items-end justify-center">
             <div className="flex items-end gap-4 border-r pr-2 md:gap-10 md:pr-8">
               <div>
@@ -50,7 +50,7 @@ export default function Hero() {
 
         <div className="flex flex-col items-stretch overflow-hidden bg-main text-white lg:flex-row">
           <div className="z-10 flex w-full max-w-xl flex-1 items-center">
-            <div className="w-full flex-1 flex-col py-14  pl-6 md:pl-16">
+            <div className="w-full flex-1 flex-col py-14  pl-4 md:pl-16">
               <SafTitle className="" color="white" maxWidth={390} />
               <div className="mt-10">
                 <div className="mb-1 text-xs">Select language</div>

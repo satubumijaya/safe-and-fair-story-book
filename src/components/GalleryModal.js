@@ -68,7 +68,7 @@ export default function GalleryModal() {
         className="modal fixed inset-0 overflow-y-scroll"
       >
         <Fade triggerOnce={false}>
-          <div className="px-4">
+          <div className="px-2">
             <div
               className="absolute inset-0"
               onClick={() => {
@@ -97,7 +97,7 @@ export default function GalleryModal() {
                 <div className=" relative z-10 mx-auto h-full min-h-screen w-full">
                   {/* header */}
                   <div className="flex w-full flex-1 flex-col content-between items-end py-12 md:flex-row md:py-16">
-                    <div className="mb-6 w-full flex-1 px-6 text-left md:mb-0 md:px-10">
+                    <div className="mb-6 w-full flex-1 px-4 text-left md:mb-0 md:px-10">
                       <SafTitleOnly maxWidth={260} />
                     </div>
                     {/* <div className="flex items-center pl-6 max-sm:w-full md:ml-auto  md:px-0">
@@ -156,7 +156,7 @@ export default function GalleryModal() {
                   <div className="relative">
                     <img className="w-full" src={currentStory?.thumbnail} alt="" />
                     <div className="absolute bottom-0 left-0 mx-auto w-full bg-opacity-50 bg-gradient-to-b from-transparent to-neutral-700 pb-6 pt-20 md:to-black/60 md:px-10 md:pb-10 lg:pb-10">
-                      <div className="mx-auto flex max-w-[700px] flex-col px-6 text-white md:flex-row md:px-0">
+                      <div className="mx-auto flex max-w-[700px] flex-col px-4 text-white md:flex-row md:px-0">
                         <div className="whitespace-nowrap text-4xl font-semibold">
                           <h3 className="border-white pr-6">{currentStory?.name}</h3>
                         </div>
@@ -168,12 +168,12 @@ export default function GalleryModal() {
                       <div className="-rotate-90">{currentStory?.thumbnail_credit[[lang]]}</div>
                     </div>
                   </div>
-                  <div className=" flex flex-col gap-3 bg-neutral-700 px-6 pb-6 pt-2 text-xs text-white md:hidden">
+                  <div className=" flex flex-col gap-3 bg-neutral-700 px-4 pb-6 pt-2 text-xs text-white md:hidden">
                     <div className="">{currentStory?.thumbnail_caption[[lang]]}</div>
                     <div>{currentStory?.thumbnail_credit[[lang]]}</div>
                   </div>
 
-                  <div className="px-6 py-10 md:px-10 md:py-16">
+                  <div className="px-4 py-10 md:px-10 md:py-16">
                     <div className="mx-auto max-w-[700px]">
                       <div className="mb-6">
                         <div className="inline-block rounded bg-neutral-200 px-4 py-1 text-sm">
@@ -236,7 +236,7 @@ export default function GalleryModal() {
 
                   {/* footer */}
                   <div className="hidden md:block">
-                    <div className="w-full border-t border-neutral-700 px-6 py-16">
+                    <div className="w-full border-t border-neutral-700 px-4 py-16">
                       <div className="mx-auto flex max-w-screen-md items-end md:gap-10 lg:gap-20  ">
                         <div className="flex-1">
                           <div
@@ -290,7 +290,7 @@ export default function GalleryModal() {
                   </div>
 
                   <div className="block md:hidden">
-                    <div className="w-full border-t border-neutral-700 px-6 py-16">
+                    <div className="w-full border-t border-neutral-700 px-4 py-16">
                       <div className="mx-auto flex max-w-screen-md flex-col items-end gap-8  ">
                         <div className="w-full flex-1">
                           <div

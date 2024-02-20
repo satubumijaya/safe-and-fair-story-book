@@ -17,7 +17,7 @@ export default function Closing() {
     <div className="section">
       <div className="relative flex min-h-screen flex-col overflow-x-hidden text-left">
         <div className="flex h-10 bg-main">
-          <div className="ml-6 h-14 flex-1 bg-main-dark md:mx-16"></div>
+          <div className="ml-4 h-14 flex-1 bg-main-dark md:mx-16"></div>
           <div className="flex-1"></div>
         </div>
 
@@ -29,7 +29,7 @@ export default function Closing() {
         ></div>
 
         <div className="relative flex flex-col items-center gap-16 lg:flex-row xl:gap-32">
-          <div className="hidden flex-1 px-6 py-16 pb-0 pt-24 text-left md:px-16 lg:pr-6">
+          <div className="hidden flex-1 px-4 py-16 pb-0 pt-24 text-left md:px-16 lg:pr-6">
             <div className="mb-10 font-bold">
               <h3>Aliquam Nunc</h3>
             </div>
@@ -42,10 +42,10 @@ export default function Closing() {
           </div>
 
           <div className="mx-auto max-w-prose flex-1 pt-32">
-            <div className="pl-6">
+            <div className="pl-4">
               <SafTitle className="w-full" color="dark" maxWidth={340} />
             </div>
-            <div className="mx-auto mt-20 px-6 ">
+            <div className="mx-auto mt-20 px-4 ">
               <div className="flex items-end justify-center">
                 <div className="flex items-end gap-4 border-r pr-2 md:gap-10 md:pr-8">
                   <div>
@@ -64,7 +64,7 @@ export default function Closing() {
         </div>
         <div className="mt-auto">
           <div className="hidden md:block">
-            <div className="mx-auto mb-16 mt-20 flex max-w-screen-md flex-col items-end gap-10 px-6 md:flex-row lg:gap-20">
+            <div className="mx-auto mb-16 mt-20 flex max-w-screen-md flex-col items-end gap-10 px-4 md:flex-row lg:gap-20">
               <div className="w-full flex-1">
                 <div className="cursor-pointer text-right font-semibold uppercase" onClick={() => window.fullpage_api.moveTo("gallery")}>
                   <div className="whitespace-nowrap pl-6 tracking-widest">{t("closing.back-gallery")}</div>
@@ -98,10 +98,10 @@ export default function Closing() {
           </div>
 
           <div className="md:hidden">
-            <div className="mx-auto mb-16 mt-20 flex max-w-screen-md flex-col items-end gap-10 px-6 md:flex-row lg:gap-20">
+            <div className="mx-auto mb-16 mt-20 flex max-w-screen-md flex-col items-end gap-10 px-4 md:flex-row lg:gap-20">
               <div className="w-full flex-1">
                 <div className="cursor-pointer text-center font-semibold uppercase" onClick={() => window.fullpage_api.moveTo("home")}>
-                  <div className="whitespace-nowrap px-3 text-sm tracking-widest">{t("closing.home")}</div>
+                  <div className="whitespace-nowrap px-3 text-sm tracking-wide">{t("closing.home")}</div>
                   <div className="mb-2 mt-2 flex flex-col items-center">
                     <div className="border-x-8 border-b-8 border-t-0 border-solid border-x-transparent border-b-black"></div>
                     <div className="h-0.5 w-full flex-grow-0 bg-black"></div>
@@ -111,7 +111,7 @@ export default function Closing() {
               <div className="flex w-full gap-6">
                 <div className="w-full flex-1">
                   <div className="cursor-pointer text-right font-semibold uppercase" onClick={() => window.fullpage_api.moveTo("gallery")}>
-                    <div className="whitespace-nowrap pl-6 text-sm tracking-widest">{t("closing.back-gallery")}</div>
+                    <div className="whitespace-nowrap pl-6 text-sm tracking-wide">{t("closing.back-gallery")}</div>
                     <div className="flex items-center">
                       <div className="border-y-8 border-l-0 border-r-8 border-solid border-y-transparent border-r-black"></div>
                       <div className="h-0.5 w-full flex-grow-0 bg-black"></div>
@@ -121,7 +121,7 @@ export default function Closing() {
 
                 <div className="w-full flex-1">
                   <div className="cursor-pointer text-left font-semibold uppercase" onClick={() => setShareModalIsOpen(true)}>
-                    <div className="whitespace-nowrap pr-6 text-sm tracking-widest">{t("closing.share")}</div>
+                    <div className="whitespace-nowrap pr-6 text-sm tracking-wide">{t("closing.share")}</div>
                     <div className="flex items-center">
                       <div className="h-0.5 w-full flex-grow-0 bg-black"></div>
                       <div className="border-y-8 border-l-8 border-r-0 border-solid border-y-transparent border-l-black"></div>

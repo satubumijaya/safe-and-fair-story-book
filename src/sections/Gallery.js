@@ -86,10 +86,10 @@ export default function Gallery() {
       <div className="relative z-0 overflow-hidden bg-main">
         <div className=" relative z-10 mx-auto h-full min-h-screen w-full max-w-[920px] bg-white py-16 2xl:max-w-screen-xl">
           <div className="flex w-full flex-col content-between items-end pb-10 md:flex-row md:pb-16">
-            <div className="mb-4 w-full flex-1 px-6 text-left md:mb-0 md:px-10">
+            <div className="mb-4 w-full flex-1 px-4 text-left md:mb-0 md:px-10">
               <SafTitleOnly maxWidth={260} />
             </div>
-            <div className="mr-auto flex items-center px-6 md:px-10 lg:ml-auto lg:mr-0">
+            <div className="mr-auto flex items-center px-4 md:px-10 lg:ml-auto lg:mr-0">
               <div className=" whitespace-nowrap text-right">Galeri 19 Penulis Cerita Perubahan</div>
               {/* <div className="relative flex h-[1px] w-40 max-w-md bg-gray-500 after:absolute after:right-0 after:top-0 after:hidden after:h-[1px] after:w-1/2 after:bg-white after:content-[''] md:after:block"></div> */}
             </div>
