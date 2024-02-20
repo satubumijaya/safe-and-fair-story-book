@@ -79,7 +79,7 @@ export const story3 = {
         <p>
           Tahun 2020 program <em>Safe and Fair</em> hadir dan saya mulai mencoba mendampingi kasus pekerja migran dengan berbekal ilmu seadanya. Kesempatan diundang ke istana negara saya dapatkan dalam tahun yang sama dalam rangka Hari Perempuan Sedunia. Saya dan lima belas perempuan lainnya dari berbagai provinsi mendapatkan kesempatan berbincang langsung dengan Presiden Joko Widodo. Program <em>Safe and Fair</em> yang fokus di pendampingan kasus Pekerja Migran Indonesia (PMI) cukup membantu kami dalam peningkatan kapasitas kami sebagai pendamping. Saat ini, relawan pendamping kasus mulai bertambah yang semula hanya 5 orang, menjadi 20 orang dari 8 wilayah desa binaan Bale Istri. Beberapa penyintas atau purna PMI pun turut bergabung di Komunitas Bale Istri.
         </p>
-        <p>Dengan mendampingi kasus, saya mulai merasa lebih kuat. Dengan mendengarkan cerita luka dari teman-teman penyintas yang lain, membuat saya merasa tidak sendiri. Dengan berkumpul bersama di Komunitas Bale Istri, saya merasa dihargai, dibutuhkan, dan saling menguatkan satu sama lain.</p>
+        <p>Dengan mendampingi kasus, saya mulai merasa lebih kuat. Dengan mendengarkan cerita luka dari teman-teman penyintas yang lain, membuat saya merasa tidak sendiri.</p>
         <p>
           <blockquote>Dengan berkumpul bersama di Komunitas Bale Istri, saya merasa dihargai, dibutuhkan, dan saling menguatkan satu sama lain. Bagi saya, ada kepuasan tersendiri apabila kasus yang saya dampingi berjalan sesuai dengan harapan korban, diputus pengadilan, dan korban merasa tertolong.</blockquote>
         </p>
