@@ -157,10 +157,10 @@ export default function GalleryModal() {
                     <img className="w-full" src={currentStory?.thumbnail} alt="" />
                     <div className="absolute bottom-0 left-0 mx-auto w-full bg-opacity-50 bg-gradient-to-b from-transparent to-neutral-700 pb-6 pt-20 md:to-black/60 md:px-10 md:pb-10 lg:pb-10">
                       <div className="mx-auto flex max-w-[700px] flex-col px-6 text-white md:flex-row md:px-0">
-                        <div className="whitespace-nowrap text-3xl">
-                          <h3 className="border-white pr-6 md:border-r">{currentStory?.name}</h3>
+                        <div className="whitespace-nowrap text-4xl font-semibold">
+                          <h3 className="border-white pr-6">{currentStory?.name}</h3>
                         </div>
-                        <div className="hidden text-xs md:block md:pl-6">{currentStory?.thumbnail_caption[[lang]]}</div>
+                        {/* <div className="hidden text-xs md:block md:pl-6">{currentStory?.thumbnail_caption[[lang]]}</div> */}
                       </div>
                     </div>
 
