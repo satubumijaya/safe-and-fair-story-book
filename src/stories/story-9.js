@@ -58,8 +58,8 @@ export const story9 = {
     {
       image: require(`images/stories/${dir}/image-1.webp`),
       caption: {
-        en: "Program pemberdayaan usaha perempuan — foto saat Mendampingi desa Tugusumberjo Jombang dalam kegiatan musyawarah desa program Jatim Puspa.",
-        id: "Program pemberdayaan usaha perempuan — foto saat Mendampingi desa Tugusumberjo Jombang dalam kegiatan musyawarah desa program Jatim Puspa.",
+        en: "Program pemberdayaan usaha perempuan — foto saat mendampingi desa Tugusumberjo Jombang dalam kegiatan musyawarah desa program Jatim Puspa.",
+        id: "Program pemberdayaan usaha perempuan — foto saat mendampingi desa Tugusumberjo Jombang dalam kegiatan musyawarah desa program Jatim Puspa.",
       },
       credit: {
         en: "Photo: Fifi Ekawati Rohmah",

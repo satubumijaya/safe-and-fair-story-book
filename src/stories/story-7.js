@@ -88,15 +88,15 @@ export const story7 = {
         id: "Irwan Setiawan membuka kegiatan pelatihan komunitas tentang alur penanganan kasus.",
       },
       credit: {
-        en: "Photo: UN Women/Christina Phan",
-        id: "Photo: UN Women/Christina Phan",
+        en: "Photo: Yayasan Embun Pelangi",
+        id: "Photo: Yayasan Embun Pelangi",
       },
     },
     {
       image: require(`images/stories/${dir}/image-2.webp`),
       caption: {
-        en: "Peningkatan pengetahuan komunitas tanjung pinggir tentang peran komunitas dalam perlindungan perempuan dan anak.",
-        id: "Peningkatan pengetahuan komunitas tanjung pinggir tentang peran komunitas dalam perlindungan perempuan dan anak.",
+        en: "Peningkatan pengetahuan Komunitas Tanjung Pinggir tentang peran komunitas dalam perlindungan perempuan dan anak.",
+        id: "Peningkatan pengetahuan Komunitas Tanjung Pinggir tentang peran komunitas dalam perlindungan perempuan dan anak.",
       },
       credit: {
         en: "Photo: UN Women/Christina Phan",
@@ -106,8 +106,8 @@ export const story7 = {
     {
       image: require(`images/stories/${dir}/image-3.webp`),
       caption: {
-        en: "Kegiatan workshop penulisan.",
-        id: "Kegiatan workshop penulisan.",
+        en: "Kegiatan <em>workshop</em> penulisan.",
+        id: "Kegiatan <em>workshop</em> penulisan.",
       },
       credit: {
         en: "Photo: UN Women/Christina Phan",

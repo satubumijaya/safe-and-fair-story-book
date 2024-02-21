@@ -69,8 +69,8 @@ export const story18 = {
     {
       image: require(`images/stories/${dir}/image-2.webp`),
       caption: {
-        en: "Mempresentasikan hasil karya tulisan saya sendiri dengan judul “Advokasi Di Perbatasan”.",
-        id: "Mempresentasikan hasil karya tulisan saya sendiri dengan judul “Advokasi Di Perbatasan”.",
+        en: 'Mempresentasikan hasil karya tulisan saya sendiri dengan judul "dvokasi di Perbatasan".',
+        id: 'Mempresentasikan hasil karya tulisan saya sendiri dengan judul "Advokasi di Perbatasan".',
       },
       credit: {
         en: "Photo: UN Women/Christina Phan",

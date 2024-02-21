@@ -124,8 +124,8 @@ export const story8 = {
         id: "Partisipasi dalam kegiatan pelatihan menulis dan fotografi bersama UN Women. ",
       },
       credit: {
-        en: "Photo: Roudlotul Jannah",
-        id: "Photo: Roudlotul Jannah",
+        en: "Photo: UN Women/Christina Phan",
+        id: "Photo: UN Women/Christina Phan",
       },
     },
     {

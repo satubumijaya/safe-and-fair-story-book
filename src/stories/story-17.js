@@ -54,8 +54,8 @@ export const story17 = {
     {
       image: require(`images/stories/${dir}/image-1.webp`),
       caption: {
-        en: "Pertama kali mengikuti kegiatan KOMPAK dengan kegiatan capacity building tentang Tindak Pidana Perdagangan Orang (TPPO). Foto tersebut diambil pada tahun 2022 di kantor Yayasan Embun Pelangi Batam.",
-        id: "Pertama kali mengikuti kegiatan KOMPAK dengan kegiatan capacity building tentang Tindak Pidana Perdagangan Orang (TPPO). Foto tersebut diambil pada tahun 2022 di kantor Yayasan Embun Pelangi Batam.",
+        en: "Pertama kali mengikuti kegiatan KOMPAK dengan kegiatan <em>capacity building</em> tentang Tindak Pidana Perdagangan Orang (TPPO). Foto tersebut diambil pada tahun 2022 di kantor Yayasan Embun Pelangi Batam.",
+        id: "Pertama kali mengikuti kegiatan KOMPAK dengan kegiatan <em>capacity building</em> tentang Tindak Pidana Perdagangan Orang (TPPO). Foto tersebut diambil pada tahun 2022 di kantor Yayasan Embun Pelangi Batam.",
       },
       credit: {
         en: "Photo: Dira Septiani",

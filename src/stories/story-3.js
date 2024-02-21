@@ -100,8 +100,8 @@ export const story3 = {
     {
       image: require(`images/stories/${dir}/image-1.webp`),
       caption: {
-        en: "Rapat tahunan koprasi komunitas Bale Istri, diambil di tahun 2023.",
-        id: "Rapat tahunan koprasi komunitas Bale Istri, diambil di tahun 2023.",
+        en: "Rapat tahunan koperasi komunitas Bale Istri, diambil di tahun 2023.",
+        id: "Rapat tahunan koperasi komunitas Bale Istri, diambil di tahun 2023.",
       },
       credit: {
         en: "Photo: Sugih Hartini",

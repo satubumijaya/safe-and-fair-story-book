@@ -85,8 +85,8 @@ export const story12 = {
     {
       image: require(`images/stories/${dir}/image-1.webp`),
       caption: {
-        en: "Foto bareng teman-teman dari WCC Mawar balqis dan Kak Nita dari UN Women di acara lokakarya penulisan cerita perubahan bagi mitra pelaksana dan penerima manfaat program di hotel Ashley Jakarta.",
-        id: "Foto bareng teman-teman dari WCC Mawar balqis dan Kak Nita dari UN Women di acara lokakarya penulisan cerita perubahan bagi mitra pelaksana dan penerima manfaat program di hotel Ashley Jakarta.",
+        en: "Foto bersama teman-teman dari WCC Mawar Balqis dan Kak Nita dari UN Women di acara lokakarya penulisan cerita perubahan bagi mitra pelaksana dan penerima manfaat program di hotel Ashley Jakarta.",
+        id: "Foto bersama teman-teman dari WCC Mawar Balqis dan Kak Nita dari UN Women di acara lokakarya penulisan cerita perubahan bagi mitra pelaksana dan penerima manfaat program di hotel Ashley Jakarta.",
       },
       credit: {
         en: "Photo: Faoziah",

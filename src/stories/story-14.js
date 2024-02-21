@@ -99,8 +99,8 @@ export const story14 = {
     {
       image: require(`images/stories/${dir}/image-4.webp`),
       caption: {
-        en: "Workshop pengembangan ekonomi perempuan PMI Purna di pekon Ambarawa Pringsewu, Januari 2022.",
-        id: "Workshop pengembangan ekonomi perempuan PMI Purna di pekon Ambarawa Pringsewu, Januari 2022.",
+        en: "<em>Workshop</em> pengembangan ekonomi perempuan PMI Purna di pekon Ambarawa Pringsewu, Januari 2022.",
+        id: "<em>Workshop</em> pengembangan ekonomi perempuan PMI Purna di pekon Ambarawa Pringsewu, Januari 2022.",
       },
       credit: {
         en: "Photo: Ahmad Haryono",

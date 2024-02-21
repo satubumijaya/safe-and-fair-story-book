@@ -190,8 +190,8 @@ export const story16 = {
     {
       image: require(`images/stories/${dir}/image-1.webp`),
       caption: {
-        en: "Pemaparan materi ke-2 pada salah satu kelas sekolah parenting.",
-        id: "Pemaparan materi ke-2 pada salah satu kelas sekolah parenting.",
+        en: "Pemaparan materi ke-2 pada salah satu kelas sekolah <em>parenting</em>.",
+        id: "Pemaparan materi ke-2 pada salah satu kelas sekolah <em>parenting</em>.",
       },
       credit: {
         en: "Photo: Moh. Rofiqi",
@@ -201,8 +201,8 @@ export const story16 = {
     {
       image: require(`images/stories/${dir}/image-2.webp`),
       caption: {
-        en: "Sesi curhat dan sharing, bagian dari sesi sekolah parenting. Peserta saling berbagi cerita tanpa ada penghakiman dari yang lain, sebuah upaya membangun empati dan ruang aman bagi kaum perempuan.",
-        id: "Sesi curhat dan sharing, bagian dari sesi sekolah parenting. Peserta saling berbagi cerita tanpa ada penghakiman dari yang lain, sebuah upaya membangun empati dan ruang aman bagi kaum perempuan.",
+        en: "Sesi <em>curhat</em> dan <em>sharing</em>, bagian dari sesi sekolah <em>parenting</em>. Peserta saling berbagi cerita tanpa ada penghakiman dari yang lain, sebuah upaya membangun empati dan ruang aman bagi kaum perempuan.",
+        id: "Sesi <em>curhat</em> dan <em>sharing</em>, bagian dari sesi sekolah <em>parenting</em>. Peserta saling berbagi cerita tanpa ada penghakiman dari yang lain, sebuah upaya membangun empati dan ruang aman bagi kaum perempuan.",
       },
       credit: {
         en: "Photo: Moh. Rofiqi",
@@ -212,8 +212,8 @@ export const story16 = {
     {
       image: require(`images/stories/${dir}/image-3.webp`),
       caption: {
-        en: "Sesi curhat dan sharing di sekolah parenting.",
-        id: "Sesi curhat dan sharing di sekolah parenting.",
+        en: "Sesi <em>curhat</em> dan <em>sharing</em> di sekolah <em>parenting</em>.",
+        id: "Sesi <em>curhat</em> dan <em>sharing</em> di sekolah <em>parenting</em>.",
       },
       credit: {
         en: "Photo: Moh. Rofiqi",

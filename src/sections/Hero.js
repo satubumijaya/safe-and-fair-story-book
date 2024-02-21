@@ -77,7 +77,7 @@ export default function Hero() {
             </div>
           </div>
           <div className="relative min-h-0 min-w-0 flex-1">
-            <div className="absolute left-0 aspect-square h-full translate-x-[-50%] translate-y-[50%] bg-contain bg-no-repeat opacity-50" style={{ backgroundImage: `url(${concave})` }}></div>
+            <div className="absolute left-0 aspect-square h-full translate-x-[-50%] translate-y-[50%] bg-contain bg-no-repeat" style={{ backgroundImage: `url(${concave})` }}></div>
             <div className="absolute inset-0 z-10 w-14 bg-main-dark opacity-50"></div>
             <Slider ref={sliderRef} dots={true} arrows={false} autoplay={true}>
               {stories.map((story, key) => {

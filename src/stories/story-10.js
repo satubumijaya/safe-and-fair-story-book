@@ -61,8 +61,8 @@ export const story10 = {
     {
       image: require(`images/stories/${dir}/image-1.webp`),
       caption: {
-        en: "Workshop Finalisasi Rancangan Peraturan Gubernur (Rapergub) Provinsi Jawa Barat Tentang Pelayanan Terpadu bagi Perempuan dan Anak Korban Kekerasan dan Tindak Pidana Perdagangan Orang dan Audensi kepada Stakeholder terkait di Provinsi Jawa Barat - 11 Oktober 2022.",
-        id: "Workshop Finalisasi Rancangan Peraturan Gubernur (Rapergub) Provinsi Jawa Barat Tentang Pelayanan Terpadu bagi Perempuan dan Anak Korban Kekerasan dan Tindak Pidana Perdagangan Orang dan Audensi kepada Stakeholder terkait di Provinsi Jawa Barat - 11 Oktober 2022.",
+        en: "<em>Workshop</em> Finalisasi Rancangan Peraturan Gubernur (Rapergub) Provinsi Jawa Barat Tentang Pelayanan Terpadu bagi Perempuan dan Anak Korban Kekerasan dan Tindak Pidana Perdagangan Orang dan Audensi kepada Stakeholder terkait di Provinsi Jawa Barat - 11 Oktober 2022.",
+        id: "<em>Workshop</em> Finalisasi Rancangan Peraturan Gubernur (Rapergub) Provinsi Jawa Barat Tentang Pelayanan Terpadu bagi Perempuan dan Anak Korban Kekerasan dan Tindak Pidana Perdagangan Orang dan Audensi kepada Stakeholder terkait di Provinsi Jawa Barat - 11 Oktober 2022.",
       },
       credit: {
         en: "Photo: Internal Yayasan Sapa",
@@ -94,8 +94,8 @@ export const story10 = {
     {
       image: require(`images/stories/${dir}/image-4.webp`),
       caption: {
-        en: "Workshop Finalisasi Rancangan Peraturan Gubernur (Rapergub) Provinsi Jawa Barat Tentang Pelayanan Terpadu bagi Perempuan dan Anak Korban Kekerasan dan Tindak Pidana Perdagangan Orang dan Audensi kepada Stakeholder terkait Di Provinsi Jawa Barat - 11 Oktober 2022.",
-        id: "Workshop Finalisasi Rancangan Peraturan Gubernur (Rapergub) Provinsi Jawa Barat Tentang Pelayanan Terpadu bagi Perempuan dan Anak Korban Kekerasan dan Tindak Pidana Perdagangan Orang dan Audensi kepada Stakeholder terkait Di Provinsi Jawa Barat - 11 Oktober 2022.",
+        en: "<em>Workshop</em> Finalisasi Rancangan Peraturan Gubernur (Rapergub) Provinsi Jawa Barat Tentang Pelayanan Terpadu bagi Perempuan dan Anak Korban Kekerasan dan Tindak Pidana Perdagangan Orang dan Audensi kepada Stakeholder terkait Di Provinsi Jawa Barat - 11 Oktober 2022.",
+        id: "<em>Workshop</em> Finalisasi Rancangan Peraturan Gubernur (Rapergub) Provinsi Jawa Barat Tentang Pelayanan Terpadu bagi Perempuan dan Anak Korban Kekerasan dan Tindak Pidana Perdagangan Orang dan Audensi kepada Stakeholder terkait Di Provinsi Jawa Barat - 11 Oktober 2022.",
       },
       credit: {
         en: "Photo: Internal Yayasan Sapa",

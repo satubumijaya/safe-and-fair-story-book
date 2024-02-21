@@ -103,8 +103,8 @@ export const story2 = {
     {
       image: require(`images/stories/${dir}/image-4.webp`),
       caption: {
-        en: "perjalanan dr bandung ke Jakarta untuk mengikuti pelatihan penulisan bersama UN Women 2023.",
-        id: "perjalanan dr bandung ke Jakarta untuk mengikuti pelatihan penulisan bersama UN Women 2023.",
+        en: "Perjalanan dari Bandung ke Jakarta untuk mengikuti pelatihan penulisan bersama UN Women 2023.",
+        id: "Perjalanan dari Bandung ke Jakarta untuk mengikuti pelatihan penulisan bersama UN Women 2023.",
       },
       credit: {
         en: "Photo: Yuliani",

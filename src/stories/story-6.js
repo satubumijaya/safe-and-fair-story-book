@@ -101,8 +101,8 @@ export const story6 = {
     {
       image: require(`images/stories/${dir}/image-4.webp`),
       caption: {
-        en: "Membaca Cerita perubahan dalam Lokakarya Pelatihan Penulisan Oleh UN Women.",
-        id: "Membaca Cerita perubahan dalam Lokakarya Pelatihan Penulisan Oleh UN Women.",
+        en: "Membaca cerita perubahan dalam lokakarya pelatihan penulisan oleh UN Women.",
+        id: "Membaca cerita perubahan dalam lokakarya pelatihan penulisan oleh UN Women.",
       },
       credit: {
         en: "Photo: UN Women/Christina Phan",

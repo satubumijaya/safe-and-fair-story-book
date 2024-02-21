@@ -95,8 +95,8 @@ export const story13 = {
     {
       image: require(`images/stories/${dir}/image-4.webp`),
       caption: {
-        en: "Membantu mendampingi kasus di PKBM ( pusat kegiatan belajar masyarakat) agar korban bisa melanjutkan pendidikan foto diambil bulan September 2022.",
-        id: "Membantu mendampingi kasus di PKBM ( pusat kegiatan belajar masyarakat) agar korban bisa melanjutkan pendidikan foto diambil bulan September 2022.",
+        en: "Membantu mendampingi kasus di PKBM (Pusat Kegiatan Belajar Masyarakat) agar korban bisa melanjutkan pendidikan. Foto diambil bulan September 2022.",
+        id: "Membantu mendampingi kasus di PKBM (Pusat Kegiatan Belajar Masyarakat) agar korban bisa melanjutkan pendidikan. Foto diambil bulan September 2022.",
       },
       credit: {
         en: "Photo: Venolia Adeningrum",

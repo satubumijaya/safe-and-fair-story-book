@@ -3,6 +3,7 @@ import React, { useContext, useEffect, useRef, useState } from "react";
 import { Fade } from "react-awesome-reveal";
 import { useTranslation } from "react-i18next";
 import Modal from "react-overlays/Modal";
+import parse from "html-react-parser";
 
 export default function LightboxModal() {
   const { t, i18n, ready } = useTranslation();
@@ -106,7 +107,7 @@ export default function LightboxModal() {
                   </div>
                 </div>
                 <div className="absolute bottom-0 left-0 w-full bg-black px-6 py-4 text-sm text-white md:px-8" ref={captionRef}>
-                  <div className="border-l border-l-white py-1 pl-4">{lightbox?.caption && lightbox?.caption[lang]}</div>
+                  <div className="border-l border-l-white py-1 pl-4">{lightbox?.caption && parse(lightbox?.caption[lang])}</div>
                 </div>
               </div>
             </div>

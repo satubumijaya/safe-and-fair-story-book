@@ -86,8 +86,8 @@ export const story11 = {
     {
       image: require(`images/stories/${dir}/image-1.webp`),
       caption: {
-        en: "Mengikuti pertemuan anggota satgas TPPO provinsi lampung dengan dukungan program SAF, proses pertemuan ini bagian dari pengumpulan data untuk skripsi ku sekaligus ruang aku untuk sharing tentang persoalan dan tantangan yang dihadapi dalam pendampingan kasus TPPO bagi NGO.",
-        id: "Mengikuti pertemuan anggota satgas TPPO provinsi lampung dengan dukungan program SAF, proses pertemuan ini bagian dari pengumpulan data untuk skripsi ku sekaligus ruang aku untuk sharing tentang persoalan dan tantangan yang dihadapi dalam pendampingan kasus TPPO bagi NGO.",
+        en: "Mengikuti pertemuan anggota satgas TPPO provinsi lampung dengan dukungan program SAF, proses pertemuan ini bagian dari pengumpulan data untuk skripsi ku sekaligus ruang aku untuk <em>sharing</em> tentang persoalan dan tantangan yang dihadapi dalam pendampingan kasus TPPO bagi NGO.",
+        id: "Mengikuti pertemuan anggota satgas TPPO provinsi lampung dengan dukungan program SAF, proses pertemuan ini bagian dari pengumpulan data untuk skripsi ku sekaligus ruang aku untuk <em>sharing</em> tentang persoalan dan tantangan yang dihadapi dalam pendampingan kasus TPPO bagi NGO.",
       },
       credit: {
         en: "Photo: Elisabeth Rona",

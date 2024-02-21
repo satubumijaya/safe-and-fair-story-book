@@ -98,8 +98,8 @@ export const story4 = {
     {
       image: require(`images/stories/${dir}/image-3.webp`),
       caption: {
-        en: "Pertemuan rutin antara Balai Perempuan Suci Berseri dan Balai Perempuan Kepiring Berseri tanggal 4 Desember 2022 yang dihadiri oleh KPI Cab. Jember Ibu Ketua PKK Desa Suci dan DP3AKB Kab Jember.",
-        id: "Pertemuan rutin antara Balai Perempuan Suci Berseri dan Balai Perempuan Kepiring Berseri tanggal 4 Desember 2022 yang dihadiri oleh KPI Cab. Jember Ibu Ketua PKK Desa Suci dan DP3AKB Kab Jember.",
+        en: "Pertemuan rutin antara Balai Perempuan Suci Berseri dan Balai Perempuan Kepiring Berseri tanggal 4 Desember 2022 yang dihadiri oleh KPI Cab. Jember Ibu Ketua PKK Desa Suci dan DP3AKB Kabupaten Jember.",
+        id: "Pertemuan rutin antara Balai Perempuan Suci Berseri dan Balai Perempuan Kepiring Berseri tanggal 4 Desember 2022 yang dihadiri oleh KPI Cab. Jember Ibu Ketua PKK Desa Suci dan DP3AKB Kabupaten Jember.",
       },
       credit: {
         en: "Photo: Yekti Puji Rahayu",
@@ -109,8 +109,8 @@ export const story4 = {
     {
       image: require(`images/stories/${dir}/image-4.webp`),
       caption: {
-        en: "4 Oktober 2022 penandatangan MOU bersama Kepala Desa, Camat Panti, DPMD, BPD Desa Suci, Disnaker, DP3AKB, BP Suci Berseri dan BP Kepiring Berseri.",
-        id: "4 Oktober 2022 penandatangan MOU bersama Kepala Desa, Camat Panti, DPMD, BPD Desa Suci, Disnaker, DP3AKB, BP Suci Berseri dan BP Kepiring Berseri.",
+        en: "4 Oktober 2022 penandatanganan MOU bersama Kepala Desa, Camat Panti, DPMD, BPD Desa Suci, Disnaker, DP3AKB, BP Suci Berseri dan BP Kepiring Berseri.",
+        id: "4 Oktober 2022 penandatanganan MOU bersama Kepala Desa, Camat Panti, DPMD, BPD Desa Suci, Disnaker, DP3AKB, BP Suci Berseri dan BP Kepiring Berseri.",
       },
       credit: {
         en: "Photo: Yekti Puji Rahayu",
