@@ -42,7 +42,7 @@ export default function ShareModal() {
           window.fullpage_api.setAllowScrolling(true);
         }}
         renderBackdrop={renderBackdrop}
-        className="modal fixed inset-0 overflow-y-scroll"
+        className="modal fixed inset-0 overflow-y-scroll focus-visible:outline-none"
       >
         <Fade triggerOnce={false}>
           <div className="flex min-h-[100svh] items-center px-4">

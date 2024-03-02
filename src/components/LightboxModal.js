@@ -52,7 +52,7 @@ export default function LightboxModal() {
         onBackdropClick={() => closeModal()}
         onEscapeKeyDown={() => closeModal()}
         renderBackdrop={renderBackdrop}
-        className="modal fixed inset-0 overflow-y-scroll"
+        className="modal fixed inset-0 overflow-y-scroll focus-visible:outline-none"
       >
         <Fade triggerOnce={false}>
           <div className="px-x flex min-h-[100svh] items-center">

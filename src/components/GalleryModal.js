@@ -70,7 +70,7 @@ export default function GalleryModal() {
           window.fullpage_api.setAllowScrolling(true);
         }}
         renderBackdrop={renderBackdrop}
-        className="modal fixed inset-0 overflow-y-scroll"
+        className="modal fixed inset-0 overflow-y-scroll focus:outline-none focus-visible:outline-none"
       >
         <Fade triggerOnce={false}>
           <div className="px-2">
