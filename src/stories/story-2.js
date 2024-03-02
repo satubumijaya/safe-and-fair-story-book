@@ -70,8 +70,8 @@ export const story2 = {
     {
       image: require(`images/stories/${dir}/image-1.webp`),
       caption: {
-        en: "Kegiatan testimoni penyintas PMI bersama DP3AKB provinsi Jawa Barat di 2023.",
-        id: "Kegiatan testimoni penyintas PMI bersama DP3AKB provinsi Jawa Barat di 2023.",
+        en: "Testimonial activities for Indonesian migrant workers with DP3AKB West Java Province, 2023.",
+        id: "Kegiatan testimoni penyintas PMI (Pekerja Migran Indonesia) bersama DP3AKB provinsi Jawa Barat di 2023.",
       },
       credit: {
         en: "Photo: Yuliani",
@@ -81,8 +81,8 @@ export const story2 = {
     {
       image: require(`images/stories/${dir}/image-2.webp`),
       caption: {
-        en: "Kegiatan pelatihan penulisan UN Women 2023.",
-        id: "Kegiatan pelatihan penulisan UN Women 2023.",
+        en: "UN Women writing training activities, 2023.",
+        id: "Kegiatan pelatihan penulisan UN Women di tahun 2023.",
       },
       credit: {
         en: "Photo: Yuliani",
@@ -92,8 +92,8 @@ export const story2 = {
     {
       image: require(`images/stories/${dir}/image-3.webp`),
       caption: {
-        en: "Kegiatan testimoni Pekerja Migran Indonesia (PMI) bersama DP3AKB provinsi Jawa Barat 2023.",
-        id: "Kegiatan testimoni Pekerja Migran Indonesia (PMI) bersama DP3AKB provinsi Jawa Barat 2023.",
+        en: "Testimonial activities for Indonesian migrant workers with DP3AKB West Java Province, 2023.",
+        id: "Kegiatan testimoni Pekerja Migran Indonesia (PMI) bersama DP3AKB provinsi Jawa Barat di tahun 2023.",
       },
       credit: {
         en: "Photo: Yuliani",
@@ -103,8 +103,8 @@ export const story2 = {
     {
       image: require(`images/stories/${dir}/image-4.webp`),
       caption: {
-        en: "Perjalanan dari Bandung ke Jakarta untuk mengikuti pelatihan penulisan bersama UN Women 2023.",
-        id: "Perjalanan dari Bandung ke Jakarta untuk mengikuti pelatihan penulisan bersama UN Women 2023.",
+        en: "Traveling from Bandung to Jakarta to take part in writing training with UN Women, 2023.",
+        id: "Perjalanan dari Bandung ke Jakarta untuk mengikuti pelatihan penulisan bersama UN Women di tahun 2023.",
       },
       credit: {
         en: "Photo: Yuliani",

@@ -76,8 +76,8 @@ export const story4 = {
     {
       image: require(`images/stories/${dir}/image-1.webp`),
       caption: {
-        en: "Surabaya 21-24 Oktober 2021 Pelatihan Paralegal foto bersama peserta perwakilan dari Balai Perempuan Pusat Informasi Pengaduan Advokasi (BP PIPA) Desa Suci dan KPI Cab. Jember.",
-        id: "Surabaya 21-24 Oktober 2021 Pelatihan Paralegal foto bersama peserta perwakilan dari Balai Perempuan Pusat Informasi Pengaduan Advokasi (BP PIPA) Desa Suci dan KPI Cab. Jember.",
+        en: "Paralegal training with representatives of the Women's Center for Advocacy Complaints Information Center (BP PIPA), Suci Village, and KPI Jember Branch, Surabaya, 21–24 October 2021.",
+        id: "Surabaya 21-24 Oktober 2021, Pelatihan Paralegal. Foto bersama peserta perwakilan dari Balai Perempuan Pusat Informasi Pengaduan Advokasi (BP PIPA) Desa Suci dan KPI Cab. Jember.",
       },
       credit: {
         en: "Photo: Yekti Puji Rahayu",
@@ -87,8 +87,8 @@ export const story4 = {
     {
       image: require(`images/stories/${dir}/image-2.webp`),
       caption: {
-        en: "Presentasi penyelesaian dalam penanganan kasus di pelatihan Paralegal di Surabaya 21-24 Oktober 2021.",
-        id: "Presentasi penyelesaian dalam penanganan kasus di pelatihan Paralegal di Surabaya 21-24 Oktober 2021.",
+        en: "Presentation of solutions in case handling during paralegal training in Surabaya, 21–24 October 2021.",
+        id: "Presentasi penyelesaian dalam penanganan kasus, dipelatihan Paralegal di Surabaya 21-24 Oktober 2021.",
       },
       credit: {
         en: "Photo: Yekti Puji Rahayu",
@@ -98,8 +98,8 @@ export const story4 = {
     {
       image: require(`images/stories/${dir}/image-3.webp`),
       caption: {
-        en: "Pertemuan rutin antara Balai Perempuan Suci Berseri dan Balai Perempuan Kepiring Berseri tanggal 4 Desember 2022 yang dihadiri oleh KPI Cab. Jember Ibu Ketua PKK Desa Suci dan DP3AKB Kabupaten Jember.",
-        id: "Pertemuan rutin antara Balai Perempuan Suci Berseri dan Balai Perempuan Kepiring Berseri tanggal 4 Desember 2022 yang dihadiri oleh KPI Cab. Jember Ibu Ketua PKK Desa Suci dan DP3AKB Kabupaten Jember.",
+        en: "Regular meeting between the Suci Berseri Women's Hall and the Kepiring Berseri Women's Hall on December 4 2022, attended by the chairperson of KPI Jember Branch, PKK Suci Village and DP3AKB Jember Regency.",
+        id: "Pertemuan rutin antara Balai Perempuan Suci Berseri dan Balai Perempuan Kepiring Berseri tanggal 4 Desember 2022 yang dihadiri oleh KPI Cab. Jember, Ibu Ketua PKK Desa Suci dan DP3AKB Kabupaten Jember.",
       },
       credit: {
         en: "Photo: Yekti Puji Rahayu",
@@ -109,8 +109,8 @@ export const story4 = {
     {
       image: require(`images/stories/${dir}/image-4.webp`),
       caption: {
-        en: "4 Oktober 2022 penandatanganan MOU bersama Kepala Desa, Camat Panti, DPMD, BPD Desa Suci, Disnaker, DP3AKB, BP Suci Berseri dan BP Kepiring Berseri.",
-        id: "4 Oktober 2022 penandatanganan MOU bersama Kepala Desa, Camat Panti, DPMD, BPD Desa Suci, Disnaker, DP3AKB, BP Suci Berseri dan BP Kepiring Berseri.",
+        en: "Signing of the MOU with the village head, Panti Subdistrict head, DPMD, BPD Suci Village, Manpower Office, DP3AKB, BP Suci Berseri and BP Kepiring Berseri, 4 October 2022.",
+        id: "4 Oktober 2022, penandatanganan MOU bersama Kepala Desa, Camat Panti, DPMD, BPD Desa Suci, Disnaker, DP3AKB, BP Suci Berseri dan BP Kepiring Berseri.",
       },
       credit: {
         en: "Photo: Yekti Puji Rahayu",

@@ -1,4 +1,4 @@
-import React, { useContext } from "react";
+import React, { useContext, useEffect, useState } from "react";
 import { useTranslation } from "react-i18next";
 import concave from "images/concave.webp";
 import introImg from "images/intro.webp";
@@ -6,10 +6,19 @@ import ScrollArrow from "components/ScrollArrow";
 import { Fade } from "react-awesome-reveal";
 import SafTitle from "components/SafTitle";
 import { AppContext } from "context/AppContext";
+import ReactMarkdown from "react-markdown";
+
+// import sample from "locales/test.md";
 
 export default function Intro() {
   const { t, i18n, ready } = useTranslation();
   const { windowSize } = useContext(AppContext);
+  // const [sampleText, setSampleText] = useState("");
+  // useEffect(() => {
+  //   fetch(sample)
+  //     .then((res) => res.text())
+  //     .then((text) => setSampleText(text));
+  // }, []);
   return (
     <div className="section">
       <div className="relative flex min-h-screen flex-col overflow-x-hidden md:flex-row">
@@ -44,15 +53,7 @@ export default function Intro() {
           </div>
         </div>
         <div className="flex flex-col bg-main text-white md:max-w-xs lg:max-w-md">
-          <div
-            className="overlay relative h-64 overflow-hidden bg-contain bg-center bg-no-repeat px-20 py-16 text-center"
-            style={
-              {
-                // backgroundImage: `url(${concave})`,
-                // backgroundPosition: `-50% -50%`,
-              }
-            }
-          >
+          <div className="overlay relative h-64 overflow-hidden bg-contain bg-center bg-no-repeat px-20 py-16 text-center">
             <img src={concave} alt="" className="absolute bottom-8 left-1/2 aspect-square h-[150%] w-auto max-w-[200%]" />
           </div>
           <div className="bg-main-dark">

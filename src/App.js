@@ -20,7 +20,7 @@ function App() {
     if (cookies.lang) {
       i18n.changeLanguage(cookies.lang);
     } else {
-      i18n.changeLanguage("en");
+      i18n.changeLanguage("id");
     }
   }, []);
 

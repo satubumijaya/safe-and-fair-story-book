@@ -58,8 +58,8 @@ export const story9 = {
     {
       image: require(`images/stories/${dir}/image-1.webp`),
       caption: {
-        en: "Program pemberdayaan usaha perempuan — foto saat mendampingi desa Tugusumberjo Jombang dalam kegiatan musyawarah desa program Jatim Puspa.",
-        id: "Program pemberdayaan usaha perempuan — foto saat mendampingi desa Tugusumberjo Jombang dalam kegiatan musyawarah desa program Jatim Puspa.",
+        en: "As part of the women's business empowerment program, accompanying the village of Tugusourcejo Jombang during the village meeting activities of the Jatim Puspa program.",
+        id: "Program pemberdayaan usaha perempuan. Foto saat mendampingi Desa Tugusumberjo Jombang dalam kegiatan musyawarah desa program Jatim Puspa.",
       },
       credit: {
         en: "Photo: Fifi Ekawati Rohmah",
@@ -69,8 +69,8 @@ export const story9 = {
     {
       image: require(`images/stories/${dir}/image-2.webp`),
       caption: {
-        en: "Mengunjungi dan memberikan pendampingan serta motivasi pada Kepala Keluarga perempuan yang sedang menjalankan usaha ekonomi produktif utk meningkatkan penghasilan keluarga di kecamatan Peterongan Jombang.",
-        id: "Mengunjungi dan memberikan pendampingan serta motivasi pada Kepala Keluarga perempuan yang sedang menjalankan usaha ekonomi produktif utk meningkatkan penghasilan keluarga di kecamatan Peterongan Jombang.",
+        en: "Visiting and providing assistance and motivation to women heads of families who are running productive economic businesses to increase family income in Peterongan Jombang Subdistrict.",
+        id: "Mengunjungi dan memberikan pendampingan serta motivasi pada kepala keluarga perempuan yang sedang menjalankan usaha ekonomi produktif untuk meningkatkan penghasilan keluarga di Kecamatan Peterongan Jombang.",
       },
       credit: {
         en: "Photo: Fifi Ekawati Rohmah",
@@ -80,8 +80,8 @@ export const story9 = {
     {
       image: require(`images/stories/${dir}/image-3.webp`),
       caption: {
-        en: "Fasilitasi kegiatan Sekolah Perempuan (Sekoper Dewi Sri) Desa Ngogri Megaluh, Jombang.",
-        id: "Fasilitasi kegiatan Sekolah Perempuan (Sekoper Dewi Sri) Desa Ngogri Megaluh, Jombang.",
+        en: "Faciliating the activities of the Women's School (Sekoper Dewi Sri) in Ngogri Megaluh Village, Jombang.",
+        id: "Memfasilitasi kegiatan Sekolah Perempuan (Sekoper Dewi Sri) Desa Ngogri Megaluh, Jombang.",
       },
       credit: {
         en: "Photo: Fifi Ekawati Rohmah",
@@ -91,7 +91,7 @@ export const story9 = {
     {
       image: require(`images/stories/${dir}/image-4.webp`),
       caption: {
-        en: "Bersama suami berziarah ke makam Gus Dur.",
+        en: "Pilgrimage with my husband to Gus Dur's grave.",
         id: "Bersama suami berziarah ke makam Gus Dur.",
       },
       credit: {

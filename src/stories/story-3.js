@@ -100,7 +100,7 @@ export const story3 = {
     {
       image: require(`images/stories/${dir}/image-1.webp`),
       caption: {
-        en: "Rapat tahunan koperasi komunitas Bale Istri, diambil di tahun 2023.",
+        en: "Annual meeting of the Bale Istri Community, 2023.",
         id: "Rapat tahunan koperasi komunitas Bale Istri, diambil di tahun 2023.",
       },
       credit: {
@@ -111,8 +111,8 @@ export const story3 = {
     {
       image: require(`images/stories/${dir}/image-2.webp`),
       caption: {
-        en: "Mendampingi penyintas bersama DP3AKB Provinsi Jawa Barat di Gedung Sekoper Cinta Kota Bandung tahun 2023.",
-        id: "Mendampingi penyintas bersama DP3AKB Provinsi Jawa Barat di Gedung Sekoper Cinta Kota Bandung tahun 2023.",
+        en: "Assisting survivors with DP3AKB West Java Province in the Sekoper Cinta building, Bandung City, 2023.",
+        id: "Mendampingi penyintas bersama DP3AKB Provinsi Jawa Barat di Gedung Sekoper Cinta Kota Bandung di tahun 2023.",
       },
       credit: {
         en: "Photo: Sugih Hartini",
@@ -122,8 +122,8 @@ export const story3 = {
     {
       image: require(`images/stories/${dir}/image-3.webp`),
       caption: {
-        en: "Berbagi cerita perubahan bersama Safe & Fair UN Women 2023.",
-        id: "Berbagi cerita perubahan bersama Safe & Fair UN Women 2023.",
+        en: "Sharing stories of change with the UN Women Safe and Fair programme, 2023.",
+        id: "Berbagi cerita perubahan bersama Safe and Fair UN WOMEN tahun 2023.",
       },
       credit: {
         en: "Photo: UN Women/Christina Phan",
@@ -133,8 +133,8 @@ export const story3 = {
     {
       image: require(`images/stories/${dir}/image-4.webp`),
       caption: {
-        en: "Memberi sambutan di rapat tahunan koprasi komunitas Bale Istri tahun 2023.",
-        id: "Memberi sambutan di rapat tahunan koprasi komunitas Bale Istri tahun 2023.",
+        en: "Giving a speech at the annual meeting of the Bale Istri Community, 2023",
+        id: "Memberi sambutan di rapat tahunan koperasi Komunitas Bale Istri tahun 2023.",
       },
       credit: {
         en: "Photo: Sugih Hartini",

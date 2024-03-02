@@ -61,8 +61,8 @@ export const story10 = {
     {
       image: require(`images/stories/${dir}/image-1.webp`),
       caption: {
-        en: "<em>Workshop</em> Finalisasi Rancangan Peraturan Gubernur (Rapergub) Provinsi Jawa Barat Tentang Pelayanan Terpadu bagi Perempuan dan Anak Korban Kekerasan dan Tindak Pidana Perdagangan Orang dan Audensi kepada Stakeholder terkait di Provinsi Jawa Barat - 11 Oktober 2022.",
-        id: "<em>Workshop</em> Finalisasi Rancangan Peraturan Gubernur (Rapergub) Provinsi Jawa Barat Tentang Pelayanan Terpadu bagi Perempuan dan Anak Korban Kekerasan dan Tindak Pidana Perdagangan Orang dan Audensi kepada Stakeholder terkait di Provinsi Jawa Barat - 11 Oktober 2022.",
+        en: "Stakeholder hearings and workshop on the finalization of the West Java Governor's draft regulation concerning integrated services for women and children victims of violence and human trafficking crimes, 11 October 2022.",
+        id: "<em>Workshop</em> Finalisasi Rancangan Peraturan Gubernur (Rapergub) Provinsi Jawa Barat Tentang Pelayanan Terpadu bagi Perempuan dan Anak Korban Kekerasan dan Tindak Pidana Perdagangan Orang dan Audensi kepada <em>Stakeholder</em> terkait di Provinsi Jawa Barat - 11 Oktober 2022.",
       },
       credit: {
         en: "Photo: Internal Yayasan Sapa",
@@ -72,7 +72,7 @@ export const story10 = {
     {
       image: require(`images/stories/${dir}/image-2.webp`),
       caption: {
-        en: "Audiensi dengan DP3AKB Provinsi Jawa Barat - 14 Oktober 2022.",
+        en: "Hearing with DP3AKB West Java Province, 14 October 2022.",
         id: "Audiensi dengan DP3AKB Provinsi Jawa Barat - 14 Oktober 2022.",
       },
       credit: {
@@ -83,7 +83,7 @@ export const story10 = {
     {
       image: require(`images/stories/${dir}/image-3.webp`),
       caption: {
-        en: "Audiensi dengan DP3AKB Provinsi Jawa Barat - 14 Oktober 2022.",
+        en: "Hearing with DP3AKB West Java Province, 14 October 2022.",
         id: "Audiensi dengan DP3AKB Provinsi Jawa Barat - 14 Oktober 2022.",
       },
       credit: {
@@ -94,8 +94,8 @@ export const story10 = {
     {
       image: require(`images/stories/${dir}/image-4.webp`),
       caption: {
-        en: "<em>Workshop</em> Finalisasi Rancangan Peraturan Gubernur (Rapergub) Provinsi Jawa Barat Tentang Pelayanan Terpadu bagi Perempuan dan Anak Korban Kekerasan dan Tindak Pidana Perdagangan Orang dan Audensi kepada Stakeholder terkait Di Provinsi Jawa Barat - 11 Oktober 2022.",
-        id: "<em>Workshop</em> Finalisasi Rancangan Peraturan Gubernur (Rapergub) Provinsi Jawa Barat Tentang Pelayanan Terpadu bagi Perempuan dan Anak Korban Kekerasan dan Tindak Pidana Perdagangan Orang dan Audensi kepada Stakeholder terkait Di Provinsi Jawa Barat - 11 Oktober 2022.",
+        en: "Stakeholder hearings and workshop on the finalization of the West Java Governor's draft regulation concerning integrated services for women and children victims of violence and human trafficking crimes, 11 October 2022.",
+        id: "<em>Workshop</em> Finalisasi Rancangan Peraturan Gubernur (Rapergub) Provinsi Jawa Barat Tentang Pelayanan Terpadu bagi Perempuan dan Anak Korban Kekerasan dan Tindak Pidana Perdagangan Orang dan Audensi kepada <em>Stakeholder</em> terkait di Provinsi Jawa Barat - 11 Oktober 2022.",
       },
       credit: {
         en: "Photo: Internal Yayasan Sapa",

@@ -84,7 +84,7 @@ export const story7 = {
     {
       image: require(`images/stories/${dir}/image-1.webp`),
       caption: {
-        en: "Irwan Setiawan membuka kegiatan pelatihan komunitas tentang alur penanganan kasus.",
+        en: "Irwan Setiawan opens community training activities regarding case handling flow.",
         id: "Irwan Setiawan membuka kegiatan pelatihan komunitas tentang alur penanganan kasus.",
       },
       credit: {
@@ -95,7 +95,7 @@ export const story7 = {
     {
       image: require(`images/stories/${dir}/image-2.webp`),
       caption: {
-        en: "Peningkatan pengetahuan Komunitas Tanjung Pinggir tentang peran komunitas dalam perlindungan perempuan dan anak.",
+        en: "Increasing the knowledge of the Tanjung Tepi community about the role of the community in protecting women and children.",
         id: "Peningkatan pengetahuan Komunitas Tanjung Pinggir tentang peran komunitas dalam perlindungan perempuan dan anak.",
       },
       credit: {
@@ -106,7 +106,7 @@ export const story7 = {
     {
       image: require(`images/stories/${dir}/image-3.webp`),
       caption: {
-        en: "Kegiatan <em>workshop</em> penulisan.",
+        en: "Writing workshop activities.",
         id: "Kegiatan <em>workshop</em> penulisan.",
       },
       credit: {
@@ -117,7 +117,7 @@ export const story7 = {
     {
       image: require(`images/stories/${dir}/image-4.webp`),
       caption: {
-        en: "Penyintas menuliskan mimpi, harapan dan rencana ke depan setelah dipulangkan.",
+        en: "Survivors write down their dreams, hopes and future plans after being discharged.",
         id: "Penyintas menuliskan mimpi, harapan dan rencana ke depan setelah dipulangkan.",
       },
       credit: {

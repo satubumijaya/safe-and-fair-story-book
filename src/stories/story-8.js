@@ -98,8 +98,8 @@ export const story8 = {
     {
       image: require(`images/stories/${dir}/image-1.webp`),
       caption: {
-        en: "Diskusi dalam kegiatan penyusunan peraturan desa Kedongdong bersama Koordinator Komunitas desa.",
-        id: "Diskusi dalam kegiatan penyusunan peraturan desa Kedongdong bersama Koordinator Komunitas desa.",
+        en: "Discussion with the village community coordinator on the drafting of Kedongdong Village regulations.",
+        id: "Diskusi dalam kegiatan penyusunan peraturan Desa Kedongdong bersama Koordinator Komunitas Desa.",
       },
       credit: {
         en: "Photo: Roudlotul Jannah",
@@ -109,7 +109,7 @@ export const story8 = {
     {
       image: require(`images/stories/${dir}/image-2.webp`),
       caption: {
-        en: "Foto bersama dengan Tim WCC Mawar Balqis selepas kegiatan Migrant Day tahun 2021.",
+        en: "Group photo with the WCC Mawar Balqis team after the Migrant Day 2021 activities.",
         id: "Foto bersama dengan Tim WCC Mawar Balqis selepas kegiatan Migrant Day tahun 2021.",
       },
       credit: {
@@ -120,8 +120,8 @@ export const story8 = {
     {
       image: require(`images/stories/${dir}/image-3.webp`),
       caption: {
-        en: "Partisipasi dalam kegiatan pelatihan menulis dan fotografi bersama UN Women. ",
-        id: "Partisipasi dalam kegiatan pelatihan menulis dan fotografi bersama UN Women. ",
+        en: "Participating in writing and photography training activities with UN Women.",
+        id: "Partisipasi dalam kegiatan pelatihan menulis dan fotografi bersama UN Women.",
       },
       credit: {
         en: "Photo: UN Women/Christina Phan",
@@ -131,7 +131,7 @@ export const story8 = {
     {
       image: require(`images/stories/${dir}/image-4.webp`),
       caption: {
-        en: "Pelatihan Peningkatan Kapasitas untuk Komunitas Desa.",
+        en: "Capacity-building training for village communities.",
         id: "Pelatihan Peningkatan Kapasitas untuk Komunitas Desa.",
       },
       credit: {

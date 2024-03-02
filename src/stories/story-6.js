@@ -68,8 +68,8 @@ export const story6 = {
     {
       image: require(`images/stories/${dir}/image-1.webp`),
       caption: {
-        en: "Komunitas Orang Muda Anti Perdagangan Orang dan Eksploitasi Seksual Anak (KOMPAK) Mendapatkan Piagam Apresiasi oleh Wali Kota Batam, karena telah berhasil menjadi Fasilitator dalam perayaan Hari Anak Nasional 2023 di Kota Batam.",
-        id: "Komunitas Orang Muda Anti Perdagangan Orang dan Eksploitasi Seksual Anak (KOMPAK) Mendapatkan Piagam Apresiasi oleh Wali Kota Batam, karena telah berhasil menjadi Fasilitator dalam perayaan Hari Anak Nasional 2023 di Kota Batam.",
+        en: "The Youth Community Against Human Trafficking and Sexual Exploitation of Children (KOMPAK) received a Certificate of Appreciation from the Mayor of Batam, in recognition of its role in commemorating National Children's Day 2023 in Batam City.",
+        id: "Komunitas Orang Muda Anti Perdagangan Orang dan Eksploitasi Seksual Anak (KOMPAK) mendapatkan Piagam Apresiasi oleh Wali Kota Batam, karena telah berhasil menjadi Fasilitator dalam perayaan Hari Anak Nasional 2023 di Kota Batam.",
       },
       credit: {
         en: "Photo: Ria Febriyanti",
@@ -79,7 +79,7 @@ export const story6 = {
     {
       image: require(`images/stories/${dir}/image-2.webp`),
       caption: {
-        en: "Menjadi Tokoh Utama dalam film Dokumenter “Healing is A Right” oleh VOA indonesia.",
+        en: "I was the focus of the documentary film Healing is a Right by VOA Indonesia.",
         id: "Menjadi Tokoh Utama dalam film Dokumenter “Healing is A Right” oleh VOA indonesia.",
       },
       credit: {
@@ -90,7 +90,7 @@ export const story6 = {
     {
       image: require(`images/stories/${dir}/image-3.webp`),
       caption: {
-        en: "Menjadi fasilitator dalam Penguatan Kapasitas Kelompok Anak (Remaja anti Eskploitasi Seksual Anak) dan Kelompok Orang Muda (Komunitas Orang Muda Anti Perdagangan Orang dan Eksploitasi Seksual Anak).",
+        en: "I was a facilitator in training sessions on Strengthening the Capacity of Children's Groups (Teenagers against Child Sexual Exploitation) and Youth Groups (Youth Community Against Trafficking in Persons and Child Sexual Exploitation)",
         id: "Menjadi fasilitator dalam Penguatan Kapasitas Kelompok Anak (Remaja anti Eskploitasi Seksual Anak) dan Kelompok Orang Muda (Komunitas Orang Muda Anti Perdagangan Orang dan Eksploitasi Seksual Anak).",
       },
       credit: {
@@ -101,8 +101,8 @@ export const story6 = {
     {
       image: require(`images/stories/${dir}/image-4.webp`),
       caption: {
-        en: "Membaca cerita perubahan dalam lokakarya pelatihan penulisan oleh UN Women.",
-        id: "Membaca cerita perubahan dalam lokakarya pelatihan penulisan oleh UN Women.",
+        en: "Reading stories of change in the writing training workshop by UN Women.",
+        id: "Membaca Cerita Perubahan dalam Lokakarya Pelatihan Penulisan oleh UN Women.",
       },
       credit: {
         en: "Photo: UN Women/Christina Phan",

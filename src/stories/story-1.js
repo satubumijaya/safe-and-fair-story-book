@@ -51,8 +51,8 @@ export const story1 = {
     {
       image: require(`images/stories/${dir}/image-1.webp`),
       caption: {
-        en: "Diskusi bersama kelompok Satgas desa dan WCC Mawar Balqis mengenai pekerja migran indonesia.",
-        id: "Diskusi bersama kelompok Satgas desa dan WCC Mawar Balqis mengenai pekerja migran indonesia.",
+        en: "Discussion with the village task force group and WCC Mawar Balqis regarding Indonesian migrant workers.",
+        id: "Diskusi bersama kelompok Satgas desa dan WCC Mawar Balqis mengenai Pekerja Migran Indonesia.",
       },
       credit: {
         en: "Photo: Susilawati",
@@ -62,7 +62,7 @@ export const story1 = {
     {
       image: require(`images/stories/${dir}/image-2.webp`),
       caption: {
-        en: "Foto keluarga kecil ku di saat Lebaran Haji 2023.",
+        en: "My little family during Eid Hajj.",
         id: "Foto keluarga kecil ku di saat Lebaran Haji 2023.",
       },
       credit: {
@@ -73,7 +73,7 @@ export const story1 = {
     {
       image: require(`images/stories/${dir}/image-3.webp`),
       caption: {
-        en: "Acara pelatihan menjadi pekerja migran yang baik bersama WCC Mawar Balqis.",
+        en: "Training event on how to become a procedural migrant worker with WCC Mawar Balqis.",
         id: "Acara pelatihan menjadi pekerja migran yang baik bersama WCC Mawar Balqis.",
       },
       credit: {
@@ -84,7 +84,7 @@ export const story1 = {
     {
       image: require(`images/stories/${dir}/image-4.webp`),
       caption: {
-        en: "Foto tahun 2018 bersama anak aku di Transmart Cirebon.",
+        en: "With my child at Transmart Cirebon, 2018.",
         id: "Foto tahun 2018 bersama anak aku di Transmart Cirebon.",
       },
       credit: {

@@ -55,7 +55,7 @@ export const story5 = {
     {
       image: require(`images/stories/${dir}/image-1.webp`),
       caption: {
-        en: "Penandatanganan persetujuan korban pendampingan.",
+        en: "Signing the victim assistance agreement.",
         id: "Penandatanganan persetujuan korban pendampingan.",
       },
       credit: {
@@ -66,7 +66,7 @@ export const story5 = {
     {
       image: require(`images/stories/${dir}/image-2.webp`),
       caption: {
-        en: "Audiensi dengan Pemerintah Desa Tamanagung.",
+        en: "Meeting with the Tamanagung Village government.",
         id: "Audiensi dengan Pemerintah Desa Tamanagung.",
       },
       credit: {
@@ -77,8 +77,8 @@ export const story5 = {
     {
       image: require(`images/stories/${dir}/image-3.webp`),
       caption: {
-        en: "Pendampingan purna PMI korban kekerasan seksual.",
-        id: "Pendampingan purna PMI korban kekerasan seksual.",
+        en: "Supporting a former Indonesia migrant workers who is a victim of sexual violence.",
+        id: "Pendampingan purna PMI (Pekerja Migran Indonesia) korban kekerasan seksual.",
       },
       credit: {
         en: "Photo: Rulis Diana",
@@ -88,7 +88,7 @@ export const story5 = {
     {
       image: require(`images/stories/${dir}/image-4.webp`),
       caption: {
-        en: "Pelatihan Paralegal.",
+        en: "Paralegal training.",
         id: "Pelatihan Paralegal.",
       },
       credit: {
