@@ -99,8 +99,8 @@ export const story7 = {
         id: "Peningkatan pengetahuan Komunitas Tanjung Pinggir tentang peran komunitas dalam perlindungan perempuan dan anak.",
       },
       credit: {
-        en: "Photo: UN Women/Christina Phan",
-        id: "Photo: UN Women/Christina Phan",
+        en: "Photo: Yayasan Embun Pelangi",
+        id: "Photo: Yayasan Embun Pelangi",
       },
     },
     {
