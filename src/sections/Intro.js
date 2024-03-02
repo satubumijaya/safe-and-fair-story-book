@@ -28,14 +28,14 @@ export default function Intro() {
             backgroundImage: `url(${require("images/closing-concave.webp")}`,
           }}
         ></div>
-        <div className="absolute right-0 top-0 z-10 h-full w-4 bg-main md:w-6 lg:w-10"></div>
-        <div className="absolute bottom-28 right-0 z-10 h-2/5 w-6 bg-main-dark md:w-8 lg:w-[60px]"></div>
+        <div className="absolute right-0 top-0 z-10 h-full w-4 bg-main md:w-10"></div>
+        <div className="absolute bottom-28 right-0 z-10 h-2/5 w-6 bg-main-dark md:w-[60px]"></div>
 
         <div className="flex-grow pb-12">
-          <div className="py-16 pl-4 text-left lg:pl-16">
+          <div className="px-4 py-16 text-left lg:px-16">
             <SafTitle color="dark" maxWidth={340} className={`mr-4 md:mr-36 lg:mr-64`} />
             <Fade cascade delay={900} triggerOnce={true}>
-              <div className="max-w-prosex mr-8 mt-14 max-w-3xl md:mr-12 lg:mr-14">
+              <div className="max-w-prosex mr-8 mt-14 md:mr-16">
                 {i18n.language === "en" && (
                   <div>
                     <h3 className="mb-8 text-center text-3xl font-bold">FOREWORD</h3>
