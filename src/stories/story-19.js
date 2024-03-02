@@ -87,7 +87,7 @@ export const story19 = {
           </blockquote>
         </p>
         <p>
-          Hingga puncaknya pada akhir tahun 2021, Yayasan Sapa mengadakan kegiatan 16 Hari Anti Kekerasan Terhadap Perempuan (16-HAKTP). Kami mengadakan sebuah perayaan kesenian besar bersama Ibu-ibu Bale Istri. Mereka menampilkan berbagai penampilan kesenian yang merefleksikan persoalan perempuan di masyarakat. Ada cerdas cermat, penampilan drama tentang Kekerasan Dalam Rumah Tangga sampai <em>fashion show</em> yang menampilkan baju hasil desain Ibu-Ibu Bale Istri dengan ornamen tulisan Stop Kekerasan Terhadap Perempuan.
+          Hingga puncaknya pada akhir tahun 2021, Yayasan Sapa mengadakan kegiatan 16 Hari Anti Kekerasan Terhadap Perempuan (16-HAKTP). Kami mengadakan sebuah perayaan kesenian besar bersama Ibu-ibu Bale Istri. Mereka menampilkan berbagai penampilan kesenian yang merefleksikan persoalan perempuan di masyarakat. Ada cerdas cermat, penampilan drama tentang Kekerasan Dalam Rumah Tangga sampai <em>fashion show</em> yang menampilkan baju hasil desain Ibu-ibu Bale Istri dengan ornamen tulisan Stop Kekerasan Terhadap Perempuan.
         </p>
         <p>
           Aku melihat ini sebagai sebuah proses dari perjalanan hidup. Simone De Beauvoir pernah mengatakan bahwa kita tidak dilahirkan menjadi seorang perempuan, melainkan dibentuk menjadi seorang perempuan. Lemah, emosional, ketergantungan dan stigma lainnya yang diletakkan kepada perempuan bukan benar-benar milik perempuan, melainkan dibangun oleh masyarakat yang patriarki. Aku, <em>Teh</em> Sugih dan Ibu-ibu Bale Istri, kami terus belajar bersama untuk lebih mengenal arti sesungguhnya dari kata &ldquo;perempuan.&rdquo;
