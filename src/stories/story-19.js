@@ -102,8 +102,8 @@ export const story19 = {
     {
       image: require(`images/stories/${dir}/image-1.webp`),
       caption: {
-        en: "Kegiatan 16HAKTP bersama ibu-ibu Bale Istri, Desember 2022. ",
-        id: "Kegiatan 16HAKTP bersama ibu-ibu Bale Istri, Desember 2022. ",
+        en: "16HAKTP activity with the women of Bale Istri, December 2022.",
+        id: "Kegiatan 16HAKTP bersama Ibu-ibu Bale Istri, Desember 2022.",
       },
       credit: {
         en: "Photo: Komunitas Bale Istri ",
@@ -113,7 +113,7 @@ export const story19 = {
     {
       image: require(`images/stories/${dir}/image-2.webp`),
       caption: {
-        en: "Pertemuan Bale Istri Mekarlaksana, Oktober 2021.",
+        en: "Bale Istri Mekarlaksana Meeting, October 2021.",
         id: "Pertemuan Bale Istri Mekarlaksana, Oktober 2021.",
       },
       credit: {
@@ -124,7 +124,7 @@ export const story19 = {
     {
       image: require(`images/stories/${dir}/image-3.webp`),
       caption: {
-        en: "Pertemuan Bale Istri Sukamaju, Juli 2021.",
+        en: "Bale Istri Sukamaju Meeting, July 2021.",
         id: "Pertemuan Bale Istri Sukamaju, Juli 2021.",
       },
       credit: {
@@ -135,7 +135,7 @@ export const story19 = {
     {
       image: require(`images/stories/${dir}/image-4.webp`),
       caption: {
-        en: "Makan-makan bersama Bale Istri Cipaku, November 2021.",
+        en: "Enjoying a meal with Bale Istri Cipaku, November 2021.",
         id: "Makan-makan bersama Bale Istri Cipaku, November 2021.",
       },
       credit: {

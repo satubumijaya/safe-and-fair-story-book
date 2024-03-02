@@ -190,7 +190,7 @@ export const story16 = {
     {
       image: require(`images/stories/${dir}/image-1.webp`),
       caption: {
-        en: "Pemaparan materi ke-2 pada salah satu kelas sekolah <em>parenting</em>.",
+        en: "Presentation of material during one of the Parenting School classes.",
         id: "Pemaparan materi ke-2 pada salah satu kelas sekolah <em>parenting</em>.",
       },
       credit: {
@@ -201,7 +201,7 @@ export const story16 = {
     {
       image: require(`images/stories/${dir}/image-2.webp`),
       caption: {
-        en: "Sesi <em>curhat</em> dan <em>sharing</em>, bagian dari sesi sekolah <em>parenting</em>. Peserta saling berbagi cerita tanpa ada penghakiman dari yang lain, sebuah upaya membangun empati dan ruang aman bagi kaum perempuan.",
+        en: "Confide and sharing session as part of the Parenting School. Participants share stories with each other without judgment from others, in an effort to build empathy and a safe space for women.",
         id: "Sesi <em>curhat</em> dan <em>sharing</em>, bagian dari sesi sekolah <em>parenting</em>. Peserta saling berbagi cerita tanpa ada penghakiman dari yang lain, sebuah upaya membangun empati dan ruang aman bagi kaum perempuan.",
       },
       credit: {
@@ -212,7 +212,7 @@ export const story16 = {
     {
       image: require(`images/stories/${dir}/image-3.webp`),
       caption: {
-        en: "Sesi <em>curhat</em> dan <em>sharing</em> di sekolah <em>parenting</em>.",
+        en: "Confide and sharing session at Parenting School.",
         id: "Sesi <em>curhat</em> dan <em>sharing</em> di sekolah <em>parenting</em>.",
       },
       credit: {
@@ -223,7 +223,7 @@ export const story16 = {
     {
       image: require(`images/stories/${dir}/image-4.webp`),
       caption: {
-        en: 'Pertemuan Balai Perempuan Ratoh Ebhu berisi "arisan cerita perempuan".',
+        en: "Ratoh Ebhu Women's Hall meeting that included the Women's Story Gathering.",
         id: 'Pertemuan Balai Perempuan Ratoh Ebhu berisi "arisan cerita perempuan".',
       },
       credit: {

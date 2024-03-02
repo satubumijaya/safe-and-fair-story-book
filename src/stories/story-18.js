@@ -59,7 +59,7 @@ export const story18 = {
       image: require(`images/stories/${dir}/image-1.webp`),
       caption: {
         en: "Mendiskusikan situasi terkait Tindak Pidana Perdagangan Orang dan Pekerja Migran Non Prosedural di Kota Batam, bersama Komunitas Orang Muda Anti Perdagangan Orang dan Eksploitasi Seksual Anak (KOMPAK).",
-        id: "Mendiskusikan situasi terkait Tindak Pidana Perdagangan Orang dan Pekerja Migran Non Prosedural di Kota Batam, bersama Komunitas Orang Muda Anti Perdagangan Orang dan Eksploitasi Seksual Anak (KOMPAK).",
+        id: "Discussion on the crime of human trafficking and non-procedural migrant workers in Batam City, together with the Youth Community Against Human Trafficking and Sexual Exploitation of Children (KOMPAK).",
       },
       credit: {
         en: "Photo: UN Women/Christina Phan",
@@ -69,7 +69,7 @@ export const story18 = {
     {
       image: require(`images/stories/${dir}/image-2.webp`),
       caption: {
-        en: 'Mempresentasikan hasil karya tulisan saya sendiri dengan judul "dvokasi di Perbatasan".',
+        en: 'Presenting my own piece of writing titled "Advocacy at the Border".',
         id: 'Mempresentasikan hasil karya tulisan saya sendiri dengan judul "Advokasi di Perbatasan".',
       },
       credit: {
@@ -80,8 +80,8 @@ export const story18 = {
     {
       image: require(`images/stories/${dir}/image-3.webp`),
       caption: {
-        en: "Menjadi Fasilitator dan memberikan materi tentang Tindak Pidana Perdagangan Orang kepada ibu-ibu dan bapak-bapak perwakilan dari 13 Komunitas tingkat kelurahan dampingan Yayasan Embun Pelangi.",
-        id: "Menjadi Fasilitator dan memberikan materi tentang Tindak Pidana Perdagangan Orang kepada ibu-ibu dan bapak-bapak perwakilan dari 13 Komunitas tingkat kelurahan dampingan Yayasan Embun Pelangi.",
+        en: "Acting as a facilitator and providing material on the crime of human trafficking to the man and women representatives of the 13 sub-district level communities assisted by the Embun Pelangi Foundation.",
+        id: "Menjadi Fasilitator dan memberikan materi tentang Tindak Pidana Perdagangan Orang kepada Ibu-ibu dan Bapak-bapak perwakilan dari 13 Komunitas tingkat kelurahan dampingan Yayasan Embun Pelangi.",
       },
       credit: {
         en: "Photo: Sogi Alamsyach",
@@ -91,7 +91,7 @@ export const story18 = {
     {
       image: require(`images/stories/${dir}/image-4.webp`),
       caption: {
-        en: "Sharing tentang cerita masa kecil.",
+        en: "Sharing childhood stories.",
         id: "Sharing tentang cerita masa kecil.",
       },
       credit: {

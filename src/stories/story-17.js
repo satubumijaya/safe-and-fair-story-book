@@ -54,7 +54,7 @@ export const story17 = {
     {
       image: require(`images/stories/${dir}/image-1.webp`),
       caption: {
-        en: "Pertama kali mengikuti kegiatan KOMPAK dengan kegiatan <em>capacity building</em> tentang Tindak Pidana Perdagangan Orang (TPPO). Foto tersebut diambil pada tahun 2022 di kantor Yayasan Embun Pelangi Batam.",
+        en: "Taking part in KOMPAK capacity-building activities focused on human trafficking, Embun Pelangi Foundation office, Batam, 2022.",
         id: "Pertama kali mengikuti kegiatan KOMPAK dengan kegiatan <em>capacity building</em> tentang Tindak Pidana Perdagangan Orang (TPPO). Foto tersebut diambil pada tahun 2022 di kantor Yayasan Embun Pelangi Batam.",
       },
       credit: {
@@ -65,7 +65,7 @@ export const story17 = {
     {
       image: require(`images/stories/${dir}/image-2.webp`),
       caption: {
-        en: "Pertama kali datang ke acara Safe and Fair UN Women. Foto diambil pada 26 September 2023 di Hotel Ashley Wahid Hasyim Jakarta.",
+        en: "The first time I participated in a UN Women Safe and Fair event, Ashley Wahid Hasyim Jakarta, September 26 2023.",
         id: "Pertama kali datang ke acara Safe and Fair UN Women. Foto diambil pada 26 September 2023 di Hotel Ashley Wahid Hasyim Jakarta.",
       },
       credit: {
@@ -76,7 +76,7 @@ export const story17 = {
     {
       image: require(`images/stories/${dir}/image-3.webp`),
       caption: {
-        en: "Mengikuti kegiatan KOMPAK yaitu memberikan makanan 4 sehat 5 sempurna untuk memperingati hari gizi nasional. Foto diambil pada tahun 2023 di lampu merah Gelael Batam.",
+        en: "Taking part in a KOMPAK activity to commemorate National Nutrition Day, which was providing four healthy and five perfect foods at the Gelael Batam intersection, 2023.",
         id: "Mengikuti kegiatan KOMPAK yaitu memberikan makanan 4 sehat 5 sempurna untuk memperingati hari gizi nasional. Foto diambil pada tahun 2023 di lampu merah Gelael Batam.",
       },
       credit: {
@@ -87,7 +87,7 @@ export const story17 = {
     {
       image: require(`images/stories/${dir}/image-4.webp`),
       caption: {
-        en: "Membacakan sepenggal cerita perubahan. Foto diambil pada tanggal 28 September 2023 di Hotel Ashley Wahid Hasyim Jakarta.",
+        en: "Reading a story of change, Ashley Wahid Hasyim Jakarta, September 28 2023.",
         id: "Membacakan sepenggal cerita perubahan. Foto diambil pada tanggal 28 September 2023 di Hotel Ashley Wahid Hasyim Jakarta.",
       },
       credit: {
