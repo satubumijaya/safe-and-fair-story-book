@@ -86,8 +86,8 @@ export const story11 = {
     {
       image: require(`images/stories/${dir}/image-1.webp`),
       caption: {
-        en: "Mengikuti pertemuan anggota satgas TPPO provinsi lampung dengan dukungan program SAF, proses pertemuan ini bagian dari pengumpulan data untuk skripsi ku sekaligus ruang aku untuk <em>sharing</em> tentang persoalan dan tantangan yang dihadapi dalam pendampingan kasus TPPO bagi NGO.",
-        id: "Mengikuti pertemuan anggota satgas TPPO provinsi lampung dengan dukungan program SAF, proses pertemuan ini bagian dari pengumpulan data untuk skripsi ku sekaligus ruang aku untuk <em>sharing</em> tentang persoalan dan tantangan yang dihadapi dalam pendampingan kasus TPPO bagi NGO.",
+        en: "I attended a meeting of the Lampung Province human trafficking task force with the support of the SAF programme, to collect data for my thesis and to share about the problems and challenges faced by NGOs in assisting human trafficking cases.",
+        id: "Mengikuti pertemuan anggota satgas TPPO provinsi lampung dengan dukungan program SAF, proses pertemuan ini bagian dari pengumpulan data untuk skripsi ku, sekaligus ruang aku untuk sharing tentang persoalan dan tantangan yang dihadapi dalam pendampingan kasus TPPO bagi NGO.",
       },
       credit: {
         en: "Photo: Elisabeth Rona",
@@ -97,8 +97,8 @@ export const story11 = {
     {
       image: require(`images/stories/${dir}/image-2.webp`),
       caption: {
-        en: "Aku menyampaikan cerita perubahanku bahwa melalui program SAF ini tidak hanya membantu aku mengerjakan tugas akhir (skripsi) saja, bagian dari aku berproses dalam dunia gerakan perempuan untuk mengkampanyekan anti kekerasan terhadap perempuan.",
-        id: "Aku menyampaikan cerita perubahanku bahwa melalui program SAF ini tidak hanya membantu aku mengerjakan tugas akhir (skripsi) saja, bagian dari aku berproses dalam dunia gerakan perempuan untuk mengkampanyekan anti kekerasan terhadap perempuan.",
+        en: "While sharing my story of change, I explained that the SAF programme not only helped me complete my thesis, it was also part of contribution to the women's movement to campaign against violence against women.",
+        id: "Aku menyampaikan cerita perubahanku bahwa melalui program SAF ini tidak hanya membantu aku mengerjakan tugas akhir (skripsi) saja, namun juga bagian dari aku berproses dalam dunia gerakan perempuan untuk mengkampanyekan anti kekerasan terhadap perempuan.",
       },
       credit: {
         en: "Photo: UN Women/Christina Phan",
@@ -108,8 +108,8 @@ export const story11 = {
     {
       image: require(`images/stories/${dir}/image-3.webp`),
       caption: {
-        en: "Aku mewakili komunitas bernama 'Mulead Lappung' mempresentasikan peran apa saja yang dapat dilakukan oleh komunitas perempuan muda dalam kegiatan dialog lintas sektor untuk mewujudkan pengarusutamaan gender di provinsi lampung, bertempat di kantor dinas PPPA Provinsi Lampung.",
-        id: "Aku mewakili komunitas bernama 'Mulead Lappung' mempresentasikan peran apa saja yang dapat dilakukan oleh komunitas perempuan muda dalam kegiatan dialog lintas sektor untuk mewujudkan pengarusutamaan gender di provinsi lampung, bertempat di kantor dinas PPPA Provinsi Lampung.",
+        en: "I represented a community called Mulead Lappung, presenting on the roles young women's communities can play in cross-sector dialogue activities to realize gender mainstreaming in Lampung Province, at the PPPA Lampung Province office.",
+        id: "Aku mewakili komunitas bernama 'Mulead Lappung' mempresentasikan peran apa saja yang dapat dilakukan oleh komunitas perempuan muda, dalam kegiatan dialog lintas sektor untuk mewujudkan pengarusutamaan gender di provinsi lampung, bertempat di kantor dinas PPPA Provinsi Lampung.",
       },
       credit: {
         en: "Photo: Elisabeth Rona",
@@ -119,8 +119,8 @@ export const story11 = {
     {
       image: require(`images/stories/${dir}/image-4.webp`),
       caption: {
-        en: "Wawancara mendalam dengan BP3MI Provinsi Lampung, bagian dari proses aku mendapatkan data untuk penelitian akhir (skripsi). Keterlibatan aku dalam program SAF di lampung membantu aku mendapatkan relasi baru dari BP3MI Provinsi Lampung.",
-        id: "Wawancara mendalam dengan BP3MI Provinsi Lampung, bagian dari proses aku mendapatkan data untuk penelitian akhir (skripsi). Keterlibatan aku dalam program SAF di lampung membantu aku mendapatkan relasi baru dari BP3MI Provinsi Lampung.",
+        en: "I conducted an in-depth interview with BP3MI Lampung Province, as part of collecting data for my thesis. My involvement in the SAF programme in Lampung helped me establish a relationship with the BP3MI Lampung Province.",
+        id: "Wawancara mendalam dengan BP3MI Provinsi Lampung, bagian dari proses aku mendapatkan data untuk penelitian akhir (skripsi). Keterlibatan aku dalam program SAF di Lampung membantu aku mendapatkan relasi baru dari BP3MI Provinsi Lampung.",
       },
       credit: {
         en: "Photo: Elisabeth Rona",

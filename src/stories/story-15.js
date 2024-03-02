@@ -56,7 +56,7 @@ export const story15 = {
     {
       image: require(`images/stories/${dir}/image-1.webp`),
       caption: {
-        en: "Sosialisasi Pencegahan TPPO di Kecamatan Anak Tuha Lampung Tengah, kolaborasi Perkumpulan Damar, Dinas P3A Lampung Tengah, BP3MI Lampung, dan Dinas Tenaga Kerja Lampung Tengah.",
+        en: "Socialization of human trafficking prevention in Anak Tuha District, Central Lampung, a collaboration between the Damar Association, the Central Lampung P3A Service, Lampung BP3MI and the Central Lampung Manpower Office.",
         id: "Sosialisasi Pencegahan TPPO di Kecamatan Anak Tuha Lampung Tengah, kolaborasi Perkumpulan Damar, Dinas P3A Lampung Tengah, BP3MI Lampung, dan Dinas Tenaga Kerja Lampung Tengah.",
       },
       credit: {
@@ -67,8 +67,8 @@ export const story15 = {
     {
       image: require(`images/stories/${dir}/image-2.webp`),
       caption: {
-        en: "Diskusi Penanganan Kasus, Pemulangan Kasus Perempuan PMI Korban TPPO dari Batam ke Lampung Barat antara Perkumpulan Damar, Dinas P3A Provinsi Lampung, UPTD Provinsi Lampung, Disnaker Lampung, BP3MI Lampung, dan beberapa CSO Lokal Lainnya di Lampung.",
-        id: "Diskusi Penanganan Kasus, Pemulangan Kasus Perempuan PMI Korban TPPO dari Batam ke Lampung Barat antara Perkumpulan Damar, Dinas P3A Provinsi Lampung, UPTD Provinsi Lampung, Disnaker Lampung, BP3MI Lampung, dan beberapa CSO Lokal Lainnya di Lampung.",
+        en: "Discussion on case handling and repatriation of former Indonesian migrant worker victims of human trafficking from Batam to West Lampung between the Damar Association, Lampung Province P3A Service, Lampung Province UPTD, Lampung Manpower Office, Lampung BP3MI and several other local CSOs.",
+        id: "Diskusi Penanganan Kasus, Pemulangan Kasus Perempuan PMI Korban TPPO dari Batam ke Lampung Barat antara Perkumpulan Damar, Dinas P3A Provinsi Lampung, UPTD Provinsi Lampung, Disnaker Lampung, BP3MI Lampung, dan beberapa CSO Lokal lainnya di Lampung.",
       },
       credit: {
         en: "Photo: Anisa",
@@ -78,7 +78,7 @@ export const story15 = {
     {
       image: require(`images/stories/${dir}/image-3.webp`),
       caption: {
-        en: "Konferensi Pers Penangkapan Pelaku TPPO oleh Polda Lampung, Perkumpulan Damar, dan UPTD PPA Lampung.",
+        en: "Press conference on the arrest of perpetrators of human trafficking by the Lampung Regional Police, the Damar Association and the Lampung PPA UPTD.",
         id: "Konferensi Pers Penangkapan Pelaku TPPO oleh Polda Lampung, Perkumpulan Damar, dan UPTD PPA Lampung.",
       },
       credit: {
@@ -89,7 +89,7 @@ export const story15 = {
     {
       image: require(`images/stories/${dir}/image-4.webp`),
       caption: {
-        en: "Diskusi Satgas TPPO Provinsi Lampung mengenai Program Pola Pengasuhan bagi Anak PMI yang Ditinggalkan oleh Orang Tuanya Bekerja.",
+        en: "Lampung Province human trafficking task force discussion on the Parenting Program for children of Indonesian migrant workers who have been abandoned by their parents.",
         id: "Diskusi Satgas TPPO Provinsi Lampung mengenai Program Pola Pengasuhan bagi Anak PMI yang Ditinggalkan oleh Orang Tuanya Bekerja.",
       },
       credit: {

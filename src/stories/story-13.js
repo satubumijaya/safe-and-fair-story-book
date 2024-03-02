@@ -62,7 +62,7 @@ export const story13 = {
     {
       image: require(`images/stories/${dir}/image-1.webp`),
       caption: {
-        en: "Saat pendampingan kasus di rumah sakit, Januari 2023.",
+        en: "Providing case assistance at the hospital, January 2023.",
         id: "Saat pendampingan kasus di rumah sakit, Januari 2023.",
       },
       credit: {
@@ -73,7 +73,7 @@ export const story13 = {
     {
       image: require(`images/stories/${dir}/image-2.webp`),
       caption: {
-        en: "Mendampingi kasus di Pengadilan Agama, Agustus 2023.",
+        en: "Accompanying a case in the religious court, August 2023.",
         id: "Mendampingi kasus di Pengadilan Agama, Agustus 2023.",
       },
       credit: {
@@ -84,7 +84,7 @@ export const story13 = {
     {
       image: require(`images/stories/${dir}/image-3.webp`),
       caption: {
-        en: "Mendampingi kasus di psikolog, September 2023.",
+        en: "Accompanying a case during a psychology consult, September 2023.",
         id: "Mendampingi kasus di psikolog, September 2023.",
       },
       credit: {
@@ -95,7 +95,7 @@ export const story13 = {
     {
       image: require(`images/stories/${dir}/image-4.webp`),
       caption: {
-        en: "Membantu mendampingi kasus di PKBM (Pusat Kegiatan Belajar Masyarakat) agar korban bisa melanjutkan pendidikan. Foto diambil bulan September 2022.",
+        en: "Accompanying cases at the community learning activity centre, where victims can continue their education, 2022.",
         id: "Membantu mendampingi kasus di PKBM (Pusat Kegiatan Belajar Masyarakat) agar korban bisa melanjutkan pendidikan. Foto diambil bulan September 2022.",
       },
       credit: {

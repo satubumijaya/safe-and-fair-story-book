@@ -66,8 +66,8 @@ export const story14 = {
     {
       image: require(`images/stories/${dir}/image-1.webp`),
       caption: {
-        en: "Diskusi dan lobi dengan aparat desa/pekon Ambarawa Pringsewu untuk proses pendampingan PMI, November 2021.",
-        id: "Diskusi dan lobi dengan aparat desa/pekon Ambarawa Pringsewu untuk proses pendampingan PMI, November 2021.",
+        en: "Discussion and lobbying with Ambarawa Pringsewu Village officials for the PMI assistance process, November 2021.",
+        id: "Diskusi dan lobi dengan aparat desa/pekon Ambarawa Pringsewu untuk proses pendampingan PMI (Pekerja Migran Indonesia), November 2021.",
       },
       credit: {
         en: "Photo: Ahmad Haryono",
@@ -77,7 +77,7 @@ export const story14 = {
     {
       image: require(`images/stories/${dir}/image-2.webp`),
       caption: {
-        en: "Pemetaan potensi ekonomi di pekon Ambarawa Pringsewu, Januari 2022.",
+        en: "Mapping of economic potential in the Ambarawa Pringsewu area, January 2022.",
         id: "Pemetaan potensi ekonomi di pekon Ambarawa Pringsewu, Januari 2022.",
       },
       credit: {
@@ -88,7 +88,7 @@ export const story14 = {
     {
       image: require(`images/stories/${dir}/image-3.webp`),
       caption: {
-        en: "Diskusi tentang TPPO di kantor Lada DAMAR, April 2022.",
+        en: "Discussion on the criminal act of human trafficking at the Lada DAMAR office, April 2022.",
         id: "Diskusi tentang TPPO di kantor Lada DAMAR, April 2022.",
       },
       credit: {
@@ -99,8 +99,8 @@ export const story14 = {
     {
       image: require(`images/stories/${dir}/image-4.webp`),
       caption: {
-        en: "<em>Workshop</em> pengembangan ekonomi perempuan PMI Purna di pekon Ambarawa Pringsewu, Januari 2022.",
-        id: "<em>Workshop</em> pengembangan ekonomi perempuan PMI Purna di pekon Ambarawa Pringsewu, Januari 2022.",
+        en: "Economic development workshop for women former PMIs in the Ambarawa Pringsewu community, January 2022.",
+        id: "<em>Workshop</em> pengembangan ekonomi perempuan PMI (Pekerja Migran Indonesia) Purna di pekon Ambarawa Pringsewu, Januari 2022.",
       },
       credit: {
         en: "Photo: Ahmad Haryono",

@@ -85,7 +85,7 @@ export const story12 = {
     {
       image: require(`images/stories/${dir}/image-1.webp`),
       caption: {
-        en: "Foto bersama teman-teman dari WCC Mawar Balqis dan Kak Nita dari UN Women di acara lokakarya penulisan cerita perubahan bagi mitra pelaksana dan penerima manfaat program di hotel Ashley Jakarta.",
+        en: "With friends from WCC Mawar Balqis and Kak Nita from UN Women at the UN Women writing workshop for program implementing partners and beneficiaries, Ashley Hotel, Jakarta.",
         id: "Foto bersama teman-teman dari WCC Mawar Balqis dan Kak Nita dari UN Women di acara lokakarya penulisan cerita perubahan bagi mitra pelaksana dan penerima manfaat program di hotel Ashley Jakarta.",
       },
       credit: {
@@ -96,8 +96,8 @@ export const story12 = {
     {
       image: require(`images/stories/${dir}/image-2.webp`),
       caption: {
-        en: "Foto saat pembentukan Peraturan Desa (Perdes) tentang perlindungan pekerja migran indonesia dan anggota keluarganya di Balai desa Kedongdong Kec. Susukan, Kab. Cirebon.",
-        id: "Foto saat pembentukan Peraturan Desa (Perdes) tentang perlindungan pekerja migran indonesia dan anggota keluarganya di Balai desa Kedongdong Kec. Susukan, Kab. Cirebon.",
+        en: "Forming village regulations concerning the protection of Indonesian migrant workers and their families at the Kedongdong village hall, Susukan Subdistrict, Cirebon District.",
+        id: "Foto saat pembentukan Peraturan Desa (PERDES) tentang perlindungan Pekerja Migran Indonesia dan anggota keluarganya di balai Desa Kedongdong Kec. Susukan, Kab. Cirebon.",
       },
       credit: {
         en: "Photo: Faoziah",
@@ -107,7 +107,7 @@ export const story12 = {
     {
       image: require(`images/stories/${dir}/image-3.webp`),
       caption: {
-        en: "Foto bersama Ibu tercinta saat wisuda di AMA Yogyakarta Tahun 2004.",
+        en: "With my beloved mother at my graduation ceremony at AMA Yogyakarta in 2004.",
         id: "Foto bersama Ibu tercinta saat wisuda di AMA Yogyakarta Tahun 2004.",
       },
       credit: {
@@ -118,7 +118,7 @@ export const story12 = {
     {
       image: require(`images/stories/${dir}/image-4.webp`),
       caption: {
-        en: "Foto saat acara pelatihan standar pelayanan dan mekanisme perlindungan yang terpadu dan responsif gender di hotel Apita Cirebon.",
+        en: "A training event on integrated and gender-responsive service standards and protection mechanisms, Hotel Apita Cirebon.",
         id: "Foto saat acara pelatihan standar pelayanan dan mekanisme perlindungan yang terpadu dan responsif gender di hotel Apita Cirebon.",
       },
       credit: {
