@@ -50,6 +50,7 @@ export default function LightboxModal() {
           window.fullpage_api.setAllowScrolling(true);
         }}
         onBackdropClick={() => closeModal()}
+        onEscapeKeyDown={() => closeModal()}
         renderBackdrop={renderBackdrop}
         className="modal fixed inset-0 overflow-y-scroll"
       >

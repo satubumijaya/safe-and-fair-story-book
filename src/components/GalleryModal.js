@@ -57,6 +57,7 @@ export default function GalleryModal() {
   return (
     <div>
       <Modal
+        keyboard={true}
         onShow={() => window.fullpage_api.setAllowScrolling(false)}
         show={galleryModalIsOpen}
         ref={modalRef}
@@ -64,6 +65,10 @@ export default function GalleryModal() {
           window.fullpage_api.setAllowScrolling(true);
         }}
         onBackdropClick={() => setGalleryModalIsOpen(false)}
+        onEscapeKeyDown={() => {
+          setGalleryModalIsOpen(false);
+          window.fullpage_api.setAllowScrolling(true);
+        }}
         renderBackdrop={renderBackdrop}
         className="modal fixed inset-0 overflow-y-scroll"
       >

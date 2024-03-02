@@ -2,11 +2,7 @@ import React from "react";
 import { Fade } from "react-awesome-reveal";
 import { useTranslation } from "react-i18next";
 
-export default function SafTitle({
-  className,
-  maxWidth = 370,
-  color = "dark",
-}) {
+export default function SafTitle({ className, maxWidth = 370, color = "dark" }) {
   const headingWidth = maxWidth * 0.72 + 24;
   const headingMarginBottom = maxWidth * 0.04;
   const subheadingWidth = maxWidth * 1 + 24;
@@ -17,12 +13,9 @@ export default function SafTitle({
 
   const { t, i18n, ready } = useTranslation();
   return (
-    <div className={`${color === "dark" ? "fill-neutral-700" : "fill-white"}`}>
+    <div className={`${color === "dark" ? "fill-neutral-700" : "fill-white"} ${className}`}>
       <Fade cascade direction="up" damping={0.3} triggerOnce={true}>
-        <div
-          className="max-w-full pr-6"
-          style={{ width: headingWidth, marginBottom: headingMarginBottom }}
-        >
+        <div className="max-w-full pr-6" style={{ width: headingWidth, marginBottom: headingMarginBottom }}>
           <svg viewBox="0 0 282.15 33.98" xmlns="http://www.w3.org/2000/svg">
             <g>
               <path d="m23.89 8.87-5.61 1.72c-.21-1.15-.78-2.19-1.72-3.12s-2.31-1.4-4.12-1.4c-1.48 0-2.69.4-3.62 1.2-.94.8-1.4 1.76-1.4 2.87 0 1.96 1.16 3.17 3.48 3.62l4.48.86c2.83.54 5.04 1.67 6.61 3.39s2.35 3.74 2.35 6.06c0 2.65-1.05 4.97-3.14 6.94-2.1 1.98-4.91 2.96-8.44 2.96-2.02 0-3.85-.3-5.47-.9s-2.94-1.41-3.94-2.42-1.77-2.08-2.33-3.21-.9-2.3-1.02-3.51l5.79-1.54c.15 1.72.82 3.15 2.01 4.3s2.86 1.72 5 1.72c1.63 0 2.9-.36 3.82-1.09.92-.72 1.38-1.67 1.38-2.85 0-.94-.34-1.74-1.02-2.42s-1.64-1.14-2.87-1.38l-4.48-.91c-2.59-.54-4.65-1.61-6.15-3.21-1.51-1.6-2.26-3.59-2.26-5.97 0-2.83 1.09-5.22 3.28-7.15 2.19-1.92 4.82-2.89 7.9-2.89 1.84 0 3.48.26 4.93.77s2.61 1.2 3.48 2.06 1.55 1.74 2.04 2.65c.48.9.83 1.85 1.04 2.85z" />
@@ -168,11 +161,7 @@ export default function SafTitle({
           </div>
           <div className="ml-3 flex-grow">
             <Fade direction="right" delay={1200} triggerOnce={true}>
-              <div
-                className={`h-[1px] flex-grow ${
-                  color === "dark" ? "bg-neutral-700" : "bg-white "
-                }`}
-              ></div>
+              <div className={`h-[1px] flex-grow ${color === "dark" ? "bg-neutral-700" : "bg-white "}`}></div>
             </Fade>
           </div>
         </div>
