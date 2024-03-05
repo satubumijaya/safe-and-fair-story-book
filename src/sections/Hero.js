@@ -51,7 +51,7 @@ export default function Hero() {
         <div className="flex flex-col items-stretch overflow-hidden bg-main text-white lg:flex-row">
           <div className="z-10 flex w-full max-w-xl flex-1 items-center">
             <div className="w-full flex-1 flex-col py-14  pl-4 md:pl-16">
-              <SafTitle className="" color="white" maxWidth={390} />
+              <SafTitle className="" color="white" maxWidth={390} fullwidth={false} />
               <div className="mt-10">
                 <div className="mb-1 text-xs">Select language</div>
                 <div className="flex gap-2">
@@ -77,7 +77,7 @@ export default function Hero() {
             </div>
           </div>
           <div className="relative min-h-0 min-w-0 flex-1">
-            <div className="absolute left-0 aspect-square h-full translate-x-[-50%] translate-y-[50%] bg-contain bg-no-repeat" style={{ backgroundImage: `url(${concave})` }}></div>
+            <div className="absolute left-0 aspect-square h-[80%] translate-x-[-50%] translate-y-[75%] bg-contain bg-no-repeat" style={{ backgroundImage: `url(${concave})` }}></div>
             <div className="absolute inset-0 z-10 w-14 bg-main-dark opacity-50"></div>
             <Slider ref={sliderRef} dots={true} arrows={false} autoplay={true}>
               {stories.map((story, key) => {

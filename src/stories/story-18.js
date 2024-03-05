@@ -58,8 +58,8 @@ export const story18 = {
     {
       image: require(`images/stories/${dir}/image-1.webp`),
       caption: {
-        en: "Mendiskusikan situasi terkait Tindak Pidana Perdagangan Orang dan Pekerja Migran Non Prosedural di Kota Batam, bersama Komunitas Orang Muda Anti Perdagangan Orang dan Eksploitasi Seksual Anak (KOMPAK).",
-        id: "Discussion on the crime of human trafficking and non-procedural migrant workers in Batam City, together with the Youth Community Against Human Trafficking and Sexual Exploitation of Children (KOMPAK).",
+        en: "Discussion on the crime of human trafficking and non-procedural migrant workers in Batam City, together with the Youth Community Against Human Trafficking and Sexual Exploitation of Children (KOMPAK).",
+        id: "Mendiskusikan situasi terkait Tindak Pidana Perdagangan Orang dan Pekerja Migran Non Prosedural di Kota Batam, bersama Komunitas Orang Muda Anti Perdagangan Orang dan Eksploitasi Seksual Anak (KOMPAK).",
       },
       credit: {
         en: "Photo: UN Women/Christina Phan",

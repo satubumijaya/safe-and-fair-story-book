@@ -56,9 +56,9 @@ export const story14 = {
         <p>
           <blockquote>Terbayang di benak Sofyan betapa pentingnya memberi pemahaman Migrasi Aman bagi calon Pekerja Migran Indonesia (PMI) di Pekon Ambarawa dan sekitarnya agar terhindar dari jangkauan calo-calo kotor yang ingin memanfaatkan situasi.</blockquote>
         </p>
-        <p>Sekaligus ajang silaturahmi dan berbagi informasi di antara para PMI purna agar pengalaman pahit yang mereka rasakan tidak terulang pada generasi berikutnya. Sofyan tersadarkan dari lamunannya saat Indah kembali ke ruang tamu sambil membawa secangkir kopi panas, yang tentu bisa menghangatkan suasana.</p>
+        <p>Sekaligus ajang silaturahmi dan berbagi informasi di antara para Pekerja Migran Indonesia purna agar pengalaman pahit yang mereka rasakan tidak terulang pada generasi berikutnya. Sofyan tersadarkan dari lamunannya saat Indah kembali ke ruang tamu sambil membawa secangkir kopi panas, yang tentu bisa menghangatkan suasana.</p>
         <p>Sofyan lalu bercerita kepada Indah, bahwa ia dan timnya akan menyelenggarakan kegiatan pertemuan Sosialisasi Migrasi Aman kepada para Calon Pekerja Migran Indonesia di Balai Pekon Ambarawa dan akan mengundang para pemangku kepentingan mulai dari aparat Pekon, camat, hingga Dinas Tenaga Kerja Kabupaten Pringsewu, untuk bahu membahu memberi pemahaman tata cara bekerja keluar negeri secara aman, memudahkan urusan administrasi secara terbuka, dan melindungi para pekerja migran di luar negeri dengan terus memantau melalui nomor-nomor telepon yang bisa dihubungi.</p>
-        <p>Indah menyambut gembira rencana kegiatan itu. Ia berjanji akan hadir dan mengajak teman-teman PMI purna lainnya agar juga bisa berbagai pengalaman suka duka Pekerja Migran Indonesia kepada para calon Pekerja Migran Indonesia dari Pekon Ambarawa dan sekitarnya.*</p>
+        <p>Indah menyambut gembira rencana kegiatan itu. Ia berjanji akan hadir dan mengajak teman-teman Pekerja Migran Indonesia purna lainnya agar juga bisa berbagai pengalaman suka duka Pekerja Migran Indonesia kepada para calon Pekerja Migran Indonesia dari Pekon Ambarawa dan sekitarnya.*</p>
       </div>
     ),
   },
@@ -66,7 +66,7 @@ export const story14 = {
     {
       image: require(`images/stories/${dir}/image-1.webp`),
       caption: {
-        en: "Discussion and lobbying with Ambarawa Pringsewu Village officials for the PMI assistance process, November 2021.",
+        en: "Discussion and lobbying with Ambarawa Pringsewu Village officials for the PMI (Indonesian migrant workers) assistance process, November 2021.",
         id: "Diskusi dan lobi dengan aparat desa/pekon Ambarawa Pringsewu untuk proses pendampingan PMI (Pekerja Migran Indonesia), November 2021.",
       },
       credit: {
@@ -99,7 +99,7 @@ export const story14 = {
     {
       image: require(`images/stories/${dir}/image-4.webp`),
       caption: {
-        en: "Economic development workshop for women former PMIs in the Ambarawa Pringsewu community, January 2022.",
+        en: "Economic development workshop for women former PMIs (Indonesian migrant workers) in the Ambarawa Pringsewu community, January 2022.",
         id: "<em>Workshop</em> pengembangan ekonomi perempuan PMI (Pekerja Migran Indonesia) Purna di pekon Ambarawa Pringsewu, Januari 2022.",
       },
       credit: {
