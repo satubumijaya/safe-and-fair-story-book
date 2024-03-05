@@ -80,7 +80,7 @@ export default function LightboxModal() {
 
               {/* prev */}
               {lightbox?.index > 0 && (
-                <button className="absolute right-full top-1/2 z-10 -translate-y-1/2 rotate-180" onClick={() => moveGallery("prev")}>
+                <button className="absolute right-full top-1/2 z-10 hidden -translate-y-1/2 rotate-180 md:block" onClick={() => moveGallery("prev")}>
                   <div className="px-4 py-4">
                     <svg className=" w-7" viewBox="0 0 30 9.97" xmlns="http://www.w3.org/2000/svg">
                       <path d="m30 5.01-8.62-5.01-.01 4.49-21.37-.06v1l21.36.06-.01 4.48z" fill="#fff" />
@@ -91,7 +91,7 @@ export default function LightboxModal() {
 
               {/* next */}
               {lightbox?.index < currentStory?.gallery?.length - 1 && (
-                <button className="absolute left-full top-1/2 z-10 -translate-y-1/2" onClick={() => moveGallery("next")}>
+                <button className="absolute left-full top-1/2 z-10 hidden -translate-y-1/2 md:block" onClick={() => moveGallery("next")}>
                   <div className="px-4 py-4">
                     <svg className=" w-7" viewBox="0 0 30 9.97" xmlns="http://www.w3.org/2000/svg">
                       <path d="m30 5.01-8.62-5.01-.01 4.49-21.37-.06v1l21.36.06-.01 4.48z" fill="#fff" />

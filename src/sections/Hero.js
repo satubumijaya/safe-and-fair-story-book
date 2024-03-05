@@ -48,8 +48,8 @@ export default function Hero() {
           </div>
         </div>
 
-        <div className="flex flex-col items-stretch overflow-hidden bg-main text-white lg:flex-row">
-          <div className="z-10 flex w-full max-w-xl flex-1 items-center">
+        <div className=" flex flex-col items-stretch overflow-hidden bg-main text-white lg:flex-row">
+          <div className=" relative z-10 flex w-full flex-1 items-center overflow-hidden lg:max-w-xl">
             <div className="w-full flex-1 flex-col py-14  pl-4 md:pl-16">
               <SafTitle className="" color="white" maxWidth={390} fullwidth={false} />
               <div className="mt-10">
@@ -75,9 +75,10 @@ export default function Hero() {
                 </div>
               </div>
             </div>
+            <div className="absolute right-0 aspect-square h-[80%] translate-x-[70%] translate-y-[65%] bg-contain bg-no-repeat md:translate-x-[50%]" style={{ backgroundImage: `url(${concave})` }}></div>
           </div>
           <div className="relative min-h-0 min-w-0 flex-1">
-            <div className="absolute left-0 aspect-square h-[80%] translate-x-[-50%] translate-y-[75%] bg-contain bg-no-repeat" style={{ backgroundImage: `url(${concave})` }}></div>
+            {/* <div className="absolute left-0 aspect-square h-[80%] translate-x-[-50%] translate-y-[75%] bg-contain bg-no-repeat" style={{ backgroundImage: `url(${concave})` }}></div> */}
             <div className="absolute inset-0 z-10 w-14 bg-main-dark opacity-50"></div>
             <Slider ref={sliderRef} dots={true} arrows={false} autoplay={true}>
               {stories.map((story, key) => {
