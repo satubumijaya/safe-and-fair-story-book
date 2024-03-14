@@ -49,7 +49,7 @@ export const story18 = {
         <p>Memang bentuk-bentuk himbauan seperti itu tidak membuat para oknum dan juga sindikat berhenti melakukan aksinya, tetapi setidaknya bisa jadi pengingat untuk menekan jumlah Pekerja Migran non-prosedural untuk diberangkatkan. Dari investigasi kelompok aktivis kemanusiaan yang peduli pada isu-isu Pekerja Migran Indonesia, Tindak Pidana Perdagangan Orang dan penyelundupan orang, pada tahun 2022 terdapat temuan sedikitnya 200 pekerja migran Indonesia setiap hari diberangkatkan secara non-prosedural menggunakan dua kapal feri dari pelabuhan internasional di Batam menuju Tanjung Pengelih, Malaysia. Kantor Imigrasi TPI Batam telah menunda keberangkatan ke luar negeri sebanyak 6.211 Pekerja Migran Indonesia (PMI) non-prosedural selama periode Januari sampai Juli 2023. Hal itu merupakan bentuk preventif perdagangan orang dengan modus kerja ke luar negeri.</p>
         <p>Citra Kota Batam adalah sebagai Kota Industri, tentunya besar harapan kami agar Kota Batam menjadi kota yang aman dan nyaman bagi siapapun yang datang. Sehingga semua orang yang bertujuan datang untuk mencari kerja di Kota Batam bisa pulang kembali ke kampung halaman dengan membawa kenangan manis, bukan malah pulang dengan membawa kesedihan dan trauma.</p>
         <p>
-          <em>Sogi Alamsyah, Staff Divisi Media, Yayasan Embun Pelangi, Batam.</em>
+          <em>Sogi Alamsyach, Staff Divisi Media, Yayasan Embun Pelangi, Batam.</em>
         </p>
       </div>
     ),
