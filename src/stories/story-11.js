@@ -44,7 +44,7 @@ export const story11 = {
           Berakhirnya program <em>Safe and Fair</em> dan terselesaikannya skripsiku bukanlah akhir dari jalanku terlibat dalam dunia pergerakan. Perjalananku 1 tahun kemarin adalah proses mengumpulkan amunisi sebagai pejuang kesetaraan. Aku juga mengintrospeksi diri yang masih memiliki banyak kekurangan ini, bagaimana belajar mengendalikan keputusasaanku hidup di negeri yang belum menghargai perempuan. Besar harapanku kedepannya untuk semakin dalam memahami isu gender sebagai isu krusial, melalui pergumulanku di komunitas akar rumput. Pengalaman itu tentu harus aku tuliskan agar menjadi sebuah pengetahuan yang tak hanya aku miliki, tapi bisa aku bagikan kepada dunia. Seperti <em>quotes</em> yang sering aku dengar di komunitas, bahwa pengalaman perempuan adalah sumber pengetahuan.
         </p>
         <p>
-          <em>Elizabeth Rona adalah anggota Mulead Lampung Perkumpulan Damar</em>
+          <em>Elisabeth Rona adalah anggota Mulead Lampung Perkumpulan Damar</em>
         </p>
       </div>
     ),
@@ -77,7 +77,7 @@ export const story11 = {
           </blockquote>
         </p>
         <p>
-          <em>Elizabeth Rona adalah anggota Mulead Lampung Perkumpulan Damar.</em>
+          <em>Elisabeth Rona adalah anggota Mulead Lampung Perkumpulan Damar.</em>
         </p>
       </div>
     ),

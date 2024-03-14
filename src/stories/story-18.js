@@ -10,7 +10,7 @@ export const story18 = {
     en: "Memaparkan rangkaian cerita perubahan di kegiatan lokakarya pelatihan penulisan UN Women.",
     id: "Memaparkan rangkaian cerita perubahan di kegiatan lokakarya pelatihan penulisan UN Women.",
   },
-  name: "Sogi Alamsyah",
+  name: "Sogi Alamsyach",
   title: {
     en: "Advokasi di Perbatasan",
     id: "Advokasi di Perbatasan",
