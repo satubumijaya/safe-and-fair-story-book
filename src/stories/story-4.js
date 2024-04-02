@@ -53,11 +53,12 @@ export const story4 = {
         <p>Miris jika mendengar cerita mereka, keluarga sudah menjadi korban, anak-anak tumbuh besar tanpa belai kasih orang tua. Dari cerita dan pengalaman mereka itulah, aku memilih untuk tetap bertahan berada di desaku walau hidup dengan kesederhanaan asal bisa berkumpul bersama keluarga dan membesarkan anak-anak. Aku menikmati proses tumbuh kembang mereka sebagai bentuk kebahagian yang sangat luar biasa bagiku.</p>
         <p>Untuk menopang perekonomian keluarga kami, aku dan suamiku membuka toko pertanian. Aku juga terlibat dalam kegiatan di desaku sebagai kader PKK dan ikut dalam komunitas bank sampah. Suatu hari, bank sampah kami diundang oleh Koalisi Perempuan Indonesia (KPI) dan itulah awal aku mengenal KPI. Aku berkesempatan ngobrol bersama Ibu Sutipah Sekretaris Cabang KPI Kabupaten Jember. Mendengar bahwa di Desa Suci tempat aku tinggal terdapat banyak migran dan purna migran, pada 23 September 2021 KPI masuk ke desa kami dan terbentuklah Balai Perempuan Desa Suci Berseri. Balai Perempuan adalah struktur terendah dari KPI dan Balai Perempuan kami memiliki 4 dewan kelompok kepentingan di antaranya: 1) Dewan kelompok kepentingan purna migran, 2)Dewan kepentingan buruh perkebunan, 3) Dewan kepentingan rumah tangga, 4) Dewan kepentingan informal.</p>
         <p>
-          Pada 9 Oktober 2021, kami dari tiga anggota KPI dan tiga orang dari aparat desa diberi kesempatan mengikuti pelatihan paralegal di Surabaya selama 3 hari yang didukung oleh <em>Safe and Fair (SAF)</em>
-          dan UN WOMEN. Tapi bukan hal yang mudah bagiku untuk mengantongi restu dan izin dari suami untuk berangkat ke Surabaya. Tetapi aku berhasil menyakinkan suami dengan seribu alasan dan penjelasan akhirnya aku diberi izin untuk ke Surabaya.
+          Pada 9 Oktober 2021, kami dari tiga anggota KPI dan tiga orang dari aparat desa diberi kesempatan mengikuti pelatihan paralegal di Surabaya selama 3 hari yang didukung oleh <em>Safe and Fair (SAF)</em> dan UN WOMEN. Tapi bukan hal yang mudah bagiku untuk mengantongi restu dan izin dari suami untuk berangkat ke Surabaya. Tetapi aku berhasil menyakinkan suami dengan seribu alasan dan penjelasan akhirnya aku diberi izin untuk ke Surabaya.
         </p>
         <p>
-          <blockquote>Dari pelatihan paralegal inilah aku mendapat begitu banyak ilmu tentang isu kekerasan terhadap perempuan dan anak, bagaimana bermigrasi aman dan prosedural, apa itu TPPO, bullying, stereotipe, dan budaya patriarki.</blockquote>
+          <blockquote>
+            Dari pelatihan paralegal inilah aku mendapat begitu banyak ilmu tentang isu kekerasan terhadap perempuan dan anak, bagaimana bermigrasi aman dan prosedural, apa itu TPPO (Tindak Pidana Perdagangan Orang), <em>bullying</em>, stereotip, dan budaya patriarki.
+          </blockquote>
         </p>
         <p>Di tahun yang sama, desa kami akhirnya mempunyai Balai Perempuaan Pusat Informasi pengaduan dan Advokasi (BP PIPA). Semenjak ada BP PIPA, aku diberi kesempatan untuk memperkenalkan BP PIPA dalam pertemuan PKK, Kader Posyandu, dan Pengajian Muslimat, untuk memberi edukasi tentang isu kekerasan terhadap perempuan dan anak.</p>
         <p>
@@ -67,7 +68,7 @@ export const story4 = {
           Pada tahun 2022-2023, di desaku ada 50 orang yang menjadi PMI (Pekerja Migran Indonesia), 32 diantaranya perempuan. Ini adalah data yang ada di Desa Suci. Mereka berangkat dengan cara prosedural. Aku berharap dengan adanya pelatihan-pelatihan pemberdayaan perempuan seperti pelatihan membuat kue, mendaur ulang sampah limbah plastik (botol dan gelas plastik, tas dari bungkus kopi dan sebagainya) dan <em>diapers</em> bekas menjadi pot bunga dan tempat sampah yang mempunyai nilai jual. Kami berharap kaum perempuan di desa kami berdaya dan mandiri di dalam negeri sehingga tidak perlu memilih untuk pergi keluar negeri.
         </p>
         <p>
-          <em>Yekti Puji Rahayu adalah pendiri dan pengurus Balai Perempuaan Pusat Informasi pengaduan dan Advokasi di Desa Suci, Jember dan anggota Koalisi Perempuan Indonesia Jawa Timur.</em>
+          <em>Yekti Puji Rahayu adalah pendiri dan pengurus Balai Perempuaan Pusat Informasi pengaduan dan Advokasi di Desa Suci, Jember dan anggota Koalisi Perempuan Indonesia.</em>
         </p>
       </div>
     ),

@@ -72,7 +72,6 @@ export const story3 = {
         <p>Dengan dibantu keluarga dan tiga anak, saya mulai mandiri demi menghidupi diri dan keluarga. Tahun 2013 saya mulai merintis usaha keripik dengan bantuan modal Dinas Sosial sebesar Rp 500.000, dan menekuni usaha tersebut.</p>
         <p>Tahun 2014 saya bergabung di tim Jaringan Relawan Pendamping Kasus (JRPK) yang dibentuk oleh Yayasan Sapa. Bersama teman-teman, saya sering mengikuti pelatihan-pelatihan yang diselenggarakan oleh Yayasan Sapa untuk menunjang pengetahuan kami dalam pendampingan kasus kekerasan terhadap perempuan.</p>
         <p>Saya yang dulu sangat pemalu tidak percaya diri, begitu pula dengan ibu-ibu lainnya mulai merasakan ada perubahan. Perlahan kami semua belajar mendampingi kasus, dan advokasi ke pemerintah setempat, kemudian bernegosiasi dengan pasangannya atau keluarganya. Bersama empat orang teman saya yang hampir sebaya, kami mulai sibuk dengan pendampingan kasus, dan kegiatan lainnya.</p>
-        <p>Saya yang dulu sangat pemalu tidak percaya diri, begitu pula dengan ibu-ibu lainnya mulai merasakan ada perubahan. Perlahan kami semua belajar mendampingi kasus, dan advokasi ke pemerintah setempat, kemudian bernegosiasi dengan pasangannya atau keluarganya. Bersama empat orang teman saya yang hampir sebaya, kami mulai sibuk dengan pendampingan kasus, dan kegiatan lainnya.</p>
         <p>
           Di tahun 2019, saya direkrut oleh Sapa Institut untuk menjadi koordinator pendamping kasus dan diwajibkan untuk datang ke kantor tiga hari setiap pekannya. Dalam ruangan berukuran 2x3 meter yang ditata rapi itu, saya menerima pengaduan kasus, atau konseling. Selain itu, saya difasilitasi perangkat gawai untuk membuat <em>hotline</em> pengaduan kasus.
         </p>
@@ -91,7 +90,7 @@ export const story3 = {
         </p>
         <p>Doa mereka membuat saya semakin merasa bersyukur, ternyata masih bisa menebar manfaat bagi banyak orang. Hingga saat ini, banyak korban yang sudah saya dampingi. Saya pun masih tetap berwirausaha di sela-sela kesibukan saya dengan usaha keripik yang diberi nama "BAIS SNACK". Melalui usaha kecil tersebut, saya juga bisa membuat anak-anak mendapatkan pendidikan yang lebih tinggi, putri sulung saya yang telah berhasil meraih gelar sarjana di Universitas Pendidikan Indonesia. Saya berharap saya dan teman-teman pendamping lainnya tetap semangat, tidak putus asa, tetaplah menjadi teman, bagi mereka yang terluka dan menjadikan luka sebagai kekuatan untuk kita.</p>
         <p>
-          <em>Sugih Hartini adalah penyintas kekerasan terhadap perempuan yang telah bertransformasi menjadi pendamping korban. Saat ini beliau bekerja Yayasan SAPA dan aktif di Bale Istri.</em>
+          <em>Sugih Hartini adalah penyintas kekerasan terhadap perempuan yang telah bertransformasi menjadi pendamping korban. Saat ini beliau bekerja di Bale Istri.</em>
         </p>
       </div>
     ),

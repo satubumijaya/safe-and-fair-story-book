@@ -80,11 +80,11 @@ export const story19 = {
         <p>
           Setelah semua proses itu dilakukan, aku mendapatkan kesimpulan bahwa poin penting dalam proses diskusi mengenai isu-isu perempuan adalah dengan cara yang mudah dimengerti, menyenangkan dan tidak berbelit-belit. Mungkin selama ini aku telah belajar beberapa isu perempuan tapi itu tidak cukup, karena setiap perempuan memiliki latar belakang dan kondisi yang berbeda sehingga perlu cara berbeda dan penyesuaian dengan kondisi mereka. Dan tidak lupa “perubahan memerlukan proses, dan proses memerlukan waktu yang panjang.” Belajar dari <em>Teh</em> Sugih, aku mencoba metode baru ketika mengenalkan dan berdiskusi tentang isu-isu perempuan kepada ibu-ibu Bale Istri. Menggunakan bahasa menyehari, menganalogikan materi dengan tontonan/sinetron yang sedang digandrungi oleh ibu-ibu dan penyampaian yang informal untuk mencairkan suasana menjadi gaya andalan terbaruku.
         </p>
-        <p>Seiring berjalannya waktu aku menemukan sesuatu yang berbeda, diskusi terasa lebih hangat dan ibu-ibu tidak hanya memperhatikan dalam diam. Ibu-ibu lebih banyak bersuara menceritakan berbagai pengalaman yang mereka alami baik itu di rumah maupun di masyarakat.</p>
         <p>
-          <blockquote>
-            Momen makan bersama setelah sesi diskusi menjadi momen yang tak terlupakan. Beralaskan daun pisang ditemani dengan sambal dan ikan asin membuat ibu-ibu semakin bersemangat untuk menceritakan persoalan rumah tangga sambil berkonsultasi. Bahkan beberapa anggota baru mulai berani mengadukan kasus kekerasan rumah tangga dan kasus Pekerja Migran tidak berdokumen dan berhasil menggagalkan keberangkatannya. Selain itu, ada <em>focal point</em> dan pendamping baru di komunitas Bale Istri.
-          </blockquote>
+          <blockquote>Seiring berjalannya waktu aku menemukan sesuatu yang berbeda, diskusi terasa lebih hangat dan ibu-ibu tidak hanya memperhatikan dalam diam. Ibu-ibu lebih banyak bersuara menceritakan berbagai pengalaman yang mereka alami baik itu di rumah maupun di masyarakat.</blockquote>
+        </p>
+        <p>
+          Momen makan bersama setelah sesi diskusi menjadi momen yang tak terlupakan. Beralaskan daun pisang ditemani dengan sambal dan ikan asin membuat ibu-ibu semakin bersemangat untuk menceritakan persoalan rumah tangga sambil berkonsultasi. Bahkan beberapa anggota baru mulai berani mengadukan kasus kekerasan rumah tangga dan kasus Pekerja Migran tidak berdokumen dan berhasil menggagalkan keberangkatannya. Selain itu, ada <em>focal point</em> dan pendamping baru di komunitas Bale Istri.
         </p>
         <p>
           Hingga puncaknya pada akhir tahun 2021, Yayasan Sapa mengadakan kegiatan 16 Hari Anti Kekerasan Terhadap Perempuan (16-HAKTP). Kami mengadakan sebuah perayaan kesenian besar bersama Ibu-ibu Bale Istri. Mereka menampilkan berbagai penampilan kesenian yang merefleksikan persoalan perempuan di masyarakat. Ada cerdas cermat, penampilan drama tentang Kekerasan Dalam Rumah Tangga sampai <em>fashion show</em> yang menampilkan baju hasil desain Ibu-ibu Bale Istri dengan ornamen tulisan Stop Kekerasan Terhadap Perempuan.

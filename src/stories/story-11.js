@@ -59,9 +59,7 @@ export const story11 = {
           Seperti takdir, beberapa bulan kemudian Sely Fitriyani, Direktur Eksekutif Lada Damar, mengundangku hadir dalam Zoom meeting program <em>Safe and Fair</em> dari UN Women. Pertemuan ini membahas tentang perempuan pekerja migran yang rentan mengalami kekerasan seperti TPPO yang mirip dengan topik penelitian skripsiku. Aku berpikir program ini tentu akan membantu proses penulisan skripsiku, karena topiknya sangat sesuai dengan penelitian yang sedang aku lakukan. Mengetahui hal ini, aku mengajukan diri untuk berpartisipasi dalam setiap kegiatan program <em>Safe and Fair</em>. Aku hadir sebagai representasi dari Mulead Lampung, sebuah komunitas anak muda yang <em>concern </em>pada isu gender dan konselor sebaya bagi perempuan korban kekerasan.
         </p>
         <p>Menurutku isu pekerja migran bukanlah isu yang menarik di kalangan anak muda. Bukan isu &ldquo;seksi&rdquo; yang menarik untuk dijadikan topik diskusi. Mungkin karena isu ini tidak relevan atau berdampak langsung bagi anak-anak muda di sekitarku. Tapi aku melihat isu pekerja migran khususnya bagi perempuan dan anak perempuan merupakan isu krusial yang berdampak signifikan di tingkat global.</p>
-        <p>
-          Melalui kemampuan sederhanaku memproduksi media kampanye, aku ikut berpartisipasi dalam penyusunan Rencana Aksi Daerah (RAD) Provinsi Lampung untuk pencegahan dan penanganan TPPO, membentuk kebijakan berupa prosedur operasi standard (<em>Standard Operating Procedure/SOP</em>) mekanisme penanganan kasus dan rujukan korban kekerasan yang dialami pekerja migran oleh lembaga layanan, pertemuan lintas sektor dan anggota gugus tugas, penguatan kapasitas bagi purna PMI (Pekerja Migran Indonesia), membantu kepulangan perempuan-perempuan pekerja migran yang menjadi korban TPPO, hingga kampanye kreatif dan aksi kolektif untuk meningkatkan kesadaran publik akan isu TPPO yang rentan dialami oleh perempuan pekerja migran.
-        </p>
+        <p>Melalui kemampuan sederhanaku memproduksi media kampanye, aku ikut berpartisipasi dalam penyusunan Rencana Aksi Daerah (RAD) Provinsi Lampung untuk pencegahan dan penanganan TPPO, membentuk kebijakan berupa SOP mekanisme penanganan kasus dan rujukan korban kekerasan yang dialami pekerja migran oleh lembaga layanan, pertemuan lintas sektor dan anggota gugus tugas, penguatan kapasitas bagi purna PMI (Pekerja Migran Indonesia), membantu kepulangan perempuan-perempuan pekerja migran yang menjadi korban TPPO, hingga kampanye kreatif dan aksi kolektif untuk meningkatkan kesadaran publik akan isu TPPO yang rentan dialami oleh perempuan pekerja migran.</p>
         <p>
           Sebagai mahasiswa yang baru mengenal isu gender, terlibat dalam program <em>Safe and Fair</em> ini membuka pemahamanku bahwa isu gender adalah isu yang sangat kompleks.
         </p>
@@ -77,7 +75,7 @@ export const story11 = {
           </blockquote>
         </p>
         <p>
-          <em>Elisabeth Rona adalah anggota Mulead Lampung Perkumpulan Damar.</em>
+          <em>Elisabeth Rona adalah anggota Mulead Lampung (Perkumpulan Damar).</em>
         </p>
       </div>
     ),

@@ -52,8 +52,7 @@ export const story12 = {
     id: (
       <div>
         <p>
-          Namaku Faoziah, umurku 40 tahun. Aku berasal dari Desa Kedongdong, Kec. Susukan, Kab. Cirebon. Aku merupakan anak tunggal yang tentunya menjadi harapan satu-satunya bagi ibuku yang seorang
-          <em>single parent.</em> Aku terlahir dari wanita hebat, yang demi membahagiakan anak serta menghidupi keluarga besarnya, beliau rela menjadi seorang &ldquo;pahlawan devisa&rdquo; di negeri Timur Tengah sana.
+          Namaku Faoziah, umurku 40 tahun. Aku berasal dari Desa Kedongdong, Kec. Susukan, Kab. Cirebon. Aku merupakan anak tunggal yang tentunya menjadi harapan satu-satunya bagi ibuku yang seorang <em>single parent</em>. Aku terlahir dari wanita hebat, yang demi membahagiakan anak serta menghidupi keluarga besarnya, beliau rela menjadi seorang &ldquo;pahlawan devisa&rdquo; di negeri Timur Tengah sana.
         </p>
         <p>Sedari aku berumur tiga tahun, ibuku memutuskan menjadi seorang PMI (Pekerja Migran Indonesia) dan pulang ke Indonesia hanya dua atau tiga tahun sekali. Itu terjadi sampai aku berusia 21 tahun. Dari kerja kerasnya itu, semua yang ibu impikan serta apapun yang aku inginkan dapat terpenuhi. Dari mulai membangun rumah, memiliki sepetak sawah, membeli sebidang tanah, membeli kendaraan, membuka usaha pakaian serta menyekolahkanku hingga Diploma 3 Akademi Manajemen Administrasi Rumah Sakit di AMA Yogyakarta.</p>
         <p>
