@@ -135,7 +135,7 @@ export default function Closing() {
           <div className="flex">
             {stories.map((story, key) => {
               return (
-                <div key={key} className="relative flex-grow cursor-pointer after:absolute after:inset-0 after:bg-main after:opacity-0 after:transition-all after:duration-300 after:content-[''] hover:after:opacity-20">
+                <div key={key} className="relative flex-grow after:absolute after:inset-0 after:bg-main after:opacity-0 after:transition-all after:duration-300 after:content-['']">
                   <div
                     className="bg pt-[66%]"
                     style={{
