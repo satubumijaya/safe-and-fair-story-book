@@ -2,37 +2,37 @@ import React, { useContext, useEffect, useState } from "react";
 import concave from "images/concave.webp";
 import convex from "images/convex.webp";
 import ScrollArrow from "components/ScrollArrow";
-import { Fade, Slide } from "react-awesome-reveal";
+import { Fade } from "react-awesome-reveal";
 import { AppContext } from "context/AppContext";
 import SafTitleOnly from "components/SafTitleOnly";
 import { useTranslation } from "react-i18next";
 
 export default function Gallery() {
-  const { t, i18n, ready } = useTranslation();
+  const { t } = useTranslation();
   const { setGalleryModalIsOpen, stories, setCurrentStory } = useContext(AppContext);
   const homeIndex = 17;
   // const [windowWidth, setWindowWidth] = useState(window.innerWidth);
   const [compiledStories, setCompiledStories] = useState(stories);
 
-  const updateWindowWidth = () => {
-    if (window.innerWidth >= 1024) {
-      setCompiledStories([...stories.slice(0, homeIndex), { type: "home" }, ...stories.slice(homeIndex)]);
-    } else {
-      setCompiledStories([...stories.slice(0, 19), { type: "home" }, ...stories.slice(19)]);
-    }
-  };
-
   useEffect(() => {
+    const updateWindowWidth = () => {
+      if (window.innerWidth >= 1024) {
+        setCompiledStories([...stories.slice(0, homeIndex), { type: "home" }, ...stories.slice(homeIndex)]);
+      } else {
+        setCompiledStories([...stories.slice(0, 19), { type: "home" }, ...stories.slice(19)]);
+      }
+    };
+
     updateWindowWidth();
     window.addEventListener("resize", updateWindowWidth);
-  }, []);
+  }, [stories]);
 
   const renderGalleryImages = () => {
     return (
       <div className="relative grid w-full grid-cols-2 gap-1 p-1 md:grid-cols-4 lg:grid-cols-5">
         <Fade cascade damping="0.2" duration={600} triggerOnce={true}>
           {compiledStories.map((story, key) => {
-            if (story?.type == "home") {
+            if (story?.type === "home") {
               return (
                 <div key={key} className="group  relative h-full w-full cursor-pointer bg-neutral-500 transition-colors duration-500 hover:bg-main-dark" onClick={() => window.fullpage_api.moveTo("home")}>
                   <div className="flex h-full flex-col">
