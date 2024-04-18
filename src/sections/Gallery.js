@@ -90,7 +90,7 @@ export default function Gallery() {
               <SafTitleOnly maxWidth={260} />
             </div>
             <div className="mr-auto flex items-center px-4 md:px-10 lg:ml-auto lg:mr-0">
-              <div className=" whitespace-nowrap text-right">Galeri 19 Penulis Cerita Perubahan</div>
+              <div className=" whitespace-nowrap text-right">{t("gallery.subtitle")}</div>
               {/* <div className="relative flex h-[1px] w-40 max-w-md bg-gray-500 after:absolute after:right-0 after:top-0 after:hidden after:h-[1px] after:w-1/2 after:bg-white after:content-[''] md:after:block"></div> */}
             </div>
           </div>

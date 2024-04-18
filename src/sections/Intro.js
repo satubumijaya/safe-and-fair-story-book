@@ -1,18 +1,18 @@
-import React, { useContext, useEffect, useState } from "react";
+import React from "react";
 import { useTranslation } from "react-i18next";
-import concave from "images/concave.webp";
-import introImg from "images/intro.webp";
+// import concave from "images/concave.webp";
+// import introImg from "images/intro.webp";
 import ScrollArrow from "components/ScrollArrow";
 import { Fade } from "react-awesome-reveal";
 import SafTitle from "components/SafTitle";
-import { AppContext } from "context/AppContext";
-import ReactMarkdown from "react-markdown";
+// import { AppContext } from "context/AppContext";
+// import ReactMarkdown from "react-markdown";
 
 // import sample from "locales/test.md";
 
 export default function Intro() {
-  const { t, i18n, ready } = useTranslation();
-  const { windowSize } = useContext(AppContext);
+  const { i18n } = useTranslation();
+  // const { windowSize } = useContext(AppContext);
   // const [sampleText, setSampleText] = useState("");
   // useEffect(() => {
   //   fetch(sample)

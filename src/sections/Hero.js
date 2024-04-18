@@ -1,21 +1,21 @@
-import React, { useContext, useEffect, useLayoutEffect, useRef, useState } from "react";
+import React, { useContext, useEffect, useRef } from "react";
 import { useTranslation } from "react-i18next";
 import concave from "images/concave.webp";
 import ScrollArrow from "components/ScrollArrow";
-import { Fade, Slide } from "react-awesome-reveal";
 import { AppContext } from "context/AppContext";
 import Slider from "react-slick";
 import SafTitle from "components/SafTitle";
 
 export default function Hero() {
-  const { t, i18n, ready } = useTranslation();
+  const { t, i18n } = useTranslation();
 
   const { stories, setWindowSize } = useContext(AppContext);
   let sliderRef = useRef(null);
 
-  const logoUnEu = require("images/logos/un-eu.webp");
-  const logoUnWomen = require("images/logos/un-women.webp");
-  const logoSpotlight = require("images/logos/spotlight.webp");
+  // const logoUnEu = require("images/logos/un-eu.webp");
+  // const logoUnWomen = require("images/logos/un-women.webp");
+  // const logoSpotlight = require("images/logos/spotlight.webp");
+  const logoPartners = require("images/logos/partner-logos.webp");
 
   useEffect(() => {
     window.addEventListener("resize", updateWindowSize);
@@ -32,7 +32,7 @@ export default function Hero() {
     <div className="section">
       <div className="relative pb-20 pt-10">
         {/* logo */}
-        <div className="mx-auto mb-6 px-4 md:mb-12">
+        {/* <div className="mx-auto mb-6 px-4 md:mb-12">
           <div className="flex items-end justify-center">
             <div className="flex items-end gap-4 border-r pr-2 md:gap-10 md:pr-8">
               <div>
@@ -46,6 +46,10 @@ export default function Hero() {
               <img src={logoUnWomen} alt="" className="max-h-[70px]" />
             </div>
           </div>
+        </div> */}
+
+        <div className="mx-auto mb-6 px-2 md:mb-12">
+          <img src={logoPartners} alt="" className="mx-auto max-h-[111px]" />
         </div>
 
         <div className=" flex flex-col items-stretch overflow-hidden bg-main text-white lg:flex-row">

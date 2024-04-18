@@ -1,18 +1,19 @@
 import React, { useContext } from "react";
 import { useTranslation } from "react-i18next";
-import logoUnWomen from "../images/logos/un-women.webp";
-import logoSpotlight from "../images/logos/spotlight.webp";
-import logoUnEu from "../images/logos/un-eu.webp";
-import logoUn from "../images/logos/un.webp";
-import logoEu from "../images/logos/eu.webp";
+// import logoUnWomen from "../images/logos/un-women.webp";
+// import logoSpotlight from "../images/logos/spotlight.webp";
+// import logoUnEu from "../images/logos/un-eu.webp";
+// import logoUn from "../images/logos/un.webp";
+// import logoEu from "../images/logos/eu.webp";
 import SafTitle from "components/SafTitle";
 import { AppContext } from "context/AppContext";
 
 export default function Closing() {
-  const { t, i18n, ready } = useTranslation();
-  const { stories, setWindowSize } = useContext(AppContext);
+  const { t } = useTranslation();
+  const { stories } = useContext(AppContext);
+  const logoPartners = require("images/logos/partner-logos.webp");
 
-  const { shareModalIsOpen, setShareModalIsOpen } = useContext(AppContext);
+  const { setShareModalIsOpen } = useContext(AppContext);
   return (
     <div className="section">
       <div className="relative flex min-h-screen flex-col overflow-x-hidden text-left">
@@ -29,7 +30,7 @@ export default function Closing() {
         ></div>
 
         <div className="relative flex flex-col items-center gap-16 lg:flex-row xl:gap-32">
-          <div className="hidden flex-1 px-4 py-16 pb-0 pt-24 text-left md:px-16 lg:pr-6">
+          {/* <div className="hidden flex-1 px-4 py-16 pb-0 pt-24 text-left md:px-16 lg:pr-6">
             <div className="mb-10 font-bold">
               <h3>Aliquam Nunc</h3>
             </div>
@@ -39,13 +40,13 @@ export default function Closing() {
 
               <p>Phasellus eget ultricies nisl, eu pellentesque dui. Vestibulum efficitur pulvinar efficitur. Mauris nec ligula malesuada erat lobortis lobortis quis id nisl. Vestibulum elementum nulla in ultricies blandit. Aenean rutrum risus ut magna congue convallis. Integer tincidunt et lectus et rutrum. Praesent sodales, lacus id feugiat convallis, massa metus vehicula orci, nec viverra ligula justo vel dui. Nulla eget posuere risus.</p>
             </div>
-          </div>
+          </div> */}
 
           <div className="mx-auto max-w-prose flex-1 pt-32">
             <div className="pl-4">
               <SafTitle className="w-full" color="dark" maxWidth={340} />
             </div>
-            <div className="mx-auto mt-20 px-4 ">
+            {/* <div className="mx-auto mt-20 px-4 ">
               <div className="flex items-end justify-center">
                 <div className="flex items-end gap-4 border-r pr-2 md:gap-10 md:pr-8">
                   <div>
@@ -59,6 +60,9 @@ export default function Closing() {
                   <img src={logoUnWomen} alt="" className="max-h-20" />
                 </div>
               </div>
+            </div> */}
+            <div className="mx-auto mt-20 px-1">
+              <img src={logoPartners} alt="" className="mx-auto max-h-[111px]" />
             </div>
           </div>
         </div>
