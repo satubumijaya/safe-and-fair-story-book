@@ -11,11 +11,17 @@ export default function LightboxModal() {
 
   const { currentStory, lightbox, setLightBox, windowSize } = useContext(AppContext);
   const [captionHeight, setCaptionHeight] = useState(0);
+  const [imageLoaded, setImageLoaded] = useState(false);
 
   const captionRef = useRef(null);
   useEffect(() => {
     setCaptionHeight(captionRef?.current?.clientHeight);
-  }, [lightbox, windowSize]);
+  }, [lightbox, windowSize, imageLoaded]);
+
+  useEffect(() => {
+    console.log(lightbox);
+    setImageLoaded(false);
+  }, [lightbox]);
 
   const renderBackdrop = (props) => <div className="backdrop fixed inset-0 bg-black bg-opacity-80" {...props} />;
 
@@ -63,7 +69,7 @@ export default function LightboxModal() {
               }}
             ></div>
 
-            <div className="relative top-0 z-50 mx-auto mb-12 mt-12 max-w-fit bg-white" style={{ paddingBottom: captionHeight }}>
+            <div className="relative top-0 z-50 mx-auto mb-12 mt-12 max-w-fit bg-black" style={{ paddingBottom: captionHeight }}>
               <button
                 onClick={() => {
                   closeModal();
@@ -102,7 +108,7 @@ export default function LightboxModal() {
 
               <div>
                 <div className="relative">
-                  <img src={lightbox?.image} alt="" className="max-h-[80svh] w-full max-w-screen-md lg:max-h-[calc(90svh-6rem)]" />
+                  <img src={lightbox?.image} alt="" className="max-h-[80svh] w-full max-w-screen-md lg:max-h-[calc(90svh-6rem)]" onLoad={() => setImageLoaded(true)} />
                   <div className="absolute bottom-0 left-0 right-0  text-right text-xs text-white">
                     <span className="inline-block bg-black bg-opacity-70 px-4 py-1.5">{lightbox?.credit && lightbox?.credit[lang]}</span>
                   </div>
