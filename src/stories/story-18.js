@@ -40,7 +40,7 @@ export const story18 = {
         </p>
         <p>Tak jarang saya sendiri melihat beberapa orang rombongan orang bepergian menuju Singapura dan Malaysia melalui pelabuhan. Menurut pengamatan saya, jelas sangat berbeda mana yang memang pergi sebagai pelancong mana yang memang calon Pekerja Migran non-prosedural. Sungguh aneh jika hal ini tidak diketahui oleh pihak yang berwenang? Bagaimana pengawasannya sehingga hal ini terus berulang.</p>
         <p>
-          <blockquote>Berangkat dari keresahan tersebut, perubahan di wilayah perbatasan sangat diperlukan. Saya sebagai orang muda ingin menjadi agen perubahan itu.</blockquote>
+          <blockquote>Perubahan di wilayah perbatasan sangat diperlukan. Saya sebagai orang muda ingin menjadi agen perubahan itu.</blockquote>
         </p>
         <p>Saya bergabung bersama dengan orang-orang muda lainnya yang juga memiliki keresahan sama dengan situasi ini. Kami berkomitmen untuk mendorong perubahan dengan melakukan advokasi kepada Organisasi Perangkat Daerah (OPD) terkait agar mengeluarkan kebijakan-kebijakan sehingga Kota Batam tidak lagi menjadi pintu masuk dan keluarnya Pekerja Migran Indonesia (PMI) yang tidak berdokumen, korban, TPPO dan penyelundupan manusia.</p>
         <p>Bersama dengan orang-orang muda lainnya, kami melakukan advokasi menuntut lebih ketat lagi pengawasan di wilayah perbatasan, seperti pelabuhan resmi maupun Pelabuhan yang tidak resmi atau biasa disebut pelabuhan tikus, wilayah laut perbatasan dengan negara tetangga, Singapura dan Malaysia.</p>
