@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/safe-and-fair-story-book/static/css/main.78b3d0e8.css",
-    "main.js": "/safe-and-fair-story-book/static/js/main.e384a70d.js",
+    "main.js": "/safe-and-fair-story-book/static/js/main.438dc09d.js",
     "static/js/787.f5db74c1.chunk.js": "/safe-and-fair-story-book/static/js/787.f5db74c1.chunk.js",
     "static/media/main.webp": "/safe-and-fair-story-book/static/media/main.0f948002c914b9c2ad61.webp",
     "static/media/image-1.webp": "/safe-and-fair-story-book/static/media/image-1.035a4afd3c22934f7863.webp",
@@ -15,11 +15,11 @@
     "index.html": "/safe-and-fair-story-book/index.html",
     "static/media/getFetch.cjs": "/safe-and-fair-story-book/static/media/getFetch.40f37ddea2378391108f.cjs",
     "main.78b3d0e8.css.map": "/safe-and-fair-story-book/static/css/main.78b3d0e8.css.map",
-    "main.e384a70d.js.map": "/safe-and-fair-story-book/static/js/main.e384a70d.js.map",
+    "main.438dc09d.js.map": "/safe-and-fair-story-book/static/js/main.438dc09d.js.map",
     "787.f5db74c1.chunk.js.map": "/safe-and-fair-story-book/static/js/787.f5db74c1.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.78b3d0e8.css",
-    "static/js/main.e384a70d.js"
+    "static/js/main.438dc09d.js"
   ]
 }
