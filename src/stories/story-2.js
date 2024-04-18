@@ -65,7 +65,7 @@ export const story2 = {
       image: require(`images/stories/${dir}/image-1.webp`),
       caption: {
         en: "Testimonial activities for Indonesian migrant workers with DP3AKB West Java Province, 2023.",
-        id: "Kegiatan testimoni penyintas PMI (Pekerja Migran Indonesia) bersama DP3AKB provinsi Jawa Barat di 2023.",
+        id: "Kegiatan testimoni penyintas PMI (Pekerja Migran Indonesia) bersama DP3AKB provinsi Jawa Barat di tahun 2023.",
       },
       credit: {
         en: "Photo: Yuliani",
