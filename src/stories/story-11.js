@@ -71,7 +71,7 @@ export const story11 = {
       image: require(`images/stories/${dir}/image-1.webp`),
       caption: {
         en: "I attended a meeting of the Lampung Province human trafficking task force with the support of the SAF programme, to collect data for my thesis and to share about the problems and challenges faced by NGOs in assisting human trafficking cases.",
-        id: "Mengikuti pertemuan anggota satgas TPPO provinsi lampung dengan dukungan program SAF, proses pertemuan ini bagian dari pengumpulan data untuk skripsi ku, sekaligus ruang aku untuk sharing tentang persoalan dan tantangan yang dihadapi dalam pendampingan kasus TPPO bagi NGO.",
+        id: "Mengikuti pertemuan anggota satgas TPPO (Tindak Pidana Perdagangan Orang) provinsi Lampung dengan dukungan program SAF, proses pertemuan ini bagian dari pengumpulan data untuk skripsi ku, sekaligus ruang aku untuk sharing tentang persoalan dan tantangan yang dihadapi dalam pendampingan kasus TPPO bagi NGO.",
       },
       credit: {
         en: "Photo: Elisabeth Rona",
@@ -92,8 +92,8 @@ export const story11 = {
     {
       image: require(`images/stories/${dir}/image-3.webp`),
       caption: {
-        en: "I represented a community called Mulead Lappung, presenting on the roles young women's communities can play in cross-sector dialogue activities to realize gender mainstreaming in Lampung Province, at the PPPA Lampung Province office.",
-        id: "Aku mewakili komunitas bernama 'Mulead Lappung' mempresentasikan peran apa saja yang dapat dilakukan oleh komunitas perempuan muda, dalam kegiatan dialog lintas sektor untuk mewujudkan pengarusutamaan gender di provinsi lampung, bertempat di kantor dinas PPPA Provinsi Lampung.",
+        en: "I represented a community called Mulead Lampung, presenting on the roles young women's communities can play in cross-sector dialogue activities to realize gender mainstreaming in Lampung Province, at the PPPA Lampung Province office.",
+        id: "Aku mewakili komunitas bernama 'Mulead Lampung' mempresentasikan peran apa saja yang dapat dilakukan oleh komunitas perempuan muda, dalam kegiatan dialog lintas sektor untuk mewujudkan pengarusutamaan gender di Provinsi Lampung, bertempat di kantor dinas PPPA Provinsi Lampung.",
       },
       credit: {
         en: "Photo: Elisabeth Rona",
