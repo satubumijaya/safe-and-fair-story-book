@@ -78,7 +78,7 @@ export const story15 = {
       image: require(`images/stories/${dir}/image-3.webp`),
       caption: {
         en: "Press conference on the arrest of perpetrators of human trafficking by the Lampung Regional Police, the Damar Association and the Lampung PPA UPTD.",
-        id: "Konferensi Pers Penangkapan Pelaku TPPO (Tindak Pidana Perdagangan Orang) oleh Polda Lampung, Perkumpulan Damar, dan UPTD PPA Lampung.",
+        id: "Konferensi Pers Penangkapan Pelaku TPPO oleh Polda Lampung, Perkumpulan Damar, dan UPTD PPA Lampung.",
       },
       credit: {
         en: "Photo: Anisa",
@@ -89,7 +89,7 @@ export const story15 = {
       image: require(`images/stories/${dir}/image-4.webp`),
       caption: {
         en: "Lampung Province human trafficking task force discussion on the Parenting Program for children of Indonesian migrant workers who have been abandoned by their parents.",
-        id: "Diskusi Satgas TPPO (Tindak Pidana Perdagangan Orang) Provinsi Lampung mengenai Program Pola Pengasuhan bagi Anak PMI (Pekerja Migran Indonesia) yang ditinggalkan oleh Orang Tuanya Bekerja.",
+        id: "Diskusi Satgas TPPO Provinsi Lampung mengenai Program Pola Pengasuhan bagi Anak PMI (Pekerja Migran Indonesia) yang ditinggalkan oleh Orang Tuanya Bekerja.",
       },
       credit: {
         en: "Photo: Anisa",
