@@ -7,7 +7,7 @@ import Slider from "react-slick";
 import SafTitle from "components/SafTitle";
 
 export default function Hero() {
-  const { t, i18n } = useTranslation();
+  const { i18n } = useTranslation();
 
   const { stories, setWindowSize } = useContext(AppContext);
   let sliderRef = useRef(null);

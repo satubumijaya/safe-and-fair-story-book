@@ -6,7 +6,7 @@ import Modal from "react-overlays/Modal";
 import parse from "html-react-parser";
 
 export default function LightboxModal() {
-  const { t, i18n, ready } = useTranslation();
+  const { i18n } = useTranslation();
   const lang = i18n.language;
 
   const { currentStory, lightbox, setLightBox, windowSize } = useContext(AppContext);
