@@ -53,8 +53,7 @@ export const story8 = {
           Sengat teriknya matahari pada hari itu adalah kali pertama pertemuan kami dimulai. Kekhawatiran banyak orang dalam situasi COVID-19 membuat sedikit aktivitas yang berjalan. Program <em>Safe and Fair</em> adalah jembatan bagi saya dan teman-teman di Desa Kedongdong untuk bisa bertemu dan juga berbagi. Sebut saja Faoziah namanya, perkenalan awal saya dengannya sangat singkat. Sama-sama tidak kenal dan saya sedikit memberikan gambaran tujuan saya untuk bisa berbagi informasi terkait migrasi aman di Desa Kedongdong ini. Dengan semangat dan sedikit ragu dengan dirinya sendiri, dia menjawab <em>&ldquo;baiklah saya akan membantu dan mencoba untuk ikut dalam kegiatan ini&rdquo;</em>. Berbinar saya mendengar jawabannya dan terucap rasa syukur dalam hati.
         </p>
         <p>
-          Seiring berjalannya waktu, saya terus berkomunikasi intens melalui
-          <em>Whatsapp</em> dengan Ibu Faoziah karena memang jarak rumah kami lumayan berjauhan dan hanya beberapa kali saja kami bertemu dalam satu bulan. Kami membuat rencana kegiatan bersama, membuat daftar warga desa perempuan yang akan dilibatkan dalam kegiatan dan juga sedikit membuat pemetaan untuk sosialisasi. Walaupun saat itu kami berkomunikasi hanya melalui handphone, tapi kami merasa <em>&ldquo;nyambung&rdquo;</em>.
+          Seiring berjalannya waktu, saya terus berkomunikasi intens melalui <em>Whatsapp</em> dengan Ibu Faoziah karena memang jarak rumah kami lumayan berjauhan dan hanya beberapa kali saja kami bertemu dalam satu bulan. Kami membuat rencana kegiatan bersama, membuat daftar warga desa perempuan yang akan dilibatkan dalam kegiatan dan juga sedikit membuat pemetaan untuk sosialisasi. Walaupun saat itu kami berkomunikasi hanya melalui handphone, tapi kami merasa <em>&ldquo;nyambung&rdquo;</em>.
         </p>
         <p>
           <em>&ldquo;Mbak, saya kumpulin orang-orang sekitar saya saja dulu ya mbak untuk pertemuan awal kita,&rdquo;</em> kata Ibu Faoziah.
@@ -77,7 +76,7 @@ export const story8 = {
         </p>
         <p>Itu adalah keberadaan Ibu Faoziah di desanya.</p>
         <p>
-          <em>Dian Roudlotul Jannah adalah Pendamping Komunitas Desa dan Pesantren di WCC Mawar Balqis Cirebon.</em>
+          <em>Roudlotul Jannah adalah Pendamping Komunitas Desa dan Pesantren di WCC Mawar Balqis Cirebon.</em>
         </p>
       </div>
     ),
