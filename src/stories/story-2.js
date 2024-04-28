@@ -12,7 +12,7 @@ export const story2 = {
   },
   name: "Yuliani",
   title: {
-    en: "My Journey Down a Road Full of Thorns as a Female Migrant Worker",
+    en: "My Journey Down a Road Full of Thorns as a Women Migrant Worker",
     id: "Perjalananku Menyusuri Jalan Penuh Duri Sebagai Perempuan Pekerja Migran",
   },
   content: {

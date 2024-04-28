@@ -29,7 +29,7 @@ export const story9 = {
         <p>
           <blockquote>Family support has enabled me to manage my time and prioritize my activities, strengthening my determination to continue dedicating my life to contribute to society.</blockquote>
         </p>
-        <p>It felt like a dream when I received an award as a female Development Initiator from the Governor of East Java, Ms. Khofifah. Indeed, all the choices we make will definitely carry risks, whether positive or negative. But if we all, do it with good intentions and methods, I&rsquo;m sure the results will be good.&nbsp;</p>
+        <p>It felt like a dream when I received an award as a Women Development Initiator from the Governor of East Java, Ms. Khofifah. Indeed, all the choices we make will definitely carry risks, whether positive or negative. But if we all, do it with good intentions and methods, I&rsquo;m sure the results will be good.&nbsp;</p>
         <p>
           <em>Fifi Ekawati Rohmah, who works daily as a teacher, is Regional Secretary of the Indonesian Women&rsquo;s Coalition.</em>
         </p>
@@ -60,7 +60,7 @@ export const story9 = {
     {
       image: require(`images/stories/${dir}/image-1.webp`),
       caption: {
-        en: "As part of the women's business empowerment program, accompanying the village of Tugusourcejo Jombang during the village meeting activities of the Jatim Puspa program.",
+        en: "As part of the women's business empowerment program, accompanying the village of Tugusumberjo Jombang during the village meeting activities of the Jatim Puspa program.",
         id: "Program pemberdayaan usaha perempuan. Foto saat mendampingi Desa Tugusumberjo Jombang dalam kegiatan musyawarah desa program Jatim Puspa.",
       },
       credit: {

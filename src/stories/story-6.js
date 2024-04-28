@@ -27,7 +27,7 @@ export const story6 = {
           <blockquote>The longer I grow alongside this group of young people, the more I realize that we are bringing real change.</blockquote>
         </p>
         <p>There is no need to measure too widely and look at the number of people who have benefited. We are the people in it who have succeeded in becoming better by growing together.</p>
-        <p>My journey to find friends working in who have the same goal, which is to stop sexual violence, attracted the attention of the media. The media cover my story and the role of youth community into a documentary titled &ldquo;Healing is a Right,&rdquo; which was broadcast on the Voice of America Indonesia channel. From here, we realized and reflected again that we would not have existed and had the impact we have today if it were not for our &ldquo;mother&rdquo;, Embun Pelangi Foundation, which always strengthens our understanding of the Safe and Fair program so that we can continue to be empowered and have a strong voice.</p>
+        <p>My journey to find friends working in who have the same goal, which is to stop sexual violence, attracted the attention of the media. The media cover my story and the role of youth community into a documentary titled &ldquo;Healing is a Right,&rdquo; which was broadcast on the Voice of America Indonesia channel. From here, we realized and reflected again that we would not have existed and had the impact we have today if it were not for our &ldquo;mother&rdquo;, Embun Pelangi Foundation, which always strengthens our understanding of the Safe and Fair programme so that we can continue to be empowered and have a strong voice.</p>
         <p>
           <em>Ria Febriyanti is an Assistant Staff for the Women and Children programme at Embun Pelangi Batam Foundation, Riau Islands, and a coach for the Youth Community Against Human Trafficking and Sexual Exploitation of Children (KOMPAK).</em>
         </p>
@@ -78,7 +78,7 @@ export const story6 = {
       image: require(`images/stories/${dir}/image-2.webp`),
       caption: {
         en: "I was the focus of the documentary film Healing is a Right by VOA Indonesia.",
-        id: "Menjadi Tokoh Utama dalam film Dokumenter “Healing is A Right” oleh VOA indonesia.",
+        id: "Menjadi Tokoh Utama dalam film Dokumenter “Healing is A Right” oleh VOA Indonesia.",
       },
       credit: {
         en: "Photo: Ria Febriyanti",

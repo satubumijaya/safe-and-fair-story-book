@@ -30,6 +30,9 @@ export const story15 = {
           <blockquote>The decision to study in the Netherlands is a dream and a hope that the knowledge I gain can one day form a path for change and goodness for the children of migrant workers for whom I always pray.</blockquote>
         </p>
         <p>From all the programme trips, I have learned a lot from the victims. To them, I wish to say: &ldquo;Thank you for teaching me the meaning of life, that dreams really need to be fought for, and that it must be done safely.&rdquo;</p>
+        <p>
+          <em>Anisa is a Case and Database Handling staff at Damar Lampung.</em>
+        </p>
       </div>
     ),
     id: (

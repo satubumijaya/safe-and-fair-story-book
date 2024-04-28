@@ -32,6 +32,9 @@ export const story14 = {
         <p>It is also an opportunity for networking and information sharing among former migrant workers, so the next generation does not repeat the same experiences. Sofyan awoke from his reverie when Indah returned to the living room carrying a cup of hot coffee, which warmed the atmosphere.</p>
         <p>Sofyan then told Indah that he and his team would hold a Safe Migration information session for prospective Indonesian migrant workers at the Pekon Ambarawa community hall and would invite stakeholders including Pekon officials, sub-district heads and the Pringsewu Regency Manpower Office. He would ask them to work together to provide information on procedures for working abroad safely, to facilitate administrative matters openly, and protect migrant workers abroad by continuing to monitor them via telephone.</p>
         <p>Indah welcomed the plan. She promised to attend and invite her other former migrant worker friends so that they can also share their experiences with migrant worker candidates from Pekon Ambarawa and the surrounding areas.</p>
+        <p>
+          <em>Ahmad Haryono is a member of the Management Board of the Damar Association and Knowledge Management Support.</em>
+        </p>
       </div>
     ),
     id: (
