@@ -84,6 +84,6 @@ module.exports = {
         ],
       }),
     ],
-  },,
+  },
   plugins: [new CopyPlugin({ patterns: ["images/**/*.png"] })],
 };
