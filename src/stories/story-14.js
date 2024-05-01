@@ -13,7 +13,7 @@ export const story14 = {
   name: "Ahmad Haryono",
   title: {
     en: "Breaking the Silence of Former Indonesian Migrant Workers in Pekon Ambarawa",
-    id: "Membedah Budaya Bisu PMI Purna di Pekon Ambarawa",
+    id: "Membedah Budaya Diam Purna Pekerja Migran Indonesia di Pekon Ambarawa",
   },
   content: {
     en: (
