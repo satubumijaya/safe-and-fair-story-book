@@ -74,7 +74,7 @@ export default function LightboxModal() {
                 onClick={() => {
                   closeModal();
                 }}
-                className="absolute right-3 top-3 z-50 bg-black bg-opacity-60 p-2 transition-colors hover:bg-opacity-100"
+                className="absolute left-3 right-auto top-3 z-50 bg-black bg-opacity-60 p-2 transition-colors hover:bg-opacity-100 lg:left-auto lg:right-3"
               >
                 <svg viewBox="0 0 22.43 22.43" xmlns="http://www.w3.org/2000/svg" className="h-5 w-5">
                   <g fill="#fff" stroke="#fff" strokeMiterlimit="10" strokeWidth="2">

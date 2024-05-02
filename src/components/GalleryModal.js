@@ -86,7 +86,7 @@ export default function GalleryModal() {
                   onClick={() => {
                     closeModal();
                   }}
-                  className="-top-12 right-0 top-0 ml-auto bg-main p-2 transition-colors hover:bg-main-dark"
+                  className="right-0 top-0 bg-main p-2 transition-colors hover:bg-main-dark lg:ml-auto"
                 >
                   <svg viewBox="0 0 22.43 22.43" xmlns="http://www.w3.org/2000/svg" className="h-5 w-5">
                     <g fill="#fff" stroke="#fff" strokeMiterlimit="10" strokeWidth="2">
@@ -96,7 +96,7 @@ export default function GalleryModal() {
                   </svg>
                 </button>
               </div>
-              <div className="relative top-0 z-50 mx-auto  mt-3 max-w-screen-lg bg-white">
+              <div className="relative top-0 z-50 mx-auto  mt-2 max-w-screen-lg bg-white">
                 {/* content */}
                 {/* <div className=""> */}
                 <div className=" relative z-10 mx-auto h-full min-h-screen w-full">
